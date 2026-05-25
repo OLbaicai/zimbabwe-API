@@ -1,0 +1,7 @@
+{
+  "id_number": "63399065B77",
+  "surname": "GONAMOMBE",
+  "first_name": "ENOCK FELIX",
+  "birth_date": "12.06.48",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "45032643Z45",
+  "surname": "MPHEPO",
+  "first_name": "IREEN",
+  "birth_date": "10.03.1955",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "75055271Q50",
+  "surname": "CHIKWANDA",
+  "first_name": "ESNATH",
+  "birth_date": "25.12.55",
+  "gender": "female"
+}

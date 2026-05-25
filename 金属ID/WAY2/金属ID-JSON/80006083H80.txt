@@ -1,0 +1,7 @@
+{
+  "id_number": "80006083H80",
+  "surname": "CHAWAPIWA",
+  "first_name": "MARYNA",
+  "birth_date": "8.4.58",
+  "gender": "female"
+}

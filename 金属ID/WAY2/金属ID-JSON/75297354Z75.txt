@@ -1,0 +1,7 @@
+{
+  "id_number": "75297354Z75",
+  "surname": "ZENGENI",
+  "first_name": "BEAVEN",
+  "birth_date": "25.05.69",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "44043820R44",
+  "surname": "MAWONEK",
+  "first_name": "DAVID",
+  "birth_date": "26.12.66",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "49022340B49",
+  "surname": "NYARGNI",
+  "first_name": "AGRIPA",
+  "birth_date": "03.09.71",
+  "gender": "male"
+}

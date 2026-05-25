@@ -1,0 +1,6 @@
+{
+  "id_number": "01/23142596V23",
+  "surname": "MAJOKA",
+  "first_name": "TATENDA",
+  "birth_date": "22/01/1995"
+}

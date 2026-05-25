@@ -1,0 +1,6 @@
+{
+  "id_number": "01/18069354B18",
+  "surname": "RINIFATI",
+  "first_name": "BENJAMIN",
+  "birth_date": "15/04/1973"
+}

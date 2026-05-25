@@ -1,0 +1,7 @@
+{
+  "id_number": "29137076J58",
+  "surname": "NCUBE",
+  "first_name": "DINGILWAZI",
+  "birth_date": "02.08.69",
+  "gender": "male"
+}

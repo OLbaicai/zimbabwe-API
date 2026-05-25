@@ -1,0 +1,7 @@
+{
+  "id_number": "22167463S22",
+  "surname": "GUHU",
+  "first_name": "GODWIN TICHATONGA",
+  "birth_date": "02.07.1974",
+  "gender": "male"
+}

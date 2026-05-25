@@ -1,0 +1,7 @@
+{
+  "id_number": "83111758R83",
+  "surname": "CHIPANGA",
+  "first_name": "MARIA",
+  "birth_date": "13.01.1977",
+  "gender": "female"
+}

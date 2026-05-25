@@ -1,0 +1,7 @@
+{
+  "id_number": "50096078H50",
+  "surname": "SARUWAKA",
+  "first_name": "TOFESU EDSON",
+  "birth_date": "16.08.1982",
+  "gender": "male"
+}

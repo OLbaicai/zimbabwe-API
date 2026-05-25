@@ -1,0 +1,7 @@
+{
+  "id_number": "75003849X44",
+  "surname": "HUNAKANDAFA",
+  "first_name": "ZONEBB TICHAENZANA",
+  "birth_date": "8.8.58",
+  "gender": "male"
+}

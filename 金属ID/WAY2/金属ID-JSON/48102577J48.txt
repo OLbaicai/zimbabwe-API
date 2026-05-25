@@ -1,0 +1,7 @@
+{
+  "id_number": "48102577J48",
+  "surname": "NYERENYERE",
+  "first_name": "WISEMAN",
+  "birth_date": "31.05.1984",
+  "gender": "male"
+}

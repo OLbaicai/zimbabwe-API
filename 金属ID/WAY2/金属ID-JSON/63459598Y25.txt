@@ -1,0 +1,7 @@
+{
+  "id_number": "63459598Y25",
+  "surname": "KUUMBUKA",
+  "first_name": "SUSAN MARY",
+  "birth_date": "1.8.53",
+  "gender": "female"
+}

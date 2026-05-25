@@ -1,0 +1,7 @@
+{
+  "id_number": "63565641M04",
+  "surname": "MUTAPURE",
+  "first_name": "PATRICIA",
+  "birth_date": "11.11.50",
+  "gender": "female"
+}

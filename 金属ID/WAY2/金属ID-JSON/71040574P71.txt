@@ -1,0 +1,7 @@
+{
+  "id_number": "71040574P71",
+  "surname": "NYAMADZAWO",
+  "first_name": "ANNA",
+  "birth_date": "10.6.48",
+  "gender": "female"
+}

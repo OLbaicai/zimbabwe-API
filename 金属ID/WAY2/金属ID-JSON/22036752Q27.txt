@@ -1,0 +1,7 @@
+{
+  "id_number": "22036752Q27",
+  "surname": "MUKARATI",
+  "first_name": "OZIE",
+  "birth_date": "14.6.45",
+  "gender": "female"
+}

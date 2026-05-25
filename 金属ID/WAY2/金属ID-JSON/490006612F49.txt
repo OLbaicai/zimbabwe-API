@@ -1,0 +1,7 @@
+{
+  "id_number": "49006612F49",
+  "surname": "KANYONGATISE",
+  "first_name": "TRACY",
+  "birth_date": "20.06.60",
+  "gender": "female"
+}

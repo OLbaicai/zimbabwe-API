@@ -1,0 +1,7 @@
+{
+  "id_number": "63268892J49",
+  "surname": "JAKARASI",
+  "first_name": "RAPHAEL",
+  "birth_date": "2.2.56",
+  "gender": "male"
+}

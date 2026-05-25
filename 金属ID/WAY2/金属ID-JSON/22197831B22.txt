@@ -1,0 +1,7 @@
+{
+  "id_number": "22197831B22",
+  "surname": "MAKUCHETE",
+  "first_name": "TARUVINGA",
+  "birth_date": "07.08.1981",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "53027648X53",
+  "surname": "MOYO",
+  "first_name": "COLLEN",
+  "birth_date": "30.12.72",
+  "gender": "male"
+}

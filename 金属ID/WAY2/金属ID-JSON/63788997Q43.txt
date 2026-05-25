@@ -1,0 +1,7 @@
+{
+  "id_number": "63788997Q43",
+  "surname": "MASAWI",
+  "first_name": "DAISY DOROTHY",
+  "birth_date": "01.12.69",
+  "gender": "female"
+}

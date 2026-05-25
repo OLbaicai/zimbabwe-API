@@ -1,0 +1,7 @@
+{
+  "id_number": "71014209G71",
+  "surname": "CHANGACHIRERE",
+  "first_name": "NFCKIAS",
+  "birth_date": "16.02.68",
+  "gender": "male"
+}

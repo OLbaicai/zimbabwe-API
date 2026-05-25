@@ -1,0 +1,7 @@
+{
+  "id_number": "32085665X32",
+  "surname": "WILSON",
+  "first_name": "ALFRED",
+  "birth_date": "15.07.68",
+  "gender": "male"
+}

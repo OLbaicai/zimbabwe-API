@@ -1,0 +1,7 @@
+{
+  "id_number": "34029124C34",
+  "surname": "SAGWIDZA",
+  "first_name": "MARIA",
+  "birth_date": "6.11.65",
+  "gender": "female"
+}

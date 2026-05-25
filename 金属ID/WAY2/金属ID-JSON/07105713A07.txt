@@ -1,0 +1,7 @@
+{
+  "id_number": "07105713A07",
+  "surname": "MUCHINI",
+  "first_name": "ANNAH",
+  "birth_date": "15.06.1978",
+  "gender": "female"
+}

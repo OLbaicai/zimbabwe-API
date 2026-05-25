@@ -1,0 +1,7 @@
+{
+  "id_number": "75112285M04",
+  "surname": "MAHACHI",
+  "first_name": "ROBERT",
+  "birth_date": "19.10.1962",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "08568335G41",
+  "surname": "DLODLO",
+  "first_name": "MIQA",
+  "birth_date": "03.01.71",
+  "gender": "female"
+}

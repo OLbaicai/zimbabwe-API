@@ -1,0 +1,7 @@
+{
+  "id_number": "63645883G75",
+  "surname": "CHISAMBA",
+  "first_name": "REBECCAH",
+  "birth_date": "20.08.52",
+  "gender": "female"
+}

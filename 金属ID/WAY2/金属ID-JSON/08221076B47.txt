@@ -1,0 +1,7 @@
+{
+  "id_number": "08221076B47",
+  "surname": "CHIRAU",
+  "first_name": "PETER",
+  "birth_date": "19.4.51",
+  "gender": "male"
+}

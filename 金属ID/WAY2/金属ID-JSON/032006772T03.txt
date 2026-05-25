@@ -1,0 +1,7 @@
+{
+  "id_number": "67121086B67",
+  "surname": "MUNYUKI",
+  "first_name": "MEMORY",
+  "birth_date": "22.01.1983",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "59053441X42",
+  "surname": "MUKOHWA",
+  "first_name": "NORIET",
+  "birth_date": "3.01.1966",
+  "gender": "female"
+}

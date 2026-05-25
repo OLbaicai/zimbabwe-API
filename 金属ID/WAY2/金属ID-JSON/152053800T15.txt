@@ -1,0 +1,7 @@
+{
+  "id_number": "21029413G21",
+  "surname": "MOYO",
+  "first_name": "VUSUMUZI",
+  "birth_date": "20.09.74",
+  "gender": "male"
+}

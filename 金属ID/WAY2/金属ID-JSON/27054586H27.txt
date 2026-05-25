@@ -1,0 +1,7 @@
+{
+  "id_number": "27054586H27",
+  "surname": "MANDEBVU",
+  "first_name": "CHENJERAI",
+  "birth_date": "04.05.1962",
+  "gender": "male"
+}

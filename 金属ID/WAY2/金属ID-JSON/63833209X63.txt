@@ -1,0 +1,7 @@
+{
+  "id_number": "63833209X63",
+  "surname": "KAROSI",
+  "first_name": "MAVIS TAURAI",
+  "birth_date": "19.02.70",
+  "gender": "female"
+}

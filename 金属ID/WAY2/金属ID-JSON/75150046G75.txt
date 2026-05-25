@@ -1,0 +1,7 @@
+{
+  "id_number": "75150046G75",
+  "surname": "MAKAMBWA",
+  "first_name": "MAKUMBE",
+  "birth_date": "01.07.64",
+  "gender": "male"
+}

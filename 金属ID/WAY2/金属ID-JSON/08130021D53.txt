@@ -1,0 +1,7 @@
+{
+  "id_number": "08130021D53",
+  "surname": "MBAMBO",
+  "first_name": "SITHEMBISO",
+  "birth_date": "28.08.62",
+  "gender": "female"
+}

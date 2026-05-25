@@ -1,0 +1,7 @@
+{
+  "id_number": "70114130K70",
+  "surname": "MUSORO",
+  "first_name": "PORTIA",
+  "birth_date": "07.05.1975",
+  "gender": "female"
+}

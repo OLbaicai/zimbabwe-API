@@ -1,0 +1,7 @@
+{
+  "id_number": "63840039W04",
+  "surname": "MUKANDI",
+  "first_name": "EPHRAIN",
+  "birth_date": "07.08.73",
+  "gender": "male"
+}

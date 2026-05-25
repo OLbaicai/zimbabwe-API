@@ -1,0 +1,7 @@
+{
+  "id_number": "47002869Z47",
+  "surname": "MADZIVANZIRA",
+  "first_name": "SERENIA",
+  "birth_date": "10.10.59",
+  "gender": "female"
+}

@@ -1,0 +1,6 @@
+{
+  "id_number": "01/18140229P18",
+  "surname": "MABIKA",
+  "first_name": "HUDSON TUNGAMIRAI",
+  "birth_date": "29/09/1997"
+}

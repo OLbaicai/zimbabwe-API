@@ -1,0 +1,7 @@
+{
+  "id_number": "14016507H04",
+  "surname": "MANYURURE",
+  "first_name": "MARKO",
+  "birth_date": "17.03.64",
+  "gender": "male"
+}

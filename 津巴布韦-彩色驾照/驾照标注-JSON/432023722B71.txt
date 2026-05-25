@@ -1,0 +1,6 @@
+{
+  "id_number": "01/432023722B71",
+  "surname": "KATSIRU",
+  "first_name": "ANESU WALTER",
+  "birth_date": "06/06/1994"
+}

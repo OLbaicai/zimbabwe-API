@@ -1,0 +1,6 @@
+{
+  "id_number": "01/08686960X21",
+  "surname": "SIZIBA",
+  "first_name": "LETHIWE",
+  "birth_date": "10/11/1978"
+}

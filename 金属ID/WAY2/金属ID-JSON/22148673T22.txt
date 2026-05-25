@@ -1,0 +1,7 @@
+{
+  "id_number": "22148673T22",
+  "surname": "MARONGE",
+  "first_name": "TENDAI",
+  "birth_date": "03.09.75",
+  "gender": "female"
+}

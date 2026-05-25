@@ -1,0 +1,6 @@
+{
+  "id_number": "01/71143855B71",
+  "surname": "CHONDE",
+  "first_name": "SIMBARASHE",
+  "birth_date": "18/05/1992"
+}

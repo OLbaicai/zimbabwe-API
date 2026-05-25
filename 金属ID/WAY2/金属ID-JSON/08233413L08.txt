@@ -1,0 +1,7 @@
+{
+  "id_number": "08233413L08",
+  "surname": "MLAUZI",
+  "first_name": "MABEL",
+  "birth_date": "12.8.60",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "26083950T26",
+  "surname": "GOREMUSANDU",
+  "first_name": "TAMCNGWA",
+  "birth_date": "12.10.74",
+  "gender": "male"
+}

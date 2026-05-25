@@ -1,0 +1,7 @@
+{
+  "id_number": "13138572F12",
+  "surname": "DUBE",
+  "first_name": "CATHRINE",
+  "birth_date": "16.08.1979",
+  "gender": "female"
+}

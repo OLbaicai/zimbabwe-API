@@ -1,0 +1,7 @@
+{
+  "id_number": "79021523J79",
+  "surname": "SIBANDA",
+  "first_name": "KELIAS MAGONDO",
+  "birth_date": "3.4.47",
+  "gender": "male"
+}

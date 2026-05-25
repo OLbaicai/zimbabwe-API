@@ -1,0 +1,7 @@
+{
+  "id_number": "63885843H25",
+  "surname": "CHIKORE",
+  "first_name": "ERIC",
+  "birth_date": "28.10.71",
+  "gender": "male"
+}

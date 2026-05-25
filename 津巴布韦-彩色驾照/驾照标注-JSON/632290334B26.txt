@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632290334B26",
+  "surname": "TSIVIKAYI",
+  "first_name": "RODRICK CHENGETAI",
+  "birth_date": "18/11/1995"
+}

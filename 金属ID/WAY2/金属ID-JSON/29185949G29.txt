@@ -1,0 +1,7 @@
+{
+  "id_number": "29185949G29",
+  "surname": "MUHLAKAIA",
+  "first_name": "VUSA",
+  "birth_date": "23.03.76",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "63448434N63",
+  "surname": "LIWONDE",
+  "first_name": "GODFREY",
+  "birth_date": "19.07.64",
+  "gender": "male"
+}

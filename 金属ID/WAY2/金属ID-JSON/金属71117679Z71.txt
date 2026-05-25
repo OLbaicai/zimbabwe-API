@@ -1,0 +1,7 @@
+{
+  "id_number": "24122615H24",
+  "surname": "CHACHA",
+  "first_name": "BLESSED",
+  "birth_date": "04.06.1978",
+  "gender": "female"
+}

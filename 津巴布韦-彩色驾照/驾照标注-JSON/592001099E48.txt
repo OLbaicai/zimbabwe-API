@@ -1,0 +1,6 @@
+{
+  "id_number": "01/592001099E48",
+  "surname": "KADZINGA",
+  "first_name": "MAJOR",
+  "birth_date": "15/03/1983"
+}

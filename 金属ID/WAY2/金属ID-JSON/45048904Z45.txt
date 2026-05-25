@@ -1,0 +1,7 @@
+{
+  "id_number": "45048904Z45",
+  "surname": "KAMLSASA",
+  "first_name": "KARVER",
+  "birth_date": "16.04.69",
+  "gender": "male"
+}

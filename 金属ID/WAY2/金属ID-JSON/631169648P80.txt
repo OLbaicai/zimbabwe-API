@@ -1,0 +1,7 @@
+{
+  "id_number": "631169648P80",
+  "surname": "CHOTO",
+  "first_name": "EDWARD",
+  "birth_date": "15.02.1984",
+  "gender": "male"
+}

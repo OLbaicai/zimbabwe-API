@@ -1,0 +1,7 @@
+{
+  "id_number": "47077628J47",
+  "surname": "NHDKWARA",
+  "first_name": "ALBERT",
+  "birth_date": "12.10.68",
+  "gender": "male"
+}

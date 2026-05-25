@@ -1,0 +1,7 @@
+{
+  "id_number": "63166016M71",
+  "surname": "KAMTONDO",
+  "first_name": "CHRISTOPHER ISAAC",
+  "birth_date": "8.8.48",
+  "gender": "male"
+}

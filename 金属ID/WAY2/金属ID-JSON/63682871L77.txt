@@ -1,0 +1,7 @@
+{
+  "id_number": "63682871L77",
+  "surname": "TSOKA",
+  "first_name": "TENDAI",
+  "birth_date": "08.02.67",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "83048989P83",
+  "surname": "BURUNGUDZI",
+  "first_name": "LIVISON",
+  "birth_date": "20.05.68",
+  "gender": "male"
+}

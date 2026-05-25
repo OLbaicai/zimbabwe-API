@@ -1,0 +1,7 @@
+{
+  "id_number": "47076011B47",
+  "surname": "DENDA",
+  "first_name": "MOSES",
+  "birth_date": "25.12.67",
+  "gender": "male"
+}

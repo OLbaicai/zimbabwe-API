@@ -1,0 +1,7 @@
+{
+  "id_number": "38019800T58",
+  "surname": "CHIPUTIRE",
+  "first_name": "LAMECK WONDER",
+  "birth_date": "15.04.58",
+  "gender": "male"
+}

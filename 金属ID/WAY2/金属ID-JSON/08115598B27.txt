@@ -1,0 +1,7 @@
+{
+  "id_number": "08115598B27",
+  "surname": "MUNYARADZI",
+  "first_name": "JOSEPHINE",
+  "birth_date": "14.7.48",
+  "gender": "female"
+}

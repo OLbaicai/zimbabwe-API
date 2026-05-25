@@ -1,0 +1,6 @@
+{
+  "id_number": "01/32098814P32",
+  "surname": "UTETE",
+  "first_name": "NYAKUDYA",
+  "birth_date": "15/10/1973"
+}

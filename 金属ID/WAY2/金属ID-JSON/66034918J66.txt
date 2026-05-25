@@ -1,0 +1,7 @@
+{
+  "id_number": "66034918J66",
+  "surname": "TETETE",
+  "first_name": "MURAMBIWA",
+  "birth_date": "03.03.73",
+  "gender": "male"
+}

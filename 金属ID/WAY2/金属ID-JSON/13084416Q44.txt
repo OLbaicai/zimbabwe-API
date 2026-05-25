@@ -1,0 +1,7 @@
+{
+  "id_number": "13084416Q44",
+  "surname": "DHLIWAYO",
+  "first_name": "CEPHAS",
+  "birth_date": "11.07.70",
+  "gender": "male"
+}

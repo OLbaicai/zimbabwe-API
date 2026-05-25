@@ -1,0 +1,7 @@
+{
+  "id_number": "48081476Y48",
+  "surname": "CHIMUTI",
+  "first_name": "JAMES",
+  "birth_date": "01.12.1978",
+  "gender": "male"
+}

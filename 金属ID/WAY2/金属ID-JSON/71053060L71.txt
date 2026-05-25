@@ -1,0 +1,7 @@
+{
+  "id_number": "71053060L71",
+  "surname": "CHIGAYO",
+  "first_name": "JAISON",
+  "birth_date": "03.05.76",
+  "gender": "male"
+}

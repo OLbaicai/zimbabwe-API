@@ -1,0 +1,7 @@
+{
+  "id_number": "59005563F59",
+  "surname": "MUSEKIWA",
+  "first_name": "CHIRATIDZO",
+  "birth_date": "28.09.74",
+  "gender": ""
+}

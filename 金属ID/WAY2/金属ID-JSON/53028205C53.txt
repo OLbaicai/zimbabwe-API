@@ -1,0 +1,7 @@
+{
+  "id_number": "53028205C53",
+  "surname": "NKALA",
+  "first_name": "SINIKIWE",
+  "birth_date": "20.01.68",
+  "gender": "female"
+}

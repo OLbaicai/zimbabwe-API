@@ -1,0 +1,7 @@
+{
+  "id_number": "02045077J02",
+  "surname": "NDCU",
+  "first_name": "SHONISANI",
+  "birth_date": "05.04.75",
+  "gender": "female"
+}

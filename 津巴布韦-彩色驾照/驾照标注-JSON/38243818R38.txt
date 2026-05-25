@@ -1,0 +1,6 @@
+{
+  "id_number": "01/38243818R38",
+  "surname": "ZVIKONYO",
+  "first_name": "SALOME",
+  "birth_date": "22/05/1992"
+}

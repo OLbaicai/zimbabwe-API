@@ -1,0 +1,7 @@
+{
+  "id_number": "26098831T26",
+  "surname": "SHIRICHENA",
+  "first_name": "ONWARD",
+  "birth_date": "22.07.76",
+  "gender": "male"
+}

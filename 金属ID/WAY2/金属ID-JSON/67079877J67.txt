@@ -1,0 +1,7 @@
+{
+  "id_number": "67079877J67",
+  "surname": "GANYANI",
+  "first_name": "DUDZAI",
+  "birth_date": "12.08.71",
+  "gender": "female"
+}

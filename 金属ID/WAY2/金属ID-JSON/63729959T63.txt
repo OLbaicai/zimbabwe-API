@@ -1,0 +1,7 @@
+{
+  "id_number": "63729959T63",
+  "surname": "MAWIRE",
+  "first_name": "HAZEL",
+  "birth_date": "06.09.67",
+  "gender": "female"
+}

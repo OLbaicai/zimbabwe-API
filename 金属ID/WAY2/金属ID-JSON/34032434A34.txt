@@ -1,0 +1,7 @@
+{
+  "id_number": "34032434A34",
+  "surname": "NDARANGWA",
+  "first_name": "SOLOMON",
+  "birth_date": "16.02.1957",
+  "gender": "male"
+}

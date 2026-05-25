@@ -1,0 +1,7 @@
+{
+  "id_number": "43061524D42",
+  "surname": "MUCHEKECHI",
+  "first_name": "TAURAI ANANIAS",
+  "birth_date": "04.01.1978",
+  "gender": "male"
+}

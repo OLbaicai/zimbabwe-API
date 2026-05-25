@@ -1,0 +1,7 @@
+{
+  "id_number": "27060028Y27",
+  "surname": "SURUNGWANI",
+  "first_name": "MUEARG",
+  "birth_date": "13.06.72",
+  "gender": "female"
+}

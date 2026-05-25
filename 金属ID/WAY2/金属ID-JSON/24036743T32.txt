@@ -1,0 +1,7 @@
+{
+  "id_number": "24036743T32",
+  "surname": "NYAMUROVA",
+  "first_name": "WINNET",
+  "birth_date": "19.04.1968",
+  "gender": "female"
+}

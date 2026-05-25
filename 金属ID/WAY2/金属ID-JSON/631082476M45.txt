@@ -1,0 +1,7 @@
+{
+  "id_number": "631082476M45",
+  "surname": "KAMBEU",
+  "first_name": "SANDRA",
+  "birth_date": "12.12.1979",
+  "gender": "female"
+}

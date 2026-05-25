@@ -1,0 +1,7 @@
+{
+  "id_number": "83097955N83",
+  "surname": "MADZVAMUSE",
+  "first_name": "JEPHIAS",
+  "birth_date": "24.10.1976",
+  "gender": "male"
+}

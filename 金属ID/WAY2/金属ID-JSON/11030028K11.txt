@@ -1,0 +1,7 @@
+{
+  "id_number": "11030028K11",
+  "surname": "SCOTT",
+  "first_name": "TEBETH PHIRI",
+  "birth_date": "04.02.52",
+  "gender": "female"
+}

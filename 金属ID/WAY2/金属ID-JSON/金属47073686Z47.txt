@@ -1,0 +1,7 @@
+{
+  "id_number": "47073686Z47",
+  "surname": "ZIMONOI",
+  "first_name": "JANET",
+  "birth_date": "25.02.65",
+  "gender": "female"
+}

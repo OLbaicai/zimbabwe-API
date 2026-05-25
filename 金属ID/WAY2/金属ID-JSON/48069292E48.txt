@@ -1,0 +1,7 @@
+{
+  "id_number": "48069292E48",
+  "surname": "CHIMWAMAFUKU",
+  "first_name": "NYARADZAI RUJEKO",
+  "birth_date": "12.08.75",
+  "gender": "female"
+}

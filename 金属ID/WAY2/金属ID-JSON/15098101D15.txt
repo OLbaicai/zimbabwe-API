@@ -1,0 +1,7 @@
+{
+  "id_number": "15098101D15",
+  "surname": "SHAPULANI",
+  "first_name": "MATANA",
+  "birth_date": "04.06.72",
+  "gender": "female"
+}

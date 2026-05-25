@@ -1,0 +1,7 @@
+{
+  "id_number": "06035118K06",
+  "surname": "MUGANDE",
+  "first_name": "SENELISO",
+  "birth_date": "24.05.1982",
+  "gender": "female"
+}

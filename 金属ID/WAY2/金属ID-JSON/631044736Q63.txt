@@ -1,0 +1,7 @@
+{
+  "id_number": "631044736Q63",
+  "surname": "SEMO",
+  "first_name": "TAURAI",
+  "birth_date": "12.12.1973",
+  "gender": "male"
+}

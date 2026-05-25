@@ -1,0 +1,7 @@
+{
+  "id_number": "67122080G67",
+  "surname": "MUGWAGWA",
+  "first_name": "ALFRED",
+  "birth_date": "23.02.1982",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "13167807H13",
+  "surname": "DZUNZI",
+  "first_name": "UPENYU",
+  "birth_date": "04.03.1982",
+  "gender": "male"
+}

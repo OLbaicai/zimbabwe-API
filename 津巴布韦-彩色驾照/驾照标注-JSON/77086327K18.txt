@@ -1,0 +1,6 @@
+{
+  "id_number": "01/77086327K18",
+  "surname": "MPEREKI",
+  "first_name": "BLESSED MUNASHE",
+  "birth_date": "20/10/1998"
+}

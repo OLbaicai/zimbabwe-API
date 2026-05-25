@@ -1,0 +1,7 @@
+{
+  "id_number": "26130041S26",
+  "surname": "MAGAVU",
+  "first_name": "MIRIRAI ABIGAIL",
+  "birth_date": "07.02.1980",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "63017399X48",
+  "surname": "CHIKUYA",
+  "first_name": "DAVID",
+  "birth_date": "12.8.54",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "08504455X56",
+  "surname": "NCUBE",
+  "first_name": "MAGGIE",
+  "birth_date": "14.07.44",
+  "gender": "female"
+}

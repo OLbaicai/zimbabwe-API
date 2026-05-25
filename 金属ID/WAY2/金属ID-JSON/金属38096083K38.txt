@@ -1,0 +1,7 @@
+{
+  "id_number": "38096083K38",
+  "surname": "KANDORORO",
+  "first_name": "TECLA",
+  "birth_date": "03.12.1975",
+  "gender": "female"
+}

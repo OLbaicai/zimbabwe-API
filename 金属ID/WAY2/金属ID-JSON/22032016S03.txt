@@ -1,0 +1,7 @@
+{
+  "id_number": "22032016S03",
+  "surname": "MAKOTOSE",
+  "first_name": "",
+  "birth_date": "2.1.59",
+  "gender": ""
+}

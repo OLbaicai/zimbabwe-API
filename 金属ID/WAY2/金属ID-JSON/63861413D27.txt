@@ -1,0 +1,7 @@
+{
+  "id_number": "63861413D27",
+  "surname": "MUTEMA",
+  "first_name": "SOLOMON",
+  "birth_date": "12.02.72",
+  "gender": "male"
+}

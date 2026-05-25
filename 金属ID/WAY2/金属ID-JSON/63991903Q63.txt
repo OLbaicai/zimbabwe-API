@@ -1,0 +1,7 @@
+{
+  "id_number": "63991903Q63",
+  "surname": "KHOFUMANI",
+  "first_name": "ELIZA",
+  "birth_date": "07.10.70",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "04080654S04",
+  "surname": "CHOWE",
+  "first_name": "LEVY",
+  "birth_date": "18.08.73",
+  "gender": "male"
+}

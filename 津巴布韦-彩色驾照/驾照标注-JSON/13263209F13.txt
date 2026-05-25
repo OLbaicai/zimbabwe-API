@@ -1,0 +1,6 @@
+{
+  "id_number": "01/70271404K61",
+  "surname": "MASANGUDZA",
+  "first_name": "CHAMUNORWA",
+  "birth_date": "26/05/1992"
+}

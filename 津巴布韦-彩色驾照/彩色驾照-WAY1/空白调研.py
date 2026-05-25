@@ -1,0 +1,323 @@
+import base64
+import io
+import json
+import re
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+
+import requests
+from PIL import Image, ImageOps
+
+# ═══════════════════════════════════════════════════════════
+# API 地址与鉴权
+API_BASE_URL = "http://10.10.185.18:30067/v1"
+MODEL_NAME   = "HunyuanOCR"
+API_KEY      = "sk-placeholder-key"
+
+# 待识别图片目录
+IMAGE_DIR  = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\津巴布韦-彩色驾照\彩色驾照图像")
+# 识别结果输出目录（不存在会自动创建）
+OUTPUT_DIR = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\津巴布韦-彩色驾照\txt\空白调研")
+
+# -------------------- 单张测试模式 --------------------
+# 若需单独测试某张图片，请将文件名（含扩展名）填入下方字符串，例如："04045144V04.jpg"
+# 若无需单张测试，请保持为空字符串：TEST_SINGLE_FILE = ""
+TEST_SINGLE_FILE = "WhatsApp Image 2026-04-10 at 11.01.12.jpeg"   # 填入要测试的图片文件名，留空则正常批量处理
+# -----------------------------------------------------
+
+# 最多处理张数（0 = 处理全部）
+MAX_COUNT   = 0
+# 单次请求超时（秒）
+TIMEOUT     = 120
+# 失败自动重试次数（0 = 不重试）
+MAX_RETRIES = 2
+# 每次重试前等待时间（秒）
+RETRY_DELAY = 3
+# 并发线程数
+WORKERS     = 15
+
+# OCR 提示词
+PROMPT = """Extract fields from this Zimbabwe driving licence image.
+Return ONLY a JSON object with these keys: id_number, surname, first_name, birth_date.
+
+Rules:
+- Copy exactly what you see, keep all spaces, slashes (/), hyphens (-), dots (.) as they appear.
+- id_number: next to "ID Number:" label.
+- surname: text after "Surname:".
+- first_name: text after "Name:".
+- birth_date: text after "Date of Birth", any format.
+- NEVER output an empty string if the text is visible. If only partly visible, output what you can see.
+- Do NOT output Chinese characters, "null", or extra text.
+
+"""
+
+# ═══════════════════ 后处理 ═══════════════════
+
+def _try_parse_json(text: str) -> dict | None:
+    s = text.strip()
+    if not s:
+        return None
+    try:
+        obj = json.loads(s)
+        return obj if isinstance(obj, dict) else None
+    except Exception:
+        pass
+    start = s.find("{")
+    end = s.rfind("}")
+    if start >= 0 and end > start:
+        try:
+            obj = json.loads(s[start:end+1])
+            return obj if isinstance(obj, dict) else None
+        except Exception:
+            pass
+    return None
+
+def _remove_diacritics(s: str) -> str:
+    replacements = {
+        'Á': 'A', 'À': 'A', 'Â': 'A', 'Ã': 'A', 'Ä': 'A',
+        'É': 'E', 'È': 'E', 'Ê': 'E', 'Ë': 'E',
+        'Í': 'I', 'Ì': 'I', 'Î': 'I', 'Ï': 'I',
+        'Ó': 'O', 'Ò': 'O', 'Ô': 'O', 'Õ': 'O', 'Ö': 'O',
+        'Ú': 'U', 'Ù': 'U', 'Û': 'U', 'Ü': 'U',
+        'Ý': 'Y', 'Ñ': 'N', 'Ç': 'C',
+    }
+    upper = s.upper()
+    for accented, plain in replacements.items():
+        upper = upper.replace(accented, plain)
+    cleaned = re.sub(r'[^A-Z ]', '', upper)
+    cleaned = re.sub(r'\s+', ' ', cleaned).strip()
+    return cleaned
+
+def _fix_id_if_no_letter(raw_id: str) -> str:
+    clean = re.sub(r'[^A-Z0-9]', '', raw_id.upper())
+    if re.search(r'[A-Z]', clean):
+        return raw_id
+
+    digit_map = {'0': 'D', '1': 'L', '2': 'Z', '5': 'S', '6': 'G', '7': 'T', '8': 'B'}
+
+    if len(clean) == 13:
+        idx = 10
+    elif len(clean) == 14:
+        idx = 11
+    else:
+        return raw_id
+
+    target_char = clean[idx]
+    if target_char in digit_map:
+        new_char = digit_map[target_char]
+        clean = clean[:idx] + new_char + clean[idx+1:]
+        return clean
+    return raw_id
+
+def postprocess_result(raw_text: str) -> str:
+    obj = _try_parse_json(raw_text)
+    if obj is None:
+        return raw_text
+
+    id_raw = obj.get("id_number", "")
+    if id_raw:
+        obj["id_number"] = _fix_id_if_no_letter(id_raw)
+
+    for field in ("surname", "first_name"):
+        val = obj.get(field, "")
+        if val:
+            obj[field] = _remove_diacritics(val)
+
+    for key in ("id_number", "surname", "first_name", "birth_date"):
+        if key not in obj or obj[key] is None:
+            obj[key] = ""
+
+    return json.dumps(obj, ensure_ascii=False)
+
+# ═══════════════════════════════════════════════════════════
+
+def _prepare_image(image_path: Path) -> tuple[bytes, str]:
+    suffix = image_path.suffix.lower()
+    img = Image.open(image_path)
+    img = ImageOps.exif_transpose(img)
+
+    fmt  = "JPEG" if suffix in {".jpg", ".jpeg"} else "PNG"
+    mime = "image/jpeg" if fmt == "JPEG" else "image/png"
+
+    if fmt == "JPEG" and img.mode != "RGB":
+        if img.mode in ("RGBA", "LA"):
+            bg = Image.new("RGB", img.size, (255, 255, 255))
+            bg.paste(img, mask=img.split()[-1])
+            img = bg
+        elif img.mode == "P":
+            rgba = img.convert("RGBA")
+            bg = Image.new("RGB", rgba.size, (255, 255, 255))
+            bg.paste(rgba, mask=rgba.split()[-1])
+            img = bg
+        else:
+            img = img.convert("RGB")
+
+    buf = io.BytesIO()
+    img.save(buf, format=fmt, quality=95)
+    return buf.getvalue(), mime
+
+def _call_api(image_path: Path) -> str:
+    img_bytes, mime = _prepare_image(image_path)
+    b64 = base64.b64encode(img_bytes).decode("utf-8")
+
+    payload = {
+        "model": MODEL_NAME,
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {"type": "image_url", "image_url": {"url": f"data:{mime};base64,{b64}"}},
+                    {"type": "text", "text": PROMPT},
+                ],
+            }
+        ],
+        "temperature": 0.0,
+        "max_tokens": 4096,
+    }
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {API_KEY}",
+    }
+
+    resp = requests.post(
+        f"{API_BASE_URL}/chat/completions",
+        headers=headers,
+        json=payload,
+        timeout=TIMEOUT,
+    )
+    resp.raise_for_status()
+
+    data = resp.json()
+    try:
+        return data["choices"][0]["message"]["content"].strip()
+    except (KeyError, IndexError) as e:
+        raise RuntimeError(f"API 返回格式异常: {e}，原始响应: {data}") from e
+
+def ocr_with_retry(image_path: Path) -> str:
+    last_exc = None
+    attempts = MAX_RETRIES + 1
+    for attempt in range(1, attempts + 1):
+        try:
+            return _call_api(image_path)
+        except Exception as exc:
+            last_exc = exc
+            if attempt < attempts:
+                time.sleep(RETRY_DELAY)
+    raise last_exc
+
+def _process_one(image_path: Path) -> tuple[str, bool, str]:
+    try:
+        raw_result = ocr_with_retry(image_path)
+        final_result = postprocess_result(raw_result)
+
+        # 单张测试模式下，输出详细信息
+        if TEST_SINGLE_FILE and image_path.name == TEST_SINGLE_FILE:
+            print("\n" + "="*60)
+            print("单张测试模式 - 详细输出")
+            print("="*60)
+            print(f"图片路径: {image_path}")
+            print(f"\n--- 模型原始返回 ---")
+            print(raw_result)
+            print(f"\n--- 后处理结果 ---")
+            print(final_result)
+            print("="*60 + "\n")
+
+        output_path = OUTPUT_DIR / (image_path.stem + ".txt")
+        output_path.write_text(final_result, encoding="utf-8")
+        return (image_path.name, True, "")
+    except Exception as e:
+        return (image_path.name, False, str(e))
+
+def main() -> None:
+    if not IMAGE_DIR.exists():
+        print(f"[错误] 图片目录不存在: {IMAGE_DIR}")
+        return
+    if not IMAGE_DIR.is_dir():
+        print(f"[错误] 路径不是目录: {IMAGE_DIR}")
+        return
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    valid_exts = {".jpg", ".jpeg", ".png"}
+    images = sorted(
+        p for p in IMAGE_DIR.iterdir()
+        if p.is_file() and p.suffix.lower() in valid_exts
+    )
+
+    if not images:
+        print(f"[警告] 图片目录中未找到 jpg/jpeg/png 文件: {IMAGE_DIR}")
+        return
+
+    # 单张测试模式：只保留指定的图片
+    if TEST_SINGLE_FILE:
+        images = [p for p in images if p.name == TEST_SINGLE_FILE]
+        if not images:
+            print(f"[错误] 未找到测试图片: {TEST_SINGLE_FILE}")
+            return
+        print(f"单张测试模式，只处理: {images[0].name}")
+
+    if MAX_COUNT > 0:
+        images = images[:MAX_COUNT]
+
+    total = len(images)
+    pending = [p for p in images if not (OUTPUT_DIR / f"{p.stem}.txt").exists()]
+    skipped = total - len(pending)
+
+    width = len(str(total))
+
+    print(f"图片目录 : {IMAGE_DIR}")
+    print(f"输出目录 : {OUTPUT_DIR}")
+    print(f"处理数量 : {total} 张  (MAX_COUNT={MAX_COUNT or '不限'})")
+    if skipped:
+        print(f"跳过已处理: {skipped} 张")
+    print(f"待处理: {len(pending)} 张  并发: {WORKERS} 线程\n")
+
+    if not pending:
+        print("全部已完成。")
+        return
+
+    success_count = 0
+    fail_count = 0
+    fail_list: list[tuple[str, str]] = []
+    t0 = time.time()
+
+    # 单张测试时不使用多线程
+    if TEST_SINGLE_FILE:
+        for img in pending:
+            name, ok, err = _process_one(img)
+            if ok:
+                success_count += 1
+                elapsed = time.time() - t0
+                print(f"[{success_count + skipped}/{total}] OK  {name}")
+            else:
+                fail_count += 1
+                print(f"[{success_count + skipped + fail_count}/{total}] FAIL {name}: {err}")
+                fail_list.append((name, err))
+    else:
+        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+            futures = {pool.submit(_process_one, p): p for p in pending}
+            for future in as_completed(futures):
+                name, ok, err = future.result()
+                if ok:
+                    success_count += 1
+                    elapsed = time.time() - t0
+                    rate = success_count / elapsed * 60 if elapsed > 0 else 0
+                    print(f"[{success_count + skipped:{width}d}/{total}] OK  {name}  ({rate:.0f}张/分)")
+                else:
+                    fail_count += 1
+                    print(f"[{success_count + skipped + fail_count:{width}d}/{total}] FAIL {name}: {err}")
+                    fail_list.append((name, err))
+
+    elapsed = time.time() - t0
+    print(f"\n{'─' * 55}")
+    print(f"处理完成  成功: {success_count}  跳过: {skipped}  失败: {fail_count}  共: {total}")
+    print(f"耗时: {elapsed:.1f}秒")
+    if fail_list:
+        print(f"\n失败文件列表（共 {len(fail_list)} 个）：")
+        for name, err in fail_list:
+            print(f"  ✗ {name}")
+            print(f"      {err}")
+
+if __name__ == "__main__":
+    main()

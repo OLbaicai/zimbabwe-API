@@ -1,0 +1,7 @@
+{
+  "id_number": "66062583E66",
+  "surname": "MAKUWAZA",
+  "first_name": "JIMSON",
+  "birth_date": "05.01.1983",
+  "gender": "male"
+}

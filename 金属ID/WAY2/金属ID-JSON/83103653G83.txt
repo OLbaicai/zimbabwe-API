@@ -1,0 +1,7 @@
+{
+  "id_number": "83103653G83",
+  "surname": "MHLANGA",
+  "first_name": "MAGGIE",
+  "birth_date": "22.05.1978",
+  "gender": ""
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "03041276J03",
+  "surname": "SHUMBA",
+  "first_name": "FEDIAS",
+  "birth_date": "06.08.72",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "04057281M04",
+  "surname": "MUFARI",
+  "first_name": "MOSES FUNGIRAI",
+  "birth_date": "06.09.70",
+  "gender": "male"
+}

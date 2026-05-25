@@ -1,0 +1,7 @@
+{
+  "id_number": "13024938Q44",
+  "surname": "NDUMEYA",
+  "first_name": "MAVIS",
+  "birth_date": "10.10.58",
+  "gender": "female"
+}

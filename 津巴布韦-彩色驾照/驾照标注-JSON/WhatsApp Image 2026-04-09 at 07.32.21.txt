@@ -1,0 +1,6 @@
+{
+  "id_number": "01/14211477G18",
+  "surname": "TARUKUMBIRA",
+  "first_name": "KNOWLEDGE",
+  "birth_date": "26/09/1995"
+}

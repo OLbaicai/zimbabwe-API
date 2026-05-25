@@ -1,0 +1,7 @@
+{
+  "id_number": "04109501Y18",
+  "surname": "MASUKA",
+  "first_name": "REMITIA",
+  "birth_date": "12.07.1981",
+  "gender": "female"
+}

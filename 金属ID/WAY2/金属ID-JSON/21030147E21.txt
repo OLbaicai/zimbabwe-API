@@ -1,0 +1,7 @@
+{
+  "id_number": "21030147E21",
+  "surname": "NYONI",
+  "first_name": "THULANI",
+  "birth_date": "02.04.76",
+  "gender": "male"
+}

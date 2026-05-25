@@ -1,0 +1,7 @@
+{
+  "id_number": "08676697R28",
+  "surname": "NCUBE",
+  "first_name": "NKOSIYAZI",
+  "birth_date": "08.02.1976",
+  "gender": "male"
+}

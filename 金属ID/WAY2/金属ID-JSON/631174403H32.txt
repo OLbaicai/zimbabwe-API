@@ -1,0 +1,7 @@
+{
+  "id_number": "50087861B50",
+  "surname": "PAZUWA",
+  "first_name": "DOUGLAS PANGANAI",
+  "birth_date": "04.04.1978",
+  "gender": "male"
+}

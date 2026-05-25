@@ -1,0 +1,7 @@
+{
+  "id_number": "63067910A34",
+  "surname": "MAYIPE",
+  "first_name": "PETER CLEVER",
+  "birth_date": "08.11.59",
+  "gender": "male"
+}

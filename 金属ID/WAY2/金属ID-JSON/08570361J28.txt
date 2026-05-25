@@ -1,0 +1,7 @@
+{
+  "id_number": "08570361J28",
+  "surname": "TSHILI",
+  "first_name": "PATRONELLA",
+  "birth_date": "19.07.67",
+  "gender": "female"
+}

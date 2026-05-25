@@ -1,0 +1,6 @@
+{
+  "id_number": "01/68035941J43",
+  "surname": "MANGWIZA",
+  "first_name": "NGONI",
+  "birth_date": "10/02/1966"
+}

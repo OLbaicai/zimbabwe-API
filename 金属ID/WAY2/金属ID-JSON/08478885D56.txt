@@ -1,0 +1,7 @@
+{
+  "id_number": "08478885D56",
+  "surname": "KHUPE",
+  "first_name": "MIRIAM",
+  "birth_date": "27.08.55",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "63129113A45",
+  "surname": "KAPOMBA",
+  "first_name": "NICHAOS RROSPER",
+  "birth_date": "12.12.55",
+  "gender": "male"
+}

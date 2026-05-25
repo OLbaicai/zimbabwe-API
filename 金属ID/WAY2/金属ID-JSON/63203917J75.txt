@@ -1,0 +1,7 @@
+{
+  "id_number": "63203917J75",
+  "surname": "ZINYAWO",
+  "first_name": "AMUDIAMWE DENFORD",
+  "birth_date": "23.8.42",
+  "gender": "male"
+}

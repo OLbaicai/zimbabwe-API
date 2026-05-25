@@ -1,0 +1,7 @@
+{
+  "id_number": "26008282W26",
+  "surname": "MUGANYI",
+  "first_name": "EGNETA",
+  "birth_date": "17.3.47",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "08272230D08",
+  "surname": "TONGA",
+  "first_name": "KEFAS",
+  "birth_date": "12.07.1958",
+  "gender": "male"
+}

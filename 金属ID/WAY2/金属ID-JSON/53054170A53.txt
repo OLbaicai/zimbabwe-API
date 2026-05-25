@@ -1,0 +1,7 @@
+{
+  "id_number": "53054170A53",
+  "surname": "MAHLANGU",
+  "first_name": "ANDREW",
+  "birth_date": "10.02.1977",
+  "gender": "male"
+}

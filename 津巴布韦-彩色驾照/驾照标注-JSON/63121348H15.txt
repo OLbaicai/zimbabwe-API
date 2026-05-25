@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631213480H15",
+  "surname": "KAHARI",
+  "first_name": "CHARITY",
+  "birth_date": "17/03/1983"
+}

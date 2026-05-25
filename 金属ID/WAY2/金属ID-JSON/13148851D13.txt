@@ -1,0 +1,7 @@
+{
+  "id_number": "13148851D13",
+  "surname": "KUMBULA",
+  "first_name": "CHRISTINE",
+  "birth_date": "20.12.1976",
+  "gender": "female"
+}

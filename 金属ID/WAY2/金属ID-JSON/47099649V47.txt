@@ -1,0 +1,7 @@
+{
+  "id_number": "47089878Z47",
+  "surname": "NYAMUNDA",
+  "first_name": "MATONGO",
+  "birth_date": "03.04.72",
+  "gender": "male"
+}

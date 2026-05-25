@@ -1,0 +1,7 @@
+{
+  "id_number": "13021282R13",
+  "surname": "SINGIZI",
+  "first_name": "ELIZA",
+  "birth_date": "11.7.50",
+  "gender": "female"
+}

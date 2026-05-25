@@ -1,0 +1,7 @@
+{
+  "id_number": "21045408S21",
+  "surname": "SIZIBA",
+  "first_name": "SAKHILE",
+  "birth_date": "27.11.1979",
+  "gender": "female"
+}

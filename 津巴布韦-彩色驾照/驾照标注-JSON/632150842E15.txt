@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632150842E15",
+  "surname": "MADZIKANDA",
+  "first_name": "SONJA LOUISE",
+  "birth_date": "12/04/1992"
+}

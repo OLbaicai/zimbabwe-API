@@ -1,0 +1,6 @@
+{
+  "id_number": "01/34082880H34",
+  "surname": "SANYATWE",
+  "first_name": "ELIJAH",
+  "birth_date": "15/09/1984"
+}

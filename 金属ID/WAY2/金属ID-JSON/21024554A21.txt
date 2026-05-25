@@ -1,0 +1,7 @@
+{
+  "id_number": "21024554A21",
+  "surname": "SIBANDA",
+  "first_name": "GETRUDE",
+  "birth_date": "12.04.69",
+  "gender": "female"
+}

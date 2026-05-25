@@ -1,0 +1,7 @@
+{
+  "id_number": "08499829T79",
+  "surname": "MTHUPHA",
+  "first_name": "ALBERT",
+  "birth_date": "04.03.68",
+  "gender": "male"
+}

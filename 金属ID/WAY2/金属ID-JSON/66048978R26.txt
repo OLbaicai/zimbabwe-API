@@ -1,0 +1,7 @@
+{
+  "id_number": "66048978R26",
+  "surname": "MAYEKE",
+  "first_name": "KARITASI",
+  "birth_date": "01.01.1959",
+  "gender": "female"
+}

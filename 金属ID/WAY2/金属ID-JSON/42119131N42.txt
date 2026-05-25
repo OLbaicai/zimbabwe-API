@@ -1,0 +1,7 @@
+{
+  "id_number": "42119131N42",
+  "surname": "CHIRIKANWI",
+  "first_name": "LOVEMORE",
+  "birth_date": "03.10.1971",
+  "gender": "male"
+}

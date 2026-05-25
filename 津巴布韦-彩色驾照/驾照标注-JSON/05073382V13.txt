@@ -1,0 +1,6 @@
+{
+  "id_number": "01/05073382V13",
+  "surname": "HOBWANA",
+  "first_name": "STANELY NYASHA",
+  "birth_date": "29/09/1981"
+}

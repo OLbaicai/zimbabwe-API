@@ -1,0 +1,7 @@
+{
+  "id_number": "15041520C25",
+  "surname": "MAKORONI",
+  "first_name": "VONGAI VICTORIA",
+  "birth_date": "25.07.1960",
+  "gender": "female"
+}

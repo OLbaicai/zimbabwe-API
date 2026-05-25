@@ -1,0 +1,7 @@
+{
+  "id_number": "29154487J25",
+  "surname": "CHARI",
+  "first_name": "KUZVINETSA VIOLET",
+  "birth_date": "12.06.73",
+  "gender": "female"
+}

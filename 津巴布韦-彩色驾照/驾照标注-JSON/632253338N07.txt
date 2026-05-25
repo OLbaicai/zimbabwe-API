@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632253338N07",
+  "surname": "GWASERA",
+  "first_name": "KUDAKWASHE PRIDE",
+  "birth_date": "10/07/1992"
+}

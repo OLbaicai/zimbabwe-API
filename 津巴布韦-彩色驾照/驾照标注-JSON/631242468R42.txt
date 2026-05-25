@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631242468R42",
+  "surname": "KASHIRI",
+  "first_name": "GARIKAI PHILLIMON",
+  "birth_date": "25/11/1984"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "47086552J47",
+  "surname": "MUSOROWEMBUDZI",
+  "first_name": "PRECIUS",
+  "birth_date": "06.03.70",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "631237037N18",
+  "surname": "NZUMA",
+  "first_name": "TAPIWA COMFORTER",
+  "birth_date": "27.01.1985",
+  "gender": "male"
+}

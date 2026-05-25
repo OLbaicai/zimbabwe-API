@@ -1,0 +1,7 @@
+{
+  "id_number": "22117550P22",
+  "surname": "MACHIYA",
+  "first_name": "FLORENCE",
+  "birth_date": "19.05.66",
+  "gender": "female"
+}

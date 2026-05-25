@@ -1,0 +1,7 @@
+{
+  "id_number": "631077681A13",
+  "surname": "SITHOLE",
+  "first_name": "LOVEMOR RA",
+  "birth_date": "19.06.78",
+  "gender": "male"
+}

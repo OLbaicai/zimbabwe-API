@@ -1,0 +1,7 @@
+{
+  "id_number": "38071216F38",
+  "surname": "MUPFURUTSA",
+  "first_name": "JAMES",
+  "birth_date": "24.12.58",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "79108278H06",
+  "surname": "MWEMBE",
+  "first_name": "PILATO",
+  "birth_date": "23.11.1982",
+  "gender": "male"
+}

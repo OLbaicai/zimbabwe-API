@@ -1,0 +1,7 @@
+{
+  "id_number": "22152478E27",
+  "surname": "GUTUZA",
+  "first_name": "TIZVIONE",
+  "birth_date": "25.02.74",
+  "gender": "male"
+}

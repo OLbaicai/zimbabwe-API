@@ -1,0 +1,7 @@
+{
+  "id_number": "12082363C12",
+  "surname": "MATENGA",
+  "first_name": "ELIZABETH",
+  "birth_date": "14.04.1981",
+  "gender": "female"
+}

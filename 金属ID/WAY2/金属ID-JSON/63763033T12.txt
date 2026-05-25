@@ -1,0 +1,7 @@
+{
+  "id_number": "63763033T18",
+  "surname": "MANCOKA",
+  "first_name": "NOMORE",
+  "birth_date": "09.05.67",
+  "gender": "female"
+}

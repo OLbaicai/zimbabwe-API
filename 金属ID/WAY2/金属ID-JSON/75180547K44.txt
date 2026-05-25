@@ -1,0 +1,7 @@
+{
+  "id_number": "75180547K44",
+  "surname": "SITHOLE",
+  "first_name": "ANGELA",
+  "birth_date": "06.02.1975",
+  "gender": "female"
+}

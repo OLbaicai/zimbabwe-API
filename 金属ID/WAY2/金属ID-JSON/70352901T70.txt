@@ -1,0 +1,7 @@
+{
+  "id_number": "38059469M38",
+  "surname": "TADYANEMHANDU",
+  "first_name": "BULL",
+  "birth_date": "01.01.53",
+  "gender": "male"
+}

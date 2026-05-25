@@ -1,0 +1,7 @@
+{
+  "id_number": "63157229L48",
+  "surname": "MUSAKANYI",
+  "first_name": "ABRAHAM",
+  "birth_date": "1.6.53",
+  "gender": "male"
+}

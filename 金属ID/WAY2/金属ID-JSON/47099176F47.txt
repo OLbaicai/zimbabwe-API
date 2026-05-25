@@ -1,0 +1,7 @@
+{
+  "id_number": "47099176F47",
+  "surname": "SHENJE",
+  "first_name": "KUDAKWASHE EARINORA",
+  "birth_date": "06.10.71",
+  "gender": "female"
+}

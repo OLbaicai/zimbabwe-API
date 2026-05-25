@@ -1,0 +1,7 @@
+{
+  "id_number": "49037306T49",
+  "surname": "CHIWEZA",
+  "first_name": "MAPUWEI",
+  "birth_date": "25.08.75",
+  "gender": "female"
+}

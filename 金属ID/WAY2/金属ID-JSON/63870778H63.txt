@@ -1,0 +1,7 @@
+{
+  "id_number": "63870778H63",
+  "surname": "MSUSAH",
+  "first_name": "EMILY CHIEDZA",
+  "birth_date": "13.10.69",
+  "gender": "female"
+}

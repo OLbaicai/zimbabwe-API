@@ -1,0 +1,7 @@
+{
+  "id_number": "67095256A67",
+  "surname": "MGWAGWA",
+  "first_name": "ZIVISO",
+  "birth_date": "24.08.11978",
+  "gender": "female"
+}

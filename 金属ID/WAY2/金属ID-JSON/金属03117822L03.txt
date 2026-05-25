@@ -1,0 +1,7 @@
+{
+  "id_number": "03117822L03",
+  "surname": "ZHOU",
+  "first_name": "GRETA",
+  "birth_date": "12.03.1981",
+  "gender": "female"
+}

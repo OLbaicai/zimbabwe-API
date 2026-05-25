@@ -1,0 +1,7 @@
+{
+  "id_number": "63131332M61",
+  "surname": "CHAPATA",
+  "first_name": "CHARLES",
+  "birth_date": "5.8.58",
+  "gender": "male"
+}

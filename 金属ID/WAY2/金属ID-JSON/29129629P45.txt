@@ -1,0 +1,7 @@
+{
+  "id_number": "29129629P45",
+  "surname": "MUKONYO",
+  "first_name": "BEAUTY",
+  "birth_date": "06.10.65",
+  "gender": "female"
+}

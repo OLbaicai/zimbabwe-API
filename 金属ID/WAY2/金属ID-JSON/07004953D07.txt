@@ -1,0 +1,7 @@
+{
+  "id_number": "07004953D07",
+  "surname": "CHIPWANYA",
+  "first_name": "NYENGETERAYI",
+  "birth_date": "04.02.64",
+  "gender": "female"
+}

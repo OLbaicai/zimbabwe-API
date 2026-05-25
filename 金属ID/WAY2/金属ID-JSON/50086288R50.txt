@@ -1,0 +1,7 @@
+{
+  "id_number": "50086288R50",
+  "surname": "CHIGURA",
+  "first_name": "GIFT",
+  "birth_date": "30.09.1978",
+  "gender": "male"
+}

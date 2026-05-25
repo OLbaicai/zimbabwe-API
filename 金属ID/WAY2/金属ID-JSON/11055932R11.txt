@@ -1,0 +1,7 @@
+{
+  "id_number": "11055932R11",
+  "surname": "MUGADZA",
+  "first_name": "SIMBARASHE",
+  "birth_date": "07.10.1982",
+  "gender": "male"
+}

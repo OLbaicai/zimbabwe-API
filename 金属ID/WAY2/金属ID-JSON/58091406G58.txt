@@ -1,0 +1,7 @@
+{
+  "id_number": "58091406G58",
+  "surname": "MUGORE",
+  "first_name": "WILSON",
+  "birth_date": "04.04.64",
+  "gender": "male"
+}

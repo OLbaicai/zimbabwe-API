@@ -1,0 +1,7 @@
+{
+  "id_number": "11043080X11",
+  "surname": "CHIRANDA",
+  "first_name": "BERNARD",
+  "birth_date": "28.03.1976",
+  "gender": "male"
+}

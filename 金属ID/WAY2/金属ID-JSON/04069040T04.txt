@@ -1,0 +1,7 @@
+{
+  "id_number": "04069040T04",
+  "surname": "MAHUTE",
+  "first_name": "NHAMO",
+  "birth_date": "06.06.73",
+  "gender": "male"
+}

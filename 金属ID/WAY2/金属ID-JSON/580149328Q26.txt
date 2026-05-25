@@ -1,0 +1,7 @@
+{
+  "id_number": "58149328Q26",
+  "surname": "MAPOSA",
+  "first_name": "LOVEMORE",
+  "birth_date": "05.02.76",
+  "gender": ""
+}

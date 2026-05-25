@@ -1,0 +1,7 @@
+{
+  "id_number": "32063301N26",
+  "surname": "NAVIVI",
+  "first_name": "NYARAI",
+  "birth_date": "04.04.72",
+  "gender": "female"
+}

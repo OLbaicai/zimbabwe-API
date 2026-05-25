@@ -1,0 +1,7 @@
+{
+  "id_number": "29168464B26",
+  "surname": "MAPFUMO",
+  "first_name": "KURAUVONE",
+  "birth_date": "10.03.75",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "08588704X28",
+  "surname": "MAPHOSA",
+  "first_name": "SIBONILE",
+  "birth_date": "24.11.68",
+  "gender": "female"
+}

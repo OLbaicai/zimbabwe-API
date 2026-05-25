@@ -1,0 +1,7 @@
+{
+  "id_number": "05069754B05",
+  "surname": "MUHUKUSA",
+  "first_name": "DADIRAI",
+  "birth_date": "20.03.1969",
+  "gender": "female"
+}

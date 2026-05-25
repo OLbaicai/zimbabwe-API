@@ -1,0 +1,7 @@
+{
+  "id_number": "49071694X49",
+  "surname": "KAITANO",
+  "first_name": "TENDAI",
+  "birth_date": "26.07.1978",
+  "gender": "male"
+}

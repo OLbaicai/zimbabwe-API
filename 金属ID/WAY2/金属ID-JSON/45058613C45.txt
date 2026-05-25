@@ -1,0 +1,7 @@
+{
+  "id_number": "45058613C45",
+  "surname": "CHIMUNDA",
+  "first_name": "ENGIWEIT",
+  "birth_date": "30.12.1972",
+  "gender": "female"
+}

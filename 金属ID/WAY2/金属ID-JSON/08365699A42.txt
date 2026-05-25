@@ -1,0 +1,7 @@
+{
+  "id_number": "08365699A42",
+  "surname": "MUISIPA",
+  "first_name": "ENICILDAH",
+  "birth_date": "07.03.43",
+  "gender": "female"
+}

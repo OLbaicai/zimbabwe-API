@@ -1,0 +1,7 @@
+{
+  "id_number": "14151307E14",
+  "surname": "CHIKUTU",
+  "first_name": "LAWRENCE",
+  "birth_date": "26.11.1982",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "27058735S27",
+  "surname": "MAKAMURE",
+  "first_name": "FARIRANAI",
+  "birth_date": "07.10.64",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "32083416C14",
+  "surname": "ZVIREWO",
+  "first_name": "JULIUS",
+  "birth_date": "16.07.67",
+  "gender": "male"
+}

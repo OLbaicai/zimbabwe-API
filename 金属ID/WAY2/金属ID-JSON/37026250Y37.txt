@@ -1,0 +1,7 @@
+{
+  "id_number": "37026250Y37",
+  "surname": "SICHAYA",
+  "first_name": "REOERAI",
+  "birth_date": "14.10.1975",
+  "gender": "female"
+}

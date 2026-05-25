@@ -1,0 +1,7 @@
+{
+  "id_number": "73034129X73",
+  "surname": "NDHLOVU",
+  "first_name": "COSMAS",
+  "birth_date": "04.06.73",
+  "gender": "male"
+}

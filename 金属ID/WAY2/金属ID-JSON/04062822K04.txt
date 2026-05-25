@@ -1,0 +1,7 @@
+{
+  "id_number": "04062822K04",
+  "surname": "TANGEWA",
+  "first_name": "SERINA",
+  "birth_date": "09.08.71",
+  "gender": "female"
+}

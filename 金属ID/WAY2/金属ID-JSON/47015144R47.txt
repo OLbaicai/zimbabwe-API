@@ -1,0 +1,7 @@
+{
+  "id_number": "47015144R47",
+  "surname": "CHABI",
+  "first_name": "MICHAEL",
+  "birth_date": "16.05.62",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "45025790A45",
+  "surname": "CHIGANGO",
+  "first_name": "CHRISTIN",
+  "birth_date": "18.06.1958",
+  "gender": "female"
+}

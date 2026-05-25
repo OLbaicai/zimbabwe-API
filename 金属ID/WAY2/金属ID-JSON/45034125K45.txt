@@ -1,0 +1,7 @@
+{
+  "id_number": "45034125K45",
+  "surname": "CHANDAFIRA",
+  "first_name": "KACHAVI",
+  "birth_date": "3.6.64",
+  "gender": "male"
+}

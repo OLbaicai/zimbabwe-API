@@ -1,0 +1,7 @@
+{
+  "id_number": "13139699F13",
+  "surname": "MAREMUDZE",
+  "first_name": "ZHMAH",
+  "birth_date": "23.10.1979",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "59019163N11",
+  "surname": "WNBASHA",
+  "first_name": "BERYA",
+  "birth_date": "07.02.1979",
+  "gender": "female"
+}

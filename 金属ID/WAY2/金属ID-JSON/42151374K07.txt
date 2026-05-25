@@ -1,0 +1,7 @@
+{
+  "id_number": "42151374K07",
+  "surname": "CHAPUKIRA",
+  "first_name": "PAMHIDZAI",
+  "birth_date": "06.06.72",
+  "gender": "female"
+}

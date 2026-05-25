@@ -1,0 +1,7 @@
+{
+  "id_number": "77010256Z77",
+  "surname": "MUGODHI",
+  "first_name": "ANCICARIA",
+  "birth_date": "10.10.59",
+  "gender": "female"
+}

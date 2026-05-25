@@ -1,0 +1,7 @@
+{
+  "id_number": "08695324N24",
+  "surname": "SIZIBA",
+  "first_name": "LINDIWE",
+  "birth_date": "28.08.75",
+  "gender": "female"
+}

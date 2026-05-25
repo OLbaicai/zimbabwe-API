@@ -1,0 +1,7 @@
+{
+  "id_number": "43013799D43",
+  "surname": "COMIWA",
+  "first_name": "VIOLA",
+  "birth_date": "7.6.59",
+  "gender": "female"
+}

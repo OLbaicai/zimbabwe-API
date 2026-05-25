@@ -1,0 +1,7 @@
+{
+  "id_number": "11040359P11",
+  "surname": "MUGARIRI",
+  "first_name": "CHIPO",
+  "birth_date": "04.10.74",
+  "gender": "female"
+}

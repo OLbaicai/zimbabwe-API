@@ -1,0 +1,7 @@
+{
+  "id_number": "63331919R32",
+  "surname": "HAPUOANGA",
+  "first_name": "LAMECK",
+  "birth_date": "29.7.40",
+  "gender": "male"
+}

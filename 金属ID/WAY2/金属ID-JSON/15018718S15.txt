@@ -1,0 +1,7 @@
+{
+  "id_number": "15018718S15",
+  "surname": "GWESHE",
+  "first_name": "VIOLA",
+  "birth_date": "25.12.1962",
+  "gender": "female"
+}

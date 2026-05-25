@@ -1,0 +1,6 @@
+{
+  "id_number": "01/662004337F18",
+  "surname": "CHIGONERO",
+  "first_name": "NYASHA",
+  "birth_date": "07/05/2006"
+}

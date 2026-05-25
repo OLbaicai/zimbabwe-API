@@ -1,0 +1,7 @@
+{
+  "id_number": "85025797T85",
+  "surname": "MAPIKA",
+  "first_name": "SHUPIKAI",
+  "birth_date": "25.11.1977",
+  "gender": "female"
+}

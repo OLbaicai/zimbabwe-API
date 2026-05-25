@@ -1,0 +1,7 @@
+{
+  "id_number": "38089490T38",
+  "surname": "CHITSUNGO",
+  "first_name": "ROBERT",
+  "birth_date": "01.05.1978",
+  "gender": "male"
+}

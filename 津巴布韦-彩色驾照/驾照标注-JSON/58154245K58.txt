@@ -1,0 +1,6 @@
+{
+  "id_number": "01/58154245K58",
+  "surname": "MAZANGO",
+  "first_name": "JOHN PEDZISAI",
+  "birth_date": "08/03/1974"
+}

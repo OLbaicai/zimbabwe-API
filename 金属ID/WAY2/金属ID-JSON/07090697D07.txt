@@ -1,0 +1,7 @@
+{
+  "id_number": "07090697D07",
+  "surname": "MAPARANYANGA",
+  "first_name": "MANDIZVIDZA",
+  "birth_date": "27.11.73",
+  "gender": "male"
+}

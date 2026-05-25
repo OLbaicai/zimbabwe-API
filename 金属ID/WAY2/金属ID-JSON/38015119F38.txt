@@ -1,0 +1,7 @@
+{
+  "id_number": "38015119F38",
+  "surname": "MACHAU",
+  "first_name": "SAMSON",
+  "birth_date": "8.1.55",
+  "gender": "male"
+}

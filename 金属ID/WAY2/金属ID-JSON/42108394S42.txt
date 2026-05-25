@@ -1,0 +1,7 @@
+{
+  "id_number": "42108394S42",
+  "surname": "NYAMBUDU",
+  "first_name": "ENNIA",
+  "birth_date": "10.09.65",
+  "gender": "female"
+}

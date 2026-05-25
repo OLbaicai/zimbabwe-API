@@ -1,0 +1,7 @@
+{
+  "id_number": "04030216T04",
+  "surname": "MUPOSHI",
+  "first_name": "KANISIO",
+  "birth_date": "11.06.59",
+  "gender": "male"
+}

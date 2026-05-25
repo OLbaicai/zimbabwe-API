@@ -1,0 +1,7 @@
+{
+  "id_number": "63937058B63",
+  "surname": "MANUEL",
+  "first_name": "CALEB",
+  "birth_date": "04.10.1976",
+  "gender": "male"
+}

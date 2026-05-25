@@ -1,0 +1,7 @@
+{
+  "id_number": "63340933P32",
+  "surname": "MBIRIZA",
+  "first_name": "EDITH TENDAI",
+  "birth_date": "10.03.58",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "04057057T04",
+  "surname": "MATOREVHU",
+  "first_name": "SOPHIA",
+  "birth_date": "12.06.69",
+  "gender": "female"
+}

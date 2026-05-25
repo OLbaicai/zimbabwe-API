@@ -1,0 +1,7 @@
+{
+  "id_number": "63139803V66",
+  "surname": "CHIKOMO",
+  "first_name": "TITUS",
+  "birth_date": "6.2.60",
+  "gender": "male"
+}

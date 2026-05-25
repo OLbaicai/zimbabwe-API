@@ -1,0 +1,7 @@
+{
+  "id_number": "04087816C04",
+  "surname": "TSVIKU",
+  "first_name": "EDSON",
+  "birth_date": "06.02.1977",
+  "gender": "male"
+}

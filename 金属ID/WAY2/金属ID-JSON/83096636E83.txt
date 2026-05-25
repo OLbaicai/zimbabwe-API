@@ -1,0 +1,7 @@
+{
+  "id_number": "83096636E83",
+  "surname": "MUSHARAVATI",
+  "first_name": "ITAI",
+  "birth_date": "16.01.1976",
+  "gender": "female"
+}

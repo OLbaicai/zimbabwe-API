@@ -1,0 +1,7 @@
+{
+  "id_number": "22060833Q22",
+  "surname": "MUTUBUKI",
+  "first_name": "MARIA",
+  "birth_date": "1.10.51",
+  "gender": "female"
+}

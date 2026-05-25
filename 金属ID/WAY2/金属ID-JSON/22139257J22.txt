@@ -1,0 +1,7 @@
+{
+  "id_number": "22139257J22",
+  "surname": "CHIBOVERA",
+  "first_name": "INNOCENT",
+  "birth_date": "01.10.1972",
+  "gender": "male"
+}

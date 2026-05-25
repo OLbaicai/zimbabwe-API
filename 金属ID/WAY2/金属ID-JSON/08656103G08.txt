@@ -1,0 +1,7 @@
+{
+  "id_number": "08656103G08",
+  "surname": "SAKALK",
+  "first_name": "DUMISANI",
+  "birth_date": "01.04.74",
+  "gender": "male"
+}

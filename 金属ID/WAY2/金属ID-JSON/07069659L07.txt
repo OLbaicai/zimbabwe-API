@@ -1,0 +1,7 @@
+{
+  "id_number": "07069659L07",
+  "surname": "MUDZINGWA",
+  "first_name": "MARGARET",
+  "birth_date": "14.08.73",
+  "gender": "female"
+}

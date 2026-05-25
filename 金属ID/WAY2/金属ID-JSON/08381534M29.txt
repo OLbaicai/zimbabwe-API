@@ -1,0 +1,7 @@
+{
+  "id_number": "08381534M29",
+  "surname": "MUGABE",
+  "first_name": "SITHABILE",
+  "birth_date": "15.11.1956",
+  "gender": "female"
+}

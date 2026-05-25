@@ -1,0 +1,7 @@
+{
+  "id_number": "63477656B18",
+  "surname": "MAKWATI",
+  "first_name": "JAMESON",
+  "birth_date": "07.09.54",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "06005310K06",
+  "surname": "MUCHIMBA",
+  "first_name": "SODIA",
+  "birth_date": "21.1.51",
+  "gender": "female"
+}

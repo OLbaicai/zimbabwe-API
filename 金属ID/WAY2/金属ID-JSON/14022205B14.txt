@@ -1,0 +1,7 @@
+{
+  "id_number": "14022205B14",
+  "surname": "MATSILELE",
+  "first_name": "MASENYANI",
+  "birth_date": "6.9.61",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "45076838M45",
+  "surname": "ZHUWAWO",
+  "first_name": "RUZIA",
+  "birth_date": "09.06.72",
+  "gender": "female"
+}

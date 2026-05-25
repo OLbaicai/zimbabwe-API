@@ -1,0 +1,7 @@
+{
+  "id_number": "22195518M22",
+  "surname": "NYAMBIRAI",
+  "first_name": "LILIOSA",
+  "birth_date": "01.06.1981",
+  "gender": "female"
+}

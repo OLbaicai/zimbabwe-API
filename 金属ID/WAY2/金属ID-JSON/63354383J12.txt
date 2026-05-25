@@ -1,0 +1,7 @@
+{
+  "id_number": "63354383J12",
+  "surname": "TARUBEREKERA",
+  "first_name": "JUDAS",
+  "birth_date": "28.4.47",
+  "gender": "male"
+}

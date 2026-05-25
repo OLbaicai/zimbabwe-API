@@ -1,0 +1,7 @@
+{
+  "id_number": "43063626N43",
+  "surname": "KUGARA",
+  "first_name": "FUNGAI TARWIREYI",
+  "birth_date": "27.09.1980",
+  "gender": "male"
+}

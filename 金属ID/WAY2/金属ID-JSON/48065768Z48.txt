@@ -1,0 +1,7 @@
+{
+  "id_number": "48065768Z48",
+  "surname": "KATIYO",
+  "first_name": "SARUDZAI",
+  "birth_date": "15.03.72",
+  "gender": "female"
+}

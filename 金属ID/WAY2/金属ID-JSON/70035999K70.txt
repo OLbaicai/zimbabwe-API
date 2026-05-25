@@ -1,0 +1,7 @@
+{
+  "id_number": "70035999K70",
+  "surname": "SHERENI",
+  "first_name": "ALAIDA",
+  "birth_date": "10.07.62",
+  "gender": "female"
+}

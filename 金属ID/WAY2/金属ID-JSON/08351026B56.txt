@@ -1,0 +1,7 @@
+{
+  "id_number": "08351026B56",
+  "surname": "TABONGWANA",
+  "first_name": "VIVIAN",
+  "birth_date": "3.8.59",
+  "gender": "female"
+}

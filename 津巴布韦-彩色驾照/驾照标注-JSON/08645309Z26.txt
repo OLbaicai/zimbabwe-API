@@ -1,0 +1,6 @@
+{
+  "id_number": "01/08645309Z26",
+  "surname": "MUGADZA",
+  "first_name": "HORNEST VIRIMAYI",
+  "birth_date": "03/12/1972"
+}

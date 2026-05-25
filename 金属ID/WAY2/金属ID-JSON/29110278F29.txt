@@ -1,0 +1,7 @@
+{
+  "id_number": "29110278F29",
+  "surname": "MPOFU",
+  "first_name": "EMMAH",
+  "birth_date": "9.10.64",
+  "gender": "female"
+}

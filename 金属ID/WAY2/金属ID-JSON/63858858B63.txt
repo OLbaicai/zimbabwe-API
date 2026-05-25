@@ -1,0 +1,7 @@
+{
+  "id_number": "63858858B63",
+  "surname": "CHAKONOKA",
+  "first_name": "JONAIHAN",
+  "birth_date": "15.07.72",
+  "gender": "male"
+}

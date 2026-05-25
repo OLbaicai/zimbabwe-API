@@ -1,0 +1,7 @@
+{
+  "id_number": "42121923Y42",
+  "surname": "NYABADZA",
+  "first_name": "MELCHIO",
+  "birth_date": "01.11.63",
+  "gender": "male"
+}

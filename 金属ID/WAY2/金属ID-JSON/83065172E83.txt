@@ -1,0 +1,7 @@
+{
+  "id_number": "83065172E83",
+  "surname": "MAKWARA",
+  "first_name": "MAVIS",
+  "birth_date": "12.06.72",
+  "gender": "female"
+}

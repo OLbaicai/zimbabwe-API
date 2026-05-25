@@ -1,0 +1,7 @@
+{
+  "id_number": "63499094D83",
+  "surname": "WASHAYA",
+  "first_name": "ALBERT",
+  "birth_date": "10.1.60",
+  "gender": "male"
+}

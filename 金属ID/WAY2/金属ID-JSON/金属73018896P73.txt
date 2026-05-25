@@ -1,0 +1,7 @@
+{
+  "id_number": "73018896P73",
+  "surname": "DUBE",
+  "first_name": "OTTILIA",
+  "birth_date": "22.09.48",
+  "gender": "female"
+}

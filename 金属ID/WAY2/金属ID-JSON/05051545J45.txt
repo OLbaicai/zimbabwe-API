@@ -1,0 +1,7 @@
+{
+  "id_number": "05051545J45",
+  "surname": "CHIMUNDA",
+  "first_name": "CLEVER",
+  "birth_date": "09.11.1970",
+  "gender": "male"
+}

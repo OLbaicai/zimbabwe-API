@@ -1,0 +1,7 @@
+{
+  "id_number": "05030359F05",
+  "surname": "TAPOKA",
+  "first_name": "NETSAI",
+  "birth_date": "4.1.66",
+  "gender": "female"
+}

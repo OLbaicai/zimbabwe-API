@@ -1,0 +1,7 @@
+{
+  "id_number": "59051493E11",
+  "surname": "MERO",
+  "first_name": "CHARLES",
+  "birth_date": "01.08.1982",
+  "gender": "male"
+}

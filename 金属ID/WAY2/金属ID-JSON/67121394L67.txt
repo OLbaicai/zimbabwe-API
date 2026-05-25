@@ -1,0 +1,7 @@
+{
+  "id_number": "67121394L67",
+  "surname": "MATEBEKE",
+  "first_name": "RICHARD",
+  "birth_date": "14.01.1983",
+  "gender": "male"
+}

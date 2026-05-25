@@ -1,0 +1,7 @@
+{
+  "id_number": "75034018P75",
+  "surname": "CHESA",
+  "first_name": "MISHECK",
+  "birth_date": "26.3.63",
+  "gender": "male"
+}

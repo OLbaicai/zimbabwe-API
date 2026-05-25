@@ -1,0 +1,7 @@
+{
+  "id_number": "75298521S75",
+  "surname": "SITHDLE",
+  "first_name": "GARISIKAYI",
+  "birth_date": "11.12.74",
+  "gender": "female"
+}

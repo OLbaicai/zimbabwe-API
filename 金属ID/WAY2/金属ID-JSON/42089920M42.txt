@@ -1,0 +1,7 @@
+{
+  "id_number": "42089920M42",
+  "surname": "MUDGNHODZO",
+  "first_name": "STELLA",
+  "birth_date": "1.1.46",
+  "gender": "female"
+}

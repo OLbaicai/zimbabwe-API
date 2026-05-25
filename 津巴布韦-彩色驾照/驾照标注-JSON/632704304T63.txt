@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632704304T63",
+  "surname": "KANDARIRA",
+  "first_name": "JOHNSON DZUNGAI",
+  "birth_date": "10/04/2004"
+}

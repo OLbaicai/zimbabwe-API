@@ -1,0 +1,7 @@
+{
+  "id_number": "42166716L72",
+  "surname": "CHI MANIUNDU",
+  "first_name": "ISHMAIL",
+  "birth_date": "06.04.1976",
+  "gender": "male"
+}

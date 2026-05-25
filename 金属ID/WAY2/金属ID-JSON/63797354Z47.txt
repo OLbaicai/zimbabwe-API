@@ -1,0 +1,7 @@
+{
+  "id_number": "63797354Z47",
+  "surname": "MBANJE",
+  "first_name": "CAROLINE",
+  "birth_date": "02.01.1971",
+  "gender": "female"
+}

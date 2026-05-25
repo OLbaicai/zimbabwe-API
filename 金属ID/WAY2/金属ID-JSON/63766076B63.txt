@@ -1,0 +1,7 @@
+{
+  "id_number": "63766076B63",
+  "surname": "NDALA",
+  "first_name": "MATORA",
+  "birth_date": "08.01.68",
+  "gender": "male"
+}

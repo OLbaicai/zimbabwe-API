@@ -1,0 +1,7 @@
+{
+  "id_number": "08569939A38",
+  "surname": "SEREMWE",
+  "first_name": "RODWELL",
+  "birth_date": "06.07.69",
+  "gender": "male"
+}

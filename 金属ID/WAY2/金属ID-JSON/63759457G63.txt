@@ -1,0 +1,7 @@
+{
+  "id_number": "63759457G63",
+  "surname": "SADI",
+  "first_name": "AKUACHIMA",
+  "birth_date": "28.06.68",
+  "gender": "female"
+}

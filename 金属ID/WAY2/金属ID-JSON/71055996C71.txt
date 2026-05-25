@@ -1,0 +1,7 @@
+{
+  "id_number": "71055996C71",
+  "surname": "MACHAKWA",
+  "first_name": "CHIZUVA THERESA",
+  "birth_date": "14.10.1975",
+  "gender": "female"
+}

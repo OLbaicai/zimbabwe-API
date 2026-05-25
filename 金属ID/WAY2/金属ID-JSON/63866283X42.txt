@@ -1,0 +1,7 @@
+{
+  "id_number": "63866283X42",
+  "surname": "MARWIZIC",
+  "first_name": "CORDON",
+  "birth_date": "11.09.71",
+  "gender": "male"
+}

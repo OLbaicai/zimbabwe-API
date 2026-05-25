@@ -1,0 +1,7 @@
+{
+  "id_number": "13010250A13",
+  "surname": "BANGWAYO",
+  "first_name": "LYTOM RINGIRAYI",
+  "birth_date": "02.06.60",
+  "gender": "male"
+}

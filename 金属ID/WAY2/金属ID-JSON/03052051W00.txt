@@ -1,0 +1,7 @@
+{
+  "id_number": "03052051W00",
+  "surname": "CORMACK",
+  "first_name": "RODNEY JAMES",
+  "birth_date": "25.4.61",
+  "gender": "male"
+}

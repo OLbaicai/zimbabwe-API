@@ -1,0 +1,7 @@
+{
+  "id_number": "08189145T08",
+  "surname": "NDIWENT",
+  "first_name": "WELLOSI",
+  "birth_date": "15.7.59",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "75278739Q75",
+  "surname": "SENGAI",
+  "first_name": "GRACE",
+  "birth_date": "06.03.69",
+  "gender": "female"
+}

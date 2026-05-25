@@ -1,0 +1,7 @@
+{
+  "id_number": "63972028M04",
+  "surname": "KUZONDIDINI",
+  "first_name": "MAKAEDZA MARTHA",
+  "birth_date": "05.03.72",
+  "gender": "female"
+}

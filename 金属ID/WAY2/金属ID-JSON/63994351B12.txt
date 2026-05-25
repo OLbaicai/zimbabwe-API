@@ -1,0 +1,7 @@
+{
+  "id_number": "63994351B12",
+  "surname": "TIZVIGONI",
+  "first_name": "SIKHANCGELA",
+  "birth_date": "19.10.78",
+  "gender": "female"
+}

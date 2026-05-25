@@ -1,0 +1,7 @@
+{
+  "id_number": "07064939F07",
+  "surname": "MAKURUMURE",
+  "first_name": "CATHERINE",
+  "birth_date": "07.06.67",
+  "gender": "female"
+}

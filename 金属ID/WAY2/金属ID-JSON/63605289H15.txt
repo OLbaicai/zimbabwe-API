@@ -1,0 +1,7 @@
+{
+  "id_number": "63605289H15",
+  "surname": "KADEMAUNGA",
+  "first_name": "WELLINGTON",
+  "birth_date": "10.09.67",
+  "gender": "male"
+}

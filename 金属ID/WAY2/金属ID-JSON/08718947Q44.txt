@@ -1,0 +1,7 @@
+{
+  "id_number": "08718947Q44",
+  "surname": "MUYAMBO",
+  "first_name": "MOSES",
+  "birth_date": "06.12.1977",
+  "gender": "male"
+}

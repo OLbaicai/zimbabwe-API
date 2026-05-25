@@ -1,0 +1,7 @@
+{
+  "id_number": "29125287V44",
+  "surname": "MARINGEHOSI",
+  "first_name": "ALTCE",
+  "birth_date": "08.05.1966",
+  "gender": "female"
+}

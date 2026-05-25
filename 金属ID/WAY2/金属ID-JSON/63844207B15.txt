@@ -1,0 +1,7 @@
+{
+  "id_number": "63844207B15",
+  "surname": "TARUVINGA",
+  "first_name": "LYDIA",
+  "birth_date": "19.07.72",
+  "gender": "female"
+}

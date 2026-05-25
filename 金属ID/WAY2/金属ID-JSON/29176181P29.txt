@@ -1,0 +1,7 @@
+{
+  "id_number": "29176181P29",
+  "surname": "MANYAVA",
+  "first_name": "STEPHAN",
+  "birth_date": "22.06.76",
+  "gender": "male"
+}

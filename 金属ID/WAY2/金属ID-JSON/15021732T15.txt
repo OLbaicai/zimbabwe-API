@@ -1,0 +1,7 @@
+{
+  "id_number": "15021732T15",
+  "surname": "KULIANI",
+  "first_name": "FRACKSON",
+  "birth_date": "7.4.50",
+  "gender": "male"
+}

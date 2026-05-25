@@ -1,0 +1,7 @@
+{
+  "id_number": "63582008C42",
+  "surname": "GWETE",
+  "first_name": "SIMBARASHE",
+  "birth_date": "15.04.67",
+  "gender": "female"
+}

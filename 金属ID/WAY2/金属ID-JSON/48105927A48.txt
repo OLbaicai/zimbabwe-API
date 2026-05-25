@@ -1,0 +1,7 @@
+{
+  "id_number": "48105927A48",
+  "surname": "KAGWIRO",
+  "first_name": "TSITSI",
+  "birth_date": "01.02.1984",
+  "gender": "female"
+}

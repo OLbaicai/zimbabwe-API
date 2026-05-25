@@ -1,0 +1,6 @@
+{
+  "id_number": "01/59122250P45",
+  "surname": "MAGUMA",
+  "first_name": "WARAIDZO",
+  "birth_date": "27/08/1989"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "49013122G49",
+  "surname": "NYAMHERE",
+  "first_name": "WATSON WELLINGTON",
+  "birth_date": "25.06.66",
+  "gender": "male"
+}

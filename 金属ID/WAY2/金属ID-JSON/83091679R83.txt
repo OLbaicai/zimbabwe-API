@@ -1,0 +1,7 @@
+{
+  "id_number": "83091679R83",
+  "surname": "MASIKATI",
+  "first_name": "PRISCA",
+  "birth_date": "04.01.1977",
+  "gender": "female"
+}

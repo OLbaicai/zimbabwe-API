@@ -1,0 +1,6 @@
+{
+  "id_number": "01/63591199S15",
+  "surname": "KWACHARA",
+  "first_name": "ITAI",
+  "birth_date": "24/05/1971"
+}

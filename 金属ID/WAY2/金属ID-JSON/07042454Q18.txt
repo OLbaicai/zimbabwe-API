@@ -1,0 +1,7 @@
+{
+  "id_number": "07042454Q18",
+  "surname": "CHIGIJI",
+  "first_name": "BEAUTY",
+  "birth_date": "20.03.68",
+  "gender": "female"
+}

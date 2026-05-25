@@ -1,0 +1,7 @@
+{
+  "id_number": "63312153G63",
+  "surname": "MATENJA",
+  "first_name": "SYDNEY KENNETH",
+  "birth_date": "17.04.59",
+  "gender": "male"
+}

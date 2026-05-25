@@ -1,0 +1,7 @@
+{
+  "id_number": "85007364H85",
+  "surname": "MUPASO",
+  "first_name": "LASTON",
+  "birth_date": "14.06.1978",
+  "gender": "male"
+}

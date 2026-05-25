@@ -1,0 +1,7 @@
+{
+  "id_number": "83121567D83",
+  "surname": "MEKE",
+  "first_name": "EMILIA",
+  "birth_date": "11.04.1981",
+  "gender": "female"
+}

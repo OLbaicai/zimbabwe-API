@@ -1,0 +1,7 @@
+{
+  "id_number": "83053079K04",
+  "surname": "GWANGWAVA",
+  "first_name": "RETINA NYENGETERAI",
+  "birth_date": "05.04.70",
+  "gender": "female"
+}

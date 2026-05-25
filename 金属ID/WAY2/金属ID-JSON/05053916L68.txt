@@ -1,0 +1,7 @@
+{
+  "id_number": "05053916L68",
+  "surname": "MANJEMGENJA",
+  "first_name": "INNDCENT",
+  "birth_date": "24.04.71",
+  "gender": "male"
+}

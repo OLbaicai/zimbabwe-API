@@ -1,0 +1,7 @@
+{
+  "id_number": "29112734A66",
+  "surname": "MAJACHANI",
+  "first_name": "RUTH",
+  "birth_date": "04.07.67",
+  "gender": "female"
+}

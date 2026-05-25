@@ -1,0 +1,7 @@
+{
+  "id_number": "42084950K80",
+  "surname": "CHIKUKU",
+  "first_name": "MARGARET",
+  "birth_date": "25.7.50",
+  "gender": "female"
+}

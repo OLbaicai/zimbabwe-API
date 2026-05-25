@@ -1,0 +1,7 @@
+{
+  "id_number": "32102900F03",
+  "surname": "NHETE",
+  "first_name": "GIFT",
+  "birth_date": "25.06.73",
+  "gender": "male"
+}

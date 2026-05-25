@@ -1,0 +1,7 @@
+{
+  "id_number": "45063132P45",
+  "surname": "CHARLIE",
+  "first_name": "OFIYASI",
+  "birth_date": "07.05.71",
+  "gender": "male"
+}

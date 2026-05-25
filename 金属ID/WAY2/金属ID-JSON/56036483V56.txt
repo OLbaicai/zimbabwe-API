@@ -1,0 +1,7 @@
+{
+  "id_number": "56036483V56",
+  "surname": "NGWENYA",
+  "first_name": "KHULEKANI",
+  "birth_date": "06.01.72",
+  "gender": "male"
+}

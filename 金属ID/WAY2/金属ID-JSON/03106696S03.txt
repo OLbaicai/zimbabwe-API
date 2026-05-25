@@ -1,0 +1,7 @@
+{
+  "id_number": "03106696S03",
+  "surname": "PHIRI",
+  "first_name": "GAMUCHIRAI",
+  "birth_date": "01.05.1977",
+  "gender": "female"
+}

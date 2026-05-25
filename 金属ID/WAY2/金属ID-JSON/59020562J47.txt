@@ -1,0 +1,7 @@
+{
+  "id_number": "14019756P45",
+  "surname": "MANGODA",
+  "first_name": "STEPHEN ITAI",
+  "birth_date": "15.04.57",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "75310431N75",
+  "surname": "MWADZIWANA",
+  "first_name": "PHEOBE",
+  "birth_date": "25.05.76",
+  "gender": "female"
+}

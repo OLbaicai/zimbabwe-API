@@ -1,0 +1,7 @@
+{
+  "id_number": "48050829L48",
+  "surname": "KADIKI",
+  "first_name": "GUMISAI",
+  "birth_date": "17.09.69",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "14100691M14",
+  "surname": "MADUME",
+  "first_name": "DANISON",
+  "birth_date": "02.07.74",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "03041586W03",
+  "surname": "HCVE",
+  "first_name": "ROPAFADZAI",
+  "birth_date": "30.11.73",
+  "gender": "female"
+}

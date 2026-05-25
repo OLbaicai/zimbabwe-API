@@ -1,0 +1,7 @@
+{
+  "id_number": "14087271A12",
+  "surname": "NYENGERAI",
+  "first_name": "MECHIA",
+  "birth_date": "25.01.70",
+  "gender": "female"
+}

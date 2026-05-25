@@ -1,0 +1,7 @@
+{
+  "id_number": "63126632D42",
+  "surname": "MAKUMBIRA",
+  "first_name": "KENNEDY",
+  "birth_date": "18.4.52",
+  "gender": "male"
+}

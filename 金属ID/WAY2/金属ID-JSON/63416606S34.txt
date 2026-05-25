@@ -1,0 +1,7 @@
+{
+  "id_number": "63416606S34",
+  "surname": "NYAKWAVA",
+  "first_name": "GOLDEN GEORGE",
+  "birth_date": "21.10.53",
+  "gender": "male"
+}

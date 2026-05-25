@@ -1,0 +1,7 @@
+{
+  "id_number": "08381444P28",
+  "surname": "MAFU",
+  "first_name": "SIKHUPHUKJ",
+  "birth_date": "25.4.61",
+  "gender": "male"
+}

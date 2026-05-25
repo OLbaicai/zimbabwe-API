@@ -1,0 +1,7 @@
+{
+  "id_number": "63538830V48",
+  "surname": "KATIVU",
+  "first_name": "JULIET ELIZABETH",
+  "birth_date": "21.05.53",
+  "gender": ""
+}

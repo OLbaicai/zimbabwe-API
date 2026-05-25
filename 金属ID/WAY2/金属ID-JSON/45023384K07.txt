@@ -1,0 +1,7 @@
+{
+  "id_number": "45023384K07",
+  "surname": "MAVHIMIRA",
+  "first_name": "JAISON",
+  "birth_date": "12.2.57",
+  "gender": "male"
+}

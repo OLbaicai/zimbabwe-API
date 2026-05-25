@@ -1,0 +1,7 @@
+{
+  "id_number": "08229398X05",
+  "surname": "MOYO",
+  "first_name": "LENIAS ELECK",
+  "birth_date": "08.08.62",
+  "gender": "male"
+}

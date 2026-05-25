@@ -1,0 +1,7 @@
+{
+  "id_number": "13111618H44",
+  "surname": "USIKU",
+  "first_name": "LORITY",
+  "birth_date": "30.04.74",
+  "gender": "female"
+}

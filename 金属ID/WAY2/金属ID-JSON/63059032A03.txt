@@ -1,0 +1,7 @@
+{
+  "id_number": "63059032A03",
+  "surname": "ZHOU",
+  "first_name": "ZVINAVASHE",
+  "birth_date": "4.8.59",
+  "gender": "male"
+}

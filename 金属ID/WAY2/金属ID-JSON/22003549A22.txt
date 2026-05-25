@@ -1,0 +1,7 @@
+{
+  "id_number": "22003549A22",
+  "surname": "GWCNHA",
+  "first_name": "MOSES",
+  "birth_date": "08.08.47",
+  "gender": "male"
+}

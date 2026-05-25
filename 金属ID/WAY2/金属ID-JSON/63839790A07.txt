@@ -1,0 +1,7 @@
+{
+  "id_number": "63839790A07",
+  "surname": "CHITURIKE",
+  "first_name": "VICTRICIA",
+  "birth_date": "21.07.73",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "71060470Q71",
+  "surname": "BANDERA",
+  "first_name": "GRACE",
+  "birth_date": "05.05.55",
+  "gender": "female"
+}

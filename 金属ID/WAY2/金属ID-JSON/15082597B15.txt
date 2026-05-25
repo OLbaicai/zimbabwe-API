@@ -1,0 +1,7 @@
+{
+  "id_number": "15082597B15",
+  "surname": "CHIPARA",
+  "first_name": "KENZEKI",
+  "birth_date": "24.04.68",
+  "gender": "male"
+}

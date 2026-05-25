@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632559981W18",
+  "surname": "MANJENGWA",
+  "first_name": "SHAMMAH",
+  "birth_date": "30/09/2007"
+}

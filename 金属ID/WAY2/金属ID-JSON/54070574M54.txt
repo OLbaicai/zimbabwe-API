@@ -1,0 +1,7 @@
+{
+  "id_number": "54070574M54",
+  "surname": "TSAMWISI",
+  "first_name": "MIRRIAM",
+  "birth_date": "10.08.1979",
+  "gender": "female"
+}

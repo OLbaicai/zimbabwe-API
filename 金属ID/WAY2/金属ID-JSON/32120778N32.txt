@@ -1,0 +1,7 @@
+{
+  "id_number": "32120778N32",
+  "surname": "YONDOLOKANI",
+  "first_name": "FAIDES",
+  "birth_date": "05.03.1978",
+  "gender": "female"
+}

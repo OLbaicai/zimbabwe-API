@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631214834E34",
+  "surname": "MAGADU",
+  "first_name": "NHAMO",
+  "birth_date": "06/08/1980"
+}

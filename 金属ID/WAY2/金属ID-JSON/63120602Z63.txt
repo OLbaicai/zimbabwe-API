@@ -1,0 +1,7 @@
+{
+  "id_number": "63120602Z63",
+  "surname": "CHINGORE",
+  "first_name": "FANUEL",
+  "birth_date": "22.12.59",
+  "gender": "male"
+}

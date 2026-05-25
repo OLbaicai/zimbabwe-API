@@ -1,0 +1,7 @@
+{
+  "id_number": "08533060P18",
+  "surname": "ZIMIDZI",
+  "first_name": "PATRICK",
+  "birth_date": "07.11.68",
+  "gender": "male"
+}

@@ -1,0 +1,6 @@
+{
+  "id_number": "01/75273542R50",
+  "surname": "MUDEDE",
+  "first_name": "WONDER",
+  "birth_date": "08/06/1974"
+}

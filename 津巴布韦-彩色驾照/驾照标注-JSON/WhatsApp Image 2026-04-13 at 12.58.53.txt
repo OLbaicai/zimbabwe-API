@@ -1,0 +1,6 @@
+{
+  "id_number": "01/66080042G66",
+  "surname": "SITHOLE",
+  "first_name": "NGQHABUTO PHAINOS",
+  "birth_date": "06/03/1989"
+}

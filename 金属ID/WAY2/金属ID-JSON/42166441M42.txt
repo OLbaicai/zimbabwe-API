@@ -1,0 +1,7 @@
+{
+  "id_number": "42166441M42",
+  "surname": "TANDI",
+  "first_name": "ELLAH TAMBUDZAI",
+  "birth_date": "03.09.1979",
+  "gender": "female"
+}

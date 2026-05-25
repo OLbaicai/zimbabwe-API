@@ -1,0 +1,7 @@
+{
+  "id_number": "63489943G63",
+  "surname": "KANGOYA",
+  "first_name": "BERNARD",
+  "birth_date": "1.1.48",
+  "gender": "male"
+}

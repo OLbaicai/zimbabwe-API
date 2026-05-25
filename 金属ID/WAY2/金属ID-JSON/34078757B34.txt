@@ -1,0 +1,7 @@
+{
+  "id_number": "34078757B34",
+  "surname": "SANYAMAHWE",
+  "first_name": "NEVER",
+  "birth_date": "11.05.1983",
+  "gender": "male"
+}

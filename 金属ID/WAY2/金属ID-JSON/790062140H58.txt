@@ -1,0 +1,7 @@
+{
+  "id_number": "79062140H58",
+  "surname": "MALITHANO",
+  "first_name": "FIKILI",
+  "birth_date": "17.08.54",
+  "gender": "male"
+}

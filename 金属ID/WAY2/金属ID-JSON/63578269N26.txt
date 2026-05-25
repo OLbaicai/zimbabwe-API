@@ -1,0 +1,7 @@
+{
+  "id_number": "63578269N26",
+  "surname": "MUPARURI",
+  "first_name": "NEVER",
+  "birth_date": "24.10.68",
+  "gender": "male"
+}

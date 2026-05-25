@@ -1,0 +1,7 @@
+{
+  "id_number": "67020900D03",
+  "surname": "MOYO",
+  "first_name": "ZINDOGA MAJOR",
+  "birth_date": "19.9.46",
+  "gender": "male"
+}

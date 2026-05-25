@@ -1,0 +1,18 @@
+评估时间: 2026-05-19 17:23:26
+预测目录: D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\WAY2\金属ID-MAIN-1-1-DEAL-OUT
+标签目录: D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\WAY2\金属ID-JSON
+样本数(可解析标签): 765
+缺失预测文件数: 0
+预测 JSON 解析失败数: 0
+标签 JSON 解析失败数(未计入样本): 0
+
+五字段准确率:
+- id_number: 74.51% (570/765)
+- surname: 77.25% (591/765)
+- first_name: 76.73% (587/765)
+- birth_date: 87.06% (666/765)
+- gender: 84.58% (647/765)
+
+总体平均准确率(按字段微平均): 80.03% (3061/3825)
+
+错误总数: 764

@@ -1,0 +1,7 @@
+{
+  "id_number": "59010384W86",
+  "surname": "HIYANI",
+  "first_name": "RAYSON",
+  "birth_date": "23.07.76",
+  "gender": "male"
+}

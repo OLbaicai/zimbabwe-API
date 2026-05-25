@@ -1,0 +1,7 @@
+{
+  "id_number": "86006110B86",
+  "surname": "MUSARA",
+  "first_name": "EDWIN",
+  "birth_date": "19.07.1978",
+  "gender": "male"
+}

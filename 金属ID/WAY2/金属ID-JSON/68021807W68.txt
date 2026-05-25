@@ -1,0 +1,7 @@
+{
+  "id_number": "68021807W68",
+  "surname": "CHINGOZA",
+  "first_name": "ROSEMARY",
+  "birth_date": "13.06.69",
+  "gender": "female"
+}

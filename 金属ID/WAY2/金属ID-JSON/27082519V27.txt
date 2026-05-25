@@ -1,0 +1,7 @@
+{
+  "id_number": "27082519V27",
+  "surname": "MAKURA",
+  "first_name": "CHARITY",
+  "birth_date": "07.05.68",
+  "gender": "female"
+}

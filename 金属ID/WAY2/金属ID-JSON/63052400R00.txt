@@ -1,0 +1,7 @@
+{
+  "id_number": "63052400R00",
+  "surname": "STEWART",
+  "first_name": "JENNIFER JOANNA",
+  "birth_date": "21.11.48",
+  "gender": "female"
+}

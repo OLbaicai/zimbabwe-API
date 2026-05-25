@@ -1,0 +1,7 @@
+{
+  "id_number": "23015574C23",
+  "surname": "TUNHAUKO",
+  "first_name": "MANUEL",
+  "birth_date": "06.06.1973",
+  "gender": "male"
+}

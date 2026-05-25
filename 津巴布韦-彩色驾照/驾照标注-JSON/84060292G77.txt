@@ -1,0 +1,6 @@
+{
+  "id_number": "01/84060292G77",
+  "surname": "MBERENGWANI",
+  "first_name": "WELLINGTON NYASHA",
+  "birth_date": "20/03/1997"
+}

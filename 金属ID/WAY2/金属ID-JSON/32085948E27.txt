@@ -1,0 +1,7 @@
+{
+  "id_number": "32085948E27",
+  "surname": "NANO",
+  "first_name": "ROSE",
+  "birth_date": "27.08.69",
+  "gender": "male"
+}

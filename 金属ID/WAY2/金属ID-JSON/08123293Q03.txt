@@ -1,0 +1,7 @@
+{
+  "id_number": "08123293Q03",
+  "surname": "HOVE",
+  "first_name": "ALIPHIOS",
+  "birth_date": "21.6.42",
+  "gender": "male"
+}

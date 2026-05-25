@@ -1,0 +1,7 @@
+{
+  "id_number": "71006994P71",
+  "surname": "CHIUTARE",
+  "first_name": "NORRIS",
+  "birth_date": "20.05.60",
+  "gender": "female"
+}

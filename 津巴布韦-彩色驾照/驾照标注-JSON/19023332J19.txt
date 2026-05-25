@@ -1,0 +1,6 @@
+{
+  "id_number": "01/19023332J19",
+  "surname": "NKALA",
+  "first_name": "SIFISO",
+  "birth_date": "16/11/1979"
+}

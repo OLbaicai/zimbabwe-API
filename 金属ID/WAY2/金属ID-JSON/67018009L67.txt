@@ -1,0 +1,7 @@
+{
+  "id_number": "67018009L67",
+  "surname": "MAFUNGA",
+  "first_name": "MARBLE",
+  "birth_date": "25.12.64",
+  "gender": "female"
+}

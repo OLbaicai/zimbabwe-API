@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632315988L00",
+  "surname": "ERASMUS",
+  "first_name": "DEVON NICO",
+  "birth_date": "12/03/2003"
+}

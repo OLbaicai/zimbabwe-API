@@ -1,0 +1,7 @@
+{
+  "id_number": "63372250E47",
+  "surname": "KASEKE",
+  "first_name": "NANCY",
+  "birth_date": "11.11.47",
+  "gender": "female"
+}

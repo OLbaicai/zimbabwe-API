@@ -1,0 +1,6 @@
+{
+  "id_number": "01/132001125H83",
+  "surname": "RUKWAVA",
+  "first_name": "PANASHE WILLIE",
+  "birth_date": "05/11/2000"
+}

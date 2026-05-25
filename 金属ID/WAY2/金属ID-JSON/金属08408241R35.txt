@@ -1,0 +1,7 @@
+{
+  "id_number": "08408241R35",
+  "surname": "NXUMALO",
+  "first_name": "SHARON",
+  "birth_date": "8.8.58",
+  "gender": "female"
+}

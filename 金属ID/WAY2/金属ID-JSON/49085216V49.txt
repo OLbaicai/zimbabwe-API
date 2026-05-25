@@ -1,0 +1,7 @@
+{
+  "id_number": "49085216V49",
+  "surname": "CHIMVKWAIRA",
+  "first_name": "SHGOTER",
+  "birth_date": "11.10.1983",
+  "gender": "female"
+}

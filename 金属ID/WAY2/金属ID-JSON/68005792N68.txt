@@ -1,0 +1,7 @@
+{
+  "id_number": "68005792N68",
+  "surname": "MURENGA",
+  "first_name": "NEDIA",
+  "birth_date": "1.1.58",
+  "gender": "female"
+}

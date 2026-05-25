@@ -1,0 +1,7 @@
+{
+  "id_number": "83085812P83",
+  "surname": "SHOKO",
+  "first_name": "SALLY",
+  "birth_date": "13.07.74",
+  "gender": "female"
+}

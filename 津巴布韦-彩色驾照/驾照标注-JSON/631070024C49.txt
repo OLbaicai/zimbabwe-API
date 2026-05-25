@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631070024C49",
+  "surname": "MACHARANGWANDA",
+  "first_name": "TICHAONA",
+  "birth_date": "28/02/1978"
+}

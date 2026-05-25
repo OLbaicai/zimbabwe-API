@@ -1,0 +1,7 @@
+{
+  "id_number": "12048657Q12",
+  "surname": "DUVE",
+  "first_name": "ECWAPD",
+  "birth_date": "10.10.73",
+  "gender": "male"
+}

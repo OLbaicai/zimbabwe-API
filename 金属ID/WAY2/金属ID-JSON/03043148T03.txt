@@ -1,0 +1,7 @@
+{
+  "id_number": "03043148T03",
+  "surname": "RUVENGD",
+  "first_name": "TABITA",
+  "birth_date": "16.6.46",
+  "gender": "female"
+}

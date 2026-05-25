@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631581017E27",
+  "surname": "MAFUKIDZE",
+  "first_name": "CLARA",
+  "birth_date": "02/05/1998"
+}

@@ -1,0 +1,6 @@
+{
+  "id_number": "01/63801734K43",
+  "surname": "MASHOZHERA",
+  "first_name": "SIPELILE JUBILIE",
+  "birth_date": "26/06/1973"
+}

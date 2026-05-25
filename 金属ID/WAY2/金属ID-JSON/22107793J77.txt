@@ -1,0 +1,7 @@
+{
+  "id_number": "22107793J77",
+  "surname": "ZINHAKA",
+  "first_name": "LAWRENCE",
+  "birth_date": "07.08.64",
+  "gender": "male"
+}

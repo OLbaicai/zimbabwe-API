@@ -1,0 +1,7 @@
+{
+  "id_number": "27135364K27",
+  "surname": "MHANDA",
+  "first_name": "SPIWE",
+  "birth_date": "27.08.1976",
+  "gender": "female"
+}

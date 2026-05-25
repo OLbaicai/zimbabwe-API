@@ -1,0 +1,7 @@
+{
+  "id_number": "75272517C75",
+  "surname": "MUKODZA",
+  "first_name": "JUNIOR",
+  "birth_date": "12.11.73",
+  "gender": "female"
+}

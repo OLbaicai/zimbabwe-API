@@ -1,0 +1,7 @@
+{
+  "id_number": "70091685N70",
+  "surname": "CHIGOMARARWA",
+  "first_name": "PATRONELLA",
+  "birth_date": "26.03.1972",
+  "gender": "female"
+}

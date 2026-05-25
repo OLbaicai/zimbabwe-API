@@ -1,0 +1,7 @@
+{
+  "id_number": "27025410V27",
+  "surname": "BONDA",
+  "first_name": "LETTYWIN",
+  "birth_date": "6.6.56",
+  "gender": "female"
+}

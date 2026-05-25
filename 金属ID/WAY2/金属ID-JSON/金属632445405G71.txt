@@ -1,0 +1,7 @@
+{
+  "id_number": "18063109N18",
+  "surname": "MASHINGAIDZE",
+  "first_name": "BRIGHTON",
+  "birth_date": "26.10.70",
+  "gender": "male"
+}

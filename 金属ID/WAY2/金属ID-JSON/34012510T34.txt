@@ -1,0 +1,7 @@
+{
+  "id_number": "34012510T34",
+  "surname": "SIMBI",
+  "first_name": "KENNETH",
+  "birth_date": "12.3.58",
+  "gender": "male"
+}

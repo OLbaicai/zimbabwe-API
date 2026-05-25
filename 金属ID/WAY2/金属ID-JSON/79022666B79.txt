@@ -1,0 +1,7 @@
+{
+  "id_number": "79022666B79",
+  "surname": "SITHOLE",
+  "first_name": "ALFRED SIANGOMA",
+  "birth_date": "24.5.53",
+  "gender": ""
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "08394908Z83",
+  "surname": "BETA",
+  "first_name": "CHENGETO",
+  "birth_date": "30.11.55",
+  "gender": "female"
+}

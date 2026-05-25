@@ -1,0 +1,7 @@
+{
+  "id_number": "29111514Z12",
+  "surname": "MAZOWA",
+  "first_name": "DZOSAI",
+  "birth_date": "28.05.57",
+  "gender": "female"
+}

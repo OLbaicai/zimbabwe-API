@@ -1,0 +1,7 @@
+{
+  "id_number": "63550682C07",
+  "surname": "MAKARANGA",
+  "first_name": "SHUVAI",
+  "birth_date": "03.12.68",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "24064212B26",
+  "surname": "NDUNA",
+  "first_name": "ANNASTANCIA",
+  "birth_date": "4.11.51",
+  "gender": "female"
+}

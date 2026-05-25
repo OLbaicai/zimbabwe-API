@@ -1,0 +1,7 @@
+{
+  "id_number": "631252684W42",
+  "surname": "NYATSOMA",
+  "first_name": "EVANGELISTA",
+  "birth_date": "08.09.1984",
+  "gender": "female"
+}

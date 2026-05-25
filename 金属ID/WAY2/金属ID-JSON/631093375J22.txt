@@ -1,0 +1,7 @@
+{
+  "id_number": "631093375J22",
+  "surname": "MUKAVAIDZI",
+  "first_name": "NYARADZO",
+  "birth_date": "08.02.1979",
+  "gender": "female"
+}

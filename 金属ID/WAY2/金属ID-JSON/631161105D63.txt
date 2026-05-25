@@ -1,0 +1,7 @@
+{
+  "id_number": "631161105D63",
+  "surname": "TAPERA",
+  "first_name": "SELINA",
+  "birth_date": "17.03.1976",
+  "gender": "female"
+}

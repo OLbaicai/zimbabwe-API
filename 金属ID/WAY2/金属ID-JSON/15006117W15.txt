@@ -1,0 +1,7 @@
+{
+  "id_number": "15006117W15",
+  "surname": "MUGAURI",
+  "first_name": "EFFIE",
+  "birth_date": "24.03.56",
+  "gender": "female"
+}

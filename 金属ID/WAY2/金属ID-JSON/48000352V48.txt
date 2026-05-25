@@ -1,0 +1,7 @@
+{
+  "id_number": "48000352V48",
+  "surname": "MUKARAKATE",
+  "first_name": "SHEDDY",
+  "birth_date": "17.01.60",
+  "gender": "male"
+}

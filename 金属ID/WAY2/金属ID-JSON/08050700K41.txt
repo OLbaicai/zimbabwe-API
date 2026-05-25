@@ -1,0 +1,7 @@
+{
+  "id_number": "08050700K41",
+  "surname": "MAHLANGU",
+  "first_name": "MOFFAT",
+  "birth_date": "17.2.60",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "04071086S04",
+  "surname": "MAMBARA",
+  "first_name": "MUJERE",
+  "birth_date": "08.06.73",
+  "gender": "male"
+}

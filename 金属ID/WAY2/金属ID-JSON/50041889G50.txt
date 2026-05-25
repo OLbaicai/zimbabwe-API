@@ -1,0 +1,7 @@
+{
+  "id_number": "50041889G50",
+  "surname": "MAKUNIKE",
+  "first_name": "RUTH",
+  "birth_date": "10.06.59",
+  "gender": "female"
+}

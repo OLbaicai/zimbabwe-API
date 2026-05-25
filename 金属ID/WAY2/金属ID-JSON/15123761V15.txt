@@ -1,0 +1,7 @@
+{
+  "id_number": "47029803A47",
+  "surname": "TAENGWA",
+  "first_name": "CHENJERAYI",
+  "birth_date": "12.1.60",
+  "gender": ""
+}

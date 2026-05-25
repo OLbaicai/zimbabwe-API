@@ -1,0 +1,7 @@
+{
+  "id_number": "63356819G42",
+  "surname": "CHAYITWA",
+  "first_name": "NHAMO CLEVER",
+  "birth_date": "17.1.51",
+  "gender": "male"
+}

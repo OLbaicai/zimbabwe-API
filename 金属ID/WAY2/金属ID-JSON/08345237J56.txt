@@ -1,0 +1,7 @@
+{
+  "id_number": "08345237J56",
+  "surname": "MOYO",
+  "first_name": "GQAJIWE",
+  "birth_date": "20.06.1961",
+  "gender": "female"
+}

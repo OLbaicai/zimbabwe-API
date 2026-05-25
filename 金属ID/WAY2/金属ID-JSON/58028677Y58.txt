@@ -1,0 +1,7 @@
+{
+  "id_number": "58028677Y58",
+  "surname": "NGOZO",
+  "first_name": "PETER",
+  "birth_date": "12.12.54",
+  "gender": "male"
+}

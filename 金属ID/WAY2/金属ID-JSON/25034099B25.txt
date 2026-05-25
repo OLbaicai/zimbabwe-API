@@ -1,0 +1,7 @@
+{
+  "id_number": "25034099B25",
+  "surname": "MOTSI",
+  "first_name": "VIOLAH",
+  "birth_date": "12.02.67",
+  "gender": "female"
+}

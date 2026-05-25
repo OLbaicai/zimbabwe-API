@@ -1,0 +1,6 @@
+{
+  "id_number": "01/28065350P28",
+  "surname": "MALIWA",
+  "first_name": "SHEPHERD",
+  "birth_date": "18/07/1974"
+}

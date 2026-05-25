@@ -1,0 +1,7 @@
+{
+  "id_number": "12014977G12",
+  "surname": "MAKONYE",
+  "first_name": "FUNGAI",
+  "birth_date": "10.11.40",
+  "gender": "female"
+}

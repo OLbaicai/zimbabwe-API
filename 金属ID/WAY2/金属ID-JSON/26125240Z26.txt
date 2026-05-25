@@ -1,0 +1,7 @@
+{
+  "id_number": "26125240Z26",
+  "surname": "MUSHAYAVANHU",
+  "first_name": "GAMUCHIRAI",
+  "birth_date": "16.04.1979",
+  "gender": "female"
+}

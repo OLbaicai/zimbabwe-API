@@ -1,0 +1,7 @@
+{
+  "id_number": "631095625E42",
+  "surname": "NEMAWUNGWE",
+  "first_name": "DAVID",
+  "birth_date": "21.01.1980",
+  "gender": "male"
+}

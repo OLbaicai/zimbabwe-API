@@ -1,0 +1,7 @@
+{
+  "id_number": "25065354Z25",
+  "surname": "MUSUNGATE",
+  "first_name": "FAITH",
+  "birth_date": "06.04.1981",
+  "gender": "female"
+}

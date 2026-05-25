@@ -1,0 +1,7 @@
+{
+  "id_number": "53040720F53",
+  "surname": "MABHENA",
+  "first_name": "KHUMBULANI",
+  "birth_date": "18.06.1975",
+  "gender": "female"
+}

@@ -1,0 +1,6 @@
+{
+  "id_number": "01/58226149R66",
+  "surname": "MAWERE",
+  "first_name": "RONALD MUGUTI",
+  "birth_date": "22/12/1985"
+}

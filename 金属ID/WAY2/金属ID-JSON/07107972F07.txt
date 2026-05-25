@@ -1,0 +1,7 @@
+{
+  "id_number": "07107972F07",
+  "surname": "MAGADZIRE",
+  "first_name": "LOVENESS",
+  "birth_date": "26.04.1977",
+  "gender": "female"
+}

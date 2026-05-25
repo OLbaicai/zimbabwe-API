@@ -1,0 +1,7 @@
+{
+  "id_number": "43020649Z43",
+  "surname": "LIKOMBA",
+  "first_name": "LUCIA",
+  "birth_date": "03.04.58",
+  "gender": "female"
+}

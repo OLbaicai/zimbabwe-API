@@ -1,0 +1,7 @@
+{
+  "id_number": "77048310M77",
+  "surname": "PARIDZIRA",
+  "first_name": "LANGTON",
+  "birth_date": "05.05.71",
+  "gender": "male"
+}

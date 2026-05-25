@@ -1,0 +1,6 @@
+{
+  "id_number": "01/752008219M00",
+  "surname": "DOBROPOULOS",
+  "first_name": "KKALIOPE RACHEL",
+  "birth_date": "15/11/2000"
+}

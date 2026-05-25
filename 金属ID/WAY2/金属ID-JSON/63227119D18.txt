@@ -1,0 +1,7 @@
+{
+  "id_number": "63227119D18",
+  "surname": "MASHONGANYIKA",
+  "first_name": "FELIX MUSEKIWA",
+  "birth_date": "25.2.55",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "13171722N13",
+  "surname": "DHLIWAYO",
+  "first_name": "EDMORE",
+  "birth_date": "22.04.1981",
+  "gender": "male"
+}

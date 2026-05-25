@@ -1,0 +1,7 @@
+{
+  "id_number": "04084886S04",
+  "surname": "CHIBA",
+  "first_name": "TAKANGOFA",
+  "birth_date": "15.05.76",
+  "gender": "male"
+}

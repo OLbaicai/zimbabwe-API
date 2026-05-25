@@ -1,0 +1,7 @@
+{
+  "id_number": "66026387L66",
+  "surname": "MUPUPUNI",
+  "first_name": "HLANGANO",
+  "birth_date": "31.05.73",
+  "gender": "male"
+}

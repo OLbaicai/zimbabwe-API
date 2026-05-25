@@ -1,0 +1,7 @@
+{
+  "id_number": "56039063Z56",
+  "surname": "NCUBE",
+  "first_name": "SILINDENI",
+  "birth_date": "16.12.74",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "63944081K75",
+  "surname": "KUREYA",
+  "first_name": "CHIPO",
+  "birth_date": "10.04.69",
+  "gender": "female"
+}

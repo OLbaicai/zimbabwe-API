@@ -1,0 +1,7 @@
+{
+  "id_number": "02061902X02",
+  "surname": "MOYO",
+  "first_name": "MUSA",
+  "birth_date": "04.07.1981",
+  "gender": "male"
+}

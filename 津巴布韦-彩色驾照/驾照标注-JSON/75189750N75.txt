@@ -1,0 +1,6 @@
+{
+  "id_number": "01/75189750N75",
+  "surname": "BHACHI",
+  "first_name": "AMBISAI",
+  "birth_date": "09/08/1968"
+}

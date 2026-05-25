@@ -1,0 +1,7 @@
+{
+  "id_number": "12035834C22",
+  "surname": "MKARANGA",
+  "first_name": "GRACE",
+  "birth_date": "26.09.67",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "631219391H67",
+  "surname": "DENDERE",
+  "first_name": "CHARLES",
+  "birth_date": "11.02.1982",
+  "gender": "male"
+}

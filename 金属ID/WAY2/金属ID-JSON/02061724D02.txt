@@ -1,0 +1,7 @@
+{
+  "id_number": "02061724D02",
+  "surname": "SIBANDA",
+  "first_name": "MBUDZISENI",
+  "birth_date": "01.08.1980",
+  "gender": "female"
+}

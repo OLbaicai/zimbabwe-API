@@ -1,0 +1,6 @@
+{
+  "id_number": "01/42257621W34",
+  "surname": "CHARANGWA",
+  "first_name": "CLIVE NGONIDZASHE",
+  "birth_date": "28/02/1991"
+}

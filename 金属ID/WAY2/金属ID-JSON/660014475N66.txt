@@ -1,0 +1,7 @@
+{
+  "id_number": "66014475N66",
+  "surname": "MUTSVANGA",
+  "first_name": "CHRISIA",
+  "birth_date": "29.12.67",
+  "gender": "female"
+}

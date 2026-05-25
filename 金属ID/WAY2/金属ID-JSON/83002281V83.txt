@@ -1,0 +1,7 @@
+{
+  "id_number": "83002281V83",
+  "surname": "VUSHE",
+  "first_name": "SVODAI",
+  "birth_date": "15.04.65",
+  "gender": "female"
+}

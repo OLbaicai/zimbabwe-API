@@ -1,0 +1,7 @@
+{
+  "id_number": "47037156S47",
+  "surname": "CHIDEWU",
+  "first_name": "MARIA",
+  "birth_date": "12.1.49",
+  "gender": "female"
+}

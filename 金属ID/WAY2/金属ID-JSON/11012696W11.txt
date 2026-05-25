@@ -1,0 +1,7 @@
+{
+  "id_number": "11012696W11",
+  "surname": "NGOSE",
+  "first_name": "SAIDI KASEMBE",
+  "birth_date": "11.6.34",
+  "gender": "male"
+}

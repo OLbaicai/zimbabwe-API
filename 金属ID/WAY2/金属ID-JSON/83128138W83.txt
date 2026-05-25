@@ -1,0 +1,7 @@
+{
+  "id_number": "83128138W83",
+  "surname": "MUSHANGARI",
+  "first_name": "LINIA",
+  "birth_date": "10.08.1982",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "14015585F26",
+  "surname": "GODI",
+  "first_name": "MOSES TIMOTHY",
+  "birth_date": "20.8.52",
+  "gender": "male"
+}

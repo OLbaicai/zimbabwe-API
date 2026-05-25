@@ -1,0 +1,7 @@
+{
+  "id_number": "28091132N28",
+  "surname": "DUBE",
+  "first_name": "LESANG",
+  "birth_date": "23.05.1979",
+  "gender": "male"
+}

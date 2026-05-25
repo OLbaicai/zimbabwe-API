@@ -1,0 +1,7 @@
+{
+  "id_number": "54002997J54",
+  "surname": "DHAMBARARA",
+  "first_name": "ENNIE",
+  "birth_date": "4.4.55",
+  "gender": "female"
+}

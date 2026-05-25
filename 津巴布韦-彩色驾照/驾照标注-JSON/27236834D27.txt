@@ -1,0 +1,6 @@
+{
+  "id_number": "01/27236834D27",
+  "surname": "MASAIRE",
+  "first_name": "TINOTENDA",
+  "birth_date": "17/09/2000"
+}

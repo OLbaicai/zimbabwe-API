@@ -1,0 +1,7 @@
+{
+  "id_number": "58081126H58",
+  "surname": "HLAMINI",
+  "first_name": "LAIZAH",
+  "birth_date": "5.7.51",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "63284509J80",
+  "surname": "CHIGADA",
+  "first_name": "DAVID DINDINGWE",
+  "birth_date": "12.3.50",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "79056792V06",
+  "surname": "MIMPANDE",
+  "first_name": "SETBUDE",
+  "birth_date": "17.1.65",
+  "gender": "female"
+}

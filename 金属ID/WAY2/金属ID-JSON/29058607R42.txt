@@ -1,0 +1,7 @@
+{
+  "id_number": "29058607R42",
+  "surname": "CHETSE",
+  "first_name": "ERNEST",
+  "birth_date": "28.03.61",
+  "gender": "male"
+}

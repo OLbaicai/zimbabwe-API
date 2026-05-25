@@ -1,0 +1,6 @@
+{
+  "id_number": "01/292000048F42",
+  "surname": "MUKARO",
+  "first_name": "BRIGHTON",
+  "birth_date": "22/06/1984"
+}

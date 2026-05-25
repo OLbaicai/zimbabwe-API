@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631587847D07",
+  "surname": "CHIKWANGWANI",
+  "first_name": "CHALLENGE",
+  "birth_date": "26/12/1996"
+}

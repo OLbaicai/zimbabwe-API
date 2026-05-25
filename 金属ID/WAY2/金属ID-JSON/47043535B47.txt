@@ -1,0 +1,7 @@
+{
+  "id_number": "47043535B47",
+  "surname": "GORORO",
+  "first_name": "BENHILDA MAKAONESO",
+  "birth_date": "16.2.58",
+  "gender": "female"
+}

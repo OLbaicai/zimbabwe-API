@@ -1,0 +1,7 @@
+{
+  "id_number": "59047828W49",
+  "surname": "MATARE",
+  "first_name": "OWEN",
+  "birth_date": "27.07.1981",
+  "gender": "male"
+}

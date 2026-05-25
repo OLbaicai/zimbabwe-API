@@ -1,0 +1,7 @@
+{
+  "id_number": "04008660N04",
+  "surname": "MADYIRA",
+  "first_name": "PASAI",
+  "birth_date": "22.08.68",
+  "gender": "female"
+}

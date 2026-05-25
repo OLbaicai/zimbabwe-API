@@ -1,0 +1,7 @@
+{
+  "id_number": "04023436Z04",
+  "surname": "TASARIRA",
+  "first_name": "ENGEDZAYI",
+  "birth_date": "10.02.54",
+  "gender": "female"
+}

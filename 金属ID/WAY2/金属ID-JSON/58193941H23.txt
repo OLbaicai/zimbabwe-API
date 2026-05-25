@@ -1,0 +1,7 @@
+{
+  "id_number": "58193941H23",
+  "surname": "TAZIVEYI",
+  "first_name": "PRISCA",
+  "birth_date": "06.06.1980",
+  "gender": "female"
+}

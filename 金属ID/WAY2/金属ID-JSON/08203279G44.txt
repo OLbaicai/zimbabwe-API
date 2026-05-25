@@ -1,0 +1,7 @@
+{
+  "id_number": "08203279G44",
+  "surname": "CHIYIKE",
+  "first_name": "HANDSON",
+  "birth_date": "10.10.1960",
+  "gender": "male"
+}

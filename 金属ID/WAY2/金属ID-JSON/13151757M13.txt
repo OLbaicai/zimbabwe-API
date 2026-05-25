@@ -1,0 +1,7 @@
+{
+  "id_number": "13151757M13",
+  "surname": "MHLANGA",
+  "first_name": "PAMELLAH",
+  "birth_date": "20.08.1980",
+  "gender": "female"
+}

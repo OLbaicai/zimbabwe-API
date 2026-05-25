@@ -1,0 +1,7 @@
+{
+  "id_number": "83080292P83",
+  "surname": "MUCHIVAMI",
+  "first_name": "TASUNUNGURWA",
+  "birth_date": "10.01.73",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "29097419D07",
+  "surname": "VIRIRI",
+  "first_name": "NYASHA",
+  "birth_date": "21.12.60",
+  "gender": "male"
+}

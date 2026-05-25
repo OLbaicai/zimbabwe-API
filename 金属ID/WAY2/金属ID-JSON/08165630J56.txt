@@ -1,0 +1,7 @@
+{
+  "id_number": "08165630J56",
+  "surname": "SEBELE",
+  "first_name": "NOMAZULU",
+  "birth_date": "30.09.1961",
+  "gender": "female"
+}

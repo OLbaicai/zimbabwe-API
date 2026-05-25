@@ -1,0 +1,7 @@
+{
+  "id_number": "63851058Y45",
+  "surname": "KARURU",
+  "first_name": "JOEL",
+  "birth_date": "23.04.73",
+  "gender": "male"
+}

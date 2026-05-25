@@ -1,0 +1,7 @@
+{
+  "id_number": "68058938F68",
+  "surname": "CHOKORERA",
+  "first_name": "SHAINAYI",
+  "birth_date": "16.07.1978",
+  "gender": "female"
+}

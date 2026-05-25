@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632947850S75",
+  "surname": "MANGUNO",
+  "first_name": "WADZANAI TRISH",
+  "birth_date": "19/10/2003"
+}

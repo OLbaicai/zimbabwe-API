@@ -1,0 +1,6 @@
+{
+  "id_number": "01/42143611X42",
+  "surname": "SHANDIRWA",
+  "first_name": "DAVISON TAFIRAPASI",
+  "birth_date": "15/02/1974"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "75343443W75",
+  "surname": "ZIMUNYA",
+  "first_name": "BARBRA",
+  "birth_date": "29.07.1979",
+  "gender": "female"
+}

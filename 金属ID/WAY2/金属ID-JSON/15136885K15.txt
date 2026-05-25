@@ -1,0 +1,7 @@
+{
+  "id_number": "15136885K15",
+  "surname": "MASAWI",
+  "first_name": "ELLEN",
+  "birth_date": "21.01.1983",
+  "gender": "female"
+}

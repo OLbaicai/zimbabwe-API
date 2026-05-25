@@ -1,0 +1,7 @@
+{
+  "id_number": "08196182S29",
+  "surname": "NDLOVU",
+  "first_name": "PRISCILLA",
+  "birth_date": "02.02.1968",
+  "gender": "female"
+}

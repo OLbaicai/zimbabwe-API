@@ -1,0 +1,6 @@
+{
+  "id_number": "01/27143732F27",
+  "surname": "MAKONI",
+  "first_name": "SAMSON",
+  "birth_date": "14/10/1978"
+}

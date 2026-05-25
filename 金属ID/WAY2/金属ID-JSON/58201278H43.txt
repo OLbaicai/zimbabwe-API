@@ -1,0 +1,7 @@
+{
+  "id_number": "58201278H43",
+  "surname": "MUSHURE",
+  "first_name": "LLOYD",
+  "birth_date": "07.08.1980",
+  "gender": "male"
+}

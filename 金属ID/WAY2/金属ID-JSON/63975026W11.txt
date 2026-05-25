@@ -1,0 +1,7 @@
+{
+  "id_number": "63975026W11",
+  "surname": "MUSHAYWARO",
+  "first_name": "THOMAAS",
+  "birth_date": "30.11.1973",
+  "gender": "male"
+}

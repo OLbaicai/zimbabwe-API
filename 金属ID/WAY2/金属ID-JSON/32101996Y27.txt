@@ -1,0 +1,7 @@
+{
+  "id_number": "32101996Y27",
+  "surname": "GUNDANI",
+  "first_name": "BRIGHTON",
+  "birth_date": "11.05.77",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "04045144V04",
+  "surname": "MACHINGAMBI",
+  "first_name": "MARIET",
+  "birth_date": "26.08.66",
+  "gender": "female"
+}

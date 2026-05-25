@@ -1,0 +1,7 @@
+{
+  "id_number": "75095260G75",
+  "surname": "BONDE",
+  "first_name": "CHARLES",
+  "birth_date": "12.7.57",
+  "gender": "male"
+}

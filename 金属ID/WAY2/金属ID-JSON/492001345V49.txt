@@ -1,0 +1,7 @@
+{
+  "id_number": "68004158M61",
+  "surname": "CHITSUN",
+  "first_name": "JOHN",
+  "birth_date": "18.9.53",
+  "gender": "male"
+}

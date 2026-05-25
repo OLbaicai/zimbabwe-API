@@ -1,0 +1,7 @@
+{
+  "id_number": "54061706Y12",
+  "surname": "CHOGA",
+  "first_name": "VHUNZAI",
+  "birth_date": "05.10.1968",
+  "gender": "female"
+}

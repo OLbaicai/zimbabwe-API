@@ -1,0 +1,7 @@
+{
+  "id_number": "631000861A47",
+  "surname": "CHITAWU",
+  "first_name": "KABUSHMAN",
+  "birth_date": "27.03.1969",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "14098941K44",
+  "surname": "MWASHAIRENYI",
+  "first_name": "TSITSI",
+  "birth_date": "01.02.74",
+  "gender": "female"
+}

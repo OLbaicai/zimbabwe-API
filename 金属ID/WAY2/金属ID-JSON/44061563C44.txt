@@ -1,0 +1,7 @@
+{
+  "id_number": "44061563C44",
+  "surname": "MASIYA",
+  "first_name": "COLLEN",
+  "birth_date": "07.01.73",
+  "gender": "male"
+}

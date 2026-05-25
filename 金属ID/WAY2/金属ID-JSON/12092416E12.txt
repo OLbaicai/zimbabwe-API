@@ -1,0 +1,7 @@
+{
+  "id_number": "12092416E12",
+  "surname": "GWANDIREGERA",
+  "first_name": "BENSON",
+  "birth_date": "15.11.1981",
+  "gender": ""
+}

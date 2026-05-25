@@ -1,0 +1,7 @@
+{
+  "id_number": "67101719A67",
+  "surname": "GANYANI",
+  "first_name": "TAURAI",
+  "birth_date": "28.05.1980",
+  "gender": "female"
+}

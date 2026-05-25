@@ -1,0 +1,7 @@
+{
+  "id_number": "14006656A83",
+  "surname": "PASIPAMIRE",
+  "first_name": "AGNES",
+  "birth_date": "16.11.58",
+  "gender": "female"
+}

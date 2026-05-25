@@ -1,0 +1,7 @@
+{
+  "id_number": "63873941W00",
+  "surname": "PATEL",
+  "first_name": "USHA",
+  "birth_date": "12.11.55",
+  "gender": "female"
+}

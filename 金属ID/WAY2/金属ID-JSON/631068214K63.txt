@@ -1,0 +1,7 @@
+{
+  "id_number": "631068214K63",
+  "surname": "MWENDOFAMBA",
+  "first_name": "RUDO",
+  "birth_date": "27.09.1975",
+  "gender": "female"
+}

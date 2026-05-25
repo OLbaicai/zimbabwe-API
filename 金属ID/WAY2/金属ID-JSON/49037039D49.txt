@@ -1,0 +1,7 @@
+{
+  "id_number": "49037039D49",
+  "surname": "KAMBAMBAIR",
+  "first_name": "SHUPIKAI",
+  "birth_date": "04.03.77",
+  "gender": "female"
+}

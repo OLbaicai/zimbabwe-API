@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632864360S45",
+  "surname": "NYAMURARADZA",
+  "first_name": "TINOTENDA",
+  "birth_date": "25/10/1996"
+}

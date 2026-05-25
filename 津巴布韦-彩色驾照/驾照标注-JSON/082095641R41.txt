@@ -1,0 +1,6 @@
+{
+  "id_number": "01/082095641R41",
+  "surname": "NDLOVU",
+  "first_name": "DENZEL THAMU",
+  "birth_date": "18/03/2003"
+}

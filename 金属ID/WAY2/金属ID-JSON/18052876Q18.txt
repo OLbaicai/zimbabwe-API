@@ -1,0 +1,7 @@
+{
+  "id_number": "18052876Q18",
+  "surname": "CHIUNDURA",
+  "first_name": "GRACE",
+  "birth_date": "15.07.1979",
+  "gender": "female"
+}

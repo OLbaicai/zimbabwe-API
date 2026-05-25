@@ -1,0 +1,7 @@
+{
+  "id_number": "75265298F75",
+  "surname": "MUKWECHENI",
+  "first_name": "LEE",
+  "birth_date": "10.08.69",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "34010154H34",
+  "surname": "NEMATOMBO",
+  "first_name": "JUDITH",
+  "birth_date": "10.8.62",
+  "gender": "female"
+}

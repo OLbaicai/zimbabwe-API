@@ -1,0 +1,7 @@
+{
+  "id_number": "08329466R50",
+  "surname": "MANGATI",
+  "first_name": "JANET",
+  "birth_date": "02.03.58",
+  "gender": "female"
+}

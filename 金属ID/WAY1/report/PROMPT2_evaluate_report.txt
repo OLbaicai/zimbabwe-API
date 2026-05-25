@@ -1,0 +1,3465 @@
+============================================================
+  PROMPT2 字段准确率（共 765 条）
+============================================================
+  id_number        484/765  [############--------]   63.3%
+  surname          514/765  [#############-------]   67.2%
+  first_name       481/765  [############--------]   62.9%
+  birth_date       649/765  [################----]   84.8%
+  gender           357/765  [#########-----------]   46.7%
+  --------------------------------------------------
+  Overall         2485/3825  [############--------]   65.0%
+============================================================
+
+Errors: 1340
+============================================================
+  Error Details (1340 total)
+============================================================
+  02035993K02.jpg  [gender]  label=female  ocr=male
+  02061724D02.jpg  [gender]  label=female  ocr=male
+  03041586W03.jpg  [id_number]  label=03041586W03  ocr=03041276J03
+  03041586W03.jpg  [surname]  label=HCVE  ocr=RODNEY
+  03041586W03.jpg  [first_name]  label=ROPAFADZAI  ocr=MATARUSE
+  03041586W03.jpg  [gender]  label=female  ocr=male
+  03041622K03.jpg  [first_name]  label=RUNGMIRAI  ocr=RUNGAMIRAI
+  03041622K03.jpg  [gender]  label=female  ocr=male
+  03043148T03.jpg  [id_number]  label=03043148T03  ocr=30043148T03
+  03043148T03.jpg  [surname]  label=RUVENGD  ocr=RUVENGU
+  03043148T03.jpg  [gender]  label=female  ocr=male
+  03052051W00.jpg  [id_number]  label=03052051W00  ocr=30052051W00
+  03057351G03.jpg  [id_number]  label=03057351G03  ocr=03057351603
+  03057351G03.jpg  [gender]  label=female  ocr=male
+  03076159A03.jpg  [id_number]  label=03076159A03  ocr=03041276J03
+  03076159A03.jpg  [birth_date]  label=23.11.72  ocr=12.01.1961
+  03076159A03.jpg  [gender]  label=female  ocr=male
+  03105570T03.jpg  [id_number]  label=03105570T03  ocr=83105570T03
+  03105570T03.jpg  [surname]  label=HOVE  ocr=RODNEY
+  03105570T03.jpg  [first_name]  label=TARISAI  ocr=JAMES
+  03105570T03.jpg  [birth_date]  label=30.08.1981  ocr=12.01.1961
+  03105570T03.jpg  [gender]  label=female  ocr=male
+  03106696S03.jpg  [id_number]  label=03106696S03  ocr=30106696S03
+  03106696S03.jpg  [surname]  label=PHIRI  ocr=GAMUCHIRAI
+  03106696S03.jpg  [first_name]  label=GAMUCHIRAI  ocr=PHIRI
+  03106696S03.jpg  [gender]  label=female  ocr=male
+  03117162T03.jpg  [id_number]  label=03117162T03  ocr=30117162T03
+  03117162T03.jpg  [gender]  label=female  ocr=male
+  032006772T03.jpg  [first_name]  label=MEMORY  ocr=NDUNA
+  032006772T03.jpg  [gender]  label=female  ocr=male
+  04008660N04.jpg  [gender]  label=female  ocr=male
+  04023436Z04.jpg  [gender]  label=female  ocr=male
+  04042138C04.jpg  [id_number]  label=04042138C04  ocr=04042133C04
+  04042138C04.jpg  [first_name]  label=CECILIAH  ocr=CEFTIZAH
+  04042138C04.jpg  [gender]  label=female  ocr=male
+  04045144V04.jpg  [gender]  label=female  ocr=male
+  04054344V04.jpg  [id_number]  label=04054344V04  ocr=04053741111
+  04054344V04.jpg  [surname]  label=MATONHODZE  ocr=SHARAJ
+  04054344V04.jpg  [first_name]  label=SHARAI  ocr=MATONHOODZE
+  04054344V04.jpg  [gender]  label=female  ocr=M
+  04056682L04.jpg  [gender]  label=female  ocr=male
+  04057057T04.jpg  [id_number]  label=04057057T04  ocr=57057104C11
+  04057057T04.jpg  [surname]  label=MATOREVHU  ocr=MATOREVTH
+  04057057T04.jpg  [gender]  label=female  ocr=male
+  04057281M04.jpg  [first_name]  label=MOSES FUNGIRAI  ocr=MOSES
+  04062050W09.jpg  [id_number]  label=04062050W09  ocr=04062050W04
+  04062050W09.jpg  [gender]  label=female  ocr=male
+  04062822K04.jpg  [gender]  label=female  ocr=male
+  04069040T04.jpg  [id_number]  label=04069040T04  ocr=04069040T
+  04071086S04.jpg  [id_number]  label=04071086S04  ocr=04071086S
+  04071086S04.jpg  [surname]  label=MAMBARA  ocr=MANBARA
+  04071086S04.jpg  [birth_date]  label=08.06.73  ocr=05.06.73
+  04072245C04.jpg  [surname]  label=DEKESA  ocr=DE KESA
+  04072245C04.jpg  [first_name]  label=ELIAS  ocr=EL IAS
+  04080654S04.jpg  [id_number]  label=04080654S04  ocr=04080654604
+  04080654S04.jpg  [first_name]  label=LEVY  ocr=CHOWE
+  04087816C04.jpg  [id_number]  label=04087816C04  ocr=40087818C04
+  04087816C04.jpg  [birth_date]  label=06.02.1977  ocr=05.02.1977
+  04109501Y18.jpg  [gender]  label=female  ocr=male
+  050029007L05.jpg  [id_number]  label=050029007L05  ocr=05029007L05
+  050029007L05.jpg  [gender]  label=female  ocr=male
+  05007554S68.jpg  [gender]  label=female  ocr=male
+  05030359F05.jpg  [birth_date]  label=4.1.66  ocr=1.1.65
+  05030359F05.jpg  [gender]  label=female  ocr=male
+  05036314D05.jpg  [id_number]  label=05036314D05  ocr=05036314005
+  05036314D05.jpg  [first_name]  label=EDMORE  ocr=EDHORE
+  05051545J45.jpg  [surname]  label=CHIMUNDA  ocr=KANDEYA
+  05051545J45.jpg  [first_name]  label=CLEVER  ocr=BINDURA
+  05053916L68.jpg  [surname]  label=MANJEMGENJA  ocr=MANJENGENJA
+  05053916L68.jpg  [first_name]  label=INNDCENT  ocr=INNOCENT
+  05062809C05.jpg  [gender]  label=female  ocr=male
+  05069754B05.jpg  [id_number]  label=05069754B05  ocr=02033711E02
+  05069754B05.jpg  [surname]  label=MUHUKUSA  ocr=RODNEY
+  05069754B05.jpg  [first_name]  label=DADIRAI  ocr=JAMES
+  05069754B05.jpg  [birth_date]  label=20.03.1969  ocr=12.01.1961
+  05069754B05.jpg  [gender]  label=female  ocr=male
+  06035118K06.jpg  [gender]  label=female  ocr=male
+  06109127E06.jpg  [gender]  label=female  ocr=male
+  07004953D07.jpg  [gender]  label=female  ocr=male
+  07041352S07.jpg  [id_number]  label=07041352S07  ocr=03041276J03
+  07041352S07.jpg  [surname]  label=HARUNAVAMWE  ocr=RODNEY
+  07041352S07.jpg  [first_name]  label=SERINA  ocr=JAMES
+  07041352S07.jpg  [birth_date]  label=08.02.68  ocr=12.01.1961
+  07041352S07.jpg  [gender]  label=female  ocr=male
+  07042454Q18.jpg  [id_number]  label=07042454Q18  ocr=07042454018
+  07042454Q18.jpg  [first_name]  label=BEAUTY  ocr=CHIVHU
+  07042454Q18.jpg  [gender]  label=female  ocr=male
+  07064939F07.jpg  [gender]  label=female  ocr=male
+  07069659L07.jpg  [gender]  label=female  ocr=M
+  07071638M07.jpg  [id_number]  label=07071638M07  ocr=03041276J03
+  07071638M07.jpg  [surname]  label=PUSHWAYA  ocr=BURERA
+  07071638M07.jpg  [first_name]  label=MACHIVEYI  ocr=TAMA
+  07071638M07.jpg  [gender]  label=female  ocr=male
+  07089760K07.jpg  [id_number]  label=07089760K07  ocr=07089760M
+  07089760K07.jpg  [first_name]  label=MOMBAI  ocr=KOMSAI
+  07090697D07.jpg  [id_number]  label=07090697D07  ocr=07090697007
+  07090697D07.jpg  [surname]  label=MAPARANYANGA  ocr=G
+  07090697D07.jpg  [first_name]  label=MANDIZVIDZA  ocr=MAPARANYANGA
+  07099966D07.jpg  [gender]  label=female  ocr=male
+  07105713A07.jpg  [id_number]  label=07105713A07  ocr=0710571307C
+  07105713A07.jpg  [birth_date]  label=15.06.1978  ocr=19.06.1978
+  07105713A07.jpg  [gender]  label=female  ocr=male
+  07107972F07.jpg  [id_number]  label=07107972F07  ocr=71079726F07
+  07107972F07.jpg  [first_name]  label=LOVENESS  ocr=MAGAZINE
+  07107972F07.jpg  [birth_date]  label=26.04.1977  ocr=04. 19. 1977
+  07107972F07.jpg  [gender]  label=female  ocr=male
+  07140779Q07.jpg  [id_number]  label=07140779Q07  ocr=07140779007
+  07140779Q07.jpg  [surname]  label=CHITENDERE  ocr=ZENDA
+  07140779Q07.jpg  [first_name]  label=MUNYARADZI  ocr=EJHERA
+  08034661B04.jpg  [id_number]  label=08034661B04  ocr=37289
+  08034661B04.jpg  [surname]  label=VENGERE  ocr=KRAAL
+  08050700K41.jpg  [id_number]  label=08050700K41  ocr=09050700K41
+  08068592H08.jpg  [surname]  label=MASUKU  ocr=CHARLES
+  08068592H08.jpg  [first_name]  label=CHARLES  ocr=MASUKU
+  08115598B27.jpg  [gender]  label=female  ocr=male
+  08123293Q03.jpg  [id_number]  label=08123293Q03  ocr=08123293003
+  08130021D53.jpg  [id_number]  label=08130021D53  ocr=08130021053
+  08130021D53.jpg  [gender]  label=female  ocr=male
+  08156804Q28.jpg  [id_number]  label=08156804Q28  ocr=08156804G28
+  08165630J56.jpg  [gender]  label=female  ocr=male
+  08189145T08.jpg  [surname]  label=NDIWENT  ocr=NDTWENT
+  08189145T08.jpg  [first_name]  label=WELLOSI  ocr=WELLOST
+  08189145T08.jpg  [birth_date]  label=15.7.59  ocr=15. 7.59C
+  08196182S29.jpg  [gender]  label=female  ocr=male
+  08208732J38.jpg  [surname]  label=MOYO  ocr=MOYD
+  08208732J38.jpg  [gender]  label=female  ocr=male
+  082103921R12.jpg  [gender]  label=female  ocr=male
+  08221076B47.jpg  [id_number]  label=08221076B47  ocr=0822076847C
+  08233413L08.jpg  [birth_date]  label=12.8.60  ocr=12.8.1961
+  08233413L08.jpg  [gender]  label=female  ocr=male
+  082335079A12.jpg  [id_number]  label=35017024G35  ocr=35017024G
+  082335079A12.jpg  [gender]  label=female  ocr=M
+  08248342N26.jpg  [id_number]  label=08248342N26  ocr=D8248342N2
+  08248342N26.jpg  [surname]  label=QADZIRA  ocr=SUNGAI
+  08248342N26.jpg  [first_name]  label=DELIWE  ocr=MATCHO
+  08248342N26.jpg  [gender]  label=female  ocr=male
+  08255100J39.jpg  [id_number]  label=08255100J39  ocr=U8255100J39
+  08255100J39.jpg  [surname]  label=DUBE  ocr=JUBE
+  08255909N21.jpg  [birth_date]  label=15.12.16  ocr=15.12.46
+  08255909N21.jpg  [gender]  label=female  ocr=male
+  08272230D08.jpg  [id_number]  label=08272230D08  ocr=0871901
+  08272230D08.jpg  [birth_date]  label=12.07.1958  ocr=12.07.1956
+  08316781D35.jpg  [id_number]  label=08316781D35  ocr=033167810
+  08316781D35.jpg  [gender]  label=female  ocr=male
+  08329466R50.jpg  [id_number]  label=08329466R50  ocr=08329466N50
+  08329466R50.jpg  [gender]  label=female  ocr=male
+  08345237J56.jpg  [surname]  label=MOYO  ocr=MOYD
+  08345237J56.jpg  [gender]  label=female  ocr=male
+  08351026B56.jpg  [surname]  label=TABONGWANA  ocr=TABUNGWANA
+  08351026B56.jpg  [gender]  label=female  ocr=male
+  08365699A42.jpg  [id_number]  label=08365699A42  ocr=08365699A4C
+  08365699A42.jpg  [surname]  label=MUISIPA  ocr=MUTSIPA
+  08365699A42.jpg  [gender]  label=female  ocr=male
+  08367179J70.jpg  [surname]  label=CHIGUMBU  ocr=REGINA RUDORUNESU
+  08367179J70.jpg  [first_name]  label=RFGINA RUDORUNESU  ocr=CHIGUMBU
+  08367179J70.jpg  [gender]  label=female  ocr=male
+  08381444P28.jpg  [id_number]  label=08381444P28  ocr=083914442B
+  08381444P28.jpg  [first_name]  label=SIKHUPHUKJ  ocr=SIKHUPHUXT
+  08381444P28.jpg  [birth_date]  label=25.4.61  ocr=25.04.2010
+  08381534M29.jpg  [gender]  label=female  ocr=male
+  08394908Z83.jpg  [surname]  label=BETA  ocr=CHENGETO
+  08394908Z83.jpg  [first_name]  label=CHENGETO  ocr=BETA
+  08394908Z83.jpg  [gender]  label=female  ocr=male
+  08428423D21.jpg  [id_number]  label=08428423D21  ocr=084284230
+  08428423D21.jpg  [surname]  label=SIBANDA  ocr=FIBANDA
+  08428423D21.jpg  [gender]  label=female  ocr=male
+  08448976T39.jpg  [id_number]  label=08448976T39  ocr=48976139C11
+  08448976T39.jpg  [surname]  label=MOYO  ocr=MCYO
+  08448976T39.jpg  [gender]  label=female  ocr=male
+  08478885D56.jpg  [id_number]  label=08478885D56  ocr=08478885056
+  08478885D56.jpg  [surname]  label=KHUPE  ocr=KHOPE
+  08478885D56.jpg  [birth_date]  label=27.08.55  ocr=27.06.55
+  08478885D56.jpg  [gender]  label=female  ocr=male
+  08489376G29.jpg  [gender]  label=female  ocr=male
+  08499829T79.jpg  [surname]  label=MTHUPHA  ocr=ALBERT
+  08499829T79.jpg  [first_name]  label=ALBERT  ocr=MTHUPHA
+  08504455X56.jpg  [gender]  label=female  ocr=male
+  08532140P00.jpg  [first_name]  label=VANESSA DELPHINE  ocr=VANESSA
+  08532140P00.jpg  [gender]  label=female  ocr=male
+  08533060P18.jpg  [id_number]  label=08533060P18  ocr=9853306CP18
+  08533060P18.jpg  [surname]  label=ZIMIDZI  ocr=ZIMBABWE
+  08533060P18.jpg  [first_name]  label=PATRICK  ocr=ZIMIDZI
+  08533060P18.jpg  [birth_date]  label=07.11.68  ocr=17.11.68
+  08556999K53.jpg  [gender]  label=female  ocr=male
+  08568335G41.jpg  [surname]  label=DLODLO  ocr=THOMAS
+  08568335G41.jpg  [first_name]  label=MIQA  ocr=LUPANE
+  08568335G41.jpg  [gender]  label=female  ocr=male
+  08570361J28.jpg  [id_number]  label=08570361J28  ocr=08570351J28
+  08570361J28.jpg  [gender]  label=female  ocr=male
+  08581761A39.jpg  [surname]  label=NCUBE  ocr=KWEHLA
+  08581761A39.jpg  [first_name]  label=SIBONAKALISO  ocr=MATOBO
+  08581761A39.jpg  [gender]  label=female  ocr=male
+  08588704X28.jpg  [first_name]  label=SIBONILE  ocr=SIONILE
+  08588704X28.jpg  [gender]  label=female  ocr=male
+  08602815K19.jpg  [surname]  label=MLILD  ocr=MLILO
+  08602815K19.jpg  [first_name]  label=SIHLEZI  ocr=SIMLEZI
+  08602815K19.jpg  [gender]  label=female  ocr=male
+  08610387Q42.jpg  [gender]  label=female  ocr=male
+  08627413X18.jpg  [id_number]  label=08627413X18  ocr=627413X18CI
+  08627413X18.jpg  [first_name]  label=GAILY MAKANYUMWA  ocr=CAILY MARANYUMWA
+  08627413X18.jpg  [birth_date]  label=19.02.1983  ocr=02.1980
+  08627413X18.jpg  [gender]  label=female  ocr=male
+  08630195W19.jpg  [id_number]  label=08630195W19  ocr=08630195110
+  08630195W19.jpg  [surname]  label=MPOFU  ocr=DANIEL
+  08630195W19.jpg  [first_name]  label=BULISIWE  ocr=UMZINGWANE
+  08630195W19.jpg  [gender]  label=female  ocr=male
+  08655025K26.jpg  [id_number]  label=26019856B26  ocr=26019856426
+  08655025K26.jpg  [surname]  label=MUTENHERI  ocr=MUTENHERT
+  08655025K26.jpg  [birth_date]  label=25.6.43  ocr=26-01-1961
+  08656103G08.jpg  [id_number]  label=08656103G08  ocr=08656103608
+  08656103G08.jpg  [surname]  label=SAKALK  ocr=SAKALA
+  08661898F07.jpg  [surname]  label=CHIDHAKWA  ocr=CHIOHAKWA
+  08661898F07.jpg  [gender]  label=female  ocr=male
+  08668985J83.jpg  [gender]  label=female  ocr=male
+  08670403A32.jpg  [id_number]  label=08670403A32  ocr=08670403A
+  08676697R28.jpg  [id_number]  label=08676697R28  ocr=0867697820
+  08676697R28.jpg  [surname]  label=NCUBE  ocr=MARUPE
+  08676697R28.jpg  [first_name]  label=NKOSIYAZI  ocr=NGOSTYAZI
+  08676697R28.jpg  [birth_date]  label=08.02.1976  ocr=08.03.1976
+  08679077D73.jpg  [id_number]  label=08679077D73  ocr=2691301
+  08679077D73.jpg  [surname]  label=NCUBE  ocr=MATUPULA
+  08679077D73.jpg  [first_name]  label=SIBOMISIWE  ocr=TSHOLOTSH
+  08679077D73.jpg  [birth_date]  label=06.02.1977  ocr=06.03.1977
+  08679077D73.jpg  [gender]  label=female  ocr=male
+  08688954P29.jpg  [id_number]  label=08688954P29  ocr=0888954P29C
+  08695324N24.jpg  [gender]  label=female  ocr=male
+  08718947Q44.jpg  [id_number]  label=08718947Q44  ocr=08710947G44
+  08765410T42.jpg  [id_number]  label=08765410T42  ocr=08785410142
+  08765410T42.jpg  [surname]  label=MAGAYA  ocr=MICHAEL
+  08765410T42.jpg  [first_name]  label=MICHAEL MUNYARADZI  ocr=MAGAYA
+  08798285C21.jpg  [surname]  label=SIBANDA  ocr=SIBAVDA
+  08798285C21.jpg  [gender]  label=female  ocr=male
+  11012696W11.jpg  [first_name]  label=SAIDI KASEMBE  ocr=SAIDI
+  11026302K11.jpg  [gender]  label=  ocr=male
+  11030028K11.jpg  [id_number]  label=11030028K11  ocr=11030028K
+  11030028K11.jpg  [first_name]  label=TEBETH PHIRI  ocr=TEBETH
+  11030028K11.jpg  [gender]  label=female  ocr=male
+  11040359P11.jpg  [surname]  label=MUGARIRI  ocr=CHIPO
+  11040359P11.jpg  [first_name]  label=CHIPO  ocr=MUGARIRI
+  11040359P11.jpg  [gender]  label=female  ocr=male
+  11043355W11.jpg  [surname]  label=ZONDEWA  ocr=ANNAH
+  11043355W11.jpg  [first_name]  label=ANNAH  ocr=ZONDEWA
+  11043355W11.jpg  [birth_date]  label=04.45.1974  ocr=04 05 1974
+  11043355W11.jpg  [gender]  label=female  ocr=male
+  11046240G11.jpg  [gender]  label=female  ocr=male
+  11055932R11.jpg  [birth_date]  label=07.10.1982  ocr=07 10 1982
+  12035834C22.jpg  [gender]  label=female  ocr=male
+  12048657Q12.jpg  [id_number]  label=12048657Q12  ocr=120486570
+  12048657Q12.jpg  [surname]  label=DUVE  ocr=EDWARD
+  12048657Q12.jpg  [first_name]  label=ECWAPD  ocr=DUVE
+  12048657Q12.jpg  [birth_date]  label=10.10.73  ocr=10.1.73
+  12082363C12.jpg  [gender]  label=female  ocr=male
+  12092416E12.jpg  [surname]  label=GWANDIREGERA  ocr=MADZIVA
+  12092416E12.jpg  [first_name]  label=BENSON  ocr=CHIBI
+  12092416E12.jpg  [gender]  label=  ocr=male
+  13010250A13.jpg  [surname]  label=BANGWAYO  ocr=LYTON RINGIRAYI
+  13010250A13.jpg  [first_name]  label=LYTOM RINGIRAYI  ocr=BANGUAYO
+  13021282R13.jpg  [gender]  label=female  ocr=male
+  13024938Q44.jpg  [gender]  label=female  ocr=male
+  13084416Q44.jpg  [id_number]  label=13084416Q44  ocr=13084416044
+  13111618H44.jpg  [gender]  label=female  ocr=male
+  13112212D13.jpg  [id_number]  label=13112212D13  ocr=13112212013
+  13138572F12.jpg  [id_number]  label=13138572F12  ocr=13138572F13
+  13138572F12.jpg  [first_name]  label=CATHRINE  ocr=CATERINE
+  13138572F12.jpg  [gender]  label=female  ocr=male
+  13139699F13.jpg  [id_number]  label=13139699F13  ocr=1313960913
+  13139699F13.jpg  [surname]  label=MAREMUDZE  ocr=RODNEY
+  13139699F13.jpg  [first_name]  label=ZHMAH  ocr=JAMES
+  13139699F13.jpg  [birth_date]  label=23.10.1979  ocr=1972-01-05
+  13139699F13.jpg  [gender]  label=female  ocr=male
+  13148851D13.jpg  [birth_date]  label=20.12.1976  ocr=20 12 1976
+  13148851D13.jpg  [gender]  label=female  ocr=male
+  13151022N13.jpg  [surname]  label=HLATYWAYO  ocr=FAITH
+  13151022N13.jpg  [first_name]  label=FAITH  ocr=MARISETA
+  13151022N13.jpg  [gender]  label=female  ocr=male
+  13151757M13.jpg  [surname]  label=MHLANGA  ocr=PAMELLAH
+  13151757M13.jpg  [first_name]  label=PAMELLAH  ocr=MHLANGA
+  13151757M13.jpg  [gender]  label=female  ocr=male
+  13163659Z13.jpg  [first_name]  label=EVERJOYCE MUNHANGA  ocr=EVERJOYCE
+  13163659Z13.jpg  [birth_date]  label=08.12.1978  ocr=08.12.1972
+  13163659Z13.jpg  [gender]  label=female  ocr=male
+  13167811M13.jpg  [gender]  label=female  ocr=male
+  13171722N13.jpg  [id_number]  label=13171722N13  ocr=1311722N13C
+  13325474K13.jpg  [first_name]  label=SPIWL  ocr=SPIW
+  13325474K13.jpg  [gender]  label=female  ocr=male
+  14006656A83.jpg  [id_number]  label=14006656A83  ocr=14006656483
+  14006656A83.jpg  [surname]  label=PASIPAMIRE  ocr=PASIPAMIR
+  14006656A83.jpg  [birth_date]  label=16.11.58  ocr=16.11.56
+  14006656A83.jpg  [gender]  label=female  ocr=male
+  14016507H04.jpg  [surname]  label=MANYURURE  ocr=MARKO
+  14016507H04.jpg  [first_name]  label=MARKO  ocr=MANYURURE
+  14036290L14.jpg  [surname]  label=MADUME  ocr=MADUWE
+  14036290L14.jpg  [first_name]  label=DANISON  ocr=DAVISON
+  14061861F14.jpg  [gender]  label=female  ocr=M
+  14087271A12.jpg  [surname]  label=NYENGERAI  ocr=N Y E N G E R A I
+  14087271A12.jpg  [gender]  label=female  ocr=male
+  14098941K44.jpg  [surname]  label=MWASHAIRENYI  ocr=M
+  14098941K44.jpg  [first_name]  label=TSITSI  ocr=M
+  14098941K44.jpg  [gender]  label=female  ocr=male
+  14104142N14.jpg  [gender]  label=female  ocr=male
+  14133012T14.jpg  [id_number]  label=14133012T14  ocr=14133072T14
+  14133012T14.jpg  [surname]  label=CHINONO  ocr=NEMANASHI
+  14133012T14.jpg  [first_name]  label=TASMELENI  ocr=CHIREDZI
+  14133012T14.jpg  [gender]  label=female  ocr=male
+  15006117W15.jpg  [surname]  label=MUGAURI  ocr=MUGAUR I
+  15006117W15.jpg  [gender]  label=female  ocr=M
+  15009848B15.jpg  [gender]  label=female  ocr=M
+  15018718S15.jpg  [gender]  label=female  ocr=male
+  15021732T15.jpg  [birth_date]  label=7.4.50  ocr=7·4·50
+  15041520C25.jpg  [surname]  label=MAKORONI  ocr=MAKURONI
+  15041520C25.jpg  [first_name]  label=VONGAI VICTORIA  ocr=VONCAI VICTORIA
+  15041520C25.jpg  [gender]  label=female  ocr=male
+  15082597B15.jpg  [id_number]  label=15082597B15  ocr=15082597B
+  15098101D15.jpg  [id_number]  label=15098101D15  ocr=15098101015
+  15098101D15.jpg  [gender]  label=female  ocr=male
+  15121045S27.jpg  [first_name]  label=AQNES  ocr=AGNES
+  15121045S27.jpg  [gender]  label=  ocr=male
+  15122372K15.jpg  [gender]  label=female  ocr=male
+  15123761V15.jpg  [surname]  label=TAENGWA  ocr=CHENJERAYI
+  15123761V15.jpg  [first_name]  label=CHENJERAYI  ocr=TAENGWA
+  15123761V15.jpg  [gender]  label=  ocr=male
+  15136885K15.jpg  [gender]  label=female  ocr=male
+  15171238A71.jpg  [surname]  label=GUYO  ocr=GUYD
+  15171238A71.jpg  [birth_date]  label=21.08.1981  ocr=21.08.1985
+  15171238A71.jpg  [gender]  label=female  ocr=male
+  152053800T15.jpg  [id_number]  label=21029413G21  ocr=21029413621
+  18028803Z18.jpg  [first_name]  label=NOREEN  ocr=NORFEN
+  18028803Z18.jpg  [gender]  label=female  ocr=male
+  18046837B18.jpg  [id_number]  label=18046837B18  ocr=18016837618
+  18046837B18.jpg  [surname]  label=LIZAMARWP  ocr=KUZANARWO
+  18052876Q18.jpg  [gender]  label=female  ocr=male
+  190016452F19.jpg  [id_number]  label=19015452F19  ocr=19016452F19
+  190016452F19.jpg  [first_name]  label=LANGELIHLF  ocr=LANGELIHLE
+  190016452F19.jpg  [gender]  label=female  ocr=male
+  19002194H73.jpg  [surname]  label=MOYO  ocr=MOYD
+  19002194H73.jpg  [gender]  label=female  ocr=male
+  21024554A21.jpg  [gender]  label=female  ocr=male
+  21030147E21.jpg  [id_number]  label=21030147E21  ocr=21030147E
+  21030147E21.jpg  [surname]  label=NYONI  ocr=THULANI
+  21030147E21.jpg  [first_name]  label=THULANI  ocr=NYONI
+  21032184T21.jpg  [id_number]  label=21032184T21  ocr=21032184121
+  21032184T21.jpg  [first_name]  label=SETHULO  ocr=SETHULD
+  21032184T21.jpg  [gender]  label=female  ocr=male
+  21045408S21.jpg  [gender]  label=female  ocr=male
+  22003549A22.jpg  [id_number]  label=22003549A22  ocr=04004326C04
+  22003549A22.jpg  [surname]  label=GWCNHA  ocr=GRENHA
+  220211565E13.jpg  [birth_date]  label=12.03.1981  ocr=12.03.1984
+  22025140T83.jpg  [surname]  label=CHIKUTU  ocr=LAWRENCE
+  22025140T83.jpg  [first_name]  label=LAWRENCE  ocr=CHIKUTU
+  22029749D21.jpg  [id_number]  label=22029749D21  ocr=220297090
+  22032016S03.jpg  [id_number]  label=22032016S03  ocr=03213201639
+  22032016S03.jpg  [surname]  label=MAKOTOSE  ocr=ZIMBABWE
+  22032016S03.jpg  [first_name]  label=  ocr=None
+  22032016S03.jpg  [birth_date]  label=2.1.59  ocr=None
+  22032016S03.jpg  [gender]  label=  ocr=None
+  22036752Q27.jpg  [id_number]  label=22036752Q27  ocr=22036752027
+  22036752Q27.jpg  [gender]  label=female  ocr=male
+  22048285B22.jpg  [id_number]  label=22048285B22  ocr=22041285B22
+  22048285B22.jpg  [surname]  label=BUNGU  ocr=TAVUYA
+  22048285B22.jpg  [first_name]  label=TAVUYA  ocr=MASVINGO
+  22048285B22.jpg  [birth_date]  label=6.4.46  ocr=6.1.46
+  22060833Q22.jpg  [id_number]  label=22060833Q22  ocr=22060833022
+  22060833Q22.jpg  [first_name]  label=MARIA  ocr=MUTUBUKI
+  22060833Q22.jpg  [birth_date]  label=1.10.51  ocr=None
+  22060833Q22.jpg  [gender]  label=female  ocr=male
+  22117550P22.jpg  [id_number]  label=22117550P22  ocr=22117550P
+  22117550P22.jpg  [gender]  label=female  ocr=male
+  22130614P22.jpg  [id_number]  label=22130614P22  ocr=58198602Z58
+  22148673T22.jpg  [gender]  label=female  ocr=male
+  22151566N27.jpg  [first_name]  label=KRIEAY  ocr=FRITAY
+  22151566N27.jpg  [birth_date]  label=15.06.73  ocr=06.73
+  22167463S22.jpg  [id_number]  label=22167463S22  ocr=22167463622
+  22195518M22.jpg  [id_number]  label=22195518M22  ocr=22195918M22
+  22195518M22.jpg  [first_name]  label=LILIOSA  ocr=LILIDSA
+  22195518M22.jpg  [gender]  label=female  ocr=male
+  23010630D23.jpg  [id_number]  label=23010630D23  ocr=23010630023
+  23010630D23.jpg  [gender]  label=female  ocr=male
+  23015116E23.jpg  [surname]  label=MGWIRA  ocr=MOWIRA
+  23015116E23.jpg  [gender]  label=female  ocr=male
+  23181579S23.jpg  [id_number]  label=58081126H58  ocr=58061126H58
+  23181579S23.jpg  [birth_date]  label=5.7.51  ocr=5/7/54
+  23181579S23.jpg  [gender]  label=female  ocr=male
+  24036743T32.jpg  [gender]  label=female  ocr=male
+  24064212B26.jpg  [id_number]  label=24064212B26  ocr=24064212826
+  24064212B26.jpg  [gender]  label=female  ocr=male
+  25023961G45.jpg  [id_number]  label=25023961G45  ocr=25023961645
+  25023961G45.jpg  [surname]  label=MARASA  ocr=NORMAN
+  25023961G45.jpg  [first_name]  label=NORMAN  ocr=MARASA
+  25023961G45.jpg  [birth_date]  label=15.01.68  ocr=05.01.68
+  25028431Q25.jpg  [id_number]  label=25028431Q25  ocr=250284310
+  25028431Q25.jpg  [surname]  label=MUZAWAZI  ocr=MUZAMAZI
+  25034099B25.jpg  [gender]  label=female  ocr=male
+  25040562B50.jpg  [id_number]  label=25040562B50  ocr=25040562850
+  25040562B50.jpg  [first_name]  label=MARIA LITTW RUTENDO  ocr=MARIA LITT
+  25040562B50.jpg  [gender]  label=female  ocr=male
+  25060474V32.jpg  [first_name]  label=LLOYD  ocr=LOYD
+  25065354Z25.jpg  [gender]  label=female  ocr=male
+  26008282W26.jpg  [gender]  label=female  ocr=male
+  26025435Q26.jpg  [id_number]  label=26025435Q26  ocr=01670026C17
+  26025435Q26.jpg  [surname]  label=MAMINGIER  ocr=MAVINGIRE
+  26025435Q26.jpg  [first_name]  label=KENANIT  ocr=KENANI
+  26083950T26.jpg  [first_name]  label=TAMCNGWA  ocr=TAYENGBA
+  26089758G26.jpg  [id_number]  label=26089758G26  ocr=26089758626
+  26089758G26.jpg  [gender]  label=female  ocr=male
+  26125240Z26.jpg  [gender]  label=female  ocr=male
+  26130041S26.jpg  [gender]  label=female  ocr=male
+  27025410V27.jpg  [gender]  label=female  ocr=male
+  27054586H27.jpg  [surname]  label=MANDEBVU  ocr=CHENJERAI
+  27054586H27.jpg  [first_name]  label=CHENJERAI  ocr=MANDEBVU
+  27060028Y27.jpg  [first_name]  label=MUEARG  ocr=MUEARC
+  27060028Y27.jpg  [gender]  label=female  ocr=male
+  27075149J27.jpg  [id_number]  label=63885843H25  ocr=63885843H
+  27082519V27.jpg  [gender]  label=female  ocr=male
+  27096262H27.jpg  [first_name]  label=AUXIUIA  ocr=AUXIL
+  27096262H27.jpg  [gender]  label=female  ocr=male
+  27121728N27.jpg  [id_number]  label=27121728N27  ocr=27121720802
+  27121728N27.jpg  [first_name]  label=EMERITA  ocr=ETERITA
+  27121728N27.jpg  [gender]  label=female  ocr=male
+  27135364K27.jpg  [birth_date]  label=27.08.1976  ocr=27.03.1976
+  27135364K27.jpg  [gender]  label=female  ocr=male
+  27144023X27.jpg  [birth_date]  label=27.06.1979  ocr=27 06 1979
+  27161408T27.jpg  [surname]  label=SANANGU  ocr=SANANGU ANTHONY
+  27161408T27.jpg  [first_name]  label=ANTHONY  ocr=CHIDONGI MASVINGO
+  28003957H28.jpg  [surname]  label=NCUBE  ocr=BETHUEL
+  28047393W28.jpg  [first_name]  label=SIBONSILE  ocr=SIEONGILE
+  28047393W28.jpg  [gender]  label=female  ocr=male
+  28060189E28.jpg  [first_name]  label=NEVER  ocr=T
+  28082039E28.jpg  [first_name]  label=MAROERT  ocr=MARGERT
+  28082039E28.jpg  [gender]  label=female  ocr=male
+  28088444R28.jpg  [id_number]  label=28088444R28  ocr=20088447628
+  28088444R28.jpg  [birth_date]  label=29.01.1980  ocr=29 01 1980
+  28088444R28.jpg  [gender]  label=female  ocr=male
+  29056827G66.jpg  [surname]  label=MABEZ  ocr=MABEZA
+  29056827G66.jpg  [gender]  label=female  ocr=male
+  29058607R42.jpg  [id_number]  label=29058607R42  ocr=29058607A42
+  29097419D07.jpg  [id_number]  label=29097419D07  ocr=29097419007
+  29097419D07.jpg  [surname]  label=VIRIRI  ocr=VITOIRI
+  29109841F32.jpg  [surname]  label=NGWARIRAYI  ocr=BROUGAR
+  29109841F32.jpg  [first_name]  label=BRIGHTON  ocr=NOWARIRAY
+  29110278F29.jpg  [surname]  label=MPOFU  ocr=EMMA
+  29110278F29.jpg  [first_name]  label=EMMAH  ocr=EMMA
+  29110278F29.jpg  [birth_date]  label=9.10.64  ocr=09.03.64
+  29110278F29.jpg  [gender]  label=female  ocr=male
+  29111514Z12.jpg  [gender]  label=female  ocr=male
+  29112734A66.jpg  [gender]  label=female  ocr=male
+  29125287V44.jpg  [id_number]  label=29125287V44  ocr=29120287V44
+  29125287V44.jpg  [surname]  label=MARINGEHOSI  ocr=MARINGEHOGI
+  29125287V44.jpg  [first_name]  label=ALTCE  ocr=ALICE
+  29125287V44.jpg  [birth_date]  label=08.05.1966  ocr=09.05.1961
+  29125287V44.jpg  [gender]  label=female  ocr=male
+  29129629P45.jpg  [id_number]  label=29129629P45  ocr=29125629P45
+  29129629P45.jpg  [gender]  label=female  ocr=male
+  29137076J58.jpg  [surname]  label=NCUBE  ocr=DINGILWAZI
+  29137076J58.jpg  [first_name]  label=DINGILWAZI  ocr=NCUBE
+  29153938M26.jpg  [surname]  label=MPOFU  ocr=M
+  29153938M26.jpg  [first_name]  label=EUSTINA  ocr=RODNEY
+  29153938M26.jpg  [gender]  label=female  ocr=male
+  29154487J25.jpg  [first_name]  label=KUZVINETSA VIOLET  ocr=KUZVINETSA
+  29154487J25.jpg  [gender]  label=female  ocr=male
+  29155329Z29.jpg  [id_number]  label=29155329Z29  ocr=29155329229
+  29155329Z29.jpg  [first_name]  label=NODETTER  ocr=NOBETTER
+  29155329Z29.jpg  [gender]  label=female  ocr=male
+  29176169B22.jpg  [gender]  label=female  ocr=male
+  29185949G29.jpg  [surname]  label=MUHLAKAIA  ocr=MUHLAKAZA
+  29193242J29.jpg  [surname]  label=NCUBE  ocr=TSHEKELA
+  29193242J29.jpg  [first_name]  label=SITSHENGISO  ocr=GWERU
+  29193242J29.jpg  [gender]  label=female  ocr=male
+  29209985H18.jpg  [id_number]  label=29209985H18  ocr=29209985
+  29209985H18.jpg  [first_name]  label=NDAKAITEI TABETH  ocr=NDAKAITEI
+  29209985H18.jpg  [gender]  label=female  ocr=male
+  29323501V26.jpg  [gender]  label=female  ocr=male
+  32000820Z32.jpg  [id_number]  label=32000820Z32  ocr=320008202
+  32000820Z32.jpg  [surname]  label=KANAMANDARI  ocr=RODRECK
+  32002137F32.jpg  [surname]  label=KATSAMBE  ocr=MATSAMBE
+  32002137F32.jpg  [first_name]  label=MARINA  ocr=KATSAMBE
+  32002137F32.jpg  [birth_date]  label=23.11.49  ocr=23.11.44
+  32002137F32.jpg  [gender]  label=female  ocr=M
+  320063301N26.jpg  [id_number]  label=32063301N26  ocr=32060301N26
+  320063301N26.jpg  [surname]  label=NAVIVI  ocr=MAVIVI
+  320063301N26.jpg  [birth_date]  label=04.04.72  ocr=04.00.72
+  320063301N26.jpg  [gender]  label=female  ocr=male
+  320104785E32.jpg  [surname]  label=ARABI  ocr=ARE
+  320104785E32.jpg  [gender]  label=female  ocr=male
+  32016290P32.jpg  [id_number]  label=32016290P32  ocr=32018200803
+  32027741L18.jpg  [surname]  label=GCNYORA  ocr=CONYORA
+  32027741L18.jpg  [birth_date]  label=29.04.49  ocr=29.04.48
+  32027741L18.jpg  [gender]  label=female  ocr=male
+  32066601A15.jpg  [id_number]  label=32066601A15  ocr=32056601615
+  32066601A15.jpg  [gender]  label=female  ocr=male
+  32083416C14.jpg  [id_number]  label=32083416C14  ocr=320834160
+  32083416C14.jpg  [surname]  label=ZVIREWO  ocr=ZVIRELO
+  32085948E27.jpg  [surname]  label=NANO  ocr=CHEGUTU
+  32085948E27.jpg  [first_name]  label=ROSE  ocr=NANO
+  32102900F03.jpg  [surname]  label=NHETE  ocr=CHIVASA KILCHEGUTU
+  32102900F03.jpg  [first_name]  label=GIFT  ocr=HO EO CO
+  32120778N32.jpg  [gender]  label=female  ocr=male
+  32126958F29.jpg  [first_name]  label=MATRON NOKUTHULA  ocr=MATRON
+  32126958F29.jpg  [gender]  label=female  ocr=male
+  34005759F34.jpg  [first_name]  label=EVANGELICTA  ocr=EVANGELITA
+  34005759F34.jpg  [gender]  label=female  ocr=male
+  34010154H34.jpg  [id_number]  label=34010154H34  ocr=34010154M
+  34010154H34.jpg  [gender]  label=female  ocr=male
+  34012510T34.jpg  [id_number]  label=34012510T34  ocr=340125101
+  34013425N34.jpg  [surname]  label=GOTOGODO  ocr=GOROGODO
+  34013425N34.jpg  [first_name]  label=PAIRICK  ocr=PATRICK
+  34015216K34.jpg  [gender]  label=female  ocr=male
+  34029124C34.jpg  [id_number]  label=34029124C34  ocr=340291240
+  34029124C34.jpg  [birth_date]  label=6.11.65  ocr=6.11.05
+  34029124C34.jpg  [gender]  label=female  ocr=male
+  34032434A34.jpg  [id_number]  label=34032434A34  ocr=34032408403
+  34032434A34.jpg  [surname]  label=NDARANGWA  ocr=BONDE
+  34032434A34.jpg  [first_name]  label=SOLOMON  ocr=NYANGA
+  34039597L34.jpg  [surname]  label=MANDIWANZIRA  ocr=Mandiwangira
+  34039597L34.jpg  [first_name]  label=RUCHIWA  ocr=Mandiwangira
+  34039597L34.jpg  [gender]  label=female  ocr=male
+  34049983A34.jpg  [gender]  label=female  ocr=male
+  34055253D34.jpg  [id_number]  label=34055253D34  ocr=340552530
+  34055253D34.jpg  [surname]  label=CHIMUNDA  ocr=PATRICK
+  34055253D34.jpg  [first_name]  label=PATRICK  ocr=CHIMUND
+  34058214X34.jpg  [gender]  label=female  ocr=male
+  34061184A34.jpg  [surname]  label=NYABUNZE  ocr=INYANGA
+  35002890T35.jpg  [surname]  label=MOYO  ocr=MOYD
+  35002890T35.jpg  [gender]  label=female  ocr=M
+  37006835V38.jpg  [surname]  label=MUPUKUTA  ocr=MUPUKJTA
+  37006835V38.jpg  [birth_date]  label=02.23.71  ocr=02.03.71
+  37026250Y37.jpg  [id_number]  label=37026250Y37  ocr=37026250137
+  37026250Y37.jpg  [first_name]  label=REOERAI  ocr=REGERAI
+  37026250Y37.jpg  [gender]  label=female  ocr=male
+  37077178E06.jpg  [id_number]  label=37077178E37  ocr=37077178E87
+  37077874L37.jpg  [gender]  label=female  ocr=male
+  38009695K38.jpg  [first_name]  label=FRYDAY  ocr=ALIEN
+  38009695K38.jpg  [gender]  label=  ocr=male
+  38015119F38.jpg  [surname]  label=MACHAU  ocr=SAMSON
+  38015119F38.jpg  [first_name]  label=SAMSON  ocr=MACHAU
+  38019800T58.jpg  [id_number]  label=38019800T58  ocr=38019500158
+  38031905B38.jpg  [gender]  label=female  ocr=male
+  38089490T38.jpg  [surname]  label=CHITSUNGO  ocr=ROBERT
+  38089490T38.jpg  [first_name]  label=ROBERT  ocr=CHITSUNGO
+  38096750K38.jpg  [id_number]  label=38096750K38  ocr=38096750
+  38096750K38.jpg  [surname]  label=NYAMAKAWO  ocr=NYAMHONDURD
+  38096750K38.jpg  [first_name]  label=MARGARETH  ocr=HURUN WE
+  38096750K38.jpg  [gender]  label=female  ocr=male
+  38096752M38.jpg  [id_number]  label=38096752M38  ocr=03041276J
+  38096752M38.jpg  [surname]  label=BILLIAT  ocr=DIMIANO
+  38096752M38.jpg  [first_name]  label=DHAMIAND  ocr=BILLIAT
+  38107898C38.jpg  [id_number]  label=38107898C38  ocr=38107898638
+  410055366X41.jpg  [surname]  label=NDLOVU  ocr=NORUTHULA BARBARA
+  410055366X41.jpg  [first_name]  label=NOKUTHULA BARBARA  ocr=NORTHULA BARBARA
+  410055366X41.jpg  [gender]  label=female  ocr=male
+  41033639F41.jpg  [first_name]  label=SIKHUMBUZD  ocr=SIKHUMBUZO
+  42019111W42.jpg  [birth_date]  label=9.11.59  ocr=9.11.59C
+  42026692L75.jpg  [id_number]  label=42026692L75  ocr=42026692L
+  42026692L75.jpg  [surname]  label=KAISA  ocr=ROSEMARY
+  42026692L75.jpg  [first_name]  label=ROSEMARY  ocr=KAISA
+  42026692L75.jpg  [gender]  label=female  ocr=male
+  42084950K80.jpg  [id_number]  label=42084950K80  ocr=42084950K
+  42084950K80.jpg  [gender]  label=female  ocr=male
+  42087857V07.jpg  [gender]  label=female  ocr=male
+  42089920M42.jpg  [surname]  label=MUDGNHODZO  ocr=STELLA
+  42089920M42.jpg  [first_name]  label=STELLA  ocr=MUTOKO
+  42089920M42.jpg  [gender]  label=female  ocr=male
+  42101942E42.jpg  [id_number]  label=42101942E42  ocr=4201942E42
+  42108394S42.jpg  [id_number]  label=42108394S42  ocr=02108394542
+  42108394S42.jpg  [gender]  label=female  ocr=male
+  42117597W42.jpg  [id_number]  label=42117597W42  ocr=42017507W42
+  42120281N43.jpg  [first_name]  label=VICIORIA ELIZABETH  ocr=VICTORIA ELIZABETH
+  42120281N43.jpg  [gender]  label=female  ocr=male
+  42121923Y42.jpg  [surname]  label=NYABADZA  ocr=MAHACHI
+  42121923Y42.jpg  [first_name]  label=MELCHIO  ocr=MAKONI
+  42151374K07.jpg  [gender]  label=female  ocr=male
+  42153820T42.jpg  [id_number]  label=42153820T42  ocr=42153820742
+  42153820T42.jpg  [gender]  label=female  ocr=male
+  42166441M42.jpg  [id_number]  label=42166441M42  ocr=4216B441M72
+  42166441M42.jpg  [surname]  label=TANDI  ocr=ELLAH
+  42166441M42.jpg  [first_name]  label=ELLAH TAMBUDZAI  ocr=TANDI
+  42166441M42.jpg  [gender]  label=female  ocr=male
+  42171703G42.jpg  [surname]  label=KUSVOTWA  ocr=TIMOTHY
+  42171703G42.jpg  [first_name]  label=TIMOTHY  ocr=KUSVOTWA
+  42186524R42.jpg  [id_number]  label=42186524R42  ocr=42188524842
+  42186524R42.jpg  [first_name]  label=DONIFACE  ocr=BONIFACE
+  43013799D43.jpg  [id_number]  label=43013799D43  ocr=43013799043
+  43013799D43.jpg  [gender]  label=female  ocr=male
+  43020649Z43.jpg  [gender]  label=female  ocr=male
+  43062039N43.jpg  [first_name]  label=MASIMO  ocr=MASTMO
+  43063626N43.jpg  [surname]  label=KUGARA  ocr=FUNGAI
+  43063626N43.jpg  [first_name]  label=FUNGAI TARWIREYI  ocr=TARWIREYI
+  43068276S43.jpg  [id_number]  label=43068276S43  ocr=43068276
+  432069736R42.jpg  [id_number]  label=12051592F12  ocr=12051592F
+  432069736R42.jpg  [gender]  label=female  ocr=male
+  44012021C44.jpg  [surname]  label=RUCHIYO  ocr=RUCHIYD
+  44028142A44.jpg  [id_number]  label=44028142A44  ocr=440281424
+  44028142A44.jpg  [surname]  label=MATIMAIRE  ocr=MATIMARE
+  44061563C44.jpg  [surname]  label=MASIYA  ocr=CHIMANIMANI
+  44062533G44.jpg  [gender]  label=female  ocr=male
+  44068075F44.jpg  [gender]  label=female  ocr=male
+  44106186F44.jpg  [id_number]  label=75272517C75  ocr=752725170
+  44106186F44.jpg  [birth_date]  label=12.11.73  ocr=12.11.75
+  44106186F44.jpg  [gender]  label=female  ocr=male
+  45025790A45.jpg  [gender]  label=female  ocr=male
+  45032643Z45.jpg  [surname]  label=MPHEPO  ocr=IREEN
+  45032643Z45.jpg  [first_name]  label=IREEN  ocr=CHIKWAZHA
+  45032643Z45.jpg  [gender]  label=female  ocr=male
+  45048904Z45.jpg  [id_number]  label=45048904Z45  ocr=45049904245
+  45048904Z45.jpg  [surname]  label=KAMLSASA  ocr=KAMESASA
+  45048904Z45.jpg  [first_name]  label=KARVER  ocr=MARVEI
+  45048904Z45.jpg  [birth_date]  label=16.04.69  ocr=16.04.65
+  45058613C45.jpg  [gender]  label=female  ocr=male
+  45063132P45.jpg  [id_number]  label=45063132P45  ocr=45063132P
+  45076838M45.jpg  [surname]  label=ZHUWAWO  ocr=RODNEY
+  45076838M45.jpg  [first_name]  label=RUZIA  ocr=MAJICHI
+  45076838M45.jpg  [gender]  label=female  ocr=male
+  45141210G45.jpg  [gender]  label=female  ocr=male
+  45148027R45.jpg  [birth_date]  label=02.11.1983  ocr=02 11 1983
+  45148027R45.jpg  [gender]  label=  ocr=male
+  45160388C45.jpg  [id_number]  label=42166716L72  ocr=42166716L42
+  45160388C45.jpg  [surname]  label=CHI MANIUNDU  ocr=CHI
+  45160388C45.jpg  [first_name]  label=ISHMAIL  ocr=MAN
+  47002869Z47.jpg  [birth_date]  label=10.10.59  ocr=10.10.55
+  47002869Z47.jpg  [gender]  label=female  ocr=male
+  47015144R47.jpg  [surname]  label=CHABI  ocr=CHART
+  47034615F34.jpg  [surname]  label=MADZIVANZIRA  ocr=MAOZIVANZIRA
+  47034615F34.jpg  [first_name]  label=MASIWA EDIMODAR  ocr=MASIWA
+  47034615F34.jpg  [gender]  label=female  ocr=male
+  47037156S47.jpg  [id_number]  label=47037156S47  ocr=47037156S
+  47037156S47.jpg  [gender]  label=female  ocr=male
+  47043535B47.jpg  [id_number]  label=47043535B47  ocr=47043535847
+  47043535B47.jpg  [first_name]  label=BENHILDA MAKAONESO  ocr=BENFILDA
+  47043535B47.jpg  [gender]  label=female  ocr=male
+  47065543Y47.jpg  [first_name]  label=HAZVINEYI JEAN  ocr=HAZVINEYI
+  47065543Y47.jpg  [gender]  label=female  ocr=male
+  47070567J47.jpg  [first_name]  label=PATLENCE  ocr=GURENDE
+  47070567J47.jpg  [birth_date]  label=17.05.73  ocr=17.03.73
+  47070567J47.jpg  [gender]  label=female  ocr=male
+  47076011B47.jpg  [id_number]  label=47076011B47  ocr=47076011847
+  47076011B47.jpg  [surname]  label=DENDA  ocr=MOSES
+  47076011B47.jpg  [first_name]  label=MOSES  ocr=DENDA
+  47077628J47.jpg  [surname]  label=NHDKWARA  ocr=ALBERT
+  47077953M47.jpg  [surname]  label=MAPFUMO  ocr=PHILIP
+  47077953M47.jpg  [first_name]  label=PHILLIP  ocr=MHEMBERE
+  47089878Z47.jpg  [id_number]  label=47089878Z47  ocr=470898782
+  47089878Z47.jpg  [surname]  label=NYAMUNDA  ocr=MATONGO
+  47089878Z47.jpg  [first_name]  label=MATONGO  ocr=CHITIYO
+  47089880B47.jpg  [id_number]  label=47089880B47  ocr=47089080047
+  47089880B47.jpg  [first_name]  label=BENHILDA  ocr=BENHILOA
+  47089880B47.jpg  [gender]  label=female  ocr=male
+  47099176F47.jpg  [first_name]  label=KUDAKWASHE EARINORA  ocr=KUDAKWASHE
+  47099176F47.jpg  [gender]  label=female  ocr=male
+  47099649V47.jpg  [id_number]  label=47089878Z47  ocr=470898782
+  47099649V47.jpg  [surname]  label=NYAMUNDA  ocr=MATONGO
+  47099649V47.jpg  [first_name]  label=MATONGO  ocr=CHITIYO
+  47122214X47.jpg  [surname]  label=MOFFAT  ocr=LUCIA
+  47122214X47.jpg  [first_name]  label=LUCIAS  ocr=MOYFAT
+  47122214X47.jpg  [birth_date]  label=04.09.1977  ocr=04/06/1977
+  47144434Z47.jpg  [gender]  label=female  ocr=male
+  48021225H49.jpg  [gender]  label=female  ocr=male
+  48029698S49.jpg  [surname]  label=HOSHIKI  ocr=HOSHIKI MUSAFARE
+  48029698S49.jpg  [first_name]  label=MUSAFARE  ocr=KATIVHU MUDZI
+  48045071C48.jpg  [gender]  label=female  ocr=male
+  48050829L48.jpg  [id_number]  label=48050829L48  ocr=48050829L
+  48050829L48.jpg  [first_name]  label=GUMISAI  ocr=SUMISAI
+  48065768Z48.jpg  [first_name]  label=SARUDZAI  ocr=KATIYO
+  48065768Z48.jpg  [gender]  label=female  ocr=male
+  48069292E48.jpg  [first_name]  label=NYARADZAI RUJEKO  ocr=NYARADZAI
+  48069292E48.jpg  [gender]  label=female  ocr=male
+  48081476Y48.jpg  [id_number]  label=48081476Y48  ocr=81476748C11
+  48088991R48.jpg  [gender]  label=female  ocr=male
+  48102577J48.jpg  [surname]  label=NYERENYERE  ocr=WISEMAN
+  48102577J48.jpg  [first_name]  label=WISEMAN  ocr=MUTOKO
+  48105927A48.jpg  [gender]  label=female  ocr=male
+  490006612F49.jpg  [gender]  label=female  ocr=male
+  49013122G49.jpg  [surname]  label=NYAMHERE  ocr=WATSON WELLINGTON
+  49013122G49.jpg  [first_name]  label=WATSON WELLINGTON  ocr=25.06.66
+  49018454C49.jpg  [first_name]  label=MANDI  ocr=HANDI
+  49022340B49.jpg  [id_number]  label=49022340B49  ocr=49022340849
+  49022340B49.jpg  [surname]  label=NYARGNI  ocr=NYARONI
+  49037039D49.jpg  [id_number]  label=49037039D49  ocr=490370390
+  49037039D49.jpg  [surname]  label=KAMBAMBAIR  ocr=KAMBAMBAIRA
+  49037039D49.jpg  [gender]  label=female  ocr=male
+  49037306T49.jpg  [id_number]  label=49037306T49  ocr=49037306T
+  49037306T49.jpg  [gender]  label=female  ocr=male
+  49050292J49.jpg  [first_name]  label=CHAMUNORWA  ocr=CHAMKINORWA
+  49068287T49.jpg  [id_number]  label=49068287T49  ocr=49068287149
+  49068287T49.jpg  [birth_date]  label=23.11.1973  ocr=23.01.1972
+  49085216V49.jpg  [id_number]  label=49085216V49  ocr=49085218040
+  49085216V49.jpg  [surname]  label=CHIMVKWAIRA  ocr=MUDZI
+  49085216V49.jpg  [first_name]  label=SHGOTER  ocr=TIZORA
+  49085216V49.jpg  [birth_date]  label=11.10.1983  ocr=10-1997
+  49085216V49.jpg  [gender]  label=female  ocr=male
+  492001345V49.jpg  [id_number]  label=68004158M61  ocr=6800415M61C
+  492001345V49.jpg  [surname]  label=CHITSUN  ocr=CHITSUNGO
+  50022137M50.jpg  [gender]  label=female  ocr=male
+  50032976T50.jpg  [id_number]  label=50032976T50  ocr=50032976T
+  50032976T50.jpg  [gender]  label=female  ocr=male
+  50041889G50.jpg  [gender]  label=female  ocr=male
+  50048494L50.jpg  [surname]  label=URERE  ocr=G
+  50048494L50.jpg  [first_name]  label=AUXILIA  ocr=Ghata
+  50048494L50.jpg  [gender]  label=female  ocr=male
+  50054555Z13.jpg  [id_number]  label=50054555Z13  ocr=50054555213
+  50054555Z13.jpg  [surname]  label=HLATYWAYO  ocr=CLERA
+  50054555Z13.jpg  [first_name]  label=CLERA  ocr=HLATYWAYO
+  50054555Z13.jpg  [birth_date]  label=14.05.63  ocr=14.05.68
+  50054555Z13.jpg  [gender]  label=female  ocr=male
+  50065957S50.jpg  [id_number]  label=50065957S50  ocr=50065957S
+  50065957S50.jpg  [first_name]  label=CHRISPEN CARLYON  ocr=CHRISPEN
+  50086288R50.jpg  [first_name]  label=GIFT  ocr=MANYUMWA
+  50096078H50.jpg  [first_name]  label=TOFESU EDSON  ocr=TOFFSU EDSON
+  53024677S53.jpg  [id_number]  label=53024677S53  ocr=5302467753
+  53028205C53.jpg  [gender]  label=female  ocr=male
+  53039055W58.jpg  [id_number]  label=53039055W58  ocr=30039055W58
+  53039055W58.jpg  [surname]  label=NOUBE  ocr=DUDUZILE
+  53039055W58.jpg  [birth_date]  label=28.08.73  ocr=26.08.73
+  53040720F53.jpg  [first_name]  label=KHUMBULANI  ocr=KHUMBULANT
+  53040720F53.jpg  [gender]  label=female  ocr=male
+  53069906E53.jpg  [surname]  label=NCUBE  ocr=MONICA
+  53069906E53.jpg  [first_name]  label=MONICA  ocr=NCUBE
+  53069906E53.jpg  [gender]  label=female  ocr=male
+  54002997J54.jpg  [surname]  label=DHAMBARARA  ocr=DHAMBARARA ENNIE
+  54002997J54.jpg  [first_name]  label=ENNIE  ocr=NESHURO
+  54002997J54.jpg  [gender]  label=female  ocr=male
+  54038048H54.jpg  [id_number]  label=29176169B22  ocr=29176169822
+  54038048H54.jpg  [gender]  label=female  ocr=male
+  54061706Y12.jpg  [id_number]  label=54061706Y12  ocr=54061724D02
+  54061706Y12.jpg  [birth_date]  label=05.10.1968  ocr=05.01.1961
+  54061706Y12.jpg  [gender]  label=female  ocr=male
+  54070574M54.jpg  [id_number]  label=54070574M54  ocr=54070574
+  54070574M54.jpg  [surname]  label=TSAMWISI  ocr=MIRRIAM
+  54070574M54.jpg  [first_name]  label=MIRRIAM  ocr=TSAMWISI
+  54070574M54.jpg  [gender]  label=female  ocr=male
+  56003994F56.jpg  [id_number]  label=56003994F56  ocr=55003994F56
+  56003994F56.jpg  [gender]  label=female  ocr=male
+  56032365T56.jpg  [first_name]  label=TSHANDAPIWA  ocr=TSHANDAPIVA
+  56032365T56.jpg  [gender]  label=female  ocr=male
+  56039063Z56.jpg  [id_number]  label=56039063Z56  ocr=56039063256
+  56039063Z56.jpg  [surname]  label=NCUBE  ocr=SILINDENI
+  56039063Z56.jpg  [first_name]  label=SILINDENI  ocr=NCUBE
+  56039063Z56.jpg  [gender]  label=female  ocr=male
+  56043737E56.jpg  [id_number]  label=56043737E56  ocr=7650608
+  56043737E56.jpg  [surname]  label=MPOFU  ocr=BULILIMAMANWE
+  56043737E56.jpg  [first_name]  label=BAFANA  ocr=DAFANA
+  56043737E56.jpg  [birth_date]  label=06.06.1976  ocr=06.06.1974
+  56055450L56.jpg  [birth_date]  label=08.02.1972  ocr=06.02.1972
+  56055450L56.jpg  [gender]  label=female  ocr=male
+  56059588J56.jpg  [gender]  label=female  ocr=male
+  580149328Q26.jpg  [id_number]  label=58149328Q26  ocr=58149328026
+  580149328Q26.jpg  [surname]  label=MAPOSA  ocr=MA
+  580149328Q26.jpg  [first_name]  label=LOVEMORE  ocr=POSA
+  580149328Q26.jpg  [gender]  label=  ocr=male
+  58028677Y58.jpg  [birth_date]  label=12.12.54  ocr=12.12.54C
+  58091140S21.jpg  [gender]  label=female  ocr=male
+  58091406G58.jpg  [id_number]  label=58091406G58  ocr=58091406656
+  58091406G58.jpg  [surname]  label=MUGORE  ocr=WILSON
+  58091406G58.jpg  [first_name]  label=WILSON  ocr=MUGORE
+  58091406G58.jpg  [birth_date]  label=04.04.64  ocr=04.09.64
+  58104176M58.jpg  [gender]  label=female  ocr=male
+  58179963P67.jpg  [id_number]  label=58179963P67  ocr=03041276J03
+  58179963P67.jpg  [surname]  label=NOAH  ocr=DADIRAYI
+  58179963P67.jpg  [first_name]  label=DADTRAYI  ocr=NOAH
+  58179963P67.jpg  [gender]  label=female  ocr=male
+  58193941H23.jpg  [gender]  label=female  ocr=male
+  58267519J77.jpg  [id_number]  label=58267519J77  ocr=08459767Y29
+  58267519J77.jpg  [gender]  label=female  ocr=male
+  59011456L43.jpg  [gender]  label=female  ocr=male
+  59019163N11.jpg  [id_number]  label=59019163N11  ocr=03041276J03
+  59019163N11.jpg  [surname]  label=WNBASHA  ocr=RODNEY
+  59019163N11.jpg  [first_name]  label=BERYA  ocr=JAMES
+  59019163N11.jpg  [birth_date]  label=07.02.1979  ocr=12.01.1961
+  59019163N11.jpg  [gender]  label=female  ocr=male
+  59020562J47.jpg  [surname]  label=MANGODA  ocr=STEPHEN
+  59020562J47.jpg  [first_name]  label=STEPHEN ITAI  ocr=ITAI
+  59047828W49.jpg  [surname]  label=MATARE  ocr=OWEN
+  59047828W49.jpg  [first_name]  label=OWEN  ocr=MATARE
+  59053441X42.jpg  [birth_date]  label=3.01.1966  ocr=13.01.1966
+  59053441X42.jpg  [gender]  label=female  ocr=male
+  61018660E68.jpg  [gender]  label=female  ocr=male
+  61029337K61.jpg  [surname]  label=MARUKE  ocr=MARUNE
+  61029337K61.jpg  [first_name]  label=TAKADA  ocr=TIKADA
+  61029337K61.jpg  [birth_date]  label=22.11.75  ocr=21.11.75
+  63008277G00.jpg  [id_number]  label=63008277G00  ocr=63008277G
+  63008664C00.jpg  [surname]  label=PATEL  ocr=MOHAMED
+  63008664C00.jpg  [first_name]  label=MOHAMED IOBAL  ocr=PATEL
+  63027165M63.jpg  [id_number]  label=63027165M63  ocr=03041276J03
+  63027165M63.jpg  [surname]  label=  ocr=ZIMBABWE
+  63027165M63.jpg  [first_name]  label=  ocr=RODNEY
+  63027165M63.jpg  [birth_date]  label=  ocr=12.01.1961
+  63027165M63.jpg  [gender]  label=  ocr=male
+  63051958L00.jpg  [id_number]  label=63051958L00  ocr=63051958L
+  63051958L00.jpg  [gender]  label=  ocr=male
+  63052400R00.jpg  [first_name]  label=JENNIFER JOANNA  ocr=JENNIFER
+  63052400R00.jpg  [birth_date]  label=21.11.48  ocr=21.11.48C
+  63067910A34.jpg  [id_number]  label=63067910A34  ocr=6306791
+  63069795Z47.jpg  [surname]  label=KWENDAMBAYIRI  ocr=EMMILY
+  63069795Z47.jpg  [first_name]  label=EMMILY  ocr=KWENDAMBAYIRI
+  63069795Z47.jpg  [gender]  label=female  ocr=male
+  631007705P85.jpg  [id_number]  label=631007705P85  ocr=30007705P85
+  631007705P85.jpg  [surname]  label=GAWAZA  ocr=NYAJINA
+  631007705P85.jpg  [first_name]  label=ROBERT  ocr=HARARE
+  631007705P85.jpg  [gender]  label=  ocr=male
+  631021390P32.jpg  [id_number]  label=631021390P32  ocr=631021390
+  631021390P32.jpg  [birth_date]  label=29.06.73  ocr=29.06.75
+  631040372X25.jpg  [gender]  label=female  ocr=male
+  631044736Q63.jpg  [id_number]  label=631044736Q63  ocr=03041276J03
+  631044736Q63.jpg  [surname]  label=SEMO  ocr=RODNEY
+  631044736Q63.jpg  [first_name]  label=TAURAI  ocr=JAMES
+  631044736Q63.jpg  [birth_date]  label=12.12.1973  ocr=12.01.1961
+  631062140H71.jpg  [surname]  label=ZENGEYA  ocr=ZIMBABWE
+  631062140H71.jpg  [first_name]  label=RFGINA  ocr=ZENGEYA
+  631062140H71.jpg  [gender]  label=female  ocr=male
+  631065183Q25.jpg  [gender]  label=female  ocr=male
+  631068214K63.jpg  [id_number]  label=631068214K63  ocr=6642207
+  631068214K63.jpg  [surname]  label=MWENDOFAMBA  ocr=RUDO
+  631068214K63.jpg  [first_name]  label=RUDO  ocr=27.09.1975
+  631068214K63.jpg  [gender]  label=female  ocr=male
+  631069112L63.jpg  [gender]  label=female  ocr=male
+  631077681A13.jpg  [id_number]  label=631077681A13  ocr=03041276
+  631077681A13.jpg  [surname]  label=SITHOLE  ocr=RODNEY
+  631077681A13.jpg  [first_name]  label=LOVEMOR RA  ocr=JAMES
+  631077681A13.jpg  [birth_date]  label=19.06.78  ocr=12.01.1961
+  631082476M45.jpg  [gender]  label=female  ocr=male
+  631093375J22.jpg  [gender]  label=female  ocr=male
+  631095625E42.jpg  [surname]  label=NEMAWUNGWE  ocr=DAVID
+  631095625E42.jpg  [first_name]  label=DAVID  ocr=NEMAWUNGWE
+  631104065D42.jpg  [surname]  label=MACHIPISA  ocr=MACAHIPISA
+  631104065D42.jpg  [gender]  label=female  ocr=male
+  631115062G63.jpg  [id_number]  label=631115062G63  ocr=03041276J03
+  631115062G63.jpg  [surname]  label=GWANZURA  ocr=G
+  631146626Q63.jpg  [id_number]  label=631146626Q63  ocr=31146626G63
+  631146626Q63.jpg  [gender]  label=female  ocr=male
+  631153548P50.jpg  [surname]  label=RONDOZAI  ocr=RAYNE
+  631153548P50.jpg  [first_name]  label=RAYNE  ocr=RONDOZAI
+  631161105D63.jpg  [gender]  label=female  ocr=male
+  631168749M27.jpg  [gender]  label=female  ocr=male
+  631169648P80.jpg  [surname]  label=CHOTO  ocr=EDWARD
+  631169648P80.jpg  [first_name]  label=EDWARD  ocr=CHOTO
+  631174403H32.jpg  [surname]  label=PAZUWA  ocr=DOUGLAS
+  631174403H32.jpg  [first_name]  label=DOUGLAS PANGANAI  ocr=PANGUNAI
+  631178894P25.jpg  [surname]  label=MUSANANGURWA  ocr=LEONARD
+  631178894P25.jpg  [first_name]  label=LEONARD  ocr=MUSANANGURWA
+  631185139C18.jpg  [first_name]  label=MUNYARDZI BRIAN  ocr=MUNYARADZI BRIAN
+  631185139C18.jpg  [birth_date]  label=01.16.1983  ocr=01.06.1983
+  631188884Y44.jpg  [gender]  label=female  ocr=male
+  63120602Z63.jpg  [surname]  label=CHINGORE  ocr=FANUEL
+  63120602Z63.jpg  [first_name]  label=FANUEL  ocr=CHLOCO
+  631215710G04.jpg  [surname]  label=KWAYE  ocr=THOMAS
+  631215710G04.jpg  [first_name]  label=THOMAS  ocr=KWAYE
+  631219391H67.jpg  [id_number]  label=631219391H67  ocr=31219391H66
+  631219391H67.jpg  [surname]  label=DENDERE  ocr=DENDERE CHARLES
+  631219391H67.jpg  [first_name]  label=CHARLES  ocr=CHISADZA SHURUGWI
+  631222735S22.jpg  [first_name]  label=CALVIN KUDZANAYI  ocr=CALVIN
+  631228229P42.jpg  [gender]  label=female  ocr=male
+  631232349S42.jpg  [id_number]  label=631232349S32  ocr=63123234953
+  631232349S42.jpg  [surname]  label=MPESA  ocr=MUGARI
+  631232349S42.jpg  [first_name]  label=EDMORN  ocr=HARARE
+  631237037N18.jpg  [id_number]  label=631237037N18  ocr=31237037M18
+  631237037N18.jpg  [first_name]  label=TAPIWA COMFORTER  ocr=TAPIWA
+  631245441Y32.jpg  [id_number]  label=631245441Y32  ocr=63124544LY3
+  631245441Y32.jpg  [gender]  label=female  ocr=male
+  631252684W42.jpg  [surname]  label=NYATSOMA  ocr=MAKONI
+  631252684W42.jpg  [first_name]  label=EVANGELISTA  ocr=NYAKATSAR
+  631252684W42.jpg  [birth_date]  label=08.09.1984  ocr=08.01.1984
+  631252684W42.jpg  [gender]  label=female  ocr=male
+  63126632D42.jpg  [id_number]  label=63126632D42  ocr=6301266320
+  631272787X13.jpg  [surname]  label=MATUTE  ocr=CHICICHI
+  631272787X13.jpg  [first_name]  label=BRENDA TENDAI  ocr=HARAKI
+  631272787X13.jpg  [gender]  label=female  ocr=male
+  63129113A45.jpg  [id_number]  label=63129113A45  ocr=30127113A45
+  63129113A45.jpg  [first_name]  label=NICHAOS RROSPER  ocr=NICHALOS
+  63152700N18.jpg  [birth_date]  label=4.11.59  ocr=4.11.59C
+  63157175C00.jpg  [birth_date]  label=11.9.48  ocr=11.9.48C H3 E4
+  63157229L48.jpg  [id_number]  label=63157229L48  ocr=63157229L
+  63157229L48.jpg  [birth_date]  label=1.6.53  ocr=None
+  631594913J27.jpg  [birth_date]  label=10.09.1952  ocr=10.04.1952
+  63163512Q00.jpg  [id_number]  label=63163512Q00  ocr=63163512000
+  63163512Q00.jpg  [birth_date]  label=12.05.1959  ocr=12.05.1958
+  63163512Q00.jpg  [gender]  label=female  ocr=male
+  63166016M71.jpg  [birth_date]  label=8.8.48  ocr=8. 8.48 HI E1 C1
+  63189427J50.jpg  [surname]  label=MANJORO  ocr=MANJORD
+  63189427J50.jpg  [first_name]  label=JOSEPH MAGARIKA  ocr=JOSEPH
+  63203917J75.jpg  [surname]  label=ZINYAWO  ocr=AMUDIAMWE
+  63203917J75.jpg  [first_name]  label=AMUDIAMWE DENFORD  ocr=DENFORD
+  63222876R42.jpg  [id_number]  label=63222876R42  ocr=30222876R42
+  63227119D18.jpg  [id_number]  label=63227119D18  ocr=63227119018
+  63227119D18.jpg  [first_name]  label=FELIX MUSEKIWA  ocr=FELIX
+  632523955M22.jpg  [surname]  label=DUBE  ocr=DUBE JANE
+  632523955M22.jpg  [first_name]  label=JANET  ocr=MURADZIKWAO
+  632523955M22.jpg  [gender]  label=female  ocr=male
+  63268892J49.jpg  [surname]  label=JAKARASI  ocr=RAPHAEL
+  63268892J49.jpg  [first_name]  label=RAPHAEL  ocr=JAKARASI
+  63273303D25.jpg  [id_number]  label=63273303D25  ocr=63273303025
+  63273303D25.jpg  [birth_date]  label=3.1.51  ocr=3-1-50
+  63273303D25.jpg  [gender]  label=female  ocr=male
+  63284509J80.jpg  [surname]  label=CHIGADA  ocr=DAVID
+  63284509J80.jpg  [first_name]  label=DAVID DINDINGWE  ocr=DINDINGWE
+  63284824B43.jpg  [id_number]  label=63284824B43  ocr=63284824B
+  63284824B43.jpg  [gender]  label=female  ocr=male
+  63297120R70.jpg  [id_number]  label=63297120R70  ocr=63097120R70
+  63297120R70.jpg  [surname]  label=MUSIIWA  ocr=MUSIWA
+  63312153G63.jpg  [surname]  label=MATENJA  ocr=MATENDA
+  63331919R32.jpg  [surname]  label=HAPUOANGA  ocr=MAPUDRANGA
+  63340933P32.jpg  [id_number]  label=63340933P32  ocr=63040003723
+  63340933P32.jpg  [surname]  label=MBIRIZA  ocr=M
+  63340933P32.jpg  [first_name]  label=EDITH TENDAI  ocr=RODNEY
+  63340933P32.jpg  [gender]  label=female  ocr=male
+  63346843N70.jpg  [birth_date]  label=23.04.1962  ocr=23 04 1962
+  63346843N70.jpg  [gender]  label=female  ocr=male
+  63358076Y25.jpg  [birth_date]  label=9.12.63  ocr=9.12.63C
+  63372250E47.jpg  [gender]  label=female  ocr=male
+  63380468M24.jpg  [first_name]  label=LAST  ocr=CHITERA
+  63380468M24.jpg  [gender]  label=female  ocr=male
+  63399065B77.jpg  [id_number]  label=63399065B77  ocr=63399065877
+  63416606S34.jpg  [id_number]  label=63416606S34  ocr=63041660653
+  63428155W70.jpg  [surname]  label=GUMBO  ocr=PATRICK CHAMUNDRA
+  63428155W70.jpg  [first_name]  label=PATRICK CHAMUNORNA  ocr=GUMBO PATRICK
+  63428155W70.jpg  [birth_date]  label=12.6.60  ocr=12.6.60C
+  63429367N66.jpg  [surname]  label=MURASHIKI  ocr=MURASHIKT
+  63429367N66.jpg  [birth_date]  label=1.1.41  ocr=None
+  63429367N66.jpg  [gender]  label=female  ocr=male
+  63446414S80.jpg  [id_number]  label=63446414S80  ocr=63446414S
+  63448434N63.jpg  [surname]  label=LIWONDE  ocr=LIVONDE
+  63459598Y25.jpg  [id_number]  label=63459598Y25  ocr=03041276J03
+  63459598Y25.jpg  [surname]  label=KUUMBUKA  ocr=SUSAN MARY
+  63459598Y25.jpg  [first_name]  label=SUSAN MARY  ocr=KUMBUKA
+  63459598Y25.jpg  [gender]  label=female  ocr=male
+  63474069C58.jpg  [gender]  label=female  ocr=male
+  63486289K18.jpg  [id_number]  label=63486289K18  ocr=63486289K
+  63486289K18.jpg  [gender]  label=  ocr=male
+  63489943G63.jpg  [id_number]  label=63489943G63  ocr=634889436
+  63489943G63.jpg  [surname]  label=KANGOYA  ocr=KANGUYA
+  63498282W25.jpg  [birth_date]  label=1.1.60  ocr=1.1.60C
+  63499094D83.jpg  [id_number]  label=63499094D83  ocr=03041276J03
+  63499094D83.jpg  [surname]  label=WASHAYA  ocr=ALBERT
+  63499094D83.jpg  [first_name]  label=ALBERT  ocr=HASHAYA
+  63514186H00.jpg  [gender]  label=female  ocr=male
+  63525227J50.jpg  [id_number]  label=63525227J50  ocr=63025227J50
+  63525227J50.jpg  [surname]  label=MUTASA  ocr=PATRICIA
+  63525227J50.jpg  [first_name]  label=PATRICIA  ocr=MUTASA
+  63525227J50.jpg  [gender]  label=female  ocr=M
+  63538830V48.jpg  [id_number]  label=63538830V48  ocr=53538830V48
+  63538830V48.jpg  [first_name]  label=JULIET ELIZABETH  ocr=JULIET
+  63538830V48.jpg  [gender]  label=  ocr=male
+  63550682C07.jpg  [id_number]  label=63550682C07  ocr=03041276J03
+  63550682C07.jpg  [first_name]  label=SHUVAI  ocr=MAKUNGUVA
+  63550682C07.jpg  [birth_date]  label=03.12.68  ocr=03-12-1961
+  63550682C07.jpg  [gender]  label=female  ocr=male
+  63565641M04.jpg  [surname]  label=MUTAPURE  ocr=PATRICIA
+  63565641M04.jpg  [first_name]  label=PATRICIA  ocr=MUTAPURE
+  63565641M04.jpg  [gender]  label=female  ocr=male
+  63576842M47.jpg  [id_number]  label=63576842M47  ocr=03041276J03
+  63576842M47.jpg  [surname]  label=HUNEMD  ocr=RODNEY
+  63576842M47.jpg  [first_name]  label=FAITH KUDA  ocr=MUNEMO
+  63576842M47.jpg  [gender]  label=female  ocr=male
+  63577309V71.jpg  [first_name]  label=PAUL MABASA  ocr=PAUL NABASA
+  63577309V71.jpg  [birth_date]  label=28.08.53  ocr=28.08.58
+  63582008C42.jpg  [id_number]  label=63582008C42  ocr=63552008C42
+  63582008C42.jpg  [surname]  label=GWETE  ocr=GNETE
+  63582008C42.jpg  [gender]  label=female  ocr=male
+  63602832M47.jpg  [id_number]  label=63602832M47  ocr=03041276J03
+  63602832M47.jpg  [surname]  label=NYAHASHA  ocr=RODNEY
+  63602832M47.jpg  [first_name]  label=MOLINE  ocr=JAMES
+  63602832M47.jpg  [birth_date]  label=5.1.61  ocr=12.01.1961
+  63602832M47.jpg  [gender]  label=female  ocr=male
+  63605289H15.jpg  [id_number]  label=63605289H15  ocr=6305289H15C
+  63635503Z07.jpg  [id_number]  label=63635503Z07  ocr=63063550320
+  63638234S19.jpg  [gender]  label=female  ocr=male
+  63645883G75.jpg  [id_number]  label=63645883G75  ocr=63645883675
+  63645883G75.jpg  [gender]  label=female  ocr=male
+  63646884V03.jpg  [first_name]  label=BERNARD NDABANENGI  ocr=BERNARD
+  63656141G32.jpg  [id_number]  label=63656141G32  ocr=63656141E32
+  63656141G32.jpg  [gender]  label=female  ocr=male
+  63671468R25.jpg  [gender]  label=female  ocr=male
+  63682871L77.jpg  [id_number]  label=63682871L77  ocr=63682871L80
+  63685947E48.jpg  [first_name]  label=AGNESS  ocr=KANOSHUNGU
+  63685947E48.jpg  [birth_date]  label=10.11.62  ocr=None
+  63685947E48.jpg  [gender]  label=female  ocr=male
+  63699390R38.jpg  [id_number]  label=63699390R38  ocr=6369939R38
+  63699390R38.jpg  [gender]  label=female  ocr=male
+  63729959T63.jpg  [id_number]  label=63729959T63  ocr=62729959T63
+  63729959T63.jpg  [gender]  label=female  ocr=male
+  63739524Q47.jpg  [id_number]  label=63739524Q47  ocr=73739524047
+  63739524Q47.jpg  [gender]  label=female  ocr=male
+  63741014K15.jpg  [id_number]  label=63741014K15  ocr=53741014K
+  63741014K15.jpg  [birth_date]  label=01.09.68  ocr=01.03.68
+  63748421L04.jpg  [id_number]  label=63748421L04  ocr=63748421104
+  63759457G63.jpg  [surname]  label=SADI  ocr=SADI AKUACHIMA
+  63759457G63.jpg  [first_name]  label=AKUACHIMA  ocr=SADI AKUACHIMA
+  63759457G63.jpg  [gender]  label=female  ocr=male
+  63763033T12.jpg  [id_number]  label=63763033T18  ocr=03041276J03
+  63763033T12.jpg  [surname]  label=MANCOKA  ocr=MANCOVA
+  63763033T12.jpg  [gender]  label=female  ocr=male
+  63766076B63.jpg  [id_number]  label=63766076B63  ocr=03766070B63
+  63766076B63.jpg  [surname]  label=NDALA  ocr=HARARE
+  63766076B63.jpg  [first_name]  label=MATORA  ocr=NDALA
+  63769227B34.jpg  [id_number]  label=63769227B34  ocr=63769227834
+  63769227B34.jpg  [surname]  label=MUPANNGAPANGA  ocr=MAXWELL
+  63769227B34.jpg  [first_name]  label=MAXWELL  ocr=MUPANGAPANGA
+  63774529P63.jpg  [gender]  label=female  ocr=male
+  63788997Q43.jpg  [id_number]  label=63788997Q43  ocr=63078909700
+  63788997Q43.jpg  [surname]  label=MASAWI  ocr=DASY DOROTHY
+  63788997Q43.jpg  [first_name]  label=DAISY DOROTHY  ocr=CHINHOYI
+  63788997Q43.jpg  [gender]  label=female  ocr=male
+  63789975D38.jpg  [id_number]  label=63789975D38  ocr=63739975038
+  63789975D38.jpg  [first_name]  label=ENCT  ocr=ENET
+  63789975D38.jpg  [gender]  label=female  ocr=male
+  63791266G32.jpg  [id_number]  label=63791266G32  ocr=91265632C11
+  63791266G32.jpg  [surname]  label=IAVAZIVA  ocr=TAVAZIVA
+  63791266G32.jpg  [birth_date]  label=26.04.70  ocr=25.04.70
+  63797354Z47.jpg  [surname]  label=MBANJE  ocr=CAROLINE
+  63797354Z47.jpg  [first_name]  label=CAROLINE  ocr=MBANJE
+  63797354Z47.jpg  [gender]  label=female  ocr=male
+  63806857D63.jpg  [id_number]  label=63806857D63  ocr=63005857063
+  63806857D63.jpg  [surname]  label=CHIKUSE  ocr=CHIKUSE SHEILA
+  63806857D63.jpg  [gender]  label=female  ocr=male
+  63811537Q63.jpg  [id_number]  label=63811537Q63  ocr=03041276J03
+  63811537Q63.jpg  [surname]  label=MWANZA  ocr=DERECK
+  63811537Q63.jpg  [first_name]  label=DERECK  ocr=MWANZA
+  63816137Q25.jpg  [id_number]  label=63816137Q25  ocr=63816137025
+  63831784Y49.jpg  [surname]  label=NYAMUDZE  ocr=AMUDZE
+  63831784Y49.jpg  [first_name]  label=AMCS  ocr=NY AMUDZE
+  63833209X63.jpg  [id_number]  label=63833209X63  ocr=03033208X03
+  63833209X63.jpg  [first_name]  label=MAVIS TAURAI  ocr=MAVIS
+  63833209X63.jpg  [gender]  label=female  ocr=male
+  63839790A07.jpg  [id_number]  label=63839790A07  ocr=53839790A07
+  63839790A07.jpg  [gender]  label=female  ocr=male
+  63840039W04.jpg  [first_name]  label=EPHRAIN  ocr=EPHRAIM
+  63844207B15.jpg  [id_number]  label=63844207B15  ocr=63844207815
+  63844207B15.jpg  [gender]  label=female  ocr=male
+  63858508W13.jpg  [id_number]  label=63858508W13  ocr=63048508013
+  63858858B63.jpg  [id_number]  label=63858858B63  ocr=6305805863
+  63858858B63.jpg  [surname]  label=CHAKONOKA  ocr=CHIVAOYI
+  63858858B63.jpg  [first_name]  label=JONAIHAN  ocr=JONATHAN
+  63861413D27.jpg  [id_number]  label=63861413D27  ocr=63861413D
+  63861413D27.jpg  [birth_date]  label=12.02.72  ocr=12.01.1972
+  63864666P83.jpg  [id_number]  label=63864666P83  ocr=63864666P
+  63866283X42.jpg  [id_number]  label=63866283X42  ocr=03041276J03
+  63866283X42.jpg  [surname]  label=MARWIZIC  ocr=RODNEY
+  63866283X42.jpg  [first_name]  label=CORDON  ocr=JAMES
+  63866283X42.jpg  [birth_date]  label=11.09.71  ocr=12.01.1961
+  63868684G32.jpg  [id_number]  label=63868684G32  ocr=63868694G
+  63868684G32.jpg  [surname]  label=HANDIPISI  ocr=HEATHER
+  63868684G32.jpg  [gender]  label=female  ocr=M
+  63870778H63.jpg  [id_number]  label=63870778H63  ocr=63070778H63
+  63870778H63.jpg  [surname]  label=MSUSAH  ocr=EMILY
+  63870778H63.jpg  [first_name]  label=EMILY CHIEDZA  ocr=CHEDZA
+  63870778H63.jpg  [gender]  label=female  ocr=male
+  63873941W00.jpg  [gender]  label=female  ocr=male
+  63877404K67.jpg  [surname]  label=MADUBEKO  ocr=MAOUBEKO
+  63877404K67.jpg  [first_name]  label=OMO  ocr=MADUBEKO
+  63880491Q00.jpg  [id_number]  label=63880491Q00  ocr=63880491000
+  63889648T25.jpg  [gender]  label=female  ocr=male
+  63906051Y63.jpg  [id_number]  label=63906051Y63  ocr=63916051Y63
+  63906051Y63.jpg  [first_name]  label=AWUSIE  ocr=ANUSIE
+  63906051Y63.jpg  [gender]  label=female  ocr=male
+  63907623G47.jpg  [id_number]  label=63907623G47  ocr=63907623647
+  63911980S18.jpg  [gender]  label=female  ocr=male
+  63912351W44.jpg  [first_name]  label=LEAE  ocr=LEAH
+  63912351W44.jpg  [gender]  label=female  ocr=male
+  63914882X34.jpg  [gender]  label=female  ocr=male
+  63936356N34.jpg  [first_name]  label=TAMBUDZAI ENIA  ocr=TAMBUDZAIENIA
+  63936356N34.jpg  [gender]  label=female  ocr=male
+  63944081K75.jpg  [gender]  label=female  ocr=male
+  63961630K32.jpg  [surname]  label=MASIIWA  ocr=MASIWA
+  63965983R63.jpg  [gender]  label=female  ocr=male
+  63972028M04.jpg  [gender]  label=female  ocr=male
+  63975026W11.jpg  [surname]  label=MUSHAYWARO  ocr=THOMAS
+  63975026W11.jpg  [first_name]  label=THOMAAS  ocr=MUSHAYAWARD
+  63976281K50.jpg  [id_number]  label=63976281K50  ocr=63976281K
+  63976281K50.jpg  [surname]  label=MAKUNIKG  ocr=MAKUNIK
+  63976281K50.jpg  [first_name]  label=IUTENDO ESNATH  ocr=TUTENDO
+  63976281K50.jpg  [birth_date]  label=06.02.72  ocr=06.02.77
+  63976281K50.jpg  [gender]  label=female  ocr=male
+  63990176N25.jpg  [id_number]  label=63990176N25  ocr=03041276J03
+  63990176N25.jpg  [surname]  label=  ocr=RODNEY
+  63990176N25.jpg  [first_name]  label=  ocr=JAMES
+  63990176N25.jpg  [birth_date]  label=  ocr=12.01.1961
+  63990176N25.jpg  [gender]  label=  ocr=male
+  63991903Q63.jpg  [gender]  label=female  ocr=male
+  63994351B12.jpg  [id_number]  label=63994351B12  ocr=6304351B12
+  63994351B12.jpg  [first_name]  label=SIKHANCGELA  ocr=SIKHANGELA
+  63994351B12.jpg  [gender]  label=female  ocr=male
+  660014475N66.jpg  [surname]  label=MUTSVANGA  ocr=NUTSVANGA
+  660014475N66.jpg  [gender]  label=female  ocr=male
+  66034918J66.jpg  [id_number]  label=66034918J66  ocr=660149186
+  66034918J66.jpg  [surname]  label=TETETE  ocr=CHINHOYI
+  66034918J66.jpg  [first_name]  label=MURAMBIWA  ocr=TETETE
+  66035498P66.jpg  [first_name]  label=MALIAKINI MRARAMA  ocr=MALJAKINI
+  66035498P66.jpg  [birth_date]  label=03.04.69  ocr=03.09.69
+  66048978R26.jpg  [gender]  label=female  ocr=male
+  67018009L67.jpg  [gender]  label=female  ocr=male
+  67018784D77.jpg  [id_number]  label=67018784D77  ocr=67018784077
+  67018784D77.jpg  [surname]  label=KIZITO  ocr=KIZITU
+  67020900D03.jpg  [surname]  label=MOYO  ocr=MOYD
+  67020900D03.jpg  [first_name]  label=ZINDOGA MAJOR  ocr=ZINDOGA
+  67051436V03.jpg  [surname]  label=MOYO  ocr=MOYD
+  67051436V03.jpg  [gender]  label=female  ocr=male
+  67054730A83.jpg  [id_number]  label=67054730A83  ocr=07054730A83
+  67068971E03.jpg  [gender]  label=female  ocr=male
+  67077442M67.jpg  [surname]  label=MUHLIWA  ocr=GILBERT
+  67077442M67.jpg  [first_name]  label=GILBERT  ocr=MUHELIMA
+  67079877J67.jpg  [gender]  label=female  ocr=male
+  67082739V45.jpg  [id_number]  label=67082739V45  ocr=03041276J03
+  67082739V45.jpg  [surname]  label=ANTONIO  ocr=RODNEY
+  67082739V45.jpg  [first_name]  label=LOICE  ocr=JAMES
+  67082739V45.jpg  [birth_date]  label=25.07.76  ocr=12.01.1961
+  67082739V45.jpg  [gender]  label=female  ocr=male
+  67085667C71.jpg  [birth_date]  label=12.08.75  ocr=12.06.75
+  67095256A67.jpg  [birth_date]  label=24.08.11978  ocr=24.08.1978
+  67095256A67.jpg  [gender]  label=female  ocr=male
+  67101719A67.jpg  [gender]  label=female  ocr=male
+  67108449Q67.jpg  [id_number]  label=67108449Q67  ocr=67108449687
+  67108449Q67.jpg  [surname]  label=BUTETE  ocr=JOYCE
+  67108449Q67.jpg  [first_name]  label=JOYOE  ocr=BUTETE
+  67108449Q67.jpg  [birth_date]  label=10.07.1981  ocr=12.07.1981
+  67108449Q67.jpg  [gender]  label=female  ocr=male
+  680039187M68.jpg  [first_name]  label=ZIMANAI  ocr=ZIVANAI
+  68005792N68.jpg  [gender]  label=female  ocr=male
+  68021096Y47.jpg  [surname]  label=NYAMHANZA  ocr=YAMHANZA
+  68021096Y47.jpg  [birth_date]  label=16.07.67  ocr=16.07.68
+  68021096Y47.jpg  [gender]  label=female  ocr=male
+  68021807W68.jpg  [surname]  label=CHINGOZA  ocr=ROSEMARY
+  68021807W68.jpg  [first_name]  label=ROSEMARY  ocr=CHI NG OZA
+  68021807W68.jpg  [gender]  label=female  ocr=male
+  68034748M45.jpg  [gender]  label=female  ocr=male
+  68035302P45.jpg  [id_number]  label=68035302P45  ocr=68035302P
+  68035302P45.jpg  [gender]  label=  ocr=M
+  68049056P68.jpg  [id_number]  label=68049056P68  ocr=68049056P
+  68049056P68.jpg  [gender]  label=female  ocr=male
+  68057554B68.jpg  [surname]  label=GATSI  ocr=DAVIE
+  68057554B68.jpg  [first_name]  label=DAVIE  ocr=GATSI
+  68057554B68.jpg  [gender]  label=  ocr=male
+  70023789N63.jpg  [surname]  label=CHIMHERE  ocr=SHADRICK
+  70023789N63.jpg  [first_name]  label=SHADRICK  ocr=CHIMHERE
+  70023789N63.jpg  [birth_date]  label=1.10.46  ocr=10.10.46
+  70028373W26.jpg  [gender]  label=female  ocr=male
+  70035999K70.jpg  [first_name]  label=ALAIDA  ocr=ALIEN F
+  70035999K70.jpg  [gender]  label=female  ocr=male
+  70057763R71.jpg  [surname]  label=MUDZINGWA  ocr=ALICE
+  70057763R71.jpg  [first_name]  label=ALICE  ocr=MUDZINGWA
+  70057763R71.jpg  [gender]  label=female  ocr=male
+  70067452Y00.jpg  [first_name]  label=MADELEINE GATLE  ocr=MADELEINE GAYLE
+  70067452Y00.jpg  [gender]  label=female  ocr=male
+  70067819X70.jpg  [birth_date]  label=13.01.67  ocr=13.01.68
+  70072495E70.jpg  [birth_date]  label=12.08.68  ocr=12.01.68
+  70072495E70.jpg  [gender]  label=female  ocr=male
+  70086728A70.jpg  [id_number]  label=70086728A70  ocr=70686728A70
+  70086728A70.jpg  [first_name]  label=MENNETH GODKNOWS  ocr=KENNETH GODKNOWS
+  70086903Q70.jpg  [id_number]  label=70086903Q70  ocr=70086903070
+  70086903Q70.jpg  [surname]  label=CHIRWA  ocr=CHIRWA STEPHEN
+  70086903Q70.jpg  [first_name]  label=STEPHEN  ocr=CHIRWA STEPHEN
+  70091685N70.jpg  [gender]  label=female  ocr=male
+  70114130K70.jpg  [surname]  label=MUSORO  ocr=MUSORD
+  70114130K70.jpg  [first_name]  label=PORTIA  ocr=MADHUVIKO
+  70114130K70.jpg  [gender]  label=female  ocr=male
+  70208195E70.jpg  [surname]  label=MANYERUKE  ocr=FADZAI
+  70208195E70.jpg  [first_name]  label=FADZAI  ocr=MANYERUKE
+  70208195E70.jpg  [gender]  label=female  ocr=male
+  70210476J70.jpg  [surname]  label=ASAFU  ocr=ASAFU MAICHIVEI
+  70210476J70.jpg  [gender]  label=female  ocr=male
+  70352901T70.jpg  [id_number]  label=38059469M38  ocr=38059469M
+  71006994P71.jpg  [gender]  label=female  ocr=male
+  71014209G71.jpg  [id_number]  label=71014209G71  ocr=71014209671
+  71035048H71.jpg  [surname]  label=CHAKUVVINGA  ocr=CHAKUVINCA
+  71035048H71.jpg  [first_name]  label=JANIPHER  ocr=CHAKUVINCA
+  71035048H71.jpg  [birth_date]  label=20.09.64  ocr=29.6A
+  71035048H71.jpg  [gender]  label=female  ocr=male
+  71040574P71.jpg  [id_number]  label=71040574P71  ocr=71C40574P71
+  71040574P71.jpg  [surname]  label=NYAMADZAWO  ocr=ANNA
+  71040574P71.jpg  [first_name]  label=ANNA  ocr=NYANADZAKO
+  71040574P71.jpg  [birth_date]  label=10.6.48  ocr=10.6.45
+  71040574P71.jpg  [gender]  label=female  ocr=male
+  71055996C71.jpg  [gender]  label=female  ocr=male
+  71060470Q71.jpg  [id_number]  label=71060470Q71  ocr=71060470G71
+  71060470Q71.jpg  [surname]  label=BANDERA  ocr=GRACE
+  71060470Q71.jpg  [first_name]  label=GRACE  ocr=BANDERA
+  71060470Q71.jpg  [gender]  label=female  ocr=male
+  73031897W75.jpg  [gender]  label=female  ocr=male
+  73046267Q73.jpg  [gender]  label=female  ocr=male
+  73046401L73.jpg  [gender]  label=female  ocr=male
+  75003849X44.jpg  [id_number]  label=75003849X44  ocr=03041276J03
+  75003849X44.jpg  [surname]  label=HUNAKANDAFA  ocr=MENKANJAPA
+  75003849X44.jpg  [first_name]  label=ZONEBB TICHAENZANA  ocr=ZENGER
+  75003849X44.jpg  [birth_date]  label=8.8.58  ocr=12.01.1961
+  75015693W34.jpg  [gender]  label=female  ocr=male
+  75041710A44.jpg  [surname]  label=CMIRAMGO  ocr=CHIRAVGO
+  75041710A44.jpg  [gender]  label=female  ocr=male
+  75055271Q50.jpg  [gender]  label=female  ocr=male
+  75084531V50.jpg  [surname]  label=MABVENE  ocr=MAR VENE
+  75084531V50.jpg  [first_name]  label=JANE  ocr=JANF
+  75084531V50.jpg  [gender]  label=female  ocr=M
+  75086368R75.jpg  [id_number]  label=75086368R75  ocr=75086368R
+  75086368R75.jpg  [first_name]  label=CHIDO  ocr=CHIKWANHA
+  75086368R75.jpg  [gender]  label=female  ocr=male
+  75097720F75.jpg  [id_number]  label=75097720F75  ocr=03041276J03
+  75097720F75.jpg  [surname]  label=  ocr=ZIMBABWE
+  75097720F75.jpg  [first_name]  label=  ocr=RODNEY
+  75097720F75.jpg  [birth_date]  label=  ocr=12.01.1961
+  75097720F75.jpg  [gender]  label=  ocr=male
+  75112285M04.jpg  [surname]  label=MAHACHI  ocr=ROBERT
+  75112285M04.jpg  [first_name]  label=ROBERT  ocr=MAHACHI
+  75150046G75.jpg  [id_number]  label=75150046G75  ocr=751500466
+  75150046G75.jpg  [surname]  label=MAKAMBWA  ocr=MAKUMBE
+  75150046G75.jpg  [first_name]  label=MAKUMBE  ocr=MAKAMBWA
+  75165419R48.jpg  [surname]  label=HOMERA  ocr=JOMERA
+  75177006L75.jpg  [id_number]  label=75177006L75  ocr=4673
+  75177006L75.jpg  [birth_date]  label=02.11.1977  ocr=02.11.1972
+  75177006L75.jpg  [gender]  label=female  ocr=male
+  75180547K44.jpg  [gender]  label=female  ocr=male
+  75190798C43.jpg  [first_name]  label=RUDO  ocr=FUDO
+  75190798C43.jpg  [gender]  label=female  ocr=male
+  75275106R75.jpg  [id_number]  label=75275106R75  ocr=75275106R
+  75275106R75.jpg  [birth_date]  label=15.05.73  ocr=25.05.73
+  75275106R75.jpg  [gender]  label=  ocr=male
+  75278739Q75.jpg  [id_number]  label=75278739Q75  ocr=75278739075
+  75278739Q75.jpg  [gender]  label=female  ocr=male
+  75282185L75.jpg  [id_number]  label=48067117Q48  ocr=48067117034
+  75297354Z75.jpg  [id_number]  label=75297354Z75  ocr=02033711E02
+  75297354Z75.jpg  [surname]  label=ZENGENI  ocr=ZIMBABWE
+  75297354Z75.jpg  [first_name]  label=BEAVEN  ocr=RODNEY JAMES
+  75297354Z75.jpg  [birth_date]  label=25.05.69  ocr=05.05.69
+  75310431N75.jpg  [gender]  label=female  ocr=male
+  75325972F75.jpg  [surname]  label=MVUDUDU  ocr=ZIMBABWE
+  75325972F75.jpg  [first_name]  label=SANDRA  ocr=MVUDUDU
+  75325972F75.jpg  [gender]  label=female  ocr=MUTARE
+  75327416A04.jpg  [surname]  label=MHIRIBIDI  ocr=GHRIBIDI
+  75327416A04.jpg  [gender]  label=female  ocr=male
+  75328215T50.jpg  [id_number]  label=75328215T50  ocr=14019756P45
+  75328215T50.jpg  [surname]  label=MANGODA  ocr=STEPHEN
+  75328215T50.jpg  [first_name]  label=STEPHEN ITAI  ocr=ITAI
+  75335800N50.jpg  [gender]  label=female  ocr=male
+  75337918Q75.jpg  [id_number]  label=75337918Q75  ocr=75337918075
+  75337918Q75.jpg  [gender]  label=  ocr=male
+  75343443W75.jpg  [id_number]  label=75343443W75  ocr=75034440W75
+  75343443W75.jpg  [surname]  label=ZIMUNYA  ocr=ZIMBABWE
+  75343443W75.jpg  [first_name]  label=BARBRA  ocr=ZIMUNYA
+  75343443W75.jpg  [gender]  label=female  ocr=M
+  77010256Z77.jpg  [id_number]  label=77010256Z77  ocr=77019256277
+  77010256Z77.jpg  [gender]  label=female  ocr=male
+  77033166B77.jpg  [first_name]  label=RUYI MUSIIWA HELARIO  ocr=RUYI
+  77033166B77.jpg  [gender]  label=  ocr=male
+  77048310M77.jpg  [surname]  label=PARIDZIRA  ocr=LANGTON
+  77048310M77.jpg  [first_name]  label=LANGTON  ocr=MABACHI
+  79021523J79.jpg  [first_name]  label=KELIAS MAGONDO  ocr=KELIAS
+  79022666B79.jpg  [id_number]  label=79022666B79  ocr=79022666879
+  79022666B79.jpg  [first_name]  label=ALFRED SIANGOMA  ocr=ALFRED
+  79022666B79.jpg  [gender]  label=  ocr=male
+  79056792V06.jpg  [id_number]  label=79056792V06  ocr=79056792V
+  79056792V06.jpg  [surname]  label=MIMPANDE  ocr=IMPANDE
+  79056792V06.jpg  [first_name]  label=SETBUDE  ocr=MIRPANDE
+  79056792V06.jpg  [gender]  label=female  ocr=male
+  79077891D06.jpg  [id_number]  label=79077891D06  ocr=79077891006
+  79077891D06.jpg  [surname]  label=MPALA  ocr=SAWU
+  79077891D06.jpg  [first_name]  label=SAWU  ocr=MPALA
+  79077891D06.jpg  [gender]  label=female  ocr=male
+  79082219H79.jpg  [id_number]  label=79082219H79  ocr=79082219117
+  79082219H79.jpg  [first_name]  label=TNDALINA  ocr=TINDALINA
+  79082219H79.jpg  [gender]  label=female  ocr=male
+  79092693S79.jpg  [first_name]  label=THOKOZANI MAKOSINI  ocr=THOKOZANI
+  79094490W39.jpg  [first_name]  label=SIDUDUZIWE  ocr=GIDBUDUZIWE
+  79094490W39.jpg  [gender]  label=female  ocr=male
+  79095962W79.jpg  [first_name]  label=MENGIWA  ocr=NENGIWA
+  79095962W79.jpg  [gender]  label=female  ocr=male
+  79108278H06.jpg  [surname]  label=MWEMBE  ocr=PILATO
+  79108278H06.jpg  [first_name]  label=PILATO  ocr=MWEMBE
+  80006083H80.jpg  [gender]  label=female  ocr=male
+  80033024R80.jpg  [first_name]  label=AUTHAR  ocr=MANDIZIRA
+  83002281V83.jpg  [id_number]  label=83002281V83  ocr=83002201V03
+  83002281V83.jpg  [first_name]  label=SVODAI  ocr=VUSHE
+  83002281V83.jpg  [gender]  label=female  ocr=male
+  83017588H83.jpg  [id_number]  label=83017588H83  ocr=83017500H83
+  83017588H83.jpg  [surname]  label=ZINYAU  ocr=ZIMBABWE
+  83017588H83.jpg  [first_name]  label=CNIA  ocr=ZINYAU
+  83017588H83.jpg  [birth_date]  label=10.10.49  ocr=0.10.49
+  83017588H83.jpg  [gender]  label=female  ocr=male
+  83053079K04.jpg  [surname]  label=GWANGWAVA  ocr=GUANGHAVA
+  83053079K04.jpg  [first_name]  label=RETINA NYENGETERAI  ocr=RETINA
+  83053079K04.jpg  [gender]  label=female  ocr=M
+  83065172E83.jpg  [gender]  label=female  ocr=male
+  83080292P83.jpg  [id_number]  label=83080292P83  ocr=83080292p83
+  83080292P83.jpg  [first_name]  label=TASUNUNGURWA  ocr=TA SUNUNGURWA
+  83085812P83.jpg  [id_number]  label=83085812P83  ocr=8308512P83
+  83085812P83.jpg  [gender]  label=female  ocr=male
+  83091679R83.jpg  [first_name]  label=PRISCA  ocr=PRIESCA
+  83091679R83.jpg  [gender]  label=female  ocr=male
+  83096636E83.jpg  [id_number]  label=83096636E83  ocr=03098631620
+  83096636E83.jpg  [surname]  label=MUSHARAVATI  ocr=CHUGA
+  83096636E83.jpg  [first_name]  label=ITAI  ocr=ZAKA
+  83096636E83.jpg  [gender]  label=female  ocr=male
+  83103653G83.jpg  [gender]  label=  ocr=male
+  83111758R83.jpg  [gender]  label=female  ocr=male
+  83121567D83.jpg  [gender]  label=female  ocr=male
+  83128138W83.jpg  [id_number]  label=83128138W83  ocr=85128138W83
+  83128138W83.jpg  [gender]  label=female  ocr=male
+  84001883T54.jpg  [gender]  label=female  ocr=male
+  85015774Z85.jpg  [gender]  label=female  ocr=male
+  85019469Q85.jpg  [id_number]  label=85019469Q85  ocr=85019469G85
+  85019469Q85.jpg  [first_name]  label=SAMSON  ocr=SAM
+  852005400A85.jpg  [first_name]  label=LASTON  ocr=CASTON
+  金属02045077J02.jpg  [surname]  label=NDCU  ocr=ND
+  金属02045077J02.jpg  [first_name]  label=SHONISANI  ocr=CU
+  金属02045077J02.jpg  [gender]  label=female  ocr=M
+  金属03117822L03.jpg  [birth_date]  label=12.03.1981  ocr=12 03 1981
+  金属03117822L03.jpg  [gender]  label=female  ocr=male
+  金属08408241R35.jpg  [gender]  label=female  ocr=MUTARE
+  金属08456040X47.jpg  [first_name]  label=BIGBOY  ocr=BIGBJY
+  金属13007937L13.jpg  [id_number]  label=13007937L13  ocr=13007937L
+  金属13007937L13.jpg  [birth_date]  label=7.2.64  ocr=7.2.64C
+  金属14015585F26.jpg  [first_name]  label=MOSES TIMOTHY  ocr=MOSES
+  金属27041156K27.jpg  [surname]  label=MANDISHE  ocr=BUHERA
+  金属27041156K27.jpg  [first_name]  label=SEKAI  ocr=MANDISHE
+  金属27041156K27.jpg  [gender]  label=female  ocr=M
+  金属29168464B26.jpg  [first_name]  label=KURAUVONE  ocr=KUR AUVONE
+  金属320211801B32.jpg  [id_number]  label=26105690Z26  ocr=26105690278
+  金属320211801B32.jpg  [birth_date]  label=15.04.1969  ocr=15.04.1961
+  金属320211801B32.jpg  [gender]  label=female  ocr=male
+  金属38096083K38.jpg  [id_number]  label=38096083K38  ocr=3809608318
+  金属38096083K38.jpg  [gender]  label=female  ocr=male
+  金属39022528Q39.jpg  [id_number]  label=39022528Q39  ocr=39022528039
+  金属39022528Q39.jpg  [first_name]  label=MEIYEZWE  ocr=MEIVEZWE
+  金属44045220N44.jpg  [first_name]  label=REGIVA  ocr=REGINA
+  金属44045220N44.jpg  [gender]  label=female  ocr=male
+  金属47073686Z47.jpg  [id_number]  label=47073686Z47  ocr=47073686247
+  金属47073686Z47.jpg  [surname]  label=ZIMONOI  ocr=ZIMMONDI
+  金属47073686Z47.jpg  [gender]  label=female  ocr=male
+  金属59005563F59.jpg  [gender]  label=  ocr=male
+  金属59014413A54.jpg  [id_number]  label=59014413A54  ocr=59014413A
+  金属631218557B38.jpg  [id_number]  label=631218557B38  ocr=63121855783
+  金属631218557B38.jpg  [gender]  label=female  ocr=male
+  金属632445405G71.jpg  [id_number]  label=18063109N18  ocr=11061109N18
+  金属632445405G71.jpg  [surname]  label=MASHINGAIDZE  ocr=MASHINGA
+  金属63883300T25.jpg  [id_number]  label=63883300T25  ocr=30883300T25
+  金属63883300T25.jpg  [surname]  label=MAPFUMO  ocr=MAPFUMO CUTHBERT
+  金属63883300T25.jpg  [first_name]  label=CUTHBERT  ocr=CHATUKUTA
+  金属66062583E66.jpg  [id_number]  label=66062583E66  ocr=60062583E66
+  金属67006337Z67.jpg  [gender]  label=female  ocr=male
+  金属67030447F12.jpg  [birth_date]  label=1.8.60  ocr=8.60
+  金属67030447F12.jpg  [gender]  label=female  ocr=male
+  金属68058938F68.jpg  [gender]  label=female  ocr=male
+  金属71117679Z71.jpg  [gender]  label=female  ocr=male
+  金属73018896P73.jpg  [gender]  label=female  ocr=male
+  金属75298521S75.jpg  [surname]  label=SITHDLE  ocr=SITHOLE
+  金属75298521S75.jpg  [gender]  label=female  ocr=male
+  金属83119140Q83.jpg  [birth_date]  label=05.05.1980  ocr=03.05.1980
+
+============================================================
+  Per-File Summary
+============================================================
+  OK 02033711E02.jpg
+  X 02035993K02.jpg
+    gender: label=female  ocr=male
+  X 02061724D02.jpg
+    gender: label=female  ocr=male
+  OK 02061902X02.jpg
+  OK 03041276J03.jpg
+  X 03041586W03.jpg
+    id_number: label=03041586W03  ocr=03041276J03
+    surname: label=HCVE  ocr=RODNEY
+    first_name: label=ROPAFADZAI  ocr=MATARUSE
+    gender: label=female  ocr=male
+  X 03041622K03.jpg
+    first_name: label=RUNGMIRAI  ocr=RUNGAMIRAI
+    gender: label=female  ocr=male
+  X 03043148T03.jpg
+    id_number: label=03043148T03  ocr=30043148T03
+    surname: label=RUVENGD  ocr=RUVENGU
+    gender: label=female  ocr=male
+  X 03052051W00.jpg
+    id_number: label=03052051W00  ocr=30052051W00
+  X 03057351G03.jpg
+    id_number: label=03057351G03  ocr=03057351603
+    gender: label=female  ocr=male
+  X 03076159A03.jpg
+    id_number: label=03076159A03  ocr=03041276J03
+    birth_date: label=23.11.72  ocr=12.01.1961
+    gender: label=female  ocr=male
+  OK 03086524R03.jpg
+  X 03105570T03.jpg
+    id_number: label=03105570T03  ocr=83105570T03
+    surname: label=HOVE  ocr=RODNEY
+    first_name: label=TARISAI  ocr=JAMES
+    birth_date: label=30.08.1981  ocr=12.01.1961
+    gender: label=female  ocr=male
+  X 03106696S03.jpg
+    id_number: label=03106696S03  ocr=30106696S03
+    surname: label=PHIRI  ocr=GAMUCHIRAI
+    first_name: label=GAMUCHIRAI  ocr=PHIRI
+    gender: label=female  ocr=male
+  X 03117162T03.jpg
+    id_number: label=03117162T03  ocr=30117162T03
+    gender: label=female  ocr=male
+  X 032006772T03.jpg
+    first_name: label=MEMORY  ocr=NDUNA
+    gender: label=female  ocr=male
+  OK 04006178Q04.jpg
+  X 04008660N04.jpg
+    gender: label=female  ocr=male
+  X 04023436Z04.jpg
+    gender: label=female  ocr=male
+  OK 04030216T04.jpg
+  X 04042138C04.jpg
+    id_number: label=04042138C04  ocr=04042133C04
+    first_name: label=CECILIAH  ocr=CEFTIZAH
+    gender: label=female  ocr=male
+  X 04045144V04.jpg
+    gender: label=female  ocr=male
+  X 04054344V04.jpg
+    id_number: label=04054344V04  ocr=04053741111
+    surname: label=MATONHODZE  ocr=SHARAJ
+    first_name: label=SHARAI  ocr=MATONHOODZE
+    gender: label=female  ocr=M
+  X 04056682L04.jpg
+    gender: label=female  ocr=male
+  X 04057057T04.jpg
+    id_number: label=04057057T04  ocr=57057104C11
+    surname: label=MATOREVHU  ocr=MATOREVTH
+    gender: label=female  ocr=male
+  X 04057281M04.jpg
+    first_name: label=MOSES FUNGIRAI  ocr=MOSES
+  X 04062050W09.jpg
+    id_number: label=04062050W09  ocr=04062050W04
+    gender: label=female  ocr=male
+  X 04062822K04.jpg
+    gender: label=female  ocr=male
+  X 04069040T04.jpg
+    id_number: label=04069040T04  ocr=04069040T
+  X 04071086S04.jpg
+    id_number: label=04071086S04  ocr=04071086S
+    surname: label=MAMBARA  ocr=MANBARA
+    birth_date: label=08.06.73  ocr=05.06.73
+  X 04072245C04.jpg
+    surname: label=DEKESA  ocr=DE KESA
+    first_name: label=ELIAS  ocr=EL IAS
+  X 04080654S04.jpg
+    id_number: label=04080654S04  ocr=04080654604
+    first_name: label=LEVY  ocr=CHOWE
+  OK 04084886S04.jpg
+  X 04087816C04.jpg
+    id_number: label=04087816C04  ocr=40087818C04
+    birth_date: label=06.02.1977  ocr=05.02.1977
+  X 04109501Y18.jpg
+    gender: label=female  ocr=male
+  X 050029007L05.jpg
+    id_number: label=050029007L05  ocr=05029007L05
+    gender: label=female  ocr=male
+  X 05007554S68.jpg
+    gender: label=female  ocr=male
+  X 05030359F05.jpg
+    birth_date: label=4.1.66  ocr=1.1.65
+    gender: label=female  ocr=male
+  X 05036314D05.jpg
+    id_number: label=05036314D05  ocr=05036314005
+    first_name: label=EDMORE  ocr=EDHORE
+  X 05051545J45.jpg
+    surname: label=CHIMUNDA  ocr=KANDEYA
+    first_name: label=CLEVER  ocr=BINDURA
+  X 05053916L68.jpg
+    surname: label=MANJEMGENJA  ocr=MANJENGENJA
+    first_name: label=INNDCENT  ocr=INNOCENT
+  X 05062809C05.jpg
+    gender: label=female  ocr=male
+  X 05069754B05.jpg
+    id_number: label=05069754B05  ocr=02033711E02
+    surname: label=MUHUKUSA  ocr=RODNEY
+    first_name: label=DADIRAI  ocr=JAMES
+    birth_date: label=20.03.1969  ocr=12.01.1961
+    gender: label=female  ocr=male
+  OK 05073982X14.jpg
+  X 06035118K06.jpg
+    gender: label=female  ocr=male
+  X 06109127E06.jpg
+    gender: label=female  ocr=male
+  X 07004953D07.jpg
+    gender: label=female  ocr=male
+  X 07041352S07.jpg
+    id_number: label=07041352S07  ocr=03041276J03
+    surname: label=HARUNAVAMWE  ocr=RODNEY
+    first_name: label=SERINA  ocr=JAMES
+    birth_date: label=08.02.68  ocr=12.01.1961
+    gender: label=female  ocr=male
+  X 07042454Q18.jpg
+    id_number: label=07042454Q18  ocr=07042454018
+    first_name: label=BEAUTY  ocr=CHIVHU
+    gender: label=female  ocr=male
+  X 07064939F07.jpg
+    gender: label=female  ocr=male
+  X 07069659L07.jpg
+    gender: label=female  ocr=M
+  X 07071638M07.jpg
+    id_number: label=07071638M07  ocr=03041276J03
+    surname: label=PUSHWAYA  ocr=BURERA
+    first_name: label=MACHIVEYI  ocr=TAMA
+    gender: label=female  ocr=male
+  X 07089760K07.jpg
+    id_number: label=07089760K07  ocr=07089760M
+    first_name: label=MOMBAI  ocr=KOMSAI
+  X 07090697D07.jpg
+    id_number: label=07090697D07  ocr=07090697007
+    surname: label=MAPARANYANGA  ocr=G
+    first_name: label=MANDIZVIDZA  ocr=MAPARANYANGA
+  X 07099966D07.jpg
+    gender: label=female  ocr=male
+  X 07105713A07.jpg
+    id_number: label=07105713A07  ocr=0710571307C
+    birth_date: label=15.06.1978  ocr=19.06.1978
+    gender: label=female  ocr=male
+  X 07107972F07.jpg
+    id_number: label=07107972F07  ocr=71079726F07
+    first_name: label=LOVENESS  ocr=MAGAZINE
+    birth_date: label=26.04.1977  ocr=04. 19. 1977
+    gender: label=female  ocr=male
+  X 07140779Q07.jpg
+    id_number: label=07140779Q07  ocr=07140779007
+    surname: label=CHITENDERE  ocr=ZENDA
+    first_name: label=MUNYARADZI  ocr=EJHERA
+  OK 08023500V28.jpg
+  X 08034661B04.jpg
+    id_number: label=08034661B04  ocr=37289
+    surname: label=VENGERE  ocr=KRAAL
+  X 08050700K41.jpg
+    id_number: label=08050700K41  ocr=09050700K41
+  X 08068592H08.jpg
+    surname: label=MASUKU  ocr=CHARLES
+    first_name: label=CHARLES  ocr=MASUKU
+  X 08115598B27.jpg
+    gender: label=female  ocr=male
+  OK 08118449A39.jpg
+  X 08123293Q03.jpg
+    id_number: label=08123293Q03  ocr=08123293003
+  X 08130021D53.jpg
+    id_number: label=08130021D53  ocr=08130021053
+    gender: label=female  ocr=male
+  X 08156804Q28.jpg
+    id_number: label=08156804Q28  ocr=08156804G28
+  X 08165630J56.jpg
+    gender: label=female  ocr=male
+  X 08189145T08.jpg
+    surname: label=NDIWENT  ocr=NDTWENT
+    first_name: label=WELLOSI  ocr=WELLOST
+    birth_date: label=15.7.59  ocr=15. 7.59C
+  X 08196182S29.jpg
+    gender: label=female  ocr=male
+  OK 08203279G44.jpg
+  X 08208732J38.jpg
+    surname: label=MOYO  ocr=MOYD
+    gender: label=female  ocr=male
+  X 082103921R12.jpg
+    gender: label=female  ocr=male
+  X 08221076B47.jpg
+    id_number: label=08221076B47  ocr=0822076847C
+  OK 08221309E24.jpg
+  OK 08229398X05.jpg
+  X 08233413L08.jpg
+    birth_date: label=12.8.60  ocr=12.8.1961
+    gender: label=female  ocr=male
+  X 082335079A12.jpg
+    id_number: label=35017024G35  ocr=35017024G
+    gender: label=female  ocr=M
+  X 08248342N26.jpg
+    id_number: label=08248342N26  ocr=D8248342N2
+    surname: label=QADZIRA  ocr=SUNGAI
+    first_name: label=DELIWE  ocr=MATCHO
+    gender: label=female  ocr=male
+  X 08255100J39.jpg
+    id_number: label=08255100J39  ocr=U8255100J39
+    surname: label=DUBE  ocr=JUBE
+  X 08255909N21.jpg
+    birth_date: label=15.12.16  ocr=15.12.46
+    gender: label=female  ocr=male
+  X 08272230D08.jpg
+    id_number: label=08272230D08  ocr=0871901
+    birth_date: label=12.07.1958  ocr=12.07.1956
+  X 08316781D35.jpg
+    id_number: label=08316781D35  ocr=033167810
+    gender: label=female  ocr=male
+  X 08329466R50.jpg
+    id_number: label=08329466R50  ocr=08329466N50
+    gender: label=female  ocr=male
+  X 08345237J56.jpg
+    surname: label=MOYO  ocr=MOYD
+    gender: label=female  ocr=male
+  X 08351026B56.jpg
+    surname: label=TABONGWANA  ocr=TABUNGWANA
+    gender: label=female  ocr=male
+  X 08365699A42.jpg
+    id_number: label=08365699A42  ocr=08365699A4C
+    surname: label=MUISIPA  ocr=MUTSIPA
+    gender: label=female  ocr=male
+  X 08367179J70.jpg
+    surname: label=CHIGUMBU  ocr=REGINA RUDORUNESU
+    first_name: label=RFGINA RUDORUNESU  ocr=CHIGUMBU
+    gender: label=female  ocr=male
+  X 08381444P28.jpg
+    id_number: label=08381444P28  ocr=083914442B
+    first_name: label=SIKHUPHUKJ  ocr=SIKHUPHUXT
+    birth_date: label=25.4.61  ocr=25.04.2010
+  X 08381534M29.jpg
+    gender: label=female  ocr=male
+  X 08394908Z83.jpg
+    surname: label=BETA  ocr=CHENGETO
+    first_name: label=CHENGETO  ocr=BETA
+    gender: label=female  ocr=male
+  X 08428423D21.jpg
+    id_number: label=08428423D21  ocr=084284230
+    surname: label=SIBANDA  ocr=FIBANDA
+    gender: label=female  ocr=male
+  X 08448976T39.jpg
+    id_number: label=08448976T39  ocr=48976139C11
+    surname: label=MOYO  ocr=MCYO
+    gender: label=female  ocr=male
+  X 08478885D56.jpg
+    id_number: label=08478885D56  ocr=08478885056
+    surname: label=KHUPE  ocr=KHOPE
+    birth_date: label=27.08.55  ocr=27.06.55
+    gender: label=female  ocr=male
+  X 08489376G29.jpg
+    gender: label=female  ocr=male
+  X 08499829T79.jpg
+    surname: label=MTHUPHA  ocr=ALBERT
+    first_name: label=ALBERT  ocr=MTHUPHA
+  X 08504455X56.jpg
+    gender: label=female  ocr=male
+  X 08532140P00.jpg
+    first_name: label=VANESSA DELPHINE  ocr=VANESSA
+    gender: label=female  ocr=male
+  X 08533060P18.jpg
+    id_number: label=08533060P18  ocr=9853306CP18
+    surname: label=ZIMIDZI  ocr=ZIMBABWE
+    first_name: label=PATRICK  ocr=ZIMIDZI
+    birth_date: label=07.11.68  ocr=17.11.68
+  X 08556999K53.jpg
+    gender: label=female  ocr=male
+  X 08568335G41.jpg
+    surname: label=DLODLO  ocr=THOMAS
+    first_name: label=MIQA  ocr=LUPANE
+    gender: label=female  ocr=male
+  OK 08569939A38.jpg
+  X 08570361J28.jpg
+    id_number: label=08570361J28  ocr=08570351J28
+    gender: label=female  ocr=male
+  X 08581761A39.jpg
+    surname: label=NCUBE  ocr=KWEHLA
+    first_name: label=SIBONAKALISO  ocr=MATOBO
+    gender: label=female  ocr=male
+  X 08588704X28.jpg
+    first_name: label=SIBONILE  ocr=SIONILE
+    gender: label=female  ocr=male
+  OK 08593531T03.jpg
+  X 08602815K19.jpg
+    surname: label=MLILD  ocr=MLILO
+    first_name: label=SIHLEZI  ocr=SIMLEZI
+    gender: label=female  ocr=male
+  X 08610387Q42.jpg
+    gender: label=female  ocr=male
+  OK 08617120J75.jpg
+  X 08627413X18.jpg
+    id_number: label=08627413X18  ocr=627413X18CI
+    first_name: label=GAILY MAKANYUMWA  ocr=CAILY MARANYUMWA
+    birth_date: label=19.02.1983  ocr=02.1980
+    gender: label=female  ocr=male
+  X 08630195W19.jpg
+    id_number: label=08630195W19  ocr=08630195110
+    surname: label=MPOFU  ocr=DANIEL
+    first_name: label=BULISIWE  ocr=UMZINGWANE
+    gender: label=female  ocr=male
+  X 08655025K26.jpg
+    id_number: label=26019856B26  ocr=26019856426
+    surname: label=MUTENHERI  ocr=MUTENHERT
+    birth_date: label=25.6.43  ocr=26-01-1961
+  X 08656103G08.jpg
+    id_number: label=08656103G08  ocr=08656103608
+    surname: label=SAKALK  ocr=SAKALA
+  X 08661898F07.jpg
+    surname: label=CHIDHAKWA  ocr=CHIOHAKWA
+    gender: label=female  ocr=male
+  X 08668985J83.jpg
+    gender: label=female  ocr=male
+  X 08670403A32.jpg
+    id_number: label=08670403A32  ocr=08670403A
+  X 08676697R28.jpg
+    id_number: label=08676697R28  ocr=0867697820
+    surname: label=NCUBE  ocr=MARUPE
+    first_name: label=NKOSIYAZI  ocr=NGOSTYAZI
+    birth_date: label=08.02.1976  ocr=08.03.1976
+  X 08679077D73.jpg
+    id_number: label=08679077D73  ocr=2691301
+    surname: label=NCUBE  ocr=MATUPULA
+    first_name: label=SIBOMISIWE  ocr=TSHOLOTSH
+    birth_date: label=06.02.1977  ocr=06.03.1977
+    gender: label=female  ocr=male
+  X 08688954P29.jpg
+    id_number: label=08688954P29  ocr=0888954P29C
+  X 08695324N24.jpg
+    gender: label=female  ocr=male
+  X 08718947Q44.jpg
+    id_number: label=08718947Q44  ocr=08710947G44
+  X 08765410T42.jpg
+    id_number: label=08765410T42  ocr=08785410142
+    surname: label=MAGAYA  ocr=MICHAEL
+    first_name: label=MICHAEL MUNYARADZI  ocr=MAGAYA
+  X 08798285C21.jpg
+    surname: label=SIBANDA  ocr=SIBAVDA
+    gender: label=female  ocr=male
+  X 11012696W11.jpg
+    first_name: label=SAIDI KASEMBE  ocr=SAIDI
+  X 11026302K11.jpg
+    gender: label=  ocr=male
+  X 11030028K11.jpg
+    id_number: label=11030028K11  ocr=11030028K
+    first_name: label=TEBETH PHIRI  ocr=TEBETH
+    gender: label=female  ocr=male
+  X 11040359P11.jpg
+    surname: label=MUGARIRI  ocr=CHIPO
+    first_name: label=CHIPO  ocr=MUGARIRI
+    gender: label=female  ocr=male
+  OK 11043080X11.jpg
+  X 11043355W11.jpg
+    surname: label=ZONDEWA  ocr=ANNAH
+    first_name: label=ANNAH  ocr=ZONDEWA
+    birth_date: label=04.45.1974  ocr=04 05 1974
+    gender: label=female  ocr=male
+  X 11046240G11.jpg
+    gender: label=female  ocr=male
+  X 11055932R11.jpg
+    birth_date: label=07.10.1982  ocr=07 10 1982
+  OK 12031960R12.jpg
+  X 12035834C22.jpg
+    gender: label=female  ocr=male
+  X 12048657Q12.jpg
+    id_number: label=12048657Q12  ocr=120486570
+    surname: label=DUVE  ocr=EDWARD
+    first_name: label=ECWAPD  ocr=DUVE
+    birth_date: label=10.10.73  ocr=10.1.73
+  X 12082363C12.jpg
+    gender: label=female  ocr=male
+  OK 12082865Y12.jpg
+  X 12092416E12.jpg
+    surname: label=GWANDIREGERA  ocr=MADZIVA
+    first_name: label=BENSON  ocr=CHIBI
+    gender: label=  ocr=male
+  X 13010250A13.jpg
+    surname: label=BANGWAYO  ocr=LYTON RINGIRAYI
+    first_name: label=LYTOM RINGIRAYI  ocr=BANGUAYO
+  X 13021282R13.jpg
+    gender: label=female  ocr=male
+  X 13024938Q44.jpg
+    gender: label=female  ocr=male
+  X 13084416Q44.jpg
+    id_number: label=13084416Q44  ocr=13084416044
+  OK 13096906R13.jpg
+  X 13111618H44.jpg
+    gender: label=female  ocr=male
+  X 13112212D13.jpg
+    id_number: label=13112212D13  ocr=13112212013
+  X 13138572F12.jpg
+    id_number: label=13138572F12  ocr=13138572F13
+    first_name: label=CATHRINE  ocr=CATERINE
+    gender: label=female  ocr=male
+  X 13139699F13.jpg
+    id_number: label=13139699F13  ocr=1313960913
+    surname: label=MAREMUDZE  ocr=RODNEY
+    first_name: label=ZHMAH  ocr=JAMES
+    birth_date: label=23.10.1979  ocr=1972-01-05
+    gender: label=female  ocr=male
+  X 13148851D13.jpg
+    birth_date: label=20.12.1976  ocr=20 12 1976
+    gender: label=female  ocr=male
+  X 13151022N13.jpg
+    surname: label=HLATYWAYO  ocr=FAITH
+    first_name: label=FAITH  ocr=MARISETA
+    gender: label=female  ocr=male
+  X 13151757M13.jpg
+    surname: label=MHLANGA  ocr=PAMELLAH
+    first_name: label=PAMELLAH  ocr=MHLANGA
+    gender: label=female  ocr=male
+  X 13163659Z13.jpg
+    first_name: label=EVERJOYCE MUNHANGA  ocr=EVERJOYCE
+    birth_date: label=08.12.1978  ocr=08.12.1972
+    gender: label=female  ocr=male
+  OK 13167807H13.jpg
+  X 13167811M13.jpg
+    gender: label=female  ocr=male
+  X 13171722N13.jpg
+    id_number: label=13171722N13  ocr=1311722N13C
+  X 13325474K13.jpg
+    first_name: label=SPIWL  ocr=SPIW
+    gender: label=female  ocr=male
+  X 14006656A83.jpg
+    id_number: label=14006656A83  ocr=14006656483
+    surname: label=PASIPAMIRE  ocr=PASIPAMIR
+    birth_date: label=16.11.58  ocr=16.11.56
+    gender: label=female  ocr=male
+  X 14016507H04.jpg
+    surname: label=MANYURURE  ocr=MARKO
+    first_name: label=MARKO  ocr=MANYURURE
+  OK 14022205B14.jpg
+  X 14036290L14.jpg
+    surname: label=MADUME  ocr=MADUWE
+    first_name: label=DANISON  ocr=DAVISON
+  X 14061861F14.jpg
+    gender: label=female  ocr=M
+  X 14087271A12.jpg
+    surname: label=NYENGERAI  ocr=N Y E N G E R A I
+    gender: label=female  ocr=male
+  X 14098941K44.jpg
+    surname: label=MWASHAIRENYI  ocr=M
+    first_name: label=TSITSI  ocr=M
+    gender: label=female  ocr=male
+  X 14104142N14.jpg
+    gender: label=female  ocr=male
+  OK 14108028M04.jpg
+  X 14133012T14.jpg
+    id_number: label=14133012T14  ocr=14133072T14
+    surname: label=CHINONO  ocr=NEMANASHI
+    first_name: label=TASMELENI  ocr=CHIREDZI
+    gender: label=female  ocr=male
+  X 15006117W15.jpg
+    surname: label=MUGAURI  ocr=MUGAUR I
+    gender: label=female  ocr=M
+  X 15009848B15.jpg
+    gender: label=female  ocr=M
+  X 15018718S15.jpg
+    gender: label=female  ocr=male
+  X 15021732T15.jpg
+    birth_date: label=7.4.50  ocr=7·4·50
+  X 15041520C25.jpg
+    surname: label=MAKORONI  ocr=MAKURONI
+    first_name: label=VONGAI VICTORIA  ocr=VONCAI VICTORIA
+    gender: label=female  ocr=male
+  X 15082597B15.jpg
+    id_number: label=15082597B15  ocr=15082597B
+  X 15098101D15.jpg
+    id_number: label=15098101D15  ocr=15098101015
+    gender: label=female  ocr=male
+  X 15121045S27.jpg
+    first_name: label=AQNES  ocr=AGNES
+    gender: label=  ocr=male
+  X 15122372K15.jpg
+    gender: label=female  ocr=male
+  X 15123761V15.jpg
+    surname: label=TAENGWA  ocr=CHENJERAYI
+    first_name: label=CHENJERAYI  ocr=TAENGWA
+    gender: label=  ocr=male
+  X 15136885K15.jpg
+    gender: label=female  ocr=male
+  X 15171238A71.jpg
+    surname: label=GUYO  ocr=GUYD
+    birth_date: label=21.08.1981  ocr=21.08.1985
+    gender: label=female  ocr=male
+  X 152053800T15.jpg
+    id_number: label=21029413G21  ocr=21029413621
+  X 18028803Z18.jpg
+    first_name: label=NOREEN  ocr=NORFEN
+    gender: label=female  ocr=male
+  X 18046837B18.jpg
+    id_number: label=18046837B18  ocr=18016837618
+    surname: label=LIZAMARWP  ocr=KUZANARWO
+  X 18052876Q18.jpg
+    gender: label=female  ocr=male
+  X 190016452F19.jpg
+    id_number: label=19015452F19  ocr=19016452F19
+    first_name: label=LANGELIHLF  ocr=LANGELIHLE
+    gender: label=female  ocr=male
+  X 19002194H73.jpg
+    surname: label=MOYO  ocr=MOYD
+    gender: label=female  ocr=male
+  X 21024554A21.jpg
+    gender: label=female  ocr=male
+  X 21030147E21.jpg
+    id_number: label=21030147E21  ocr=21030147E
+    surname: label=NYONI  ocr=THULANI
+    first_name: label=THULANI  ocr=NYONI
+  X 21032184T21.jpg
+    id_number: label=21032184T21  ocr=21032184121
+    first_name: label=SETHULO  ocr=SETHULD
+    gender: label=female  ocr=male
+  X 21045408S21.jpg
+    gender: label=female  ocr=male
+  X 22003549A22.jpg
+    id_number: label=22003549A22  ocr=04004326C04
+    surname: label=GWCNHA  ocr=GRENHA
+  X 220211565E13.jpg
+    birth_date: label=12.03.1981  ocr=12.03.1984
+  X 22025140T83.jpg
+    surname: label=CHIKUTU  ocr=LAWRENCE
+    first_name: label=LAWRENCE  ocr=CHIKUTU
+  X 22029749D21.jpg
+    id_number: label=22029749D21  ocr=220297090
+  X 22032016S03.jpg
+    id_number: label=22032016S03  ocr=03213201639
+    surname: label=MAKOTOSE  ocr=ZIMBABWE
+    first_name: label=  ocr=None
+    birth_date: label=2.1.59  ocr=None
+    gender: label=  ocr=None
+  X 22036752Q27.jpg
+    id_number: label=22036752Q27  ocr=22036752027
+    gender: label=female  ocr=male
+  X 22048285B22.jpg
+    id_number: label=22048285B22  ocr=22041285B22
+    surname: label=BUNGU  ocr=TAVUYA
+    first_name: label=TAVUYA  ocr=MASVINGO
+    birth_date: label=6.4.46  ocr=6.1.46
+  X 22060833Q22.jpg
+    id_number: label=22060833Q22  ocr=22060833022
+    first_name: label=MARIA  ocr=MUTUBUKI
+    birth_date: label=1.10.51  ocr=None
+    gender: label=female  ocr=male
+  OK 22107793J77.jpg
+  X 22117550P22.jpg
+    id_number: label=22117550P22  ocr=22117550P
+    gender: label=female  ocr=male
+  X 22130614P22.jpg
+    id_number: label=22130614P22  ocr=58198602Z58
+  OK 22139257J22.jpg
+  X 22148673T22.jpg
+    gender: label=female  ocr=male
+  X 22151566N27.jpg
+    first_name: label=KRIEAY  ocr=FRITAY
+    birth_date: label=15.06.73  ocr=06.73
+  OK 22152478E27.jpg
+  X 22167463S22.jpg
+    id_number: label=22167463S22  ocr=22167463622
+  X 22195518M22.jpg
+    id_number: label=22195518M22  ocr=22195918M22
+    first_name: label=LILIOSA  ocr=LILIDSA
+    gender: label=female  ocr=male
+  OK 22197831B22.jpg
+  OK 22207344R83.jpg
+  X 23010630D23.jpg
+    id_number: label=23010630D23  ocr=23010630023
+    gender: label=female  ocr=male
+  X 23015116E23.jpg
+    surname: label=MGWIRA  ocr=MOWIRA
+    gender: label=female  ocr=male
+  OK 23015574C23.jpg
+  X 23181579S23.jpg
+    id_number: label=58081126H58  ocr=58061126H58
+    birth_date: label=5.7.51  ocr=5/7/54
+    gender: label=female  ocr=male
+  X 24036743T32.jpg
+    gender: label=female  ocr=male
+  X 24064212B26.jpg
+    id_number: label=24064212B26  ocr=24064212826
+    gender: label=female  ocr=male
+  X 25023961G45.jpg
+    id_number: label=25023961G45  ocr=25023961645
+    surname: label=MARASA  ocr=NORMAN
+    first_name: label=NORMAN  ocr=MARASA
+    birth_date: label=15.01.68  ocr=05.01.68
+  X 25028431Q25.jpg
+    id_number: label=25028431Q25  ocr=250284310
+    surname: label=MUZAWAZI  ocr=MUZAMAZI
+  X 25034099B25.jpg
+    gender: label=female  ocr=male
+  X 25040562B50.jpg
+    id_number: label=25040562B50  ocr=25040562850
+    first_name: label=MARIA LITTW RUTENDO  ocr=MARIA LITT
+    gender: label=female  ocr=male
+  X 25060474V32.jpg
+    first_name: label=LLOYD  ocr=LOYD
+  X 25065354Z25.jpg
+    gender: label=female  ocr=male
+  X 26008282W26.jpg
+    gender: label=female  ocr=male
+  X 26025435Q26.jpg
+    id_number: label=26025435Q26  ocr=01670026C17
+    surname: label=MAMINGIER  ocr=MAVINGIRE
+    first_name: label=KENANIT  ocr=KENANI
+  OK 26049886S26.jpg
+  X 26083950T26.jpg
+    first_name: label=TAMCNGWA  ocr=TAYENGBA
+  X 26089758G26.jpg
+    id_number: label=26089758G26  ocr=26089758626
+    gender: label=female  ocr=male
+  OK 26098831T26.jpg
+  X 26125240Z26.jpg
+    gender: label=female  ocr=male
+  X 26130041S26.jpg
+    gender: label=female  ocr=male
+  OK 27004813G27.jpg
+  X 27025410V27.jpg
+    gender: label=female  ocr=male
+  X 27054586H27.jpg
+    surname: label=MANDEBVU  ocr=CHENJERAI
+    first_name: label=CHENJERAI  ocr=MANDEBVU
+  OK 27055548D27.jpg
+  OK 27058735S27.jpg
+  X 27060028Y27.jpg
+    first_name: label=MUEARG  ocr=MUEARC
+    gender: label=female  ocr=male
+  X 27075149J27.jpg
+    id_number: label=63885843H25  ocr=63885843H
+  X 27082519V27.jpg
+    gender: label=female  ocr=male
+  X 27096262H27.jpg
+    first_name: label=AUXIUIA  ocr=AUXIL
+    gender: label=female  ocr=male
+  OK 27121106M27.jpg
+  X 27121728N27.jpg
+    id_number: label=27121728N27  ocr=27121720802
+    first_name: label=EMERITA  ocr=ETERITA
+    gender: label=female  ocr=male
+  X 27135364K27.jpg
+    birth_date: label=27.08.1976  ocr=27.03.1976
+    gender: label=female  ocr=male
+  X 27144023X27.jpg
+    birth_date: label=27.06.1979  ocr=27 06 1979
+  OK 27149333T86.jpg
+  OK 27154659H27.jpg
+  X 27161408T27.jpg
+    surname: label=SANANGU  ocr=SANANGU ANTHONY
+    first_name: label=ANTHONY  ocr=CHIDONGI MASVINGO
+  OK 27166708E27.jpg
+  X 28003957H28.jpg
+    surname: label=NCUBE  ocr=BETHUEL
+  X 28047393W28.jpg
+    first_name: label=SIBONSILE  ocr=SIEONGILE
+    gender: label=female  ocr=male
+  X 28060189E28.jpg
+    first_name: label=NEVER  ocr=T
+  X 28082039E28.jpg
+    first_name: label=MAROERT  ocr=MARGERT
+    gender: label=female  ocr=male
+  X 28088444R28.jpg
+    id_number: label=28088444R28  ocr=20088447628
+    birth_date: label=29.01.1980  ocr=29 01 1980
+    gender: label=female  ocr=male
+  OK 28091132N28.jpg
+  X 29056827G66.jpg
+    surname: label=MABEZ  ocr=MABEZA
+    gender: label=female  ocr=male
+  X 29058607R42.jpg
+    id_number: label=29058607R42  ocr=29058607A42
+  X 29097419D07.jpg
+    id_number: label=29097419D07  ocr=29097419007
+    surname: label=VIRIRI  ocr=VITOIRI
+  X 29109841F32.jpg
+    surname: label=NGWARIRAYI  ocr=BROUGAR
+    first_name: label=BRIGHTON  ocr=NOWARIRAY
+  X 29110278F29.jpg
+    surname: label=MPOFU  ocr=EMMA
+    first_name: label=EMMAH  ocr=EMMA
+    birth_date: label=9.10.64  ocr=09.03.64
+    gender: label=female  ocr=male
+  X 29111514Z12.jpg
+    gender: label=female  ocr=male
+  X 29112734A66.jpg
+    gender: label=female  ocr=male
+  X 29125287V44.jpg
+    id_number: label=29125287V44  ocr=29120287V44
+    surname: label=MARINGEHOSI  ocr=MARINGEHOGI
+    first_name: label=ALTCE  ocr=ALICE
+    birth_date: label=08.05.1966  ocr=09.05.1961
+    gender: label=female  ocr=male
+  X 29129629P45.jpg
+    id_number: label=29129629P45  ocr=29125629P45
+    gender: label=female  ocr=male
+  X 29137076J58.jpg
+    surname: label=NCUBE  ocr=DINGILWAZI
+    first_name: label=DINGILWAZI  ocr=NCUBE
+  X 29153938M26.jpg
+    surname: label=MPOFU  ocr=M
+    first_name: label=EUSTINA  ocr=RODNEY
+    gender: label=female  ocr=male
+  X 29154487J25.jpg
+    first_name: label=KUZVINETSA VIOLET  ocr=KUZVINETSA
+    gender: label=female  ocr=male
+  X 29155329Z29.jpg
+    id_number: label=29155329Z29  ocr=29155329229
+    first_name: label=NODETTER  ocr=NOBETTER
+    gender: label=female  ocr=male
+  X 29176169B22.jpg
+    gender: label=female  ocr=male
+  OK 29176181P29.jpg
+  X 29185949G29.jpg
+    surname: label=MUHLAKAIA  ocr=MUHLAKAZA
+  X 29193242J29.jpg
+    surname: label=NCUBE  ocr=TSHEKELA
+    first_name: label=SITSHENGISO  ocr=GWERU
+    gender: label=female  ocr=male
+  X 29209985H18.jpg
+    id_number: label=29209985H18  ocr=29209985
+    first_name: label=NDAKAITEI TABETH  ocr=NDAKAITEI
+    gender: label=female  ocr=male
+  X 29323501V26.jpg
+    gender: label=female  ocr=male
+  X 32000820Z32.jpg
+    id_number: label=32000820Z32  ocr=320008202
+    surname: label=KANAMANDARI  ocr=RODRECK
+  X 32002137F32.jpg
+    surname: label=KATSAMBE  ocr=MATSAMBE
+    first_name: label=MARINA  ocr=KATSAMBE
+    birth_date: label=23.11.49  ocr=23.11.44
+    gender: label=female  ocr=M
+  X 320063301N26.jpg
+    id_number: label=32063301N26  ocr=32060301N26
+    surname: label=NAVIVI  ocr=MAVIVI
+    birth_date: label=04.04.72  ocr=04.00.72
+    gender: label=female  ocr=male
+  X 320104785E32.jpg
+    surname: label=ARABI  ocr=ARE
+    gender: label=female  ocr=male
+  X 32016290P32.jpg
+    id_number: label=32016290P32  ocr=32018200803
+  X 32027741L18.jpg
+    surname: label=GCNYORA  ocr=CONYORA
+    birth_date: label=29.04.49  ocr=29.04.48
+    gender: label=female  ocr=male
+  X 32066601A15.jpg
+    id_number: label=32066601A15  ocr=32056601615
+    gender: label=female  ocr=male
+  OK 32082630Y32.jpg
+  X 32083416C14.jpg
+    id_number: label=32083416C14  ocr=320834160
+    surname: label=ZVIREWO  ocr=ZVIRELO
+  OK 32085665X32.jpg
+  X 32085948E27.jpg
+    surname: label=NANO  ocr=CHEGUTU
+    first_name: label=ROSE  ocr=NANO
+  OK 32101996Y27.jpg
+  X 32102900F03.jpg
+    surname: label=NHETE  ocr=CHIVASA KILCHEGUTU
+    first_name: label=GIFT  ocr=HO EO CO
+  X 32120778N32.jpg
+    gender: label=female  ocr=male
+  X 32126958F29.jpg
+    first_name: label=MATRON NOKUTHULA  ocr=MATRON
+    gender: label=female  ocr=male
+  OK 32209352P27.jpg
+  X 34005759F34.jpg
+    first_name: label=EVANGELICTA  ocr=EVANGELITA
+    gender: label=female  ocr=male
+  X 34010154H34.jpg
+    id_number: label=34010154H34  ocr=34010154M
+    gender: label=female  ocr=male
+  X 34012510T34.jpg
+    id_number: label=34012510T34  ocr=340125101
+  X 34013425N34.jpg
+    surname: label=GOTOGODO  ocr=GOROGODO
+    first_name: label=PAIRICK  ocr=PATRICK
+  X 34015216K34.jpg
+    gender: label=female  ocr=male
+  X 34029124C34.jpg
+    id_number: label=34029124C34  ocr=340291240
+    birth_date: label=6.11.65  ocr=6.11.05
+    gender: label=female  ocr=male
+  X 34032434A34.jpg
+    id_number: label=34032434A34  ocr=34032408403
+    surname: label=NDARANGWA  ocr=BONDE
+    first_name: label=SOLOMON  ocr=NYANGA
+  X 34039597L34.jpg
+    surname: label=MANDIWANZIRA  ocr=Mandiwangira
+    first_name: label=RUCHIWA  ocr=Mandiwangira
+    gender: label=female  ocr=male
+  X 34049983A34.jpg
+    gender: label=female  ocr=male
+  X 34055253D34.jpg
+    id_number: label=34055253D34  ocr=340552530
+    surname: label=CHIMUNDA  ocr=PATRICK
+    first_name: label=PATRICK  ocr=CHIMUND
+  X 34058214X34.jpg
+    gender: label=female  ocr=male
+  X 34061184A34.jpg
+    surname: label=NYABUNZE  ocr=INYANGA
+  OK 34078503A34.jpg
+  OK 34078757B34.jpg
+  X 35002890T35.jpg
+    surname: label=MOYO  ocr=MOYD
+    gender: label=female  ocr=M
+  X 37006835V38.jpg
+    surname: label=MUPUKUTA  ocr=MUPUKJTA
+    birth_date: label=02.23.71  ocr=02.03.71
+  X 37026250Y37.jpg
+    id_number: label=37026250Y37  ocr=37026250137
+    first_name: label=REOERAI  ocr=REGERAI
+    gender: label=female  ocr=male
+  X 37077178E06.jpg
+    id_number: label=37077178E37  ocr=37077178E87
+  X 37077874L37.jpg
+    gender: label=female  ocr=male
+  X 38009695K38.jpg
+    first_name: label=FRYDAY  ocr=ALIEN
+    gender: label=  ocr=male
+  X 38015119F38.jpg
+    surname: label=MACHAU  ocr=SAMSON
+    first_name: label=SAMSON  ocr=MACHAU
+  X 38019800T58.jpg
+    id_number: label=38019800T58  ocr=38019500158
+  X 38031905B38.jpg
+    gender: label=female  ocr=male
+  OK 38054258Y38.jpg
+  X 38089490T38.jpg
+    surname: label=CHITSUNGO  ocr=ROBERT
+    first_name: label=ROBERT  ocr=CHITSUNGO
+  X 38096750K38.jpg
+    id_number: label=38096750K38  ocr=38096750
+    surname: label=NYAMAKAWO  ocr=NYAMHONDURD
+    first_name: label=MARGARETH  ocr=HURUN WE
+    gender: label=female  ocr=male
+  X 38096752M38.jpg
+    id_number: label=38096752M38  ocr=03041276J
+    surname: label=BILLIAT  ocr=DIMIANO
+    first_name: label=DHAMIAND  ocr=BILLIAT
+  OK 38097361Z38.jpg
+  X 38107898C38.jpg
+    id_number: label=38107898C38  ocr=38107898638
+  X 410055366X41.jpg
+    surname: label=NDLOVU  ocr=NORUTHULA BARBARA
+    first_name: label=NOKUTHULA BARBARA  ocr=NORTHULA BARBARA
+    gender: label=female  ocr=male
+  X 41033639F41.jpg
+    first_name: label=SIKHUMBUZD  ocr=SIKHUMBUZO
+  OK 42005794W42.jpg
+  X 42019111W42.jpg
+    birth_date: label=9.11.59  ocr=9.11.59C
+  X 42026692L75.jpg
+    id_number: label=42026692L75  ocr=42026692L
+    surname: label=KAISA  ocr=ROSEMARY
+    first_name: label=ROSEMARY  ocr=KAISA
+    gender: label=female  ocr=male
+  X 42084950K80.jpg
+    id_number: label=42084950K80  ocr=42084950K
+    gender: label=female  ocr=male
+  X 42087857V07.jpg
+    gender: label=female  ocr=male
+  X 42089920M42.jpg
+    surname: label=MUDGNHODZO  ocr=STELLA
+    first_name: label=STELLA  ocr=MUTOKO
+    gender: label=female  ocr=male
+  X 42101942E42.jpg
+    id_number: label=42101942E42  ocr=4201942E42
+  X 42108394S42.jpg
+    id_number: label=42108394S42  ocr=02108394542
+    gender: label=female  ocr=male
+  X 42117597W42.jpg
+    id_number: label=42117597W42  ocr=42017507W42
+  OK 42119131N42.jpg
+  X 42120281N43.jpg
+    first_name: label=VICIORIA ELIZABETH  ocr=VICTORIA ELIZABETH
+    gender: label=female  ocr=male
+  X 42121923Y42.jpg
+    surname: label=NYABADZA  ocr=MAHACHI
+    first_name: label=MELCHIO  ocr=MAKONI
+  OK 42136152P42.jpg
+  X 42151374K07.jpg
+    gender: label=female  ocr=male
+  X 42153820T42.jpg
+    id_number: label=42153820T42  ocr=42153820742
+    gender: label=female  ocr=male
+  X 42166441M42.jpg
+    id_number: label=42166441M42  ocr=4216B441M72
+    surname: label=TANDI  ocr=ELLAH
+    first_name: label=ELLAH TAMBUDZAI  ocr=TANDI
+    gender: label=female  ocr=male
+  X 42171703G42.jpg
+    surname: label=KUSVOTWA  ocr=TIMOTHY
+    first_name: label=TIMOTHY  ocr=KUSVOTWA
+  X 42186524R42.jpg
+    id_number: label=42186524R42  ocr=42188524842
+    first_name: label=DONIFACE  ocr=BONIFACE
+  OK 42191305N07.jpg
+  X 43013799D43.jpg
+    id_number: label=43013799D43  ocr=43013799043
+    gender: label=female  ocr=male
+  X 43020649Z43.jpg
+    gender: label=female  ocr=male
+  OK 43032804L43.jpg
+  OK 43061524D42.jpg
+  X 43062039N43.jpg
+    first_name: label=MASIMO  ocr=MASTMO
+  X 43063626N43.jpg
+    surname: label=KUGARA  ocr=FUNGAI
+    first_name: label=FUNGAI TARWIREYI  ocr=TARWIREYI
+  X 43068276S43.jpg
+    id_number: label=43068276S43  ocr=43068276
+  X 432069736R42.jpg
+    id_number: label=12051592F12  ocr=12051592F
+    gender: label=female  ocr=male
+  X 44012021C44.jpg
+    surname: label=RUCHIYO  ocr=RUCHIYD
+  X 44028142A44.jpg
+    id_number: label=44028142A44  ocr=440281424
+    surname: label=MATIMAIRE  ocr=MATIMARE
+  OK 44033299F44.jpg
+  OK 44043820R44.jpg
+  X 44061563C44.jpg
+    surname: label=MASIYA  ocr=CHIMANIMANI
+  X 44062533G44.jpg
+    gender: label=female  ocr=male
+  X 44068075F44.jpg
+    gender: label=female  ocr=male
+  X 44106186F44.jpg
+    id_number: label=75272517C75  ocr=752725170
+    birth_date: label=12.11.73  ocr=12.11.75
+    gender: label=female  ocr=male
+  OK 45023384K07.jpg
+  X 45025790A45.jpg
+    gender: label=female  ocr=male
+  X 45032643Z45.jpg
+    surname: label=MPHEPO  ocr=IREEN
+    first_name: label=IREEN  ocr=CHIKWAZHA
+    gender: label=female  ocr=male
+  OK 45034125K45.jpg
+  X 45048904Z45.jpg
+    id_number: label=45048904Z45  ocr=45049904245
+    surname: label=KAMLSASA  ocr=KAMESASA
+    first_name: label=KARVER  ocr=MARVEI
+    birth_date: label=16.04.69  ocr=16.04.65
+  OK 45051741H68.jpg
+  X 45058613C45.jpg
+    gender: label=female  ocr=male
+  X 45063132P45.jpg
+    id_number: label=45063132P45  ocr=45063132P
+  X 45076838M45.jpg
+    surname: label=ZHUWAWO  ocr=RODNEY
+    first_name: label=RUZIA  ocr=MAJICHI
+    gender: label=female  ocr=male
+  X 45141210G45.jpg
+    gender: label=female  ocr=male
+  X 45148027R45.jpg
+    birth_date: label=02.11.1983  ocr=02 11 1983
+    gender: label=  ocr=male
+  X 45160388C45.jpg
+    id_number: label=42166716L72  ocr=42166716L42
+    surname: label=CHI MANIUNDU  ocr=CHI
+    first_name: label=ISHMAIL  ocr=MAN
+  X 47002869Z47.jpg
+    birth_date: label=10.10.59  ocr=10.10.55
+    gender: label=female  ocr=male
+  X 47015144R47.jpg
+    surname: label=CHABI  ocr=CHART
+  X 47034615F34.jpg
+    surname: label=MADZIVANZIRA  ocr=MAOZIVANZIRA
+    first_name: label=MASIWA EDIMODAR  ocr=MASIWA
+    gender: label=female  ocr=male
+  X 47037156S47.jpg
+    id_number: label=47037156S47  ocr=47037156S
+    gender: label=female  ocr=male
+  X 47043535B47.jpg
+    id_number: label=47043535B47  ocr=47043535847
+    first_name: label=BENHILDA MAKAONESO  ocr=BENFILDA
+    gender: label=female  ocr=male
+  X 47065543Y47.jpg
+    first_name: label=HAZVINEYI JEAN  ocr=HAZVINEYI
+    gender: label=female  ocr=male
+  X 47070567J47.jpg
+    first_name: label=PATLENCE  ocr=GURENDE
+    birth_date: label=17.05.73  ocr=17.03.73
+    gender: label=female  ocr=male
+  X 47076011B47.jpg
+    id_number: label=47076011B47  ocr=47076011847
+    surname: label=DENDA  ocr=MOSES
+    first_name: label=MOSES  ocr=DENDA
+  X 47077628J47.jpg
+    surname: label=NHDKWARA  ocr=ALBERT
+  X 47077953M47.jpg
+    surname: label=MAPFUMO  ocr=PHILIP
+    first_name: label=PHILLIP  ocr=MHEMBERE
+  X 47089878Z47.jpg
+    id_number: label=47089878Z47  ocr=470898782
+    surname: label=NYAMUNDA  ocr=MATONGO
+    first_name: label=MATONGO  ocr=CHITIYO
+  X 47089880B47.jpg
+    id_number: label=47089880B47  ocr=47089080047
+    first_name: label=BENHILDA  ocr=BENHILOA
+    gender: label=female  ocr=male
+  OK 47093298R47.jpg
+  X 47099176F47.jpg
+    first_name: label=KUDAKWASHE EARINORA  ocr=KUDAKWASHE
+    gender: label=female  ocr=male
+  X 47099649V47.jpg
+    id_number: label=47089878Z47  ocr=470898782
+    surname: label=NYAMUNDA  ocr=MATONGO
+    first_name: label=MATONGO  ocr=CHITIYO
+  OK 47105017E47.jpg
+  OK 47116089P47.jpg
+  X 47122214X47.jpg
+    surname: label=MOFFAT  ocr=LUCIA
+    first_name: label=LUCIAS  ocr=MOYFAT
+    birth_date: label=04.09.1977  ocr=04/06/1977
+  X 47144434Z47.jpg
+    gender: label=female  ocr=male
+  OK 48000352V48.jpg
+  X 48021225H49.jpg
+    gender: label=female  ocr=male
+  X 48029698S49.jpg
+    surname: label=HOSHIKI  ocr=HOSHIKI MUSAFARE
+    first_name: label=MUSAFARE  ocr=KATIVHU MUDZI
+  X 48045071C48.jpg
+    gender: label=female  ocr=male
+  X 48050829L48.jpg
+    id_number: label=48050829L48  ocr=48050829L
+    first_name: label=GUMISAI  ocr=SUMISAI
+  X 48065768Z48.jpg
+    first_name: label=SARUDZAI  ocr=KATIYO
+    gender: label=female  ocr=male
+  X 48069292E48.jpg
+    first_name: label=NYARADZAI RUJEKO  ocr=NYARADZAI
+    gender: label=female  ocr=male
+  X 48081476Y48.jpg
+    id_number: label=48081476Y48  ocr=81476748C11
+  X 48088991R48.jpg
+    gender: label=female  ocr=male
+  X 48102577J48.jpg
+    surname: label=NYERENYERE  ocr=WISEMAN
+    first_name: label=WISEMAN  ocr=MUTOKO
+  X 48105927A48.jpg
+    gender: label=female  ocr=male
+  X 490006612F49.jpg
+    gender: label=female  ocr=male
+  X 49013122G49.jpg
+    surname: label=NYAMHERE  ocr=WATSON WELLINGTON
+    first_name: label=WATSON WELLINGTON  ocr=25.06.66
+  X 49018454C49.jpg
+    first_name: label=MANDI  ocr=HANDI
+  X 49022340B49.jpg
+    id_number: label=49022340B49  ocr=49022340849
+    surname: label=NYARGNI  ocr=NYARONI
+  X 49037039D49.jpg
+    id_number: label=49037039D49  ocr=490370390
+    surname: label=KAMBAMBAIR  ocr=KAMBAMBAIRA
+    gender: label=female  ocr=male
+  X 49037306T49.jpg
+    id_number: label=49037306T49  ocr=49037306T
+    gender: label=female  ocr=male
+  X 49050292J49.jpg
+    first_name: label=CHAMUNORWA  ocr=CHAMKINORWA
+  X 49068287T49.jpg
+    id_number: label=49068287T49  ocr=49068287149
+    birth_date: label=23.11.1973  ocr=23.01.1972
+  OK 49071694X49.jpg
+  X 49085216V49.jpg
+    id_number: label=49085216V49  ocr=49085218040
+    surname: label=CHIMVKWAIRA  ocr=MUDZI
+    first_name: label=SHGOTER  ocr=TIZORA
+    birth_date: label=11.10.1983  ocr=10-1997
+    gender: label=female  ocr=male
+  X 492001345V49.jpg
+    id_number: label=68004158M61  ocr=6800415M61C
+    surname: label=CHITSUN  ocr=CHITSUNGO
+  X 50022137M50.jpg
+    gender: label=female  ocr=male
+  X 50032976T50.jpg
+    id_number: label=50032976T50  ocr=50032976T
+    gender: label=female  ocr=male
+  X 50041889G50.jpg
+    gender: label=female  ocr=male
+  X 50048494L50.jpg
+    surname: label=URERE  ocr=G
+    first_name: label=AUXILIA  ocr=Ghata
+    gender: label=female  ocr=male
+  X 50054555Z13.jpg
+    id_number: label=50054555Z13  ocr=50054555213
+    surname: label=HLATYWAYO  ocr=CLERA
+    first_name: label=CLERA  ocr=HLATYWAYO
+    birth_date: label=14.05.63  ocr=14.05.68
+    gender: label=female  ocr=male
+  X 50065957S50.jpg
+    id_number: label=50065957S50  ocr=50065957S
+    first_name: label=CHRISPEN CARLYON  ocr=CHRISPEN
+  X 50086288R50.jpg
+    first_name: label=GIFT  ocr=MANYUMWA
+  X 50096078H50.jpg
+    first_name: label=TOFESU EDSON  ocr=TOFFSU EDSON
+  X 53024677S53.jpg
+    id_number: label=53024677S53  ocr=5302467753
+  OK 53027648X53.jpg
+  X 53028205C53.jpg
+    gender: label=female  ocr=male
+  X 53039055W58.jpg
+    id_number: label=53039055W58  ocr=30039055W58
+    surname: label=NOUBE  ocr=DUDUZILE
+    birth_date: label=28.08.73  ocr=26.08.73
+  X 53040720F53.jpg
+    first_name: label=KHUMBULANI  ocr=KHUMBULANT
+    gender: label=female  ocr=male
+  OK 53054170A53.jpg
+  X 53069906E53.jpg
+    surname: label=NCUBE  ocr=MONICA
+    first_name: label=MONICA  ocr=NCUBE
+    gender: label=female  ocr=male
+  X 54002997J54.jpg
+    surname: label=DHAMBARARA  ocr=DHAMBARARA ENNIE
+    first_name: label=ENNIE  ocr=NESHURO
+    gender: label=female  ocr=male
+  X 54038048H54.jpg
+    id_number: label=29176169B22  ocr=29176169822
+    gender: label=female  ocr=male
+  X 54061706Y12.jpg
+    id_number: label=54061706Y12  ocr=54061724D02
+    birth_date: label=05.10.1968  ocr=05.01.1961
+    gender: label=female  ocr=male
+  X 54070574M54.jpg
+    id_number: label=54070574M54  ocr=54070574
+    surname: label=TSAMWISI  ocr=MIRRIAM
+    first_name: label=MIRRIAM  ocr=TSAMWISI
+    gender: label=female  ocr=male
+  X 56003994F56.jpg
+    id_number: label=56003994F56  ocr=55003994F56
+    gender: label=female  ocr=male
+  X 56032365T56.jpg
+    first_name: label=TSHANDAPIWA  ocr=TSHANDAPIVA
+    gender: label=female  ocr=male
+  OK 56036483V56.jpg
+  OK 56037833M56.jpg
+  X 56039063Z56.jpg
+    id_number: label=56039063Z56  ocr=56039063256
+    surname: label=NCUBE  ocr=SILINDENI
+    first_name: label=SILINDENI  ocr=NCUBE
+    gender: label=female  ocr=male
+  X 56043737E56.jpg
+    id_number: label=56043737E56  ocr=7650608
+    surname: label=MPOFU  ocr=BULILIMAMANWE
+    first_name: label=BAFANA  ocr=DAFANA
+    birth_date: label=06.06.1976  ocr=06.06.1974
+  X 56055450L56.jpg
+    birth_date: label=08.02.1972  ocr=06.02.1972
+    gender: label=female  ocr=male
+  X 56059588J56.jpg
+    gender: label=female  ocr=male
+  X 580149328Q26.jpg
+    id_number: label=58149328Q26  ocr=58149328026
+    surname: label=MAPOSA  ocr=MA
+    first_name: label=LOVEMORE  ocr=POSA
+    gender: label=  ocr=male
+  X 58028677Y58.jpg
+    birth_date: label=12.12.54  ocr=12.12.54C
+  OK 58050634P58.jpg
+  X 58091140S21.jpg
+    gender: label=female  ocr=male
+  X 58091406G58.jpg
+    id_number: label=58091406G58  ocr=58091406656
+    surname: label=MUGORE  ocr=WILSON
+    first_name: label=WILSON  ocr=MUGORE
+    birth_date: label=04.04.64  ocr=04.09.64
+  X 58104176M58.jpg
+    gender: label=female  ocr=male
+  OK 58153130Y07.jpg
+  X 58179963P67.jpg
+    id_number: label=58179963P67  ocr=03041276J03
+    surname: label=NOAH  ocr=DADIRAYI
+    first_name: label=DADTRAYI  ocr=NOAH
+    gender: label=female  ocr=male
+  X 58193941H23.jpg
+    gender: label=female  ocr=male
+  OK 58198602Z58.jpg
+  OK 58201278H43.jpg
+  X 58267519J77.jpg
+    id_number: label=58267519J77  ocr=08459767Y29
+    gender: label=female  ocr=male
+  OK 59007797J18.jpg
+  OK 59010384W86.jpg
+  X 59011456L43.jpg
+    gender: label=female  ocr=male
+  X 59019163N11.jpg
+    id_number: label=59019163N11  ocr=03041276J03
+    surname: label=WNBASHA  ocr=RODNEY
+    first_name: label=BERYA  ocr=JAMES
+    birth_date: label=07.02.1979  ocr=12.01.1961
+    gender: label=female  ocr=male
+  X 59020562J47.jpg
+    surname: label=MANGODA  ocr=STEPHEN
+    first_name: label=STEPHEN ITAI  ocr=ITAI
+  OK 59029486J59.jpg
+  X 59047828W49.jpg
+    surname: label=MATARE  ocr=OWEN
+    first_name: label=OWEN  ocr=MATARE
+  OK 59051493E11.jpg
+  X 59053441X42.jpg
+    birth_date: label=3.01.1966  ocr=13.01.1966
+    gender: label=female  ocr=male
+  OK 59146447Q42.jpg
+  X 61018660E68.jpg
+    gender: label=female  ocr=male
+  X 61029337K61.jpg
+    surname: label=MARUKE  ocr=MARUNE
+    first_name: label=TAKADA  ocr=TIKADA
+    birth_date: label=22.11.75  ocr=21.11.75
+  X 63008277G00.jpg
+    id_number: label=63008277G00  ocr=63008277G
+  X 63008664C00.jpg
+    surname: label=PATEL  ocr=MOHAMED
+    first_name: label=MOHAMED IOBAL  ocr=PATEL
+  OK 63017399X48.jpg
+  X 63027165M63.jpg
+    id_number: label=63027165M63  ocr=03041276J03
+    surname: label=  ocr=ZIMBABWE
+    first_name: label=  ocr=RODNEY
+    birth_date: label=  ocr=12.01.1961
+    gender: label=  ocr=male
+  X 63051958L00.jpg
+    id_number: label=63051958L00  ocr=63051958L
+    gender: label=  ocr=male
+  X 63052400R00.jpg
+    first_name: label=JENNIFER JOANNA  ocr=JENNIFER
+    birth_date: label=21.11.48  ocr=21.11.48C
+  OK 63059032A03.jpg
+  X 63067910A34.jpg
+    id_number: label=63067910A34  ocr=6306791
+  X 63069795Z47.jpg
+    surname: label=KWENDAMBAYIRI  ocr=EMMILY
+    first_name: label=EMMILY  ocr=KWENDAMBAYIRI
+    gender: label=female  ocr=male
+  OK 631000861A47.jpg
+  OK 631004850L63.jpg
+  X 631007705P85.jpg
+    id_number: label=631007705P85  ocr=30007705P85
+    surname: label=GAWAZA  ocr=NYAJINA
+    first_name: label=ROBERT  ocr=HARARE
+    gender: label=  ocr=male
+  X 631021390P32.jpg
+    id_number: label=631021390P32  ocr=631021390
+    birth_date: label=29.06.73  ocr=29.06.75
+  X 631040372X25.jpg
+    gender: label=female  ocr=male
+  X 631044736Q63.jpg
+    id_number: label=631044736Q63  ocr=03041276J03
+    surname: label=SEMO  ocr=RODNEY
+    first_name: label=TAURAI  ocr=JAMES
+    birth_date: label=12.12.1973  ocr=12.01.1961
+  X 631062140H71.jpg
+    surname: label=ZENGEYA  ocr=ZIMBABWE
+    first_name: label=RFGINA  ocr=ZENGEYA
+    gender: label=female  ocr=male
+  X 631065183Q25.jpg
+    gender: label=female  ocr=male
+  X 631068214K63.jpg
+    id_number: label=631068214K63  ocr=6642207
+    surname: label=MWENDOFAMBA  ocr=RUDO
+    first_name: label=RUDO  ocr=27.09.1975
+    gender: label=female  ocr=male
+  X 631069112L63.jpg
+    gender: label=female  ocr=male
+  X 631077681A13.jpg
+    id_number: label=631077681A13  ocr=03041276
+    surname: label=SITHOLE  ocr=RODNEY
+    first_name: label=LOVEMOR RA  ocr=JAMES
+    birth_date: label=19.06.78  ocr=12.01.1961
+  X 631082476M45.jpg
+    gender: label=female  ocr=male
+  X 631093375J22.jpg
+    gender: label=female  ocr=male
+  X 631095625E42.jpg
+    surname: label=NEMAWUNGWE  ocr=DAVID
+    first_name: label=DAVID  ocr=NEMAWUNGWE
+  OK 631101989X66.jpg
+  X 631104065D42.jpg
+    surname: label=MACHIPISA  ocr=MACAHIPISA
+    gender: label=female  ocr=male
+  X 631115062G63.jpg
+    id_number: label=631115062G63  ocr=03041276J03
+    surname: label=GWANZURA  ocr=G
+  X 631146626Q63.jpg
+    id_number: label=631146626Q63  ocr=31146626G63
+    gender: label=female  ocr=male
+  X 631153548P50.jpg
+    surname: label=RONDOZAI  ocr=RAYNE
+    first_name: label=RAYNE  ocr=RONDOZAI
+  X 631161105D63.jpg
+    gender: label=female  ocr=male
+  X 631168749M27.jpg
+    gender: label=female  ocr=male
+  X 631169648P80.jpg
+    surname: label=CHOTO  ocr=EDWARD
+    first_name: label=EDWARD  ocr=CHOTO
+  X 631174403H32.jpg
+    surname: label=PAZUWA  ocr=DOUGLAS
+    first_name: label=DOUGLAS PANGANAI  ocr=PANGUNAI
+  X 631178894P25.jpg
+    surname: label=MUSANANGURWA  ocr=LEONARD
+    first_name: label=LEONARD  ocr=MUSANANGURWA
+  X 631185139C18.jpg
+    first_name: label=MUNYARDZI BRIAN  ocr=MUNYARADZI BRIAN
+    birth_date: label=01.16.1983  ocr=01.06.1983
+  X 631188884Y44.jpg
+    gender: label=female  ocr=male
+  X 63120602Z63.jpg
+    surname: label=CHINGORE  ocr=FANUEL
+    first_name: label=FANUEL  ocr=CHLOCO
+  X 631215710G04.jpg
+    surname: label=KWAYE  ocr=THOMAS
+    first_name: label=THOMAS  ocr=KWAYE
+  X 631219391H67.jpg
+    id_number: label=631219391H67  ocr=31219391H66
+    surname: label=DENDERE  ocr=DENDERE CHARLES
+    first_name: label=CHARLES  ocr=CHISADZA SHURUGWI
+  X 631222735S22.jpg
+    first_name: label=CALVIN KUDZANAYI  ocr=CALVIN
+  X 631228229P42.jpg
+    gender: label=female  ocr=male
+  X 631232349S42.jpg
+    id_number: label=631232349S32  ocr=63123234953
+    surname: label=MPESA  ocr=MUGARI
+    first_name: label=EDMORN  ocr=HARARE
+  X 631237037N18.jpg
+    id_number: label=631237037N18  ocr=31237037M18
+    first_name: label=TAPIWA COMFORTER  ocr=TAPIWA
+  X 631245441Y32.jpg
+    id_number: label=631245441Y32  ocr=63124544LY3
+    gender: label=female  ocr=male
+  OK 631252274A71.jpg
+  X 631252684W42.jpg
+    surname: label=NYATSOMA  ocr=MAKONI
+    first_name: label=EVANGELISTA  ocr=NYAKATSAR
+    birth_date: label=08.09.1984  ocr=08.01.1984
+    gender: label=female  ocr=male
+  X 63126632D42.jpg
+    id_number: label=63126632D42  ocr=6301266320
+  X 631272787X13.jpg
+    surname: label=MATUTE  ocr=CHICICHI
+    first_name: label=BRENDA TENDAI  ocr=HARAKI
+    gender: label=female  ocr=male
+  X 63129113A45.jpg
+    id_number: label=63129113A45  ocr=30127113A45
+    first_name: label=NICHAOS RROSPER  ocr=NICHALOS
+  OK 63131332M61.jpg
+  OK 63139803V66.jpg
+  X 63152700N18.jpg
+    birth_date: label=4.11.59  ocr=4.11.59C
+  X 63157175C00.jpg
+    birth_date: label=11.9.48  ocr=11.9.48C H3 E4
+  X 63157229L48.jpg
+    id_number: label=63157229L48  ocr=63157229L
+    birth_date: label=1.6.53  ocr=None
+  X 631594913J27.jpg
+    birth_date: label=10.09.1952  ocr=10.04.1952
+  X 63163512Q00.jpg
+    id_number: label=63163512Q00  ocr=63163512000
+    birth_date: label=12.05.1959  ocr=12.05.1958
+    gender: label=female  ocr=male
+  X 63166016M71.jpg
+    birth_date: label=8.8.48  ocr=8. 8.48 HI E1 C1
+  X 63189427J50.jpg
+    surname: label=MANJORO  ocr=MANJORD
+    first_name: label=JOSEPH MAGARIKA  ocr=JOSEPH
+  X 63203917J75.jpg
+    surname: label=ZINYAWO  ocr=AMUDIAMWE
+    first_name: label=AMUDIAMWE DENFORD  ocr=DENFORD
+  X 63222876R42.jpg
+    id_number: label=63222876R42  ocr=30222876R42
+  X 63227119D18.jpg
+    id_number: label=63227119D18  ocr=63227119018
+    first_name: label=FELIX MUSEKIWA  ocr=FELIX
+  OK 63243176G25.jpg
+  X 632523955M22.jpg
+    surname: label=DUBE  ocr=DUBE JANE
+    first_name: label=JANET  ocr=MURADZIKWAO
+    gender: label=female  ocr=male
+  X 63268892J49.jpg
+    surname: label=JAKARASI  ocr=RAPHAEL
+    first_name: label=RAPHAEL  ocr=JAKARASI
+  X 63273303D25.jpg
+    id_number: label=63273303D25  ocr=63273303025
+    birth_date: label=3.1.51  ocr=3-1-50
+    gender: label=female  ocr=male
+  X 63284509J80.jpg
+    surname: label=CHIGADA  ocr=DAVID
+    first_name: label=DAVID DINDINGWE  ocr=DINDINGWE
+  X 63284824B43.jpg
+    id_number: label=63284824B43  ocr=63284824B
+    gender: label=female  ocr=male
+  X 63297120R70.jpg
+    id_number: label=63297120R70  ocr=63097120R70
+    surname: label=MUSIIWA  ocr=MUSIWA
+  X 63312153G63.jpg
+    surname: label=MATENJA  ocr=MATENDA
+  X 63331919R32.jpg
+    surname: label=HAPUOANGA  ocr=MAPUDRANGA
+  X 63340933P32.jpg
+    id_number: label=63340933P32  ocr=63040003723
+    surname: label=MBIRIZA  ocr=M
+    first_name: label=EDITH TENDAI  ocr=RODNEY
+    gender: label=female  ocr=male
+  X 63346843N70.jpg
+    birth_date: label=23.04.1962  ocr=23 04 1962
+    gender: label=female  ocr=male
+  OK 63354383J12.jpg
+  OK 63356819G42.jpg
+  X 63358076Y25.jpg
+    birth_date: label=9.12.63  ocr=9.12.63C
+  OK 63363736A58.jpg
+  X 63372250E47.jpg
+    gender: label=female  ocr=male
+  X 63380468M24.jpg
+    first_name: label=LAST  ocr=CHITERA
+    gender: label=female  ocr=male
+  X 63399065B77.jpg
+    id_number: label=63399065B77  ocr=63399065877
+  X 63416606S34.jpg
+    id_number: label=63416606S34  ocr=63041660653
+  X 63428155W70.jpg
+    surname: label=GUMBO  ocr=PATRICK CHAMUNDRA
+    first_name: label=PATRICK CHAMUNORNA  ocr=GUMBO PATRICK
+    birth_date: label=12.6.60  ocr=12.6.60C
+  X 63429367N66.jpg
+    surname: label=MURASHIKI  ocr=MURASHIKT
+    birth_date: label=1.1.41  ocr=None
+    gender: label=female  ocr=male
+  X 63446414S80.jpg
+    id_number: label=63446414S80  ocr=63446414S
+  X 63448434N63.jpg
+    surname: label=LIWONDE  ocr=LIVONDE
+  X 63459598Y25.jpg
+    id_number: label=63459598Y25  ocr=03041276J03
+    surname: label=KUUMBUKA  ocr=SUSAN MARY
+    first_name: label=SUSAN MARY  ocr=KUMBUKA
+    gender: label=female  ocr=male
+  OK 63470252D47.jpg
+  X 63474069C58.jpg
+    gender: label=female  ocr=male
+  OK 63477656B18.jpg
+  X 63486289K18.jpg
+    id_number: label=63486289K18  ocr=63486289K
+    gender: label=  ocr=male
+  X 63489943G63.jpg
+    id_number: label=63489943G63  ocr=634889436
+    surname: label=KANGOYA  ocr=KANGUYA
+  X 63498282W25.jpg
+    birth_date: label=1.1.60  ocr=1.1.60C
+  OK 63498648T70.jpg
+  X 63499094D83.jpg
+    id_number: label=63499094D83  ocr=03041276J03
+    surname: label=WASHAYA  ocr=ALBERT
+    first_name: label=ALBERT  ocr=HASHAYA
+  X 63514186H00.jpg
+    gender: label=female  ocr=male
+  X 63525227J50.jpg
+    id_number: label=63525227J50  ocr=63025227J50
+    surname: label=MUTASA  ocr=PATRICIA
+    first_name: label=PATRICIA  ocr=MUTASA
+    gender: label=female  ocr=M
+  X 63538830V48.jpg
+    id_number: label=63538830V48  ocr=53538830V48
+    first_name: label=JULIET ELIZABETH  ocr=JULIET
+    gender: label=  ocr=male
+  X 63550682C07.jpg
+    id_number: label=63550682C07  ocr=03041276J03
+    first_name: label=SHUVAI  ocr=MAKUNGUVA
+    birth_date: label=03.12.68  ocr=03-12-1961
+    gender: label=female  ocr=male
+  X 63565641M04.jpg
+    surname: label=MUTAPURE  ocr=PATRICIA
+    first_name: label=PATRICIA  ocr=MUTAPURE
+    gender: label=female  ocr=male
+  X 63576842M47.jpg
+    id_number: label=63576842M47  ocr=03041276J03
+    surname: label=HUNEMD  ocr=RODNEY
+    first_name: label=FAITH KUDA  ocr=MUNEMO
+    gender: label=female  ocr=male
+  X 63577309V71.jpg
+    first_name: label=PAUL MABASA  ocr=PAUL NABASA
+    birth_date: label=28.08.53  ocr=28.08.58
+  OK 63578269N26.jpg
+  X 63582008C42.jpg
+    id_number: label=63582008C42  ocr=63552008C42
+    surname: label=GWETE  ocr=GNETE
+    gender: label=female  ocr=male
+  X 63602832M47.jpg
+    id_number: label=63602832M47  ocr=03041276J03
+    surname: label=NYAHASHA  ocr=RODNEY
+    first_name: label=MOLINE  ocr=JAMES
+    birth_date: label=5.1.61  ocr=12.01.1961
+    gender: label=female  ocr=male
+  X 63605289H15.jpg
+    id_number: label=63605289H15  ocr=6305289H15C
+  X 63635503Z07.jpg
+    id_number: label=63635503Z07  ocr=63063550320
+  X 63638234S19.jpg
+    gender: label=female  ocr=male
+  X 63645883G75.jpg
+    id_number: label=63645883G75  ocr=63645883675
+    gender: label=female  ocr=male
+  X 63646884V03.jpg
+    first_name: label=BERNARD NDABANENGI  ocr=BERNARD
+  X 63656141G32.jpg
+    id_number: label=63656141G32  ocr=63656141E32
+    gender: label=female  ocr=male
+  X 63671468R25.jpg
+    gender: label=female  ocr=male
+  X 63682871L77.jpg
+    id_number: label=63682871L77  ocr=63682871L80
+  X 63685947E48.jpg
+    first_name: label=AGNESS  ocr=KANOSHUNGU
+    birth_date: label=10.11.62  ocr=None
+    gender: label=female  ocr=male
+  X 63699390R38.jpg
+    id_number: label=63699390R38  ocr=6369939R38
+    gender: label=female  ocr=male
+  X 63729959T63.jpg
+    id_number: label=63729959T63  ocr=62729959T63
+    gender: label=female  ocr=male
+  X 63739524Q47.jpg
+    id_number: label=63739524Q47  ocr=73739524047
+    gender: label=female  ocr=male
+  X 63741014K15.jpg
+    id_number: label=63741014K15  ocr=53741014K
+    birth_date: label=01.09.68  ocr=01.03.68
+  X 63748421L04.jpg
+    id_number: label=63748421L04  ocr=63748421104
+  X 63759457G63.jpg
+    surname: label=SADI  ocr=SADI AKUACHIMA
+    first_name: label=AKUACHIMA  ocr=SADI AKUACHIMA
+    gender: label=female  ocr=male
+  X 63763033T12.jpg
+    id_number: label=63763033T18  ocr=03041276J03
+    surname: label=MANCOKA  ocr=MANCOVA
+    gender: label=female  ocr=male
+  X 63766076B63.jpg
+    id_number: label=63766076B63  ocr=03766070B63
+    surname: label=NDALA  ocr=HARARE
+    first_name: label=MATORA  ocr=NDALA
+  X 63769227B34.jpg
+    id_number: label=63769227B34  ocr=63769227834
+    surname: label=MUPANNGAPANGA  ocr=MAXWELL
+    first_name: label=MAXWELL  ocr=MUPANGAPANGA
+  X 63774529P63.jpg
+    gender: label=female  ocr=male
+  X 63788997Q43.jpg
+    id_number: label=63788997Q43  ocr=63078909700
+    surname: label=MASAWI  ocr=DASY DOROTHY
+    first_name: label=DAISY DOROTHY  ocr=CHINHOYI
+    gender: label=female  ocr=male
+  X 63789975D38.jpg
+    id_number: label=63789975D38  ocr=63739975038
+    first_name: label=ENCT  ocr=ENET
+    gender: label=female  ocr=male
+  X 63791266G32.jpg
+    id_number: label=63791266G32  ocr=91265632C11
+    surname: label=IAVAZIVA  ocr=TAVAZIVA
+    birth_date: label=26.04.70  ocr=25.04.70
+  X 63797354Z47.jpg
+    surname: label=MBANJE  ocr=CAROLINE
+    first_name: label=CAROLINE  ocr=MBANJE
+    gender: label=female  ocr=male
+  X 63806857D63.jpg
+    id_number: label=63806857D63  ocr=63005857063
+    surname: label=CHIKUSE  ocr=CHIKUSE SHEILA
+    gender: label=female  ocr=male
+  X 63811537Q63.jpg
+    id_number: label=63811537Q63  ocr=03041276J03
+    surname: label=MWANZA  ocr=DERECK
+    first_name: label=DERECK  ocr=MWANZA
+  X 63816137Q25.jpg
+    id_number: label=63816137Q25  ocr=63816137025
+  X 63831784Y49.jpg
+    surname: label=NYAMUDZE  ocr=AMUDZE
+    first_name: label=AMCS  ocr=NY AMUDZE
+  X 63833209X63.jpg
+    id_number: label=63833209X63  ocr=03033208X03
+    first_name: label=MAVIS TAURAI  ocr=MAVIS
+    gender: label=female  ocr=male
+  X 63839790A07.jpg
+    id_number: label=63839790A07  ocr=53839790A07
+    gender: label=female  ocr=male
+  X 63840039W04.jpg
+    first_name: label=EPHRAIN  ocr=EPHRAIM
+  X 63844207B15.jpg
+    id_number: label=63844207B15  ocr=63844207815
+    gender: label=female  ocr=male
+  OK 63851058Y45.jpg
+  X 63858508W13.jpg
+    id_number: label=63858508W13  ocr=63048508013
+  X 63858858B63.jpg
+    id_number: label=63858858B63  ocr=6305805863
+    surname: label=CHAKONOKA  ocr=CHIVAOYI
+    first_name: label=JONAIHAN  ocr=JONATHAN
+  X 63861413D27.jpg
+    id_number: label=63861413D27  ocr=63861413D
+    birth_date: label=12.02.72  ocr=12.01.1972
+  X 63864666P83.jpg
+    id_number: label=63864666P83  ocr=63864666P
+  X 63866283X42.jpg
+    id_number: label=63866283X42  ocr=03041276J03
+    surname: label=MARWIZIC  ocr=RODNEY
+    first_name: label=CORDON  ocr=JAMES
+    birth_date: label=11.09.71  ocr=12.01.1961
+  X 63868684G32.jpg
+    id_number: label=63868684G32  ocr=63868694G
+    surname: label=HANDIPISI  ocr=HEATHER
+    gender: label=female  ocr=M
+  X 63870778H63.jpg
+    id_number: label=63870778H63  ocr=63070778H63
+    surname: label=MSUSAH  ocr=EMILY
+    first_name: label=EMILY CHIEDZA  ocr=CHEDZA
+    gender: label=female  ocr=male
+  X 63873941W00.jpg
+    gender: label=female  ocr=male
+  X 63877404K67.jpg
+    surname: label=MADUBEKO  ocr=MAOUBEKO
+    first_name: label=OMO  ocr=MADUBEKO
+  X 63880491Q00.jpg
+    id_number: label=63880491Q00  ocr=63880491000
+  X 63889648T25.jpg
+    gender: label=female  ocr=male
+  X 63906051Y63.jpg
+    id_number: label=63906051Y63  ocr=63916051Y63
+    first_name: label=AWUSIE  ocr=ANUSIE
+    gender: label=female  ocr=male
+  X 63907623G47.jpg
+    id_number: label=63907623G47  ocr=63907623647
+  X 63911980S18.jpg
+    gender: label=female  ocr=male
+  X 63912351W44.jpg
+    first_name: label=LEAE  ocr=LEAH
+    gender: label=female  ocr=male
+  X 63914882X34.jpg
+    gender: label=female  ocr=male
+  OK 63932157Z12.jpg
+  X 63936356N34.jpg
+    first_name: label=TAMBUDZAI ENIA  ocr=TAMBUDZAIENIA
+    gender: label=female  ocr=male
+  OK 63937058B63.jpg
+  X 63944081K75.jpg
+    gender: label=female  ocr=male
+  X 63961630K32.jpg
+    surname: label=MASIIWA  ocr=MASIWA
+  X 63965983R63.jpg
+    gender: label=female  ocr=male
+  X 63972028M04.jpg
+    gender: label=female  ocr=male
+  X 63975026W11.jpg
+    surname: label=MUSHAYWARO  ocr=THOMAS
+    first_name: label=THOMAAS  ocr=MUSHAYAWARD
+  X 63976281K50.jpg
+    id_number: label=63976281K50  ocr=63976281K
+    surname: label=MAKUNIKG  ocr=MAKUNIK
+    first_name: label=IUTENDO ESNATH  ocr=TUTENDO
+    birth_date: label=06.02.72  ocr=06.02.77
+    gender: label=female  ocr=male
+  X 63990176N25.jpg
+    id_number: label=63990176N25  ocr=03041276J03
+    surname: label=  ocr=RODNEY
+    first_name: label=  ocr=JAMES
+    birth_date: label=  ocr=12.01.1961
+    gender: label=  ocr=male
+  X 63991903Q63.jpg
+    gender: label=female  ocr=male
+  X 63994351B12.jpg
+    id_number: label=63994351B12  ocr=6304351B12
+    first_name: label=SIKHANCGELA  ocr=SIKHANGELA
+    gender: label=female  ocr=male
+  X 660014475N66.jpg
+    surname: label=MUTSVANGA  ocr=NUTSVANGA
+    gender: label=female  ocr=male
+  OK 66026387L66.jpg
+  X 66034918J66.jpg
+    id_number: label=66034918J66  ocr=660149186
+    surname: label=TETETE  ocr=CHINHOYI
+    first_name: label=MURAMBIWA  ocr=TETETE
+  X 66035498P66.jpg
+    first_name: label=MALIAKINI MRARAMA  ocr=MALJAKINI
+    birth_date: label=03.04.69  ocr=03.09.69
+  X 66048978R26.jpg
+    gender: label=female  ocr=male
+  X 67018009L67.jpg
+    gender: label=female  ocr=male
+  X 67018784D77.jpg
+    id_number: label=67018784D77  ocr=67018784077
+    surname: label=KIZITO  ocr=KIZITU
+  X 67020900D03.jpg
+    surname: label=MOYO  ocr=MOYD
+    first_name: label=ZINDOGA MAJOR  ocr=ZINDOGA
+  X 67051436V03.jpg
+    surname: label=MOYO  ocr=MOYD
+    gender: label=female  ocr=male
+  X 67054730A83.jpg
+    id_number: label=67054730A83  ocr=07054730A83
+  X 67068971E03.jpg
+    gender: label=female  ocr=male
+  X 67077442M67.jpg
+    surname: label=MUHLIWA  ocr=GILBERT
+    first_name: label=GILBERT  ocr=MUHELIMA
+  X 67079877J67.jpg
+    gender: label=female  ocr=male
+  X 67082739V45.jpg
+    id_number: label=67082739V45  ocr=03041276J03
+    surname: label=ANTONIO  ocr=RODNEY
+    first_name: label=LOICE  ocr=JAMES
+    birth_date: label=25.07.76  ocr=12.01.1961
+    gender: label=female  ocr=male
+  X 67085667C71.jpg
+    birth_date: label=12.08.75  ocr=12.06.75
+  X 67095256A67.jpg
+    birth_date: label=24.08.11978  ocr=24.08.1978
+    gender: label=female  ocr=male
+  X 67101719A67.jpg
+    gender: label=female  ocr=male
+  X 67108449Q67.jpg
+    id_number: label=67108449Q67  ocr=67108449687
+    surname: label=BUTETE  ocr=JOYCE
+    first_name: label=JOYOE  ocr=BUTETE
+    birth_date: label=10.07.1981  ocr=12.07.1981
+    gender: label=female  ocr=male
+  OK 67121394L67.jpg
+  X 680039187M68.jpg
+    first_name: label=ZIMANAI  ocr=ZIVANAI
+  X 68005792N68.jpg
+    gender: label=female  ocr=male
+  X 68021096Y47.jpg
+    surname: label=NYAMHANZA  ocr=YAMHANZA
+    birth_date: label=16.07.67  ocr=16.07.68
+    gender: label=female  ocr=male
+  X 68021807W68.jpg
+    surname: label=CHINGOZA  ocr=ROSEMARY
+    first_name: label=ROSEMARY  ocr=CHI NG OZA
+    gender: label=female  ocr=male
+  X 68034748M45.jpg
+    gender: label=female  ocr=male
+  X 68035302P45.jpg
+    id_number: label=68035302P45  ocr=68035302P
+    gender: label=  ocr=M
+  X 68049056P68.jpg
+    id_number: label=68049056P68  ocr=68049056P
+    gender: label=female  ocr=male
+  X 68057554B68.jpg
+    surname: label=GATSI  ocr=DAVIE
+    first_name: label=DAVIE  ocr=GATSI
+    gender: label=  ocr=male
+  OK 700076677A18.jpg
+  X 70023789N63.jpg
+    surname: label=CHIMHERE  ocr=SHADRICK
+    first_name: label=SHADRICK  ocr=CHIMHERE
+    birth_date: label=1.10.46  ocr=10.10.46
+  X 70028373W26.jpg
+    gender: label=female  ocr=male
+  X 70035999K70.jpg
+    first_name: label=ALAIDA  ocr=ALIEN F
+    gender: label=female  ocr=male
+  X 70057763R71.jpg
+    surname: label=MUDZINGWA  ocr=ALICE
+    first_name: label=ALICE  ocr=MUDZINGWA
+    gender: label=female  ocr=male
+  X 70067452Y00.jpg
+    first_name: label=MADELEINE GATLE  ocr=MADELEINE GAYLE
+    gender: label=female  ocr=male
+  X 70067819X70.jpg
+    birth_date: label=13.01.67  ocr=13.01.68
+  X 70072495E70.jpg
+    birth_date: label=12.08.68  ocr=12.01.68
+    gender: label=female  ocr=male
+  OK 70074359F15.jpg
+  X 70086728A70.jpg
+    id_number: label=70086728A70  ocr=70686728A70
+    first_name: label=MENNETH GODKNOWS  ocr=KENNETH GODKNOWS
+  X 70086903Q70.jpg
+    id_number: label=70086903Q70  ocr=70086903070
+    surname: label=CHIRWA  ocr=CHIRWA STEPHEN
+    first_name: label=STEPHEN  ocr=CHIRWA STEPHEN
+  X 70091685N70.jpg
+    gender: label=female  ocr=male
+  X 70114130K70.jpg
+    surname: label=MUSORO  ocr=MUSORD
+    first_name: label=PORTIA  ocr=MADHUVIKO
+    gender: label=female  ocr=male
+  OK 702000146L70.jpg
+  X 70208195E70.jpg
+    surname: label=MANYERUKE  ocr=FADZAI
+    first_name: label=FADZAI  ocr=MANYERUKE
+    gender: label=female  ocr=male
+  X 70210476J70.jpg
+    surname: label=ASAFU  ocr=ASAFU MAICHIVEI
+    gender: label=female  ocr=male
+  X 70352901T70.jpg
+    id_number: label=38059469M38  ocr=38059469M
+  X 71006994P71.jpg
+    gender: label=female  ocr=male
+  X 71014209G71.jpg
+    id_number: label=71014209G71  ocr=71014209671
+  X 71035048H71.jpg
+    surname: label=CHAKUVVINGA  ocr=CHAKUVINCA
+    first_name: label=JANIPHER  ocr=CHAKUVINCA
+    birth_date: label=20.09.64  ocr=29.6A
+    gender: label=female  ocr=male
+  X 71040574P71.jpg
+    id_number: label=71040574P71  ocr=71C40574P71
+    surname: label=NYAMADZAWO  ocr=ANNA
+    first_name: label=ANNA  ocr=NYANADZAKO
+    birth_date: label=10.6.48  ocr=10.6.45
+    gender: label=female  ocr=male
+  OK 71053060L71.jpg
+  X 71055996C71.jpg
+    gender: label=female  ocr=male
+  X 71060470Q71.jpg
+    id_number: label=71060470Q71  ocr=71060470G71
+    surname: label=BANDERA  ocr=GRACE
+    first_name: label=GRACE  ocr=BANDERA
+    gender: label=female  ocr=male
+  X 73031897W75.jpg
+    gender: label=female  ocr=male
+  OK 73034129X73.jpg
+  X 73046267Q73.jpg
+    gender: label=female  ocr=male
+  X 73046401L73.jpg
+    gender: label=female  ocr=male
+  X 75003849X44.jpg
+    id_number: label=75003849X44  ocr=03041276J03
+    surname: label=HUNAKANDAFA  ocr=MENKANJAPA
+    first_name: label=ZONEBB TICHAENZANA  ocr=ZENGER
+    birth_date: label=8.8.58  ocr=12.01.1961
+  X 75015693W34.jpg
+    gender: label=female  ocr=male
+  OK 75034018P75.jpg
+  X 75041710A44.jpg
+    surname: label=CMIRAMGO  ocr=CHIRAVGO
+    gender: label=female  ocr=male
+  X 75055271Q50.jpg
+    gender: label=female  ocr=male
+  X 75084531V50.jpg
+    surname: label=MABVENE  ocr=MAR VENE
+    first_name: label=JANE  ocr=JANF
+    gender: label=female  ocr=M
+  X 75086368R75.jpg
+    id_number: label=75086368R75  ocr=75086368R
+    first_name: label=CHIDO  ocr=CHIKWANHA
+    gender: label=female  ocr=male
+  OK 75095260G75.jpg
+  X 75097720F75.jpg
+    id_number: label=75097720F75  ocr=03041276J03
+    surname: label=  ocr=ZIMBABWE
+    first_name: label=  ocr=RODNEY
+    birth_date: label=  ocr=12.01.1961
+    gender: label=  ocr=male
+  X 75112285M04.jpg
+    surname: label=MAHACHI  ocr=ROBERT
+    first_name: label=ROBERT  ocr=MAHACHI
+  X 75150046G75.jpg
+    id_number: label=75150046G75  ocr=751500466
+    surname: label=MAKAMBWA  ocr=MAKUMBE
+    first_name: label=MAKUMBE  ocr=MAKAMBWA
+  X 75165419R48.jpg
+    surname: label=HOMERA  ocr=JOMERA
+  X 75177006L75.jpg
+    id_number: label=75177006L75  ocr=4673
+    birth_date: label=02.11.1977  ocr=02.11.1972
+    gender: label=female  ocr=male
+  X 75180547K44.jpg
+    gender: label=female  ocr=male
+  X 75190798C43.jpg
+    first_name: label=RUDO  ocr=FUDO
+    gender: label=female  ocr=male
+  OK 75265298F75.jpg
+  X 75275106R75.jpg
+    id_number: label=75275106R75  ocr=75275106R
+    birth_date: label=15.05.73  ocr=25.05.73
+    gender: label=  ocr=male
+  OK 75275169K50.jpg
+  X 75278739Q75.jpg
+    id_number: label=75278739Q75  ocr=75278739075
+    gender: label=female  ocr=male
+  X 75282185L75.jpg
+    id_number: label=48067117Q48  ocr=48067117034
+  X 75297354Z75.jpg
+    id_number: label=75297354Z75  ocr=02033711E02
+    surname: label=ZENGENI  ocr=ZIMBABWE
+    first_name: label=BEAVEN  ocr=RODNEY JAMES
+    birth_date: label=25.05.69  ocr=05.05.69
+  X 75310431N75.jpg
+    gender: label=female  ocr=male
+  X 75325972F75.jpg
+    surname: label=MVUDUDU  ocr=ZIMBABWE
+    first_name: label=SANDRA  ocr=MVUDUDU
+    gender: label=female  ocr=MUTARE
+  X 75327416A04.jpg
+    surname: label=MHIRIBIDI  ocr=GHRIBIDI
+    gender: label=female  ocr=male
+  X 75328215T50.jpg
+    id_number: label=75328215T50  ocr=14019756P45
+    surname: label=MANGODA  ocr=STEPHEN
+    first_name: label=STEPHEN ITAI  ocr=ITAI
+  X 75335800N50.jpg
+    gender: label=female  ocr=male
+  X 75337918Q75.jpg
+    id_number: label=75337918Q75  ocr=75337918075
+    gender: label=  ocr=male
+  X 75343443W75.jpg
+    id_number: label=75343443W75  ocr=75034440W75
+    surname: label=ZIMUNYA  ocr=ZIMBABWE
+    first_name: label=BARBRA  ocr=ZIMUNYA
+    gender: label=female  ocr=M
+  X 77010256Z77.jpg
+    id_number: label=77010256Z77  ocr=77019256277
+    gender: label=female  ocr=male
+  OK 77010301Y77.jpg
+  X 77033166B77.jpg
+    first_name: label=RUYI MUSIIWA HELARIO  ocr=RUYI
+    gender: label=  ocr=male
+  OK 77044835K77.jpg
+  X 77048310M77.jpg
+    surname: label=PARIDZIRA  ocr=LANGTON
+    first_name: label=LANGTON  ocr=MABACHI
+  OK 790062140H58.jpg
+  X 79021523J79.jpg
+    first_name: label=KELIAS MAGONDO  ocr=KELIAS
+  X 79022666B79.jpg
+    id_number: label=79022666B79  ocr=79022666879
+    first_name: label=ALFRED SIANGOMA  ocr=ALFRED
+    gender: label=  ocr=male
+  X 79056792V06.jpg
+    id_number: label=79056792V06  ocr=79056792V
+    surname: label=MIMPANDE  ocr=IMPANDE
+    first_name: label=SETBUDE  ocr=MIRPANDE
+    gender: label=female  ocr=male
+  OK 79077878P73.jpg
+  X 79077891D06.jpg
+    id_number: label=79077891D06  ocr=79077891006
+    surname: label=MPALA  ocr=SAWU
+    first_name: label=SAWU  ocr=MPALA
+    gender: label=female  ocr=male
+  X 79082219H79.jpg
+    id_number: label=79082219H79  ocr=79082219117
+    first_name: label=TNDALINA  ocr=TINDALINA
+    gender: label=female  ocr=male
+  X 79092693S79.jpg
+    first_name: label=THOKOZANI MAKOSINI  ocr=THOKOZANI
+  X 79094490W39.jpg
+    first_name: label=SIDUDUZIWE  ocr=GIDBUDUZIWE
+    gender: label=female  ocr=male
+  X 79095962W79.jpg
+    first_name: label=MENGIWA  ocr=NENGIWA
+    gender: label=female  ocr=male
+  X 79108278H06.jpg
+    surname: label=MWEMBE  ocr=PILATO
+    first_name: label=PILATO  ocr=MWEMBE
+  X 80006083H80.jpg
+    gender: label=female  ocr=male
+  X 80033024R80.jpg
+    first_name: label=AUTHAR  ocr=MANDIZIRA
+  OK 80043505J80.jpg
+  X 83002281V83.jpg
+    id_number: label=83002281V83  ocr=83002201V03
+    first_name: label=SVODAI  ocr=VUSHE
+    gender: label=female  ocr=male
+  X 83017588H83.jpg
+    id_number: label=83017588H83  ocr=83017500H83
+    surname: label=ZINYAU  ocr=ZIMBABWE
+    first_name: label=CNIA  ocr=ZINYAU
+    birth_date: label=10.10.49  ocr=0.10.49
+    gender: label=female  ocr=male
+  OK 83048989P83.jpg
+  X 83053079K04.jpg
+    surname: label=GWANGWAVA  ocr=GUANGHAVA
+    first_name: label=RETINA NYENGETERAI  ocr=RETINA
+    gender: label=female  ocr=M
+  X 83065172E83.jpg
+    gender: label=female  ocr=male
+  X 83080292P83.jpg
+    id_number: label=83080292P83  ocr=83080292p83
+    first_name: label=TASUNUNGURWA  ocr=TA SUNUNGURWA
+  X 83085812P83.jpg
+    id_number: label=83085812P83  ocr=8308512P83
+    gender: label=female  ocr=male
+  X 83091679R83.jpg
+    first_name: label=PRISCA  ocr=PRIESCA
+    gender: label=female  ocr=male
+  X 83096636E83.jpg
+    id_number: label=83096636E83  ocr=03098631620
+    surname: label=MUSHARAVATI  ocr=CHUGA
+    first_name: label=ITAI  ocr=ZAKA
+    gender: label=female  ocr=male
+  OK 83097955N83.jpg
+  X 83103653G83.jpg
+    gender: label=  ocr=male
+  X 83111758R83.jpg
+    gender: label=female  ocr=male
+  X 83121567D83.jpg
+    gender: label=female  ocr=male
+  X 83128138W83.jpg
+    id_number: label=83128138W83  ocr=85128138W83
+    gender: label=female  ocr=male
+  X 84001883T54.jpg
+    gender: label=female  ocr=male
+  X 85015774Z85.jpg
+    gender: label=female  ocr=male
+  X 85019469Q85.jpg
+    id_number: label=85019469Q85  ocr=85019469G85
+    first_name: label=SAMSON  ocr=SAM
+  X 852005400A85.jpg
+    first_name: label=LASTON  ocr=CASTON
+  OK 86006110B86.jpg
+  X 金属02045077J02.jpg
+    surname: label=NDCU  ocr=ND
+    first_name: label=SHONISANI  ocr=CU
+    gender: label=female  ocr=M
+  X 金属03117822L03.jpg
+    birth_date: label=12.03.1981  ocr=12 03 1981
+    gender: label=female  ocr=male
+  OK 金属08238875Y32.jpg
+  X 金属08408241R35.jpg
+    gender: label=female  ocr=MUTARE
+  X 金属08456040X47.jpg
+    first_name: label=BIGBOY  ocr=BIGBJY
+  X 金属13007937L13.jpg
+    id_number: label=13007937L13  ocr=13007937L
+    birth_date: label=7.2.64  ocr=7.2.64C
+  X 金属14015585F26.jpg
+    first_name: label=MOSES TIMOTHY  ocr=MOSES
+  X 金属27041156K27.jpg
+    surname: label=MANDISHE  ocr=BUHERA
+    first_name: label=SEKAI  ocr=MANDISHE
+    gender: label=female  ocr=M
+  X 金属29168464B26.jpg
+    first_name: label=KURAUVONE  ocr=KUR AUVONE
+  X 金属320211801B32.jpg
+    id_number: label=26105690Z26  ocr=26105690278
+    birth_date: label=15.04.1969  ocr=15.04.1961
+    gender: label=female  ocr=male
+  X 金属38096083K38.jpg
+    id_number: label=38096083K38  ocr=3809608318
+    gender: label=female  ocr=male
+  X 金属39022528Q39.jpg
+    id_number: label=39022528Q39  ocr=39022528039
+    first_name: label=MEIYEZWE  ocr=MEIVEZWE
+  X 金属44045220N44.jpg
+    first_name: label=REGIVA  ocr=REGINA
+    gender: label=female  ocr=male
+  X 金属47073686Z47.jpg
+    id_number: label=47073686Z47  ocr=47073686247
+    surname: label=ZIMONOI  ocr=ZIMMONDI
+    gender: label=female  ocr=male
+  X 金属59005563F59.jpg
+    gender: label=  ocr=male
+  X 金属59014413A54.jpg
+    id_number: label=59014413A54  ocr=59014413A
+  X 金属631218557B38.jpg
+    id_number: label=631218557B38  ocr=63121855783
+    gender: label=female  ocr=male
+  X 金属632445405G71.jpg
+    id_number: label=18063109N18  ocr=11061109N18
+    surname: label=MASHINGAIDZE  ocr=MASHINGA
+  OK 金属63637699L00.jpg
+  X 金属63883300T25.jpg
+    id_number: label=63883300T25  ocr=30883300T25
+    surname: label=MAPFUMO  ocr=MAPFUMO CUTHBERT
+    first_name: label=CUTHBERT  ocr=CHATUKUTA
+  X 金属66062583E66.jpg
+    id_number: label=66062583E66  ocr=60062583E66
+  X 金属67006337Z67.jpg
+    gender: label=female  ocr=male
+  X 金属67030447F12.jpg
+    birth_date: label=1.8.60  ocr=8.60
+    gender: label=female  ocr=male
+  OK 金属67122080G67.jpg
+  X 金属68058938F68.jpg
+    gender: label=female  ocr=male
+  X 金属71117679Z71.jpg
+    gender: label=female  ocr=male
+  X 金属73018896P73.jpg
+    gender: label=female  ocr=male
+  X 金属75298521S75.jpg
+    surname: label=SITHDLE  ocr=SITHOLE
+    gender: label=female  ocr=male
+  X 金属83119140Q83.jpg
+    birth_date: label=05.05.1980  ocr=03.05.1980

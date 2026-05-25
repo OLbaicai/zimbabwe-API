@@ -1,0 +1,7 @@
+{
+  "id_number": "63346843N70",
+  "surname": "CHAWANDA",
+  "first_name": "EMMAH",
+  "birth_date": "23.04.1962",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "11046240G11",
+  "surname": "JAIROS",
+  "first_name": "DADIRAI",
+  "birth_date": "18.12.1971",
+  "gender": "female"
+}

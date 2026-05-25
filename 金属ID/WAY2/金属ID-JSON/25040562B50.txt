@@ -1,0 +1,7 @@
+{
+  "id_number": "25040562B50",
+  "surname": "MUKOMBERO",
+  "first_name": "MARIA LITTW RUTENDO",
+  "birth_date": "06.01.74",
+  "gender": "female"
+}

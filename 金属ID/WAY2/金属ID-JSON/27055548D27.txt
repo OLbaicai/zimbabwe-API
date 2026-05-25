@@ -1,0 +1,7 @@
+{
+  "id_number": "27055548D27",
+  "surname": "ZINYORO",
+  "first_name": "ENOS",
+  "birth_date": "27.07.1956",
+  "gender": "male"
+}

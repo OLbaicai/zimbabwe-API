@@ -1,0 +1,7 @@
+{
+  "id_number": "68057554B68",
+  "surname": "GATSI",
+  "first_name": "DAVIE",
+  "birth_date": "09.07.1982",
+  "gender": ""
+}

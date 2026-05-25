@@ -1,0 +1,7 @@
+{
+  "id_number": "70074359F15",
+  "surname": "GUTSA",
+  "first_name": "DOUGLAS",
+  "birth_date": "08.01.70",
+  "gender": "male"
+}

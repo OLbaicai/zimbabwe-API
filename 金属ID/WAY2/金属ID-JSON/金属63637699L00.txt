@@ -1,0 +1,7 @@
+{
+  "id_number": "63637699L00",
+  "surname": "MOUSOURAKIS",
+  "first_name": "KYRIACOS",
+  "birth_date": "13.11.63",
+  "gender": "male"
+}

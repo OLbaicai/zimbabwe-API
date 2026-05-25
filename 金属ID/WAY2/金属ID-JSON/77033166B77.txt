@@ -1,0 +1,7 @@
+{
+  "id_number": "77033166B77",
+  "surname": "RUYI",
+  "first_name": "RUYI MUSIIWA HELARIO",
+  "birth_date": "24.01.66",
+  "gender": ""
+}

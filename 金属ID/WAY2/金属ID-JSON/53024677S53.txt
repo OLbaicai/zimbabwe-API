@@ -1,0 +1,7 @@
+{
+  "id_number": "53024677S53",
+  "surname": "DUBE",
+  "first_name": "FANIAS",
+  "birth_date": "28.08.70",
+  "gender": "male"
+}

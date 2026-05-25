@@ -1,0 +1,7 @@
+{
+  "id_number": "631222735S22",
+  "surname": "NHARI",
+  "first_name": "CALVIN KUDZANAYI",
+  "birth_date": "13.11.1984",
+  "gender": "male"
+}

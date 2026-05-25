@@ -1,0 +1,7 @@
+{
+  "id_number": "63498648T70",
+  "surname": "MATIGI",
+  "first_name": "RICHARD MHEDZISON",
+  "birth_date": "5.6.55",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "83119140Q83",
+  "surname": "USHE",
+  "first_name": "CLIFFORD",
+  "birth_date": "05.05.1980",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "66035498P66",
+  "surname": "MAKUNGANYA",
+  "first_name": "MALIAKINI MRARAMA",
+  "birth_date": "03.04.69",
+  "gender": "male"
+}

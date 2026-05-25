@@ -1,0 +1,7 @@
+{
+  "id_number": "42186524R42",
+  "surname": "KANYAMA",
+  "first_name": "DONIFACE",
+  "birth_date": "15.05.1972",
+  "gender": "male"
+}

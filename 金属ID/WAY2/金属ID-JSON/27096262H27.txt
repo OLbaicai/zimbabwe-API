@@ -1,0 +1,7 @@
+{
+  "id_number": "27096262H27",
+  "surname": "BANDE",
+  "first_name": "AUXIUIA",
+  "birth_date": "07.03.71",
+  "gender": "female"
+}

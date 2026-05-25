@@ -1,0 +1,7 @@
+{
+  "id_number": "63380468M24",
+  "surname": "CHITERA",
+  "first_name": "LAST",
+  "birth_date": "18.6.64",
+  "gender": "female"
+}

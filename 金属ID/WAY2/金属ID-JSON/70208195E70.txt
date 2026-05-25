@@ -1,0 +1,7 @@
+{
+  "id_number": "70208195E70",
+  "surname": "MANYERUKE",
+  "first_name": "FADZAI",
+  "birth_date": "09.08.1981",
+  "gender": "female"
+}

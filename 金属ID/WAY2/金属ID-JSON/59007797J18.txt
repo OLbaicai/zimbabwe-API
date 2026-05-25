@@ -1,0 +1,7 @@
+{
+  "id_number": "59007797J18",
+  "surname": "MAKUFA",
+  "first_name": "BENJAMIN",
+  "birth_date": "04.12.76",
+  "gender": "male"
+}

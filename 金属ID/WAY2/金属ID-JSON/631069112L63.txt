@@ -1,0 +1,7 @@
+{
+  "id_number": "631069112L63",
+  "surname": "CHAPATA",
+  "first_name": "HAMUNYARI",
+  "birth_date": "12.08.1979",
+  "gender": "female"
+}

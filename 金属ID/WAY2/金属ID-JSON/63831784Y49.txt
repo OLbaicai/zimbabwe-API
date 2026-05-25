@@ -1,0 +1,7 @@
+{
+  "id_number": "63831784Y49",
+  "surname": "NYAMUDZE",
+  "first_name": "AMCS",
+  "birth_date": "01.05.70",
+  "gender": "male"
+}

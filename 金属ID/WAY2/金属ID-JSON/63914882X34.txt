@@ -1,0 +1,7 @@
+{
+  "id_number": "63914882X34",
+  "surname": "MUDOMBO",
+  "first_name": "MELODY",
+  "birth_date": "27.06.75",
+  "gender": "female"
+}

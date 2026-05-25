@@ -1,0 +1,7 @@
+{
+  "id_number": "15136607H15",
+  "surname": "ASAFU",
+  "first_name": "MAICHIVEI",
+  "birth_date": "07.03.1984",
+  "gender": "female"
+}

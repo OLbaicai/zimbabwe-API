@@ -1,0 +1,6 @@
+{
+  "id_number": "01/32173234F50",
+  "surname": "CHIKUKU",
+  "first_name": "LINDA",
+  "birth_date": "13/11/1990"
+}

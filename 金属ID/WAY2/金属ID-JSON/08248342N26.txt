@@ -1,0 +1,7 @@
+{
+  "id_number": "08248342N26",
+  "surname": "QADZIRA",
+  "first_name": "DELIWE",
+  "birth_date": "17.07.1958",
+  "gender": "female"
+}

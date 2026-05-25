@@ -1,0 +1,7 @@
+{
+  "id_number": "70076677A18",
+  "surname": "NDUNA",
+  "first_name": "TADIOUS",
+  "birth_date": "20.08.66",
+  "gender": "male"
+}

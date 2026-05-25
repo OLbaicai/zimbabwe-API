@@ -1,0 +1,7 @@
+{
+  "id_number": "47122214X47",
+  "surname": "MOFFAT",
+  "first_name": "LUCIAS",
+  "birth_date": "04.09.1977",
+  "gender": "male"
+}

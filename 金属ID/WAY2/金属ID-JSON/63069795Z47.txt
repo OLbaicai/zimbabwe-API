@@ -1,0 +1,7 @@
+{
+  "id_number": "63069795Z47",
+  "surname": "KWENDAMBAYIRI",
+  "first_name": "EMMILY",
+  "birth_date": "9.1.60",
+  "gender": "female"
+}

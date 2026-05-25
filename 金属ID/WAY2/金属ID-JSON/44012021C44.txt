@@ -1,0 +1,7 @@
+{
+  "id_number": "44012021C44",
+  "surname": "RUCHIYO",
+  "first_name": "HAZVINEI",
+  "birth_date": "19.08.1984",
+  "gender": "male"
+}

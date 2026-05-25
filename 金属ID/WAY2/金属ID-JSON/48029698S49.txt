@@ -1,0 +1,7 @@
+{
+  "id_number": "49040054F49",
+  "surname": "HOSHIKI",
+  "first_name": "MUSAFARE",
+  "birth_date": "04.07.1975",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "29155329Z29",
+  "surname": "MAKIWA",
+  "first_name": "NODETTER",
+  "birth_date": "01.03.1974",
+  "gender": "female"
+}

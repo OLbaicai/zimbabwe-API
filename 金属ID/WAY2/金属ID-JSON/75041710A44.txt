@@ -1,0 +1,7 @@
+{
+  "id_number": "75041710A44",
+  "surname": "CMIRAMGO",
+  "first_name": "FLORENCE",
+  "birth_date": "05.06.60",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "63889648T25",
+  "surname": "KUNDISHORA",
+  "first_name": "JOTINA",
+  "birth_date": "02.11.75",
+  "gender": "female"
+}

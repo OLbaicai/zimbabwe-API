@@ -1,0 +1,7 @@
+{
+  "id_number": "34061184A34",
+  "surname": "NYABUNZE",
+  "first_name": "MIKE SHUNGU",
+  "birth_date": "07.07.1974",
+  "gender": "male"
+}

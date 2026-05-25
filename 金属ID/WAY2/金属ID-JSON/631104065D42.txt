@@ -1,0 +1,7 @@
+{
+  "id_number": "631104065D42",
+  "surname": "MACHIPISA",
+  "first_name": "GETRUDE",
+  "birth_date": "02.10.1976",
+  "gender": "female"
+}

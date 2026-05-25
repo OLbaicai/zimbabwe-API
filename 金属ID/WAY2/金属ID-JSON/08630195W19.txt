@@ -1,0 +1,7 @@
+{
+  "id_number": "08630195W19",
+  "surname": "MPOFU",
+  "first_name": "BULISIWE",
+  "birth_date": "29.11.1983",
+  "gender": "female"
+}

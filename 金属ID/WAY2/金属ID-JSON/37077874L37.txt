@@ -1,0 +1,7 @@
+{
+  "id_number": "37077874L37",
+  "surname": "MUCHADENYIKA",
+  "first_name": "JUDITH",
+  "birth_date": "25.02.1978",
+  "gender": "female"
+}

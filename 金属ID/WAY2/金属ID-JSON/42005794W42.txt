@@ -1,0 +1,7 @@
+{
+  "id_number": "42144776N42",
+  "surname": "SAUNYAMA",
+  "first_name": "WILSON",
+  "birth_date": "15.10.1974",
+  "gender": "male"
+}

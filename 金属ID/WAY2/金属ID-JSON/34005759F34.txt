@@ -1,0 +1,7 @@
+{
+  "id_number": "34005759F34",
+  "surname": "CHIMBANGU",
+  "first_name": "EVANGELICTA",
+  "birth_date": "15.7.63",
+  "gender": "female"
+}

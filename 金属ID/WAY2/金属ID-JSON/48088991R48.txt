@@ -1,0 +1,7 @@
+{
+  "id_number": "48088991R48",
+  "surname": "CHIREMA",
+  "first_name": "TAMBUDZAI",
+  "birth_date": "12.03.1979",
+  "gender": "female"
+}

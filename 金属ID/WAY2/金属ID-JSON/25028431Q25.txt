@@ -1,0 +1,7 @@
+{
+  "id_number": "25028431Q25",
+  "surname": "MUZAWAZI",
+  "first_name": "PATRICK",
+  "birth_date": "16.12.70",
+  "gender": "male"
+}

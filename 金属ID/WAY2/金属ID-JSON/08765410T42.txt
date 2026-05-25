@@ -1,0 +1,7 @@
+{
+  "id_number": "08765410T42",
+  "surname": "MAGAYA",
+  "first_name": "MICHAEL MUNYARADZI",
+  "birth_date": "19.01.1981",
+  "gender": "male"
+}

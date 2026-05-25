@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631391620N44",
+  "surname": "DHUKU",
+  "first_name": "ENERST",
+  "birth_date": "28/08/1984"
+}

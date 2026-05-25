@@ -1,0 +1,7 @@
+{
+  "id_number": "50065957S50",
+  "surname": "USADA",
+  "first_name": "CHRISPEN CARLYON",
+  "birth_date": "23.10.72",
+  "gender": "male"
+}

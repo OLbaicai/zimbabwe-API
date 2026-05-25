@@ -1,0 +1,7 @@
+{
+  "id_number": "15009848B15",
+  "surname": "KAGANDE",
+  "first_name": "JESCA",
+  "birth_date": "20.1.34",
+  "gender": "female"
+}

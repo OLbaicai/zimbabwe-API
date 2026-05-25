@@ -1,0 +1,7 @@
+{
+  "id_number": "63791266G32",
+  "surname": "IAVAZIVA",
+  "first_name": "JEVAS",
+  "birth_date": "26.04.70",
+  "gender": "male"
+}

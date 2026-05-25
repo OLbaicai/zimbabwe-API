@@ -1,0 +1,7 @@
+{
+  "id_number": "08532140P00",
+  "surname": "HERMAN",
+  "first_name": "VANESSA DELPHINE",
+  "birth_date": "02.01.69",
+  "gender": "female"
+}

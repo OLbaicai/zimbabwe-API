@@ -1,0 +1,7 @@
+{
+  "id_number": "67085667C71",
+  "surname": "MUUYA",
+  "first_name": "ELVIS",
+  "birth_date": "12.08.75",
+  "gender": "male"
+}

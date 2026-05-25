@@ -1,0 +1,7 @@
+{
+  "id_number": "08661898F07",
+  "surname": "CHIDHAKWA",
+  "first_name": "ANNAH",
+  "birth_date": "06.06.70",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "47093298R47",
+  "surname": "MARAWU",
+  "first_name": "AGRIPA",
+  "birth_date": "15.01.68",
+  "gender": "male"
+}

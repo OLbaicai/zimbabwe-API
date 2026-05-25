@@ -1,0 +1,7 @@
+{
+  "id_number": "38107898C38",
+  "surname": "KATUNGONDO",
+  "first_name": "DARLINGTON",
+  "birth_date": "09.03.70",
+  "gender": "male"
+}

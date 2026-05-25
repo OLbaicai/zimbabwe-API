@@ -1,0 +1,7 @@
+{
+  "id_number": "63243176G25",
+  "surname": "SPANNERA",
+  "first_name": "GIBBON",
+  "birth_date": "28.2.56",
+  "gender": "male"
+}

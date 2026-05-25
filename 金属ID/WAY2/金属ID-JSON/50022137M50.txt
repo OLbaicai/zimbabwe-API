@@ -1,0 +1,7 @@
+{
+  "id_number": "50022137M50",
+  "surname": "NYAMANDWE",
+  "first_name": "TRACEY",
+  "birth_date": "5.7.54",
+  "gender": "female"
+}

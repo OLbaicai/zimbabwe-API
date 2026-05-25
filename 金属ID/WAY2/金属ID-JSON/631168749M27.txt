@@ -1,0 +1,7 @@
+{
+  "id_number": "631168749M27",
+  "surname": "CHITOMBO",
+  "first_name": "POLITE",
+  "birth_date": "10.07.1982",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "32082630Y32",
+  "surname": "PARAIWA",
+  "first_name": "RICHARD",
+  "birth_date": "31.08.66",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "11043355W11",
+  "surname": "ZONDEWA",
+  "first_name": "ANNAH",
+  "birth_date": "04.45.1974",
+  "gender": "female"
+}

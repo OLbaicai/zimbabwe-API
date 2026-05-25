@@ -1,0 +1,7 @@
+{
+  "id_number": "32066601A15",
+  "surname": "MAPFIRO",
+  "first_name": "PATIENCE",
+  "birth_date": "24.02.72",
+  "gender": "female"
+}

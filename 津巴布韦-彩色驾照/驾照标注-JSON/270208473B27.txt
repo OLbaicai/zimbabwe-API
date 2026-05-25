@@ -1,0 +1,6 @@
+{
+  "id_number": "01/270208473B27",
+  "surname": "PARADZAYI",
+  "first_name": "JOSEPH",
+  "birth_date": "23/09/1989"
+}

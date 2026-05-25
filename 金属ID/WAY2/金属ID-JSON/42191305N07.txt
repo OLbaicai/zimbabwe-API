@@ -1,0 +1,7 @@
+{
+  "id_number": "42191305N07",
+  "surname": "MACHONGWE",
+  "first_name": "KENNETH",
+  "birth_date": "02.01.1983",
+  "gender": "male"
+}

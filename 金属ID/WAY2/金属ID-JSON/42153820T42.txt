@@ -1,0 +1,7 @@
+{
+  "id_number": "42153820T42",
+  "surname": "MUSWERE",
+  "first_name": "STELLA",
+  "birth_date": "15.09.73",
+  "gender": "female"
+}

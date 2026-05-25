@@ -1,0 +1,7 @@
+{
+  "id_number": "23015116E23",
+  "surname": "MGWIRA",
+  "first_name": "WINNIE",
+  "birth_date": "06.10.1975",
+  "gender": "female"
+}

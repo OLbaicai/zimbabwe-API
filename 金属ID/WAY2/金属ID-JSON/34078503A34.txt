@@ -1,0 +1,7 @@
+{
+  "id_number": "34078503A34",
+  "surname": "MAINOTI",
+  "first_name": "LUKE",
+  "birth_date": "16.09.1983",
+  "gender": "male"
+}

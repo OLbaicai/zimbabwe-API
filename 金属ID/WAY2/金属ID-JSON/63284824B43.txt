@@ -1,0 +1,7 @@
+{
+  "id_number": "63284824B43",
+  "surname": "MASARAURE",
+  "first_name": "MARIA",
+  "birth_date": "13.4.50",
+  "gender": "female"
+}

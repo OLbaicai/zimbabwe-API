@@ -1,0 +1,7 @@
+{
+  "id_number": "80033024R80",
+  "surname": "MANDIZIRA",
+  "first_name": "AUTHAR",
+  "birth_date": "28.07.73",
+  "gender": "male"
+}

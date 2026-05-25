@@ -1,0 +1,7 @@
+{
+  "id_number": "47065543Y47",
+  "surname": "MUCHENGA",
+  "first_name": "HAZVINEYI JEAN",
+  "birth_date": "19.03.68",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "08627413X18",
+  "surname": "MANDIZHA",
+  "first_name": "GAILY MAKANYUMWA",
+  "birth_date": "19.02.1983",
+  "gender": "female"
+}

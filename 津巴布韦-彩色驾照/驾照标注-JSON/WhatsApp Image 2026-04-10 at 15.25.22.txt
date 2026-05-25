@@ -1,0 +1,6 @@
+{
+  "id_number": "01/08802889G07",
+  "surname": "MARIMO",
+  "first_name": "MOVEMENT",
+  "birth_date": "10/02/1987"
+}

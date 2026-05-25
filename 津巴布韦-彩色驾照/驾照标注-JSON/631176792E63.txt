@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632481318S42",
+  "surname": "KATEERA",
+  "first_name": "KUDAKWASHE FANUEL",
+  "birth_date": "19/04/2002"
+}

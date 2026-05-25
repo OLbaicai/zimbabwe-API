@@ -1,0 +1,6 @@
+{
+  "id_number": "01/50079115V50",
+  "surname": "NYAMBO",
+  "first_name": "MUNYARADZI",
+  "birth_date": "06/02/1986"
+}

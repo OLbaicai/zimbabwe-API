@@ -1,0 +1,7 @@
+{
+  "id_number": "44062533G44",
+  "surname": "MUCHAYI",
+  "first_name": "ESTHER",
+  "birth_date": "13.12.68",
+  "gender": "female"
+}

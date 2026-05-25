@@ -1,0 +1,7 @@
+{
+  "id_number": "70028373W26",
+  "surname": "KUFAIHORE",
+  "first_name": "WINNIE",
+  "birth_date": "03.01.66",
+  "gender": "female"
+}

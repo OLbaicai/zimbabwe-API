@@ -1,0 +1,7 @@
+{
+  "id_number": "61029337K61",
+  "surname": "MARUKE",
+  "first_name": "TAKADA",
+  "birth_date": "22.11.75",
+  "gender": "male"
+}

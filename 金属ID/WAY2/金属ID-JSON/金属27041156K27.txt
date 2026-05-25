@@ -1,0 +1,7 @@
+{
+  "id_number": "27041156K27",
+  "surname": "MANDISHE",
+  "first_name": "SEKAI",
+  "birth_date": "2.12.55",
+  "gender": "female"
+}

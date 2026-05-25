@@ -1,0 +1,7 @@
+{
+  "id_number": "45051741H68",
+  "surname": "DAMBAZA",
+  "first_name": "ADMIRE",
+  "birth_date": "21.01.71",
+  "gender": "male"
+}

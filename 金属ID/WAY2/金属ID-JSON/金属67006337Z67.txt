@@ -1,0 +1,7 @@
+{
+  "id_number": "67006337Z67",
+  "surname": "MUGIYA",
+  "first_name": "TAMBURAI",
+  "birth_date": "19.8.52",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "32000820Z32",
+  "surname": "KANAMANDARI",
+  "first_name": "RODRECK",
+  "birth_date": "23.10.54",
+  "gender": "male"
+}

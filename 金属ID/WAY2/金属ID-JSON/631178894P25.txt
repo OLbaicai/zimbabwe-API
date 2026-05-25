@@ -1,0 +1,7 @@
+{
+  "id_number": "631178894P25",
+  "surname": "MUSANANGURWA",
+  "first_name": "LEONARD",
+  "birth_date": "11.12.1981",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "50054555Z13",
+  "surname": "HLATYWAYO",
+  "first_name": "CLERA",
+  "birth_date": "14.05.63",
+  "gender": "female"
+}

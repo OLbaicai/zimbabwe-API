@@ -1,0 +1,7 @@
+{
+  "id_number": "70023789N63",
+  "surname": "CHIMHERE",
+  "first_name": "SHADRICK",
+  "birth_date": "1.10.46",
+  "gender": "male"
+}

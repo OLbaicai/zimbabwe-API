@@ -1,0 +1,7 @@
+{
+  "id_number": "631215710G04",
+  "surname": "KWAYE",
+  "first_name": "THOMAS",
+  "birth_date": "09.10.1981",
+  "gender": "male"
+}

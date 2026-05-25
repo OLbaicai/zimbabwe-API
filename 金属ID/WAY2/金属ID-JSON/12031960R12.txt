@@ -1,0 +1,7 @@
+{
+  "id_number": "12031960R12",
+  "surname": "RUZVIDZO",
+  "first_name": "EPHRAIM",
+  "birth_date": "15.03.57",
+  "gender": "male"
+}

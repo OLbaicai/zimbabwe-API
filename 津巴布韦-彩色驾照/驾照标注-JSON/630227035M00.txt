@@ -1,0 +1,6 @@
+{
+  "id_number": "01/63227035M00",
+  "surname": "KARNICKI",
+  "first_name": "EDWARD ALEXANDER",
+  "birth_date": "05/10/1948"
+}

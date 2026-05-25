@@ -1,0 +1,7 @@
+{
+  "id_number": "631040372X25",
+  "surname": "RUGARA",
+  "first_name": "MERENIAH",
+  "birth_date": "01.08.1976",
+  "gender": "female"
+}

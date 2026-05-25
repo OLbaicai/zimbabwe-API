@@ -1,0 +1,7 @@
+{
+  "id_number": "27144023X27",
+  "surname": "KUFONYA",
+  "first_name": "MOSES",
+  "birth_date": "27.06.1979",
+  "gender": "male"
+}

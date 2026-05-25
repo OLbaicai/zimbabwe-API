@@ -1,0 +1,7 @@
+{
+  "id_number": "45141210G45",
+  "surname": "CHIFODYA",
+  "first_name": "SILVIA",
+  "birth_date": "17.08.1979",
+  "gender": "female"
+}

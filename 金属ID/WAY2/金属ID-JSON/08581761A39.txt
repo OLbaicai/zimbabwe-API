@@ -1,0 +1,7 @@
+{
+  "id_number": "08581761A39",
+  "surname": "NCUBE",
+  "first_name": "SIBONAKALISO",
+  "birth_date": "05.09.68",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "32002137F32",
+  "surname": "KATSAMBE",
+  "first_name": "MARINA",
+  "birth_date": "23.11.49",
+  "gender": "female"
+}

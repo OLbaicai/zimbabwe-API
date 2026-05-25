@@ -1,0 +1,17 @@
+评估时间: 2026-05-20 16:56:46
+预测目录: D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\津巴布韦-彩色驾照\txt\MAIN-1-OUT
+标签目录: D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\津巴布韦-彩色驾照\驾照标注-JSON
+样本数(可解析标签): 240
+缺失预测文件数: 0
+预测 JSON 解析失败数: 1
+标签 JSON 解析失败数(未计入样本): 0
+
+五字段准确率:
+- id_number: 76.25% (183/240)
+- surname: 88.33% (212/240)
+- first_name: 90.83% (218/240)
+- birth_date: 94.58% (227/240)
+
+总体平均准确率(按字段微平均): 87.50% (840/960)
+
+错误总数: 120

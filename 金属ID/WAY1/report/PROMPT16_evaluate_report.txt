@@ -1,0 +1,8361 @@
+=================================================================
+  字段准确率（共 765 条）
+=================================================================
+  id_number        300/765  [#######-------------]   39.2%
+  surname          497/765  [############--------]   65.0%
+  first_name       455/765  [###########---------]   59.5%
+  birth_date       674/765  [#################---]   88.1%
+  gender           384/765  [##########----------]   50.2%
+  -------------------------------------------------------
+  总体准确率           2310/3825  [############--------]   60.4%
+=================================================================
+
+匹配文件数: 765
+错误总数:   1515
+
+=================================================================
+  错误明细（共 1515 条）
+=================================================================
+  02033711E02.jpg  [gender]
+    标签: male
+    OCR : female
+
+  02035993K02.jpg  [id_number]
+    标签: 08740811F53
+    OCR : 08740811
+
+  02061902X02.jpg  [gender]
+    标签: male
+    OCR : female
+
+  03041276J03.jpg  [gender]
+    标签: male
+    OCR : female
+
+  03041622K03.jpg  [first_name]
+    标签: RUNGMIRAI
+    OCR : RUNGAMIRAI
+
+  03043148T03.jpg  [surname]
+    标签: RUVENGD
+    OCR : RUVENGU
+
+  03052051W00.jpg  [id_number]
+    标签: 03052051W00
+    OCR : 03052051W
+
+  03052051W00.jpg  [first_name]
+    标签: RODNEY JAMES
+    OCR : RODNEY
+
+  03052051W00.jpg  [gender]
+    标签: male
+    OCR : female
+
+  03057351G03.jpg  [id_number]
+    标签: 03057351G03
+    OCR : 03057351603
+
+  03076159A03.jpg  [id_number]
+    标签: 03076159A03
+    OCR : 030761594
+
+  03076159A03.jpg  [birth_date]
+    标签: 23.11.72
+    OCR : 01.72
+
+  03086524R03.jpg  [id_number]
+    标签: 03086524R03
+    OCR : 03086524R
+
+  03086524R03.jpg  [gender]
+    标签: male
+    OCR : female
+
+  03105570T03.jpg  [surname]
+    标签: HOVE
+    OCR : C
+
+  03105570T03.jpg  [first_name]
+    标签: TARISAI
+    OCR : HOPE
+
+  03105570T03.jpg  [birth_date]
+    标签: 30.08.1981
+    OCR : 08-1980
+
+  03106696S03.jpg  [id_number]
+    标签: 03106696S03
+    OCR : 03106686803
+
+  03106696S03.jpg  [surname]
+    标签: PHIRI
+    OCR : GAMUCHIRAI
+
+  03106696S03.jpg  [first_name]
+    标签: GAMUCHIRAI
+    OCR : PHIRI
+
+  032006772T03.jpg  [first_name]
+    标签: MEMORY
+    OCR : NDUNA
+
+  04006178Q04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  04008660N04.jpg  [id_number]
+    标签: 04008660N04
+    OCR : 04008660N
+
+  04023436Z04.jpg  [id_number]
+    标签: 04023436Z04
+    OCR : 04023436Z
+
+  04030216T04.jpg  [id_number]
+    标签: 04030216T04
+    OCR : 0403021604
+
+  04030216T04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  04042138C04.jpg  [id_number]
+    标签: 04042138C04
+    OCR : 04042133C04
+
+  04042138C04.jpg  [first_name]
+    标签: CECILIAH
+    OCR : CEFTIZAH
+
+  04045144V04.jpg  [surname]
+    标签: MACHINGAMBI
+    OCR : CHAKOTERA
+
+  04045144V04.jpg  [first_name]
+    标签: MARIET
+    OCR : BIKITA
+
+  04054344V04.jpg  [id_number]
+    标签: 04054344V04
+    OCR : 04053444104
+
+  04054344V04.jpg  [surname]
+    标签: MATONHODZE
+    OCR : MATONHOODZE
+
+  04054344V04.jpg  [first_name]
+    标签: SHARAI
+    OCR : SHARAJ
+
+  04057057T04.jpg  [id_number]
+    标签: 04057057T04
+    OCR : 57057104C11
+
+  04057057T04.jpg  [surname]
+    标签: MATOREVHU
+    OCR : MATOREVTH
+
+  04057281M04.jpg  [id_number]
+    标签: 04057281M04
+    OCR : 04057281M
+
+  04057281M04.jpg  [first_name]
+    标签: MOSES FUNGIRAI
+    OCR : MOSES
+
+  04057281M04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  04062050W09.jpg  [id_number]
+    标签: 04062050W09
+    OCR : 04062050W04
+
+  04069040T04.jpg  [id_number]
+    标签: 04069040T04
+    OCR : 04069040T
+
+  04069040T04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  04071086S04.jpg  [id_number]
+    标签: 04071086S04
+    OCR : 04071086S
+
+  04071086S04.jpg  [surname]
+    标签: MAMBARA
+    OCR : MANBARA
+
+  04071086S04.jpg  [first_name]
+    标签: MUJERE
+    OCR : MUJER
+
+  04071086S04.jpg  [birth_date]
+    标签: 08.06.73
+    OCR : 05.06.1973
+
+  04072245C04.jpg  [first_name]
+    标签: ELIAS
+    OCR : EL JAS
+
+  04072245C04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  04080654S04.jpg  [id_number]
+    标签: 04080654S04
+    OCR : 04080654604
+
+  04080654S04.jpg  [first_name]
+    标签: LEVY
+    OCR : CHOWE
+
+  04080654S04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  04084886S04.jpg  [id_number]
+    标签: 04084886S04
+    OCR : 04084886S
+
+  04084886S04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  04087816C04.jpg  [birth_date]
+    标签: 06.02.1977
+    OCR : 05.02.1977
+
+  04087816C04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  04109501Y18.jpg  [surname]
+    标签: MASUKA
+    OCR : GUTU
+
+  04109501Y18.jpg  [first_name]
+    标签: REMITIA
+    OCR : MASUKA
+
+  050029007L05.jpg  [id_number]
+    标签: 05029007L05
+    OCR : 05029007L
+
+  05007554S68.jpg  [id_number]
+    标签: 05007554S68
+    OCR : 05007554S
+
+  05030359F05.jpg  [birth_date]
+    标签: 4.1.66
+    OCR : 01.01.1965
+
+  05036314D05.jpg  [id_number]
+    标签: 05036314D05
+    OCR : 050363140
+
+  05036314D05.jpg  [first_name]
+    标签: EDMORE
+    OCR : EDHORE
+
+  05036314D05.jpg  [gender]
+    标签: male
+    OCR : female
+
+  05051545J45.jpg  [surname]
+    标签: CHIMUNDA
+    OCR : KANDEYA
+
+  05051545J45.jpg  [first_name]
+    标签: CLEVER
+    OCR : BINDURA
+
+  05051545J45.jpg  [gender]
+    标签: male
+    OCR : female
+
+  05053916L68.jpg  [surname]
+    标签: MANJEMGENJA
+    OCR : MANJENGENJA
+
+  05053916L68.jpg  [first_name]
+    标签: INNDCENT
+    OCR : INNOCENT
+
+  05053916L68.jpg  [gender]
+    标签: male
+    OCR : female
+
+  05069754B05.jpg  [id_number]
+    标签: 05069754B05
+    OCR : 0508975005
+
+  05069754B05.jpg  [surname]
+    标签: MUHUKUSA
+    OCR : 
+
+  05069754B05.jpg  [first_name]
+    标签: DADIRAI
+    OCR : 
+
+  05069754B05.jpg  [birth_date]
+    标签: 20.03.1969
+    OCR : 03.07.1997
+
+  05073982X14.jpg  [id_number]
+    标签: 63624707P47
+    OCR : 63624707P
+
+  05073982X14.jpg  [gender]
+    标签: male
+    OCR : female
+
+  06109127E06.jpg  [id_number]
+    标签: 06005310K06
+    OCR : 06005310K
+
+  07004953D07.jpg  [id_number]
+    标签: 07004953D07
+    OCR : 07004953007
+
+  07004953D07.jpg  [surname]
+    标签: CHIPWANYA
+    OCR : CHIVHU
+
+  07004953D07.jpg  [first_name]
+    标签: NYENGETERAYI
+    OCR : CHIPWANYA
+
+  07041352S07.jpg  [id_number]
+    标签: 07041352S07
+    OCR : 070413525
+
+  07042454Q18.jpg  [id_number]
+    标签: 07042454Q18
+    OCR : 070424540
+
+  07042454Q18.jpg  [first_name]
+    标签: BEAUTY
+    OCR : CHIGIJI
+
+  07069659L07.jpg  [id_number]
+    标签: 07069659L07
+    OCR : 07069659L
+
+  07071638M07.jpg  [id_number]
+    标签: 07071638M07
+    OCR : 07C71E38M
+
+  07071638M07.jpg  [surname]
+    标签: PUSHWAYA
+    OCR : PESFWAYS
+
+  07089760K07.jpg  [id_number]
+    标签: 07089760K07
+    OCR : 07089760M
+
+  07089760K07.jpg  [first_name]
+    标签: MOMBAI
+    OCR : KOMSAI
+
+  07089760K07.jpg  [gender]
+    标签: male
+    OCR : female
+
+  07090697D07.jpg  [id_number]
+    标签: 07090697D07
+    OCR : 070906970
+
+  07090697D07.jpg  [gender]
+    标签: male
+    OCR : female
+
+  07099966D07.jpg  [id_number]
+    标签: 631147649C50
+    OCR : 31147649C50
+
+  07099966D07.jpg  [surname]
+    标签: KAHWENA
+    OCR : KANWENA
+
+  07105713A07.jpg  [id_number]
+    标签: 07105713A07
+    OCR : 0710571307F
+
+  07105713A07.jpg  [birth_date]
+    标签: 15.06.1978
+    OCR : 15.04.1978
+
+  07107972F07.jpg  [id_number]
+    标签: 07107972F07
+    OCR : 07107972107
+
+  07107972F07.jpg  [first_name]
+    标签: LOVENESS
+    OCR : MAGAZINESS
+
+  07107972F07.jpg  [birth_date]
+    标签: 26.04.1977
+    OCR : 04. 19. 97
+
+  07140779Q07.jpg  [id_number]
+    标签: 07140779Q07
+    OCR : 07140779007
+
+  07140779Q07.jpg  [surname]
+    标签: CHITENDERE
+    OCR : ZENDA
+
+  07140779Q07.jpg  [first_name]
+    标签: MUNYARADZI
+    OCR : EJHERA
+
+  07140779Q07.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08023500V28.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08034661B04.jpg  [id_number]
+    标签: 08034661B04
+    OCR : 080346618
+
+  08034661B04.jpg  [surname]
+    标签: VENGERE
+    OCR : JERICHO
+
+  08034661B04.jpg  [first_name]
+    标签: JERICHO
+    OCR : VENGERE
+
+  08034661B04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08050700K41.jpg  [id_number]
+    标签: 08050700K41
+    OCR : 08050700K
+
+  08050700K41.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08068592H08.jpg  [id_number]
+    标签: 08068592H08
+    OCR : 08068592H
+
+  08068592H08.jpg  [surname]
+    标签: MASUKU
+    OCR : CHARLES
+
+  08068592H08.jpg  [first_name]
+    标签: CHARLES
+    OCR : MASUKU
+
+  08068592H08.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08118449A39.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08123293Q03.jpg  [id_number]
+    标签: 08123293Q03
+    OCR : 08123293003
+
+  08123293Q03.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08130021D53.jpg  [id_number]
+    标签: 08130021D53
+    OCR : 081300210
+
+  08130021D53.jpg  [surname]
+    标签: MBAMBO
+    OCR : FAYABO
+
+  08130021D53.jpg  [first_name]
+    标签: SITHEMBISO
+    OCR : FBAMBO
+
+  08156804Q28.jpg  [id_number]
+    标签: 08156804Q28
+    OCR : 081568046
+
+  08156804Q28.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08165630J56.jpg  [id_number]
+    标签: 08165630J56
+    OCR : 08165830J56
+
+  08189145T08.jpg  [id_number]
+    标签: 08189145T08
+    OCR : 08189145T
+
+  08189145T08.jpg  [surname]
+    标签: NDIWENT
+    OCR : NDTWENT
+
+  08189145T08.jpg  [first_name]
+    标签: WELLOSI
+    OCR : WELLOST
+
+  08189145T08.jpg  [birth_date]
+    标签: 15.7.59
+    OCR : 08.07.1959
+
+  08189145T08.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08203279G44.jpg  [id_number]
+    标签: 08203279G44
+    OCR : 08203279644
+
+  08203279G44.jpg  [surname]
+    标签: CHIYIKE
+    OCR : MAZIKE
+
+  08203279G44.jpg  [first_name]
+    标签: HANDSON
+    OCR : CHIMANIMANI
+
+  08203279G44.jpg  [gender]
+    标签: male
+    OCR : female
+
+  082103921R12.jpg  [surname]
+    标签: SIBANDA
+    OCR : LUPANE
+
+  082103921R12.jpg  [first_name]
+    标签: ATALIA
+    OCR : SIBANDA
+
+  08221076B47.jpg  [id_number]
+    标签: 08221076B47
+    OCR : 08220768
+
+  08221076B47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08221309E24.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08229398X05.jpg  [first_name]
+    标签: LENIAS ELECK
+    OCR : LENIAS
+
+  08229398X05.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08233413L08.jpg  [id_number]
+    标签: 08233413L08
+    OCR : 08233413
+
+  082335079A12.jpg  [id_number]
+    标签: 35017024G35
+    OCR : 35017024G
+
+  08248342N26.jpg  [id_number]
+    标签: 08248342N26
+    OCR : 08248342
+
+  08248342N26.jpg  [surname]
+    标签: QADZIRA
+    OCR : SUNGAI
+
+  08248342N26.jpg  [first_name]
+    标签: DELIWE
+    OCR : MATCHO
+
+  08255100J39.jpg  [id_number]
+    标签: 08255100J39
+    OCR : U8255100J39
+
+  08255100J39.jpg  [surname]
+    标签: DUBE
+    OCR : JUBE
+
+  08255100J39.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08255909N21.jpg  [birth_date]
+    标签: 15.12.16
+    OCR : 15.12.1946
+
+  08272230D08.jpg  [id_number]
+    标签: 08272230D08
+    OCR : 0872230D08
+
+  08272230D08.jpg  [birth_date]
+    标签: 12.07.1958
+    OCR : 12.07.1956
+
+  08272230D08.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08316781D35.jpg  [id_number]
+    标签: 08316781D35
+    OCR : 083167810
+
+  08329466R50.jpg  [id_number]
+    标签: 08329466R50
+    OCR : 08329466N50
+
+  08345237J56.jpg  [surname]
+    标签: MOYO
+    OCR : MOYD
+
+  08351026B56.jpg  [id_number]
+    标签: 08351026B56
+    OCR : 08351026B
+
+  08351026B56.jpg  [surname]
+    标签: TABONGWANA
+    OCR : TABUNGWANA
+
+  08365699A42.jpg  [id_number]
+    标签: 08365699A42
+    OCR : 08365699A
+
+  08365699A42.jpg  [surname]
+    标签: MUISIPA
+    OCR : MUTSIPA
+
+  08367179J70.jpg  [surname]
+    标签: CHIGUMBU
+    OCR : REGINA RUDORUNESU
+
+  08367179J70.jpg  [first_name]
+    标签: RFGINA RUDORUNESU
+    OCR : RUDORUNESU
+
+  08381444P28.jpg  [id_number]
+    标签: 08381444P28
+    OCR : 083914442B
+
+  08381444P28.jpg  [first_name]
+    标签: SIKHUPHUKJ
+    OCR : SIKHUPHUXT
+
+  08381444P28.jpg  [birth_date]
+    标签: 25.4.61
+    OCR : 25.04.2010
+
+  08381444P28.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08394908Z83.jpg  [surname]
+    标签: BETA
+    OCR : CHENGETO
+
+  08394908Z83.jpg  [first_name]
+    标签: CHENGETO
+    OCR : BETA
+
+  08428423D21.jpg  [id_number]
+    标签: 08428423D21
+    OCR : 084284230
+
+  08428423D21.jpg  [surname]
+    标签: SIBANDA
+    OCR : FIBANDA
+
+  08448976T39.jpg  [id_number]
+    标签: 08448976T39
+    OCR : 48976139C11
+
+  08448976T39.jpg  [surname]
+    标签: MOYO
+    OCR : MCYO
+
+  08478885D56.jpg  [id_number]
+    标签: 08478885D56
+    OCR : 0847400606
+
+  08478885D56.jpg  [surname]
+    标签: KHUPE
+    OCR : KHOPE
+
+  08489376G29.jpg  [id_number]
+    标签: 08489376G29
+    OCR : 08489376G
+
+  08489376G29.jpg  [first_name]
+    标签: CHIPO LINDA
+    OCR : CHIPO
+
+  08499829T79.jpg  [id_number]
+    标签: 08499829T79
+    OCR : 08499829T
+
+  08499829T79.jpg  [surname]
+    标签: MTHUPHA
+    OCR : ALBERT
+
+  08499829T79.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08504455X56.jpg  [surname]
+    标签: NCUBE
+    OCR : MCUBE
+
+  08532140P00.jpg  [first_name]
+    标签: VANESSA DELPHINE
+    OCR : VANESSA
+
+  08533060P18.jpg  [id_number]
+    标签: 08533060P18
+    OCR : 9853366P
+
+  08533060P18.jpg  [birth_date]
+    标签: 07.11.68
+    OCR : 17.11.1968
+
+  08533060P18.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08568335G41.jpg  [id_number]
+    标签: 08568335G41
+    OCR : 08568335G
+
+  08568335G41.jpg  [surname]
+    标签: DLODLO
+    OCR : THOMAS
+
+  08568335G41.jpg  [first_name]
+    标签: MIQA
+    OCR : LUPANE
+
+  08569939A38.jpg  [id_number]
+    标签: 08569939A38
+    OCR : 085699394
+
+  08569939A38.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08581761A39.jpg  [surname]
+    标签: NCUBE
+    OCR : KWEHLA
+
+  08581761A39.jpg  [first_name]
+    标签: SIBONAKALISO
+    OCR : MATOBO
+
+  08588704X28.jpg  [first_name]
+    标签: SIBONILE
+    OCR : SIONILE
+
+  08593531T03.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08602815K19.jpg  [surname]
+    标签: MLILD
+    OCR : SIMLEZI
+
+  08602815K19.jpg  [first_name]
+    标签: SIHLEZI
+    OCR : MLILO
+
+  08617120J75.jpg  [id_number]
+    标签: 58050634P58
+    OCR : 58050634P
+
+  08617120J75.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08627413X18.jpg  [first_name]
+    标签: GAILY MAKANYUMWA
+    OCR : GAILY MARANYUMWA
+
+  08627413X18.jpg  [birth_date]
+    标签: 19.02.1983
+    OCR : 19.02.1980
+
+  08630195W19.jpg  [id_number]
+    标签: 08630195W19
+    OCR : 0863019510
+
+  08630195W19.jpg  [surname]
+    标签: MPOFU
+    OCR : DANIEL
+
+  08630195W19.jpg  [first_name]
+    标签: BULISIWE
+    OCR : UMZINGWANE
+
+  08655025K26.jpg  [id_number]
+    标签: 26019856B26
+    OCR : 26019856426
+
+  08655025K26.jpg  [surname]
+    标签: MUTENHERI
+    OCR : MUTENHERT
+
+  08655025K26.jpg  [birth_date]
+    标签: 25.6.43
+    OCR : 26.04.1940
+
+  08655025K26.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08656103G08.jpg  [id_number]
+    标签: 08656103G08
+    OCR : 086561036
+
+  08656103G08.jpg  [surname]
+    标签: SAKALK
+    OCR : SAKALA
+
+  08656103G08.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08661898F07.jpg  [id_number]
+    标签: 08661898F07
+    OCR : 08661898F
+
+  08661898F07.jpg  [surname]
+    标签: CHIDHAKWA
+    OCR : CHIOHAKWA
+
+  08670403A32.jpg  [id_number]
+    标签: 08670403A32
+    OCR : 0870403186
+
+  08670403A32.jpg  [surname]
+    标签: PAMIRE
+    OCR : CHIGUTU
+
+  08670403A32.jpg  [first_name]
+    标签: TAWANDA
+    OCR : CHIVERO
+
+  08670403A32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08676697R28.jpg  [id_number]
+    标签: 08676697R28
+    OCR : 0866697820
+
+  08676697R28.jpg  [surname]
+    标签: NCUBE
+    OCR : MARUPE
+
+  08676697R28.jpg  [first_name]
+    标签: NKOSIYAZI
+    OCR : NKOSTYAZI
+
+  08676697R28.jpg  [birth_date]
+    标签: 08.02.1976
+    OCR : 08.03.1976
+
+  08676697R28.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08679077D73.jpg  [id_number]
+    标签: 08679077D73
+    OCR : 0679077073
+
+  08679077D73.jpg  [surname]
+    标签: NCUBE
+    OCR : MATUPULA
+
+  08679077D73.jpg  [first_name]
+    标签: SIBOMISIWE
+    OCR : TSHOLOTSH
+
+  08679077D73.jpg  [birth_date]
+    标签: 06.02.1977
+    OCR : 06.03.1977
+
+  08688954P29.jpg  [id_number]
+    标签: 08688954P29
+    OCR : 0868954P29
+
+  08688954P29.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08695324N24.jpg  [first_name]
+    标签: LINDIWE
+    OCR : LINDWE
+
+  08718947Q44.jpg  [id_number]
+    标签: 08718947Q44
+    OCR : 08710947
+
+  08718947Q44.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08765410T42.jpg  [id_number]
+    标签: 08765410T42
+    OCR : 08785410104
+
+  08765410T42.jpg  [surname]
+    标签: MAGAYA
+    OCR : MICHAEL
+
+  08765410T42.jpg  [first_name]
+    标签: MICHAEL MUNYARADZI
+    OCR : MUNYARADZI
+
+  08765410T42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  08798285C21.jpg  [surname]
+    标签: SIBANDA
+    OCR : SIBAVDA
+
+  11012696W11.jpg  [birth_date]
+    标签: 11.6.34
+    OCR : 11. 6.34 H1 E1 C2
+
+  11012696W11.jpg  [gender]
+    标签: male
+    OCR : female
+
+  11026302K11.jpg  [gender]
+    标签: 
+    OCR : female
+
+  11030028K11.jpg  [id_number]
+    标签: 11030028K11
+    OCR : 11030028K
+
+  11030028K11.jpg  [first_name]
+    标签: TEBETH PHIRI
+    OCR : TEBETH
+
+  11040359P11.jpg  [id_number]
+    标签: 11040359P11
+    OCR : 11040359
+
+  11040359P11.jpg  [surname]
+    标签: MUGARIRI
+    OCR : CHIPO
+
+  11040359P11.jpg  [first_name]
+    标签: CHIPO
+    OCR : MUGARIRI
+
+  11043080X11.jpg  [gender]
+    标签: male
+    OCR : female
+
+  11043355W11.jpg  [id_number]
+    标签: 11043355W11
+    OCR : 11043355
+
+  11043355W11.jpg  [surname]
+    标签: ZONDEWA
+    OCR : ANNAH
+
+  11043355W11.jpg  [first_name]
+    标签: ANNAH
+    OCR : ZONDEWA
+
+  11043355W11.jpg  [birth_date]
+    标签: 04.45.1974
+    OCR : 04.05.1974
+
+  11055932R11.jpg  [gender]
+    标签: male
+    OCR : female
+
+  12031960R12.jpg  [id_number]
+    标签: 12031960R12
+    OCR : 12031960R
+
+  12031960R12.jpg  [gender]
+    标签: male
+    OCR : female
+
+  12035834C22.jpg  [id_number]
+    标签: 12035834C22
+    OCR : 12035834C
+
+  12048657Q12.jpg  [id_number]
+    标签: 12048657Q12
+    OCR : 120486570
+
+  12048657Q12.jpg  [surname]
+    标签: DUVE
+    OCR : EDWARD
+
+  12048657Q12.jpg  [first_name]
+    标签: ECWAPD
+    OCR : DUVE
+
+  12048657Q12.jpg  [gender]
+    标签: male
+    OCR : female
+
+  12082363C12.jpg  [birth_date]
+    标签: 14.04.1981
+    OCR : 14.04.1980
+
+  12082865Y12.jpg  [gender]
+    标签: male
+    OCR : female
+
+  12092416E12.jpg  [surname]
+    标签: GWANDIREGERA
+    OCR : MADZIVA
+
+  12092416E12.jpg  [first_name]
+    标签: BENSON
+    OCR : CHIBI
+
+  12092416E12.jpg  [gender]
+    标签: 
+    OCR : female
+
+  13010250A13.jpg  [surname]
+    标签: BANGWAYO
+    OCR : BANGUAYO
+
+  13010250A13.jpg  [first_name]
+    标签: LYTOM RINGIRAYI
+    OCR : LYTON RINGIRAYI
+
+  13010250A13.jpg  [gender]
+    标签: male
+    OCR : female
+
+  13021282R13.jpg  [id_number]
+    标签: 13021282R13
+    OCR : 13021282R
+
+  13024938Q44.jpg  [id_number]
+    标签: 13024938Q44
+    OCR : 13024938044
+
+  13084416Q44.jpg  [id_number]
+    标签: 13084416Q44
+    OCR : 13084416044
+
+  13084416Q44.jpg  [gender]
+    标签: male
+    OCR : female
+
+  13096906R13.jpg  [id_number]
+    标签: 13096906R13
+    OCR : 13096906R
+
+  13096906R13.jpg  [gender]
+    标签: male
+    OCR : female
+
+  13111618H44.jpg  [id_number]
+    标签: 13111618H44
+    OCR : 13111618H
+
+  13112212D13.jpg  [id_number]
+    标签: 13112212D13
+    OCR : 131122120
+
+  13112212D13.jpg  [gender]
+    标签: male
+    OCR : female
+
+  13138572F12.jpg  [id_number]
+    标签: 13138572F12
+    OCR : 13138572F13
+
+  13139699F13.jpg  [id_number]
+    标签: 13139699F13
+    OCR : 13139609113
+
+  13139699F13.jpg  [first_name]
+    标签: ZHMAH
+    OCR : CHIPPINGE
+
+  13139699F13.jpg  [birth_date]
+    标签: 23.10.1979
+    OCR : 1979.03.2030
+
+  13151022N13.jpg  [id_number]
+    标签: 13151022N13
+    OCR : 13151082N13
+
+  13151022N13.jpg  [surname]
+    标签: HLATYWAYO
+    OCR : FAITH
+
+  13151022N13.jpg  [first_name]
+    标签: FAITH
+    OCR : MARISETA
+
+  13151757M13.jpg  [surname]
+    标签: MHLANGA
+    OCR : PAMELLAH
+
+  13151757M13.jpg  [first_name]
+    标签: PAMELLAH
+    OCR : MHLANGA
+
+  13163659Z13.jpg  [id_number]
+    标签: 13163659Z13
+    OCR : 13163659713
+
+  13167807H13.jpg  [gender]
+    标签: male
+    OCR : female
+
+  13171722N13.jpg  [id_number]
+    标签: 13171722N13
+    OCR : 1311722N13M
+
+  13171722N13.jpg  [gender]
+    标签: male
+    OCR : female
+
+  13325474K13.jpg  [first_name]
+    标签: SPIWL
+    OCR : SPIW
+
+  14006656A83.jpg  [id_number]
+    标签: 14006656A83
+    OCR : 140066564
+
+  14006656A83.jpg  [surname]
+    标签: PASIPAMIRE
+    OCR : PASIPAMIR
+
+  14006656A83.jpg  [birth_date]
+    标签: 16.11.58
+    OCR : 16.11.1956
+
+  14016507H04.jpg  [id_number]
+    标签: 14016507H04
+    OCR : 1401650704C
+
+  14016507H04.jpg  [surname]
+    标签: MANYURURE
+    OCR : MARKO
+
+  14016507H04.jpg  [first_name]
+    标签: MARKO
+    OCR : MANYURURE
+
+  14016507H04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  14022205B14.jpg  [id_number]
+    标签: 14022205B14
+    OCR : 14022205B
+
+  14022205B14.jpg  [gender]
+    标签: male
+    OCR : female
+
+  14036290L14.jpg  [id_number]
+    标签: 14100691M14
+    OCR : 14100691M
+
+  14036290L14.jpg  [surname]
+    标签: MADUME
+    OCR : MADUWE
+
+  14036290L14.jpg  [first_name]
+    标签: DANISON
+    OCR : DAVISON
+
+  14036290L14.jpg  [gender]
+    标签: male
+    OCR : female
+
+  14061861F14.jpg  [id_number]
+    标签: 14061861F14
+    OCR : 14061861F
+
+  14087271A12.jpg  [id_number]
+    标签: 14087271A12
+    OCR : 14087271A
+
+  14087271A12.jpg  [surname]
+    标签: NYENGERAI
+    OCR : MECHIA
+
+  14087271A12.jpg  [first_name]
+    标签: MECHIA
+    OCR : NYENGERAI
+
+  14098941K44.jpg  [surname]
+    标签: MWASHAIRENYI
+    OCR : M
+
+  14098941K44.jpg  [first_name]
+    标签: TSITSI
+    OCR : M
+
+  14104142N14.jpg  [id_number]
+    标签: 14104142N14
+    OCR : 14104142N
+
+  14108028M04.jpg  [id_number]
+    标签: 14108028M04
+    OCR : 14108028M
+
+  14108028M04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  14133012T14.jpg  [id_number]
+    标签: 14133012T14
+    OCR : 14133072T14
+
+  14133012T14.jpg  [surname]
+    标签: CHINONO
+    OCR : NEMANASHI
+
+  14133012T14.jpg  [first_name]
+    标签: TASMELENI
+    OCR : CHIREDZI
+
+  15006117W15.jpg  [id_number]
+    标签: 15006117W15
+    OCR : 15006117W
+
+  15006117W15.jpg  [surname]
+    标签: MUGAURI
+    OCR : MUGAUR
+
+  15006117W15.jpg  [first_name]
+    标签: EFFIE
+    OCR : MUGAURI
+
+  15018718S15.jpg  [id_number]
+    标签: 15018718S15
+    OCR : 1501871815
+
+  15021732T15.jpg  [id_number]
+    标签: 15021732T15
+    OCR : 15021732
+
+  15021732T15.jpg  [birth_date]
+    标签: 7.4.50
+    OCR : 7·4·50
+
+  15021732T15.jpg  [gender]
+    标签: male
+    OCR : female
+
+  15041520C25.jpg  [surname]
+    标签: MAKORONI
+    OCR : MAKURONI
+
+  15041520C25.jpg  [first_name]
+    标签: VONGAI VICTORIA
+    OCR : VONCAI VICTORIA
+
+  15082597B15.jpg  [id_number]
+    标签: 15082597B15
+    OCR : 15082597B
+
+  15082597B15.jpg  [gender]
+    标签: male
+    OCR : female
+
+  15098101D15.jpg  [id_number]
+    标签: 15098101D15
+    OCR : 150981010
+
+  15121045S27.jpg  [first_name]
+    标签: AQNES
+    OCR : AGNES
+
+  15121045S27.jpg  [gender]
+    标签: 
+    OCR : female
+
+  15123761V15.jpg  [id_number]
+    标签: 47029803A47
+    OCR : 47029803A
+
+  15123761V15.jpg  [surname]
+    标签: TAENGWA
+    OCR : CHENJERAYI
+
+  15123761V15.jpg  [first_name]
+    标签: CHENJERAYI
+    OCR : TAENGWA
+
+  15123761V15.jpg  [gender]
+    标签: 
+    OCR : male
+
+  15171238A71.jpg  [id_number]
+    标签: 631098464Q71
+    OCR : 63109846407
+
+  15171238A71.jpg  [surname]
+    标签: GUYO
+    OCR : GUYD
+
+  15171238A71.jpg  [birth_date]
+    标签: 21.08.1981
+    OCR : 21.08.1985
+
+  152053800T15.jpg  [id_number]
+    标签: 21029413G21
+    OCR : 210294136
+
+  152053800T15.jpg  [surname]
+    标签: MOYO
+    OCR : VUSUMUZI
+
+  152053800T15.jpg  [first_name]
+    标签: VUSUMUZI
+    OCR : MOYO
+
+  152053800T15.jpg  [gender]
+    标签: male
+    OCR : female
+
+  18028803Z18.jpg  [id_number]
+    标签: 18028803Z18
+    OCR : 18028803218
+
+  18028803Z18.jpg  [first_name]
+    标签: NOREEN
+    OCR : NORFEN
+
+  18046837B18.jpg  [id_number]
+    标签: 18046837B18
+    OCR : 180168378
+
+  18046837B18.jpg  [surname]
+    标签: LIZAMARWP
+    OCR : KUZANARWO
+
+  18046837B18.jpg  [gender]
+    标签: male
+    OCR : female
+
+  18052876Q18.jpg  [id_number]
+    标签: 18052876Q18
+    OCR : 18052876018
+
+  18052876Q18.jpg  [surname]
+    标签: CHIUNDURA
+    OCR : MUDIMU
+
+  18052876Q18.jpg  [first_name]
+    标签: GRACE
+    OCR : CHIVHU
+
+  190016452F19.jpg  [id_number]
+    标签: 19015452F19
+    OCR : 19016452F
+
+  190016452F19.jpg  [first_name]
+    标签: LANGELIHLF
+    OCR : LANGELIHL
+
+  19002194H73.jpg  [id_number]
+    标签: 19002194H73
+    OCR : 19002194H
+
+  19002194H73.jpg  [surname]
+    标签: MOYO
+    OCR : PESININA
+
+  19002194H73.jpg  [first_name]
+    标签: PESININA
+    OCR : MOYD
+
+  21030147E21.jpg  [id_number]
+    标签: 21030147E21
+    OCR : 21030147E
+
+  21030147E21.jpg  [surname]
+    标签: NYONI
+    OCR : THULANI
+
+  21030147E21.jpg  [first_name]
+    标签: THULANI
+    OCR : NYONI
+
+  21030147E21.jpg  [gender]
+    标签: male
+    OCR : female
+
+  21032184T21.jpg  [id_number]
+    标签: 21032184T21
+    OCR : 210321841
+
+  21032184T21.jpg  [first_name]
+    标签: SETHULO
+    OCR : SETHULD
+
+  22003549A22.jpg  [id_number]
+    标签: 22003549A22
+    OCR : 04004326C
+
+  22003549A22.jpg  [surname]
+    标签: GWCNHA
+    OCR : Gwenha
+
+  22003549A22.jpg  [first_name]
+    标签: MOSES
+    OCR : Moses
+
+  22003549A22.jpg  [gender]
+    标签: male
+    OCR : female
+
+  220211565E13.jpg  [birth_date]
+    标签: 12.03.1981
+    OCR : 12.03.1984
+
+  220211565E13.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22025140T83.jpg  [surname]
+    标签: CHIKUTU
+    OCR : LAWRENCE
+
+  22025140T83.jpg  [first_name]
+    标签: LAWRENCE
+    OCR : CHIKUTU
+
+  22025140T83.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22029749D21.jpg  [id_number]
+    标签: 22029749D21
+    OCR : 220297490
+
+  22029749D21.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22032016S03.jpg  [id_number]
+    标签: 22032016S03
+    OCR : 32132016393
+
+  22032016S03.jpg  [surname]
+    标签: MAKOTOSE
+    OCR : 
+
+  22032016S03.jpg  [birth_date]
+    标签: 2.1.59
+    OCR : None
+
+  22032016S03.jpg  [gender]
+    标签: 
+    OCR : female
+
+  22036752Q27.jpg  [id_number]
+    标签: 22036752Q27
+    OCR : 220367520
+
+  22048285B22.jpg  [id_number]
+    标签: 22048285B22
+    OCR : 22045285B22
+
+  22048285B22.jpg  [surname]
+    标签: BUNGU
+    OCR : TAVUYA
+
+  22048285B22.jpg  [first_name]
+    标签: TAVUYA
+    OCR : MASVINGO
+
+  22048285B22.jpg  [birth_date]
+    标签: 6.4.46
+    OCR : 06.01.1946
+
+  22048285B22.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22060833Q22.jpg  [id_number]
+    标签: 22060833Q22
+    OCR : 220608330
+
+  22060833Q22.jpg  [first_name]
+    标签: MARIA
+    OCR : MARTA
+
+  22060833Q22.jpg  [birth_date]
+    标签: 1.10.51
+    OCR : 11.10.1951
+
+  22107793J77.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22117550P22.jpg  [id_number]
+    标签: 22117550P22
+    OCR : 22117550
+
+  22130614P22.jpg  [id_number]
+    标签: 22130614P22
+    OCR : 58198602Z58
+
+  22130614P22.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22139257J22.jpg  [gender]
+    标签: male
+    OCR : 
+
+  22151566N27.jpg  [id_number]
+    标签: 22151566N27
+    OCR : 22151566N
+
+  22151566N27.jpg  [first_name]
+    标签: KRIEAY
+    OCR : FRITAY
+
+  22151566N27.jpg  [birth_date]
+    标签: 15.06.73
+    OCR : 06.73
+
+  22151566N27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22152478E27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22167463S22.jpg  [id_number]
+    标签: 22167463S22
+    OCR : 22167463822
+
+  22167463S22.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22195518M22.jpg  [id_number]
+    标签: 22195518M22
+    OCR : 22195918M22
+
+  22195518M22.jpg  [first_name]
+    标签: LILIOSA
+    OCR : LILIDSA
+
+  22197831B22.jpg  [gender]
+    标签: male
+    OCR : female
+
+  22207344R83.jpg  [gender]
+    标签: male
+    OCR : female
+
+  23010630D23.jpg  [id_number]
+    标签: 23010630D23
+    OCR : 23010630023
+
+  23015116E23.jpg  [surname]
+    标签: MGWIRA
+    OCR : MOWIRA
+
+  23015574C23.jpg  [gender]
+    标签: male
+    OCR : female
+
+  23181579S23.jpg  [id_number]
+    标签: 58081126H58
+    OCR : 58061126H
+
+  23181579S23.jpg  [birth_date]
+    标签: 5.7.51
+    OCR : 05.07.1954
+
+  24064212B26.jpg  [id_number]
+    标签: 24064212B26
+    OCR : 24064212826
+
+  25023961G45.jpg  [id_number]
+    标签: 25023961G45
+    OCR : 250239616
+
+  25023961G45.jpg  [surname]
+    标签: MARASA
+    OCR : NORMAN
+
+  25023961G45.jpg  [first_name]
+    标签: NORMAN
+    OCR : MARASA
+
+  25023961G45.jpg  [birth_date]
+    标签: 15.01.68
+    OCR : 05.01.1968
+
+  25023961G45.jpg  [gender]
+    标签: male
+    OCR : female
+
+  25028431Q25.jpg  [id_number]
+    标签: 25028431Q25
+    OCR : 250284310
+
+  25028431Q25.jpg  [surname]
+    标签: MUZAWAZI
+    OCR : MUZAMAZI
+
+  25028431Q25.jpg  [gender]
+    标签: male
+    OCR : female
+
+  25034099B25.jpg  [id_number]
+    标签: 25034099B25
+    OCR : 25034099B
+
+  25040562B50.jpg  [id_number]
+    标签: 25040562B50
+    OCR : 250405628
+
+  25040562B50.jpg  [first_name]
+    标签: MARIA LITTW RUTENDO
+    OCR : MARIA LITT
+
+  25060474V32.jpg  [first_name]
+    标签: LLOYD
+    OCR : LEODYD
+
+  25060474V32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  26025435Q26.jpg  [id_number]
+    标签: 26025435Q26
+    OCR : 260016700
+
+  26025435Q26.jpg  [surname]
+    标签: MAMINGIER
+    OCR : MAVINGIRE
+
+  26025435Q26.jpg  [first_name]
+    标签: KENANIT
+    OCR : KENANI
+
+  26025435Q26.jpg  [gender]
+    标签: male
+    OCR : female
+
+  26049886S26.jpg  [id_number]
+    标签: 26049886S26
+    OCR : 26049886S
+
+  26049886S26.jpg  [gender]
+    标签: male
+    OCR : female
+
+  26083950T26.jpg  [id_number]
+    标签: 26083950T26
+    OCR : 26083950T
+
+  26083950T26.jpg  [first_name]
+    标签: TAMCNGWA
+    OCR : TAYENGWA
+
+  26083950T26.jpg  [gender]
+    标签: male
+    OCR : female
+
+  26089758G26.jpg  [id_number]
+    标签: 26089758G26
+    OCR : 26089758626
+
+  26098831T26.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27004813G27.jpg  [id_number]
+    标签: 27004813G27
+    OCR : 27004813G
+
+  27004813G27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27025410V27.jpg  [id_number]
+    标签: 27025410V27
+    OCR : 27025410V
+
+  27054586H27.jpg  [surname]
+    标签: MANDEBVU
+    OCR : CHENJERAI
+
+  27054586H27.jpg  [first_name]
+    标签: CHENJERAI
+    OCR : MANDEBVU
+
+  27054586H27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27055548D27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27058735S27.jpg  [id_number]
+    标签: 27058735S27
+    OCR : 270587355
+
+  27058735S27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27060028Y27.jpg  [first_name]
+    标签: MUEARG
+    OCR : MUEARC
+
+  27075149J27.jpg  [id_number]
+    标签: 63885843H25
+    OCR : 63885843H
+
+  27075149J27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27082519V27.jpg  [id_number]
+    标签: 27082519V27
+    OCR : 27082519V
+
+  27096262H27.jpg  [id_number]
+    标签: 27096262H27
+    OCR : 27096262H
+
+  27096262H27.jpg  [surname]
+    标签: BANDE
+    OCR : AUXILIA
+
+  27096262H27.jpg  [first_name]
+    标签: AUXIUIA
+    OCR : 07.03.71
+
+  27121106M27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27121728N27.jpg  [id_number]
+    标签: 27121728N27
+    OCR : 27121720802
+
+  27121728N27.jpg  [first_name]
+    标签: EMERITA
+    OCR : ETERITA
+
+  27135364K27.jpg  [birth_date]
+    标签: 27.08.1976
+    OCR : 27.03.1976
+
+  27144023X27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27149333T86.jpg  [id_number]
+    标签: 27149333T86
+    OCR : 27148333186
+
+  27149333T86.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27154659H27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27161408T27.jpg  [surname]
+    标签: SANANGU
+    OCR : SANANGU ANTHONY
+
+  27161408T27.jpg  [first_name]
+    标签: ANTHONY
+    OCR : CHIDONGI MASVINGO
+
+  27161408T27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  27166708E27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  28003957H28.jpg  [id_number]
+    标签: 28003957H28
+    OCR : 28003957H
+
+  28003957H28.jpg  [surname]
+    标签: NCUBE
+    OCR : BETHUEL
+
+  28003957H28.jpg  [gender]
+    标签: male
+    OCR : female
+
+  28047393W28.jpg  [id_number]
+    标签: 28047393W28
+    OCR : 28047393W
+
+  28047393W28.jpg  [first_name]
+    标签: SIBONSILE
+    OCR : SIEONGILE
+
+  28060189E28.jpg  [id_number]
+    标签: 28060189E28
+    OCR : 28060189E
+
+  28060189E28.jpg  [gender]
+    标签: male
+    OCR : female
+
+  28082039E28.jpg  [surname]
+    标签: DUBE
+    OCR : DUBE MARGERT
+
+  28082039E28.jpg  [first_name]
+    标签: MAROERT
+    OCR : PASWANA GWANDA
+
+  28091132N28.jpg  [gender]
+    标签: male
+    OCR : female
+
+  29056827G66.jpg  [id_number]
+    标签: 29056827G66
+    OCR : 29056827666
+
+  29056827G66.jpg  [surname]
+    标签: MABEZ
+    OCR : MABEZA
+
+  29058607R42.jpg  [id_number]
+    标签: 29058607R42
+    OCR : 29058607842
+
+  29058607R42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  29097419D07.jpg  [id_number]
+    标签: 29097419D07
+    OCR : 290974190
+
+  29097419D07.jpg  [surname]
+    标签: VIRIRI
+    OCR : BUHERA
+
+  29097419D07.jpg  [first_name]
+    标签: NYASHA
+    OCR : VITOIRI
+
+  29097419D07.jpg  [gender]
+    标签: male
+    OCR : female
+
+  29109841F32.jpg  [surname]
+    标签: NGWARIRAYI
+    OCR : NOWARIRAY BRIGHTON
+
+  29109841F32.jpg  [first_name]
+    标签: BRIGHTON
+    OCR : C
+
+  29109841F32.jpg  [birth_date]
+    标签: 18.04.1979
+    OCR : 18.01.1979
+
+  29109841F32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  29110278F29.jpg  [id_number]
+    标签: 29110278F29
+    OCR : 29110278F
+
+  29110278F29.jpg  [surname]
+    标签: MPOFU
+    OCR : EMMA
+
+  29110278F29.jpg  [first_name]
+    标签: EMMAH
+    OCR : EMMA
+
+  29110278F29.jpg  [birth_date]
+    标签: 9.10.64
+    OCR : 01.04
+
+  29111514Z12.jpg  [id_number]
+    标签: 29111514Z12
+    OCR : 29111514Z
+
+  29112734A66.jpg  [id_number]
+    标签: 29112734A66
+    OCR : 29112734A
+
+  29125287V44.jpg  [id_number]
+    标签: 29125287V44
+    OCR : 2912028744
+
+  29125287V44.jpg  [surname]
+    标签: MARINGEHOSI
+    OCR : MARINGEHOGI
+
+  29125287V44.jpg  [first_name]
+    标签: ALTCE
+    OCR : ALICE
+
+  29125287V44.jpg  [birth_date]
+    标签: 08.05.1966
+    OCR : 05.05.1962
+
+  29129629P45.jpg  [id_number]
+    标签: 29129629P45
+    OCR : 29125629P45
+
+  29137076J58.jpg  [surname]
+    标签: NCUBE
+    OCR : DINGILWAZI
+
+  29137076J58.jpg  [first_name]
+    标签: DINGILWAZI
+    OCR : NCUBE
+
+  29137076J58.jpg  [gender]
+    标签: male
+    OCR : female
+
+  29153938M26.jpg  [first_name]
+    标签: EUSTINA
+    OCR : EUSIINA
+
+  29154487J25.jpg  [id_number]
+    标签: 29154487J25
+    OCR : 29154487J
+
+  29154487J25.jpg  [first_name]
+    标签: KUZVINETSA VIOLET
+    OCR : KUZVINETSA
+
+  29155329Z29.jpg  [id_number]
+    标签: 29155329Z29
+    OCR : 29155329229
+
+  29155329Z29.jpg  [first_name]
+    标签: NODETTER
+    OCR : NOBETTER
+
+  29176169B22.jpg  [id_number]
+    标签: 12014977G12
+    OCR : 12014977G
+
+  29176181P29.jpg  [gender]
+    标签: male
+    OCR : female
+
+  29185949G29.jpg  [surname]
+    标签: MUHLAKAIA
+    OCR : MUHLAKAZA
+
+  29185949G29.jpg  [gender]
+    标签: male
+    OCR : female
+
+  29193242J29.jpg  [surname]
+    标签: NCUBE
+    OCR : SITSHENGISO
+
+  29193242J29.jpg  [first_name]
+    标签: SITSHENGISO
+    OCR : TSHEKELA
+
+  29209985H18.jpg  [id_number]
+    标签: 29209985H18
+    OCR : 29209985
+
+  29209985H18.jpg  [first_name]
+    标签: NDAKAITEI TABETH
+    OCR : NDAKAITEI
+
+  29323501V26.jpg  [surname]
+    标签: MUSOROWEMBUDZI
+    OCR : MUREWA
+
+  29323501V26.jpg  [first_name]
+    标签: PRECIUS
+    OCR : MUSOROWEMBUDZI
+
+  32000820Z32.jpg  [id_number]
+    标签: 32000820Z32
+    OCR : 320008202
+
+  32000820Z32.jpg  [surname]
+    标签: KANAMANDARI
+    OCR : RODRECK
+
+  32000820Z32.jpg  [first_name]
+    标签: RODRECK
+    OCR : CHEGUTU
+
+  32000820Z32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  32002137F32.jpg  [birth_date]
+    标签: 23.11.49
+    OCR : 23.11.1944
+
+  320063301N26.jpg  [id_number]
+    标签: 32063301N26
+    OCR : 32063301N
+
+  320063301N26.jpg  [surname]
+    标签: NAVIVI
+    OCR : MAVIVI
+
+  320104785E32.jpg  [id_number]
+    标签: 32104785E32
+    OCR : 32104785E
+
+  320104785E32.jpg  [surname]
+    标签: ARABI
+    OCR : IRENE
+
+  320104785E32.jpg  [first_name]
+    标签: IRENE
+    OCR : CHEGUTU
+
+  32016290P32.jpg  [id_number]
+    标签: 32016290P32
+    OCR : 32018200803
+
+  32016290P32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  32027741L18.jpg  [surname]
+    标签: GCNYORA
+    OCR : CONYORA
+
+  32027741L18.jpg  [birth_date]
+    标签: 29.04.49
+    OCR : 29.04.1998
+
+  32066601A15.jpg  [id_number]
+    标签: 32066601A15
+    OCR : 320566016
+
+  32082630Y32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  32083416C14.jpg  [id_number]
+    标签: 32083416C14
+    OCR : 326834160
+
+  32083416C14.jpg  [surname]
+    标签: ZVIREWO
+    OCR : ZVIRELO
+
+  32083416C14.jpg  [gender]
+    标签: male
+    OCR : female
+
+  32085665X32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  32085948E27.jpg  [id_number]
+    标签: 32085948E27
+    OCR : 32085948E
+
+  32085948E27.jpg  [surname]
+    标签: NANO
+    OCR : CHEGUTU
+
+  32085948E27.jpg  [first_name]
+    标签: ROSE
+    OCR : NANO
+
+  32085948E27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  32101996Y27.jpg  [id_number]
+    标签: 32101996Y27
+    OCR : 32101996Y
+
+  32101996Y27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  32102900F03.jpg  [surname]
+    标签: NHETE
+    OCR : CHIVASA KILCHEGUTU
+
+  32102900F03.jpg  [first_name]
+    标签: GIFT
+    OCR : HO EO CO
+
+  32102900F03.jpg  [gender]
+    标签: male
+    OCR : female
+
+  32209352P27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  34005759F34.jpg  [id_number]
+    标签: 34005759F34
+    OCR : 34005759F
+
+  34005759F34.jpg  [first_name]
+    标签: EVANGELICTA
+    OCR : EVANGELITA
+
+  34010154H34.jpg  [id_number]
+    标签: 34010154H34
+    OCR : 34010154M
+
+  34012510T34.jpg  [id_number]
+    标签: 34012510T34
+    OCR : 340125101
+
+  34012510T34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  34013425N34.jpg  [id_number]
+    标签: 34013425N34
+    OCR : 34013425N
+
+  34013425N34.jpg  [surname]
+    标签: GOTOGODO
+    OCR : GOROGODO
+
+  34013425N34.jpg  [first_name]
+    标签: PAIRICK
+    OCR : PATRICK
+
+  34013425N34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  34029124C34.jpg  [id_number]
+    标签: 34029124C34
+    OCR : 340291240
+
+  34029124C34.jpg  [birth_date]
+    标签: 6.11.65
+    OCR : 06.11.2005
+
+  34032434A34.jpg  [id_number]
+    标签: 34032434A34
+    OCR : 34032408403
+
+  34032434A34.jpg  [surname]
+    标签: NDARANGWA
+    OCR : SOLOMON
+
+  34032434A34.jpg  [first_name]
+    标签: SOLOMON
+    OCR : BONDE
+
+  34032434A34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  34039597L34.jpg  [surname]
+    标签: MANDIWANZIRA
+    OCR : Mandiwangira
+
+  34039597L34.jpg  [first_name]
+    标签: RUCHIWA
+    OCR : Mandiwangira
+
+  34049983A34.jpg  [id_number]
+    标签: 34049983A34
+    OCR : 34049983A
+
+  34055253D34.jpg  [id_number]
+    标签: 34055253D34
+    OCR : 340552530
+
+  34055253D34.jpg  [surname]
+    标签: CHIMUNDA
+    OCR : PATRICK
+
+  34055253D34.jpg  [first_name]
+    标签: PATRICK
+    OCR : CHIMUND
+
+  34055253D34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  34058214X34.jpg  [id_number]
+    标签: 34058214X34
+    OCR : 34058214X
+
+  34061184A34.jpg  [surname]
+    标签: NYABUNZE
+    OCR : INYANGA
+
+  34061184A34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  34078503A34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  34078757B34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  35002890T35.jpg  [surname]
+    标签: MOYO
+    OCR : MOYD
+
+  37006835V38.jpg  [surname]
+    标签: MUPUKUTA
+    OCR : MUPUKJTA
+
+  37006835V38.jpg  [birth_date]
+    标签: 02.23.71
+    OCR : 02.03.1971
+
+  37006835V38.jpg  [gender]
+    标签: male
+    OCR : female
+
+  37026250Y37.jpg  [id_number]
+    标签: 37026250Y37
+    OCR : 37026250137
+
+  37026250Y37.jpg  [first_name]
+    标签: REOERAI
+    OCR : REGERAI
+
+  37077178E06.jpg  [id_number]
+    标签: 37077178E37
+    OCR : 37077178E87
+
+  37077178E06.jpg  [surname]
+    标签: SIAMBALI
+    OCR : JOHN
+
+  37077178E06.jpg  [first_name]
+    标签: JOHN
+    OCR : SIAMBALI
+
+  37077178E06.jpg  [gender]
+    标签: male
+    OCR : female
+
+  38009695K38.jpg  [id_number]
+    标签: 38009695K38
+    OCR : 38009695K
+
+  38009695K38.jpg  [first_name]
+    标签: FRYDAY
+    OCR : FRIDAY
+
+  38009695K38.jpg  [gender]
+    标签: 
+    OCR : female
+
+  38015119F38.jpg  [id_number]
+    标签: 38015119F38
+    OCR : 38015119F
+
+  38015119F38.jpg  [surname]
+    标签: MACHAU
+    OCR : SAMSON
+
+  38015119F38.jpg  [first_name]
+    标签: SAMSON
+    OCR : MACHAU
+
+  38015119F38.jpg  [gender]
+    标签: male
+    OCR : female
+
+  38019800T58.jpg  [id_number]
+    标签: 38019800T58
+    OCR : 3801950158
+
+  38019800T58.jpg  [gender]
+    标签: male
+    OCR : female
+
+  38031905B38.jpg  [id_number]
+    标签: 38031905B38
+    OCR : 38031905B
+
+  38054258Y38.jpg  [id_number]
+    标签: 38054258Y38
+    OCR : 38054258Y
+
+  38054258Y38.jpg  [gender]
+    标签: male
+    OCR : female
+
+  38089490T38.jpg  [surname]
+    标签: CHITSUNGO
+    OCR : ROBERT
+
+  38089490T38.jpg  [first_name]
+    标签: ROBERT
+    OCR : CHITSUNGO
+
+  38089490T38.jpg  [gender]
+    标签: male
+    OCR : female
+
+  38096750K38.jpg  [id_number]
+    标签: 38096750K38
+    OCR : 38096750
+
+  38096750K38.jpg  [surname]
+    标签: NYAMAKAWO
+    OCR : NYAMHONDURD
+
+  38096750K38.jpg  [first_name]
+    标签: MARGARETH
+    OCR : HURUNWE
+
+  38096752M38.jpg  [surname]
+    标签: BILLIAT
+    OCR : DHAMIANO
+
+  38096752M38.jpg  [first_name]
+    标签: DHAMIAND
+    OCR : BILLIAT
+
+  38096752M38.jpg  [gender]
+    标签: male
+    OCR : female
+
+  38097361Z38.jpg  [id_number]
+    标签: 38071216F38
+    OCR : 38071216F
+
+  38097361Z38.jpg  [surname]
+    标签: MUPFURUTSA
+    OCR : MUPFURUTSAJAMES
+
+  38097361Z38.jpg  [gender]
+    标签: male
+    OCR : female
+
+  38107898C38.jpg  [id_number]
+    标签: 38107898C38
+    OCR : 38107898638
+
+  38107898C38.jpg  [gender]
+    标签: male
+    OCR : female
+
+  410055366X41.jpg  [surname]
+    标签: NDLOVU
+    OCR : NORUTHULA BARBARA
+
+  410055366X41.jpg  [first_name]
+    标签: NOKUTHULA BARBARA
+    OCR : MUSES LUPANE
+
+  41033639F41.jpg  [id_number]
+    标签: 41033639F41
+    OCR : 41033639F
+
+  41033639F41.jpg  [first_name]
+    标签: SIKHUMBUZD
+    OCR : SIKHUMBUZO
+
+  41033639F41.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42005794W42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42019111W42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42026692L75.jpg  [id_number]
+    标签: 42026692L75
+    OCR : 42026692L
+
+  42026692L75.jpg  [surname]
+    标签: KAISA
+    OCR : ROSEMARY
+
+  42026692L75.jpg  [first_name]
+    标签: ROSEMARY
+    OCR : KAISA
+
+  42084950K80.jpg  [id_number]
+    标签: 42084950K80
+    OCR : 42084950K
+
+  42089920M42.jpg  [surname]
+    标签: MUDGNHODZO
+    OCR : STELLA
+
+  42089920M42.jpg  [first_name]
+    标签: STELLA
+    OCR : MUTOKO
+
+  42101942E42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42108394S42.jpg  [id_number]
+    标签: 42108394S42
+    OCR : 421083945
+
+  42117597W42.jpg  [id_number]
+    标签: 42117597W42
+    OCR : 42117507W42
+
+  42117597W42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42119131N42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42120281N43.jpg  [id_number]
+    标签: 42120281N43
+    OCR : 42120281N
+
+  42120281N43.jpg  [surname]
+    标签: CHIZIWANO
+    OCR : VICTORIA
+
+  42120281N43.jpg  [first_name]
+    标签: VICIORIA ELIZABETH
+    OCR : ELIZABETH
+
+  42121923Y42.jpg  [surname]
+    标签: NYABADZA
+    OCR : MAHACHI
+
+  42121923Y42.jpg  [first_name]
+    标签: MELCHIO
+    OCR : MAKONI
+
+  42121923Y42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42136152P42.jpg  [id_number]
+    标签: 42136152P42
+    OCR : 42136152P
+
+  42136152P42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42153820T42.jpg  [id_number]
+    标签: 42153820T42
+    OCR : 42153820742
+
+  42166441M42.jpg  [surname]
+    标签: TANDI
+    OCR : ELLAH
+
+  42166441M42.jpg  [first_name]
+    标签: ELLAH TAMBUDZAI
+    OCR : TANDI
+
+  42171703G42.jpg  [surname]
+    标签: KUSVOTWA
+    OCR : TIMOTHY
+
+  42171703G42.jpg  [first_name]
+    标签: TIMOTHY
+    OCR : KUSVOTWA
+
+  42171703G42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42186524R42.jpg  [id_number]
+    标签: 42186524R42
+    OCR : 42188524842
+
+  42186524R42.jpg  [first_name]
+    标签: DONIFACE
+    OCR : BONIFACE
+
+  42186524R42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  42191305N07.jpg  [gender]
+    标签: male
+    OCR : female
+
+  43013799D43.jpg  [id_number]
+    标签: 43013799D43
+    OCR : 43013799043
+
+  43013799D43.jpg  [surname]
+    标签: COMIWA
+    OCR : NHAMARROE
+
+  43013799D43.jpg  [first_name]
+    标签: VIOLA
+    OCR : COMIWA
+
+  43020649Z43.jpg  [id_number]
+    标签: 43020649Z43
+    OCR : 43020649Z
+
+  43032804L43.jpg  [gender]
+    标签: male
+    OCR : female
+
+  43061524D42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  43062039N43.jpg  [gender]
+    标签: male
+    OCR : female
+
+  43063626N43.jpg  [surname]
+    标签: KUGARA
+    OCR : FUNGAI
+
+  43063626N43.jpg  [first_name]
+    标签: FUNGAI TARWIREYI
+    OCR : TARWIREYI
+
+  43063626N43.jpg  [gender]
+    标签: male
+    OCR : female
+
+  43068276S43.jpg  [id_number]
+    标签: 43068276S43
+    OCR : 43068276
+
+  43068276S43.jpg  [gender]
+    标签: male
+    OCR : female
+
+  432069736R42.jpg  [id_number]
+    标签: 12051592F12
+    OCR : 12051592F
+
+  44012021C44.jpg  [surname]
+    标签: RUCHIYO
+    OCR : RUCHIYD
+
+  44012021C44.jpg  [gender]
+    标签: male
+    OCR : female
+
+  44028142A44.jpg  [id_number]
+    标签: 44028142A44
+    OCR : 440281424
+
+  44028142A44.jpg  [surname]
+    标签: MATIMAIRE
+    OCR : MATIMARE
+
+  44028142A44.jpg  [gender]
+    标签: male
+    OCR : female
+
+  44033299F44.jpg  [id_number]
+    标签: 44033299F44
+    OCR : 44033299F
+
+  44033299F44.jpg  [gender]
+    标签: male
+    OCR : female
+
+  44043820R44.jpg  [id_number]
+    标签: 44043820R44
+    OCR : 44043820R
+
+  44043820R44.jpg  [gender]
+    标签: male
+    OCR : female
+
+  44061563C44.jpg  [id_number]
+    标签: 44061563C44
+    OCR : 44061563C
+
+  44061563C44.jpg  [surname]
+    标签: MASIYA
+    OCR : CHIMANIMANI
+
+  44061563C44.jpg  [first_name]
+    标签: COLLEN
+    OCR : MASIYA
+
+  44061563C44.jpg  [gender]
+    标签: male
+    OCR : female
+
+  44062533G44.jpg  [id_number]
+    标签: 44062533G44
+    OCR : 44062533G
+
+  44106186F44.jpg  [id_number]
+    标签: 75272517C75
+    OCR : 752725170
+
+  44106186F44.jpg  [birth_date]
+    标签: 12.11.73
+    OCR : 12.11.1975
+
+  45023384K07.jpg  [gender]
+    标签: male
+    OCR : female
+
+  45032643Z45.jpg  [surname]
+    标签: MPHEPO
+    OCR : IREEN
+
+  45032643Z45.jpg  [first_name]
+    标签: IREEN
+    OCR : CHIKWAZHA
+
+  45034125K45.jpg  [gender]
+    标签: male
+    OCR : female
+
+  45048904Z45.jpg  [id_number]
+    标签: 45048904Z45
+    OCR : 450499042
+
+  45048904Z45.jpg  [surname]
+    标签: KAMLSASA
+    OCR : KAMESASA
+
+  45048904Z45.jpg  [first_name]
+    标签: KARVER
+    OCR : MARVE
+
+  45048904Z45.jpg  [birth_date]
+    标签: 16.04.69
+    OCR : 16.04.1965
+
+  45048904Z45.jpg  [gender]
+    标签: male
+    OCR : female
+
+  45051741H68.jpg  [id_number]
+    标签: 45051741H68
+    OCR : 51051741H68
+
+  45051741H68.jpg  [gender]
+    标签: male
+    OCR : female
+
+  45063132P45.jpg  [id_number]
+    标签: 45063132P45
+    OCR : 45063132P
+
+  45063132P45.jpg  [gender]
+    标签: male
+    OCR : female
+
+  45076838M45.jpg  [surname]
+    标签: ZHUWAWO
+    OCR : MAJICHI
+
+  45076838M45.jpg  [first_name]
+    标签: RUZIA
+    OCR : MT DARWIN
+
+  45141210G45.jpg  [surname]
+    标签: CHIFODYA
+    OCR : SILVIA
+
+  45141210G45.jpg  [first_name]
+    标签: SILVIA
+    OCR : CHIFODYA
+
+  45148027R45.jpg  [gender]
+    标签: 
+    OCR : female
+
+  45160388C45.jpg  [id_number]
+    标签: 42166716L72
+    OCR : 42166716L42
+
+  45160388C45.jpg  [surname]
+    标签: CHI MANIUNDU
+    OCR : MUCUTA
+
+  45160388C45.jpg  [first_name]
+    标签: ISHMAIL
+    OCR : MAKONI
+
+  45160388C45.jpg  [birth_date]
+    标签: 06.04.1976
+    OCR : 06.04.1978
+
+  45160388C45.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47002869Z47.jpg  [id_number]
+    标签: 47002869Z47
+    OCR : 47002869Z
+
+  47002869Z47.jpg  [birth_date]
+    标签: 10.10.59
+    OCR : 10.10.1955
+
+  47015144R47.jpg  [id_number]
+    标签: 47015144R47
+    OCR : 47015144R
+
+  47015144R47.jpg  [surname]
+    标签: CHABI
+    OCR : MICHAEL
+
+  47015144R47.jpg  [first_name]
+    标签: MICHAEL
+    OCR : MATZUW
+
+  47015144R47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47034615F34.jpg  [surname]
+    标签: MADZIVANZIRA
+    OCR : MAOZIVANZIRA
+
+  47034615F34.jpg  [first_name]
+    标签: MASIWA EDIMODAR
+    OCR : MASIWA
+
+  47037156S47.jpg  [id_number]
+    标签: 47037156S47
+    OCR : 47037156S
+
+  47043535B47.jpg  [id_number]
+    标签: 47043535B47
+    OCR : 470435358
+
+  47043535B47.jpg  [first_name]
+    标签: BENHILDA MAKAONESO
+    OCR : BENFILDA
+
+  47065543Y47.jpg  [first_name]
+    标签: HAZVINEYI JEAN
+    OCR : HAZVINEYI
+
+  47070567J47.jpg  [id_number]
+    标签: 47070567J47
+    OCR : 47070567J
+
+  47070567J47.jpg  [first_name]
+    标签: PATLENCE
+    OCR : PETIENCE
+
+  47070567J47.jpg  [birth_date]
+    标签: 17.05.73
+    OCR : 17.03.1973
+
+  47076011B47.jpg  [id_number]
+    标签: 47076011B47
+    OCR : 47076011847
+
+  47076011B47.jpg  [surname]
+    标签: DENDA
+    OCR : MOSES
+
+  47076011B47.jpg  [first_name]
+    标签: MOSES
+    OCR : DENDA
+
+  47076011B47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47077628J47.jpg  [surname]
+    标签: NHDKWARA
+    OCR : ALBERT
+
+  47077628J47.jpg  [first_name]
+    标签: ALBERT
+    OCR : NHOKWARA
+
+  47077628J47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47077953M47.jpg  [id_number]
+    标签: 47077953M47
+    OCR : 47077953M
+
+  47077953M47.jpg  [surname]
+    标签: MAPFUMO
+    OCR : PHILIP
+
+  47077953M47.jpg  [first_name]
+    标签: PHILLIP
+    OCR : MHEMBERE
+
+  47077953M47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47089878Z47.jpg  [id_number]
+    标签: 47089878Z47
+    OCR : 470898782
+
+  47089878Z47.jpg  [surname]
+    标签: NYAMUNDA
+    OCR : MATONGO
+
+  47089878Z47.jpg  [first_name]
+    标签: MATONGO
+    OCR : CHITIYO
+
+  47089878Z47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47089880B47.jpg  [id_number]
+    标签: 47089880B47
+    OCR : 470890800
+
+  47089880B47.jpg  [surname]
+    标签: TARUVINGA
+    OCR : TARUVINCA
+
+  47089880B47.jpg  [first_name]
+    标签: BENHILDA
+    OCR : BENHILOA
+
+  47093298R47.jpg  [id_number]
+    标签: 47093298R47
+    OCR : 47093298R
+
+  47093298R47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47099176F47.jpg  [id_number]
+    标签: 47099176F47
+    OCR : 47099176F
+
+  47099176F47.jpg  [first_name]
+    标签: KUDAKWASHE EARINORA
+    OCR : KUDAKWASHE
+
+  47099649V47.jpg  [id_number]
+    标签: 47089878Z47
+    OCR : 470898782
+
+  47099649V47.jpg  [surname]
+    标签: NYAMUNDA
+    OCR : MATONGO
+
+  47099649V47.jpg  [first_name]
+    标签: MATONGO
+    OCR : CHITIYO
+
+  47099649V47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47105017E47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47116089P47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  47122214X47.jpg  [surname]
+    标签: MOFFAT
+    OCR : LUCIA
+
+  47122214X47.jpg  [first_name]
+    标签: LUCIAS
+    OCR : MOYFAT
+
+  47122214X47.jpg  [birth_date]
+    标签: 04.09.1977
+    OCR : 04.06.1977
+
+  47122214X47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  48000352V48.jpg  [id_number]
+    标签: 48000352V48
+    OCR : 48000352V
+
+  48000352V48.jpg  [gender]
+    标签: male
+    OCR : female
+
+  48021225H49.jpg  [id_number]
+    标签: 48021225H49
+    OCR : 48021225H
+
+  48021225H49.jpg  [surname]
+    标签: MUKANDE
+    OCR : MIKANDE
+
+  48029698S49.jpg  [surname]
+    标签: HOSHIKI
+    OCR : HOSHIKI MUSAFARE
+
+  48029698S49.jpg  [first_name]
+    标签: MUSAFARE
+    OCR : KATIVHU MUDZI
+
+  48029698S49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  48050829L48.jpg  [id_number]
+    标签: 48050829L48
+    OCR : 48050829L
+
+  48050829L48.jpg  [first_name]
+    标签: GUMISAI
+    OCR : SUMISAI
+
+  48050829L48.jpg  [gender]
+    标签: male
+    OCR : female
+
+  48065768Z48.jpg  [first_name]
+    标签: SARUDZAI
+    OCR : SAPUDZAI
+
+  48069292E48.jpg  [first_name]
+    标签: NYARADZAI RUJEKO
+    OCR : NYARADZAI
+
+  48081476Y48.jpg  [id_number]
+    标签: 48081476Y48
+    OCR : 48081476748
+
+  48081476Y48.jpg  [gender]
+    标签: male
+    OCR : female
+
+  48102577J48.jpg  [surname]
+    标签: NYERENYERE
+    OCR : WISEMAN
+
+  48102577J48.jpg  [first_name]
+    标签: WISEMAN
+    OCR : NYERENYERE
+
+  48102577J48.jpg  [gender]
+    标签: male
+    OCR : female
+
+  490006612F49.jpg  [id_number]
+    标签: 49006612F49
+    OCR : 49006612F
+
+  490006612F49.jpg  [surname]
+    标签: KANYONGATISE
+    OCR : KARYONGATISE
+
+  49013122G49.jpg  [id_number]
+    标签: 49013122G49
+    OCR : 49013122G
+
+  49013122G49.jpg  [surname]
+    标签: NYAMHERE
+    OCR : WATSON
+
+  49013122G49.jpg  [first_name]
+    标签: WATSON WELLINGTON
+    OCR : WELLINGTON
+
+  49013122G49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  49018454C49.jpg  [id_number]
+    标签: 49018454C49
+    OCR : 49018454C
+
+  49018454C49.jpg  [surname]
+    标签: NYAKABAU
+    OCR : HANDI
+
+  49018454C49.jpg  [first_name]
+    标签: MANDI
+    OCR : NYAKABAUL
+
+  49018454C49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  49022340B49.jpg  [id_number]
+    标签: 49022340B49
+    OCR : 490223408
+
+  49022340B49.jpg  [surname]
+    标签: NYARGNI
+    OCR : NYARONI
+
+  49022340B49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  49037039D49.jpg  [id_number]
+    标签: 49037039D49
+    OCR : 4903703948
+
+  49037039D49.jpg  [surname]
+    标签: KAMBAMBAIR
+    OCR : KAMURERE
+
+  49037039D49.jpg  [first_name]
+    标签: SHUPIKAI
+    OCR : MUOZI
+
+  49037306T49.jpg  [id_number]
+    标签: 49037306T49
+    OCR : 49037306T
+
+  49050292J49.jpg  [first_name]
+    标签: CHAMUNORWA
+    OCR : CHAMKINORWA
+
+  49050292J49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  49068287T49.jpg  [id_number]
+    标签: 49068287T49
+    OCR : 49068287149
+
+  49068287T49.jpg  [birth_date]
+    标签: 23.11.1973
+    OCR : 23.01.1975
+
+  49068287T49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  49071694X49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  49085216V49.jpg  [id_number]
+    标签: 49085216V49
+    OCR : 49085218040
+
+  49085216V49.jpg  [surname]
+    标签: CHIMVKWAIRA
+    OCR : MUDZI
+
+  49085216V49.jpg  [first_name]
+    标签: SHGOTER
+    OCR : TUJORA
+
+  49085216V49.jpg  [birth_date]
+    标签: 11.10.1983
+    OCR : 01.09.1997
+
+  492001345V49.jpg  [id_number]
+    标签: 68004158M61
+    OCR : 68004158M
+
+  492001345V49.jpg  [surname]
+    标签: CHITSUN
+    OCR : CHITSUNGO
+
+  492001345V49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  50022137M50.jpg  [id_number]
+    标签: 50022137M50
+    OCR : 50022137M
+
+  50032976T50.jpg  [id_number]
+    标签: 50032976T50
+    OCR : 50032976T
+
+  50041889G50.jpg  [id_number]
+    标签: 50041889G50
+    OCR : 50041889G
+
+  50048494L50.jpg  [surname]
+    标签: URERE
+    OCR : C
+
+  50048494L50.jpg  [first_name]
+    标签: AUXILIA
+    OCR : URERE
+
+  50054555Z13.jpg  [id_number]
+    标签: 50054555Z13
+    OCR : 500545552
+
+  50054555Z13.jpg  [surname]
+    标签: HLATYWAYO
+    OCR : CLERA
+
+  50054555Z13.jpg  [first_name]
+    标签: CLERA
+    OCR : HLATYWAYO
+
+  50054555Z13.jpg  [birth_date]
+    标签: 14.05.63
+    OCR : 14.05.1968
+
+  50065957S50.jpg  [id_number]
+    标签: 50065957S50
+    OCR : 50065957S
+
+  50065957S50.jpg  [first_name]
+    标签: CHRISPEN CARLYON
+    OCR : CHRISPEN
+
+  50065957S50.jpg  [gender]
+    标签: male
+    OCR : female
+
+  50086288R50.jpg  [first_name]
+    标签: GIFT
+    OCR : MANYUMWA
+
+  50086288R50.jpg  [gender]
+    标签: male
+    OCR : female
+
+  50096078H50.jpg  [first_name]
+    标签: TOFESU EDSON
+    OCR : TOFFSU EDSON
+
+  50096078H50.jpg  [gender]
+    标签: male
+    OCR : female
+
+  53024677S53.jpg  [id_number]
+    标签: 53024677S53
+    OCR : 53024677S
+
+  53024677S53.jpg  [surname]
+    标签: DUBE
+    OCR : FANIAS
+
+  53024677S53.jpg  [first_name]
+    标签: FANIAS
+    OCR : DUBE
+
+  53024677S53.jpg  [gender]
+    标签: male
+    OCR : female
+
+  53027648X53.jpg  [id_number]
+    标签: 53027648X53
+    OCR : 53027648X
+
+  53027648X53.jpg  [gender]
+    标签: male
+    OCR : female
+
+  53028205C53.jpg  [id_number]
+    标签: 53028205C53
+    OCR : 53028205C
+
+  53039055W58.jpg  [surname]
+    标签: NOUBE
+    OCR : C
+
+  53039055W58.jpg  [birth_date]
+    标签: 28.08.73
+    OCR : 26.08.1973
+
+  53039055W58.jpg  [gender]
+    标签: male
+    OCR : female
+
+  53040720F53.jpg  [first_name]
+    标签: KHUMBULANI
+    OCR : KHUMBULANT
+
+  53054170A53.jpg  [gender]
+    标签: male
+    OCR : female
+
+  53069906E53.jpg  [surname]
+    标签: NCUBE
+    OCR : MONICA
+
+  53069906E53.jpg  [first_name]
+    标签: MONICA
+    OCR : NCUBE
+
+  54002997J54.jpg  [surname]
+    标签: DHAMBARARA
+    OCR : DHAMBARARA ENNIE
+
+  54002997J54.jpg  [first_name]
+    标签: ENNIE
+    OCR : CHIEF KRAAL
+
+  54038048H54.jpg  [id_number]
+    标签: 29176169B22
+    OCR : 29176169822
+
+  54061706Y12.jpg  [id_number]
+    标签: 54061706Y12
+    OCR : 2043101
+
+  54070574M54.jpg  [id_number]
+    标签: 54070574M54
+    OCR : 54070574
+
+  54070574M54.jpg  [surname]
+    标签: TSAMWISI
+    OCR : CHIGARA
+
+  54070574M54.jpg  [first_name]
+    标签: MIRRIAM
+    OCR : MWENEZI
+
+  56003994F56.jpg  [id_number]
+    标签: 56003994F56
+    OCR : 55003994F56
+
+  56032365T56.jpg  [id_number]
+    标签: 56032365T56
+    OCR : 560323657
+
+  56032365T56.jpg  [first_name]
+    标签: TSHANDAPIWA
+    OCR : TSHANDAPIVA
+
+  56036483V56.jpg  [gender]
+    标签: male
+    OCR : female
+
+  56037833M56.jpg  [id_number]
+    标签: 56037833M56
+    OCR : 56037833M
+
+  56037833M56.jpg  [gender]
+    标签: male
+    OCR : female
+
+  56039063Z56.jpg  [id_number]
+    标签: 56039063Z56
+    OCR : 56039063256
+
+  56039063Z56.jpg  [surname]
+    标签: NCUBE
+    OCR : SILINDENI
+
+  56039063Z56.jpg  [first_name]
+    标签: SILINDENI
+    OCR : NCUBE
+
+  56043737E56.jpg  [id_number]
+    标签: 56043737E56
+    OCR : 56043737165
+
+  56043737E56.jpg  [surname]
+    标签: MPOFU
+    OCR : DAFANA
+
+  56043737E56.jpg  [first_name]
+    标签: BAFANA
+    OCR : BUILIMAMANWE
+
+  56043737E56.jpg  [birth_date]
+    标签: 06.06.1976
+    OCR : 06.06.1974
+
+  56043737E56.jpg  [gender]
+    标签: male
+    OCR : female
+
+  56055450L56.jpg  [birth_date]
+    标签: 08.02.1972
+    OCR : 06.02.1972
+
+  580149328Q26.jpg  [id_number]
+    标签: 58149328Q26
+    OCR : 58149328026
+
+  580149328Q26.jpg  [gender]
+    标签: 
+    OCR : female
+
+  58028677Y58.jpg  [gender]
+    标签: male
+    OCR : female
+
+  58050634P58.jpg  [id_number]
+    标签: 58050634P58
+    OCR : 58050634P
+
+  58050634P58.jpg  [gender]
+    标签: male
+    OCR : female
+
+  58091406G58.jpg  [id_number]
+    标签: 58091406G58
+    OCR : 580914066
+
+  58091406G58.jpg  [surname]
+    标签: MUGORE
+    OCR : WILSON
+
+  58091406G58.jpg  [first_name]
+    标签: WILSON
+    OCR : MUGORE
+
+  58091406G58.jpg  [birth_date]
+    标签: 04.04.64
+    OCR : 04.09.1964
+
+  58091406G58.jpg  [gender]
+    标签: male
+    OCR : female
+
+  58153130Y07.jpg  [gender]
+    标签: male
+    OCR : female
+
+  58179963P67.jpg  [id_number]
+    标签: 58179963P67
+    OCR : 55179963P67
+
+  58179963P67.jpg  [surname]
+    标签: NOAH
+    OCR : DADIRAYI
+
+  58179963P67.jpg  [first_name]
+    标签: DADTRAYI
+    OCR : NOAH
+
+  58198602Z58.jpg  [gender]
+    标签: male
+    OCR : female
+
+  58201278H43.jpg  [gender]
+    标签: male
+    OCR : female
+
+  58267519J77.jpg  [id_number]
+    标签: 58267519J77
+    OCR : 08459767Y29
+
+  58267519J77.jpg  [surname]
+    标签: DUBE
+    OCR : SILINDILE
+
+  58267519J77.jpg  [first_name]
+    标签: SILINDILE
+    OCR : DUBE
+
+  59007797J18.jpg  [gender]
+    标签: male
+    OCR : female
+
+  59010384W86.jpg  [id_number]
+    标签: 59010384W86
+    OCR : 59010384W
+
+  59010384W86.jpg  [gender]
+    标签: male
+    OCR : female
+
+  59019163N11.jpg  [id_number]
+    标签: 59019163N11
+    OCR : 11111111111
+
+  59019163N11.jpg  [surname]
+    标签: WNBASHA
+    OCR : 
+
+  59019163N11.jpg  [first_name]
+    标签: BERYA
+    OCR : 
+
+  59019163N11.jpg  [birth_date]
+    标签: 07.02.1979
+    OCR : 1970.01.2001
+
+  59020562J47.jpg  [surname]
+    标签: MANGODA
+    OCR : STEPHEN
+
+  59020562J47.jpg  [first_name]
+    标签: STEPHEN ITAI
+    OCR : ITAI
+
+  59020562J47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  59029486J59.jpg  [id_number]
+    标签: 59029486J59
+    OCR : 5929486J59C
+
+  59029486J59.jpg  [gender]
+    标签: male
+    OCR : female
+
+  59047828W49.jpg  [surname]
+    标签: MATARE
+    OCR : OWEN
+
+  59047828W49.jpg  [first_name]
+    标签: OWEN
+    OCR : MATARE
+
+  59047828W49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  59051493E11.jpg  [gender]
+    标签: male
+    OCR : female
+
+  59053441X42.jpg  [birth_date]
+    标签: 3.01.1966
+    OCR : 13.01.1966
+
+  59146447Q42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  61029337K61.jpg  [id_number]
+    标签: 61029337K61
+    OCR : 61029337K
+
+  61029337K61.jpg  [surname]
+    标签: MARUKE
+    OCR : MARUNE
+
+  61029337K61.jpg  [first_name]
+    标签: TAKADA
+    OCR : Tikada
+
+  61029337K61.jpg  [birth_date]
+    标签: 22.11.75
+    OCR : 21.11.1975
+
+  61029337K61.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63008277G00.jpg  [id_number]
+    标签: 63008277G00
+    OCR : 63008277G
+
+  63008277G00.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63008664C00.jpg  [id_number]
+    标签: 63008664C00
+    OCR : 630086640
+
+  63008664C00.jpg  [surname]
+    标签: PATEL
+    OCR : MOHAMED
+
+  63008664C00.jpg  [first_name]
+    标签: MOHAMED IOBAL
+    OCR : PATEL
+
+  63008664C00.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63017399X48.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63027165M63.jpg  [id_number]
+    标签: 63027165M63
+    OCR : 
+
+  63051958L00.jpg  [id_number]
+    标签: 63051958L00
+    OCR : 63051958L
+
+  63051958L00.jpg  [gender]
+    标签: 
+    OCR : female
+
+  63052400R00.jpg  [id_number]
+    标签: 63052400R00
+    OCR : 63052400R
+
+  63052400R00.jpg  [first_name]
+    标签: JENNIFER JOANNA
+    OCR : JENNIFER
+
+  63059032A03.jpg  [id_number]
+    标签: 63059032A03
+    OCR : 63059032A
+
+  63059032A03.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63067910A34.jpg  [id_number]
+    标签: 63067910A34
+    OCR : 63067910A
+
+  63067910A34.jpg  [surname]
+    标签: MAYIPE
+    OCR : PETER
+
+  63067910A34.jpg  [first_name]
+    标签: PETER CLEVER
+    OCR : CLEVER
+
+  63067910A34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63069795Z47.jpg  [id_number]
+    标签: 63069795Z47
+    OCR : 63069795Z
+
+  63069795Z47.jpg  [surname]
+    标签: KWENDAMBAYIRI
+    OCR : EMMILY
+
+  63069795Z47.jpg  [first_name]
+    标签: EMMILY
+    OCR : KWENDAMBAYIRI
+
+  631000861A47.jpg  [id_number]
+    标签: 631000861A47
+    OCR : 31000861A47
+
+  631000861A47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631004850L63.jpg  [id_number]
+    标签: 631004850L63
+    OCR : 631004850L
+
+  631004850L63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631007705P85.jpg  [id_number]
+    标签: 631007705P85
+    OCR : 89263041958
+
+  631007705P85.jpg  [surname]
+    标签: GAWAZA
+    OCR : NYAJINA
+
+  631007705P85.jpg  [first_name]
+    标签: ROBERT
+    OCR : HARARE
+
+  631007705P85.jpg  [gender]
+    标签: 
+    OCR : female
+
+  631021390P32.jpg  [id_number]
+    标签: 631021390P32
+    OCR : 631021390
+
+  631021390P32.jpg  [birth_date]
+    标签: 29.06.73
+    OCR : 29.06.1975
+
+  631021390P32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631040372X25.jpg  [id_number]
+    标签: 631040372X25
+    OCR : 31040372X25
+
+  631044736Q63.jpg  [id_number]
+    标签: 631044736Q63
+    OCR : 7590601
+
+  631044736Q63.jpg  [surname]
+    标签: SEMO
+    OCR : CROMONZI
+
+  631044736Q63.jpg  [first_name]
+    标签: TAURAI
+    OCR : LAURAI
+
+  631044736Q63.jpg  [birth_date]
+    标签: 12.12.1973
+    OCR : 12.12.1979
+
+  631044736Q63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631062140H71.jpg  [id_number]
+    标签: 631062140H71
+    OCR : 31062140H71
+
+  631062140H71.jpg  [first_name]
+    标签: RFGINA
+    OCR : REGINA
+
+  631065183Q25.jpg  [id_number]
+    标签: 631065183Q25
+    OCR : 1065183Q
+
+  631068214K63.jpg  [id_number]
+    标签: 631068214K63
+    OCR : 1068214K
+
+  631068214K63.jpg  [surname]
+    标签: MWENDOFAMBA
+    OCR : RUDO
+
+  631068214K63.jpg  [first_name]
+    标签: RUDO
+    OCR : MENDOF AMBA
+
+  631069112L63.jpg  [id_number]
+    标签: 631069112L63
+    OCR : 631069112L
+
+  631077681A13.jpg  [id_number]
+    标签: 631077681A13
+    OCR : 5107268
+
+  631077681A13.jpg  [surname]
+    标签: SITHOLE
+    OCR : STHOL
+
+  631077681A13.jpg  [first_name]
+    标签: LOVEMOR RA
+    OCR : VIMOR
+
+  631077681A13.jpg  [birth_date]
+    标签: 19.06.78
+    OCR : None
+
+  631077681A13.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631082476M45.jpg  [id_number]
+    标签: 631082476M45
+    OCR : 31082476M45
+
+  631093375J22.jpg  [id_number]
+    标签: 631093375J22
+    OCR : 31093375J22
+
+  631095625E42.jpg  [id_number]
+    标签: 631095625E42
+    OCR : 31095625E42
+
+  631095625E42.jpg  [surname]
+    标签: NEMAWUNGWE
+    OCR : DAVID
+
+  631095625E42.jpg  [first_name]
+    标签: DAVID
+    OCR : NEMAWUNGWE
+
+  631095625E42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631101989X66.jpg  [id_number]
+    标签: 631101989X66
+    OCR : 31101989X66
+
+  631101989X66.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631104065D42.jpg  [id_number]
+    标签: 631104065D42
+    OCR : 04065042C11
+
+  631104065D42.jpg  [surname]
+    标签: MACHIPISA
+    OCR : MACAIPISA
+
+  631115062G63.jpg  [id_number]
+    标签: 631115062G63
+    OCR : 31115062G09
+
+  631115062G63.jpg  [surname]
+    标签: GWANZURA
+    OCR : G
+
+  631115062G63.jpg  [first_name]
+    标签: GIDEON TINASHE MALCOLM
+    OCR : GWAZURA
+
+  631115062G63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631146626Q63.jpg  [id_number]
+    标签: 631146626Q63
+    OCR : 63114662606
+
+  631153548P50.jpg  [id_number]
+    标签: 631153548P50
+    OCR : 31153548P50
+
+  631153548P50.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631161105D63.jpg  [id_number]
+    标签: 631161105D63
+    OCR : 31161105D63
+
+  631168749M27.jpg  [id_number]
+    标签: 631168749M27
+    OCR : 31168749M27
+
+  631169648P80.jpg  [id_number]
+    标签: 631169648P80
+    OCR : 31169648P80
+
+  631169648P80.jpg  [surname]
+    标签: CHOTO
+    OCR : EDWARD
+
+  631169648P80.jpg  [first_name]
+    标签: EDWARD
+    OCR : CHOTO
+
+  631169648P80.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631174403H32.jpg  [surname]
+    标签: PAZUWA
+    OCR : DOUGLAS PANGANAI
+
+  631174403H32.jpg  [first_name]
+    标签: DOUGLAS PANGANAI
+    OCR : PAZUWA
+
+  631174403H32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631178894P25.jpg  [id_number]
+    标签: 631178894P25
+    OCR : 31178894P25
+
+  631178894P25.jpg  [surname]
+    标签: MUSANANGURWA
+    OCR : LEONARD
+
+  631178894P25.jpg  [first_name]
+    标签: LEONARD
+    OCR : MUSANANGURWA
+
+  631178894P25.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631185139C18.jpg  [id_number]
+    标签: 631185139C18
+    OCR : 31185139C18
+
+  631185139C18.jpg  [first_name]
+    标签: MUNYARDZI BRIAN
+    OCR : MUNYARADZI
+
+  631185139C18.jpg  [birth_date]
+    标签: 01.16.1983
+    OCR : 01.06.1983
+
+  631185139C18.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631188884Y44.jpg  [id_number]
+    标签: 631188884Y44
+    OCR : 31188884Y44
+
+  63120602Z63.jpg  [id_number]
+    标签: 63120602Z63
+    OCR : 63120602Z
+
+  63120602Z63.jpg  [surname]
+    标签: CHINGORE
+    OCR : FANUEL
+
+  63120602Z63.jpg  [first_name]
+    标签: FANUEL
+    OCR : CHLOCO
+
+  63120602Z63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631215710G04.jpg  [id_number]
+    标签: 631215710G04
+    OCR : 31215710G04
+
+  631215710G04.jpg  [surname]
+    标签: KWAYE
+    OCR : THOMAS
+
+  631215710G04.jpg  [first_name]
+    标签: THOMAS
+    OCR : KWAYE
+
+  631215710G04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631219391H67.jpg  [id_number]
+    标签: 631219391H67
+    OCR : 31219391H66
+
+  631219391H67.jpg  [surname]
+    标签: DENDERE
+    OCR : DENDERE CHARLES
+
+  631219391H67.jpg  [first_name]
+    标签: CHARLES
+    OCR : CHISADZA SHURUGWI
+
+  631219391H67.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631222735S22.jpg  [id_number]
+    标签: 631222735S22
+    OCR : 63122273582
+
+  631222735S22.jpg  [first_name]
+    标签: CALVIN KUDZANAYI
+    OCR : CALVIN
+
+  631222735S22.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631228229P42.jpg  [id_number]
+    标签: 631228229P42
+    OCR : 31228229P42
+
+  631232349S42.jpg  [id_number]
+    标签: 631232349S32
+    OCR : 63123234953
+
+  631232349S42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631237037N18.jpg  [id_number]
+    标签: 631237037N18
+    OCR : 63123703718
+
+  631237037N18.jpg  [first_name]
+    标签: TAPIWA COMFORTER
+    OCR : TAPIWA
+
+  631237037N18.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631245441Y32.jpg  [id_number]
+    标签: 631245441Y32
+    OCR : 63124544LY
+
+  631245441Y32.jpg  [surname]
+    标签: MUZONDO
+    OCR : MARTHA
+
+  631245441Y32.jpg  [first_name]
+    标签: MARTHA TENDAI
+    OCR : TENDAI
+
+  631252274A71.jpg  [id_number]
+    标签: 631252274A71
+    OCR : 31252274A71
+
+  631252274A71.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631252684W42.jpg  [id_number]
+    标签: 631252684W42
+    OCR : 31252684W42
+
+  631252684W42.jpg  [surname]
+    标签: NYATSOMA
+    OCR : MAKONI
+
+  631252684W42.jpg  [first_name]
+    标签: EVANGELISTA
+    OCR : NYAKATSAR
+
+  631252684W42.jpg  [birth_date]
+    标签: 08.09.1984
+    OCR : 08. 01. 1984
+
+  63126632D42.jpg  [id_number]
+    标签: 63126632D42
+    OCR : 631266320
+
+  63126632D42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631272787X13.jpg  [id_number]
+    标签: 631272787X13
+    OCR : 31272787X13
+
+  631272787X13.jpg  [surname]
+    标签: MATUTE
+    OCR : CHICICHI
+
+  631272787X13.jpg  [first_name]
+    标签: BRENDA TENDAI
+    OCR : CHI
+
+  63129113A45.jpg  [first_name]
+    标签: NICHAOS RROSPER
+    OCR : NICHALOS
+
+  63129113A45.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63131332M61.jpg  [id_number]
+    标签: 63131332M61
+    OCR : 63131332
+
+  63131332M61.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63139803V66.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63152700N18.jpg  [id_number]
+    标签: 63152700N18
+    OCR : 63152700N
+
+  63152700N18.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63157175C00.jpg  [id_number]
+    标签: 63157175C00
+    OCR : 63157175C
+
+  63157175C00.jpg  [first_name]
+    标签: NEIL CAMPBELL
+    OCR : NEIL
+
+  63157175C00.jpg  [birth_date]
+    标签: 11.9.48
+    OCR : 11. 9.48C
+
+  63157175C00.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63157229L48.jpg  [id_number]
+    标签: 63157229L48
+    OCR : 63157229L
+
+  63157229L48.jpg  [birth_date]
+    标签: 1.6.53
+    OCR : 01.06.1963
+
+  63157229L48.jpg  [gender]
+    标签: male
+    OCR : female
+
+  631594913J27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63163512Q00.jpg  [id_number]
+    标签: 63163512Q00
+    OCR : 63163512000
+
+  63163512Q00.jpg  [birth_date]
+    标签: 12.05.1959
+    OCR : 12.05.1958
+
+  63166016M71.jpg  [id_number]
+    标签: 63166016M71
+    OCR : 63166016M
+
+  63166016M71.jpg  [surname]
+    标签: KAMTONDO
+    OCR : CHRISTOPHER
+
+  63166016M71.jpg  [first_name]
+    标签: CHRISTOPHER ISAAC
+    OCR : ISAAC
+
+  63166016M71.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63189427J50.jpg  [surname]
+    标签: MANJORO
+    OCR : MANJORD
+
+  63189427J50.jpg  [first_name]
+    标签: JOSEPH MAGARIKA
+    OCR : JOSEPH
+
+  63189427J50.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63203917J75.jpg  [surname]
+    标签: ZINYAWO
+    OCR : AMUDIAMWE
+
+  63203917J75.jpg  [first_name]
+    标签: AMUDIAMWE DENFORD
+    OCR : DENFORD
+
+  63203917J75.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63222876R42.jpg  [id_number]
+    标签: 63222876R42
+    OCR : 63222576R
+
+  63222876R42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63227119D18.jpg  [id_number]
+    标签: 63227119D18
+    OCR : 63227119018
+
+  63227119D18.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63243176G25.jpg  [gender]
+    标签: male
+    OCR : female
+
+  632523955M22.jpg  [surname]
+    标签: DUBE
+    OCR : DUBE JANE
+
+  632523955M22.jpg  [first_name]
+    标签: JANET
+    OCR : MUADZIKWAO
+
+  632523955M22.jpg  [birth_date]
+    标签: 25.11.1975
+    OCR : 25 11. 1975
+
+  63268892J49.jpg  [surname]
+    标签: JAKARASI
+    OCR : RAPHAEL
+
+  63268892J49.jpg  [first_name]
+    标签: RAPHAEL
+    OCR : JAKARASI
+
+  63268892J49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63273303D25.jpg  [id_number]
+    标签: 63273303D25
+    OCR : 63273303
+
+  63273303D25.jpg  [birth_date]
+    标签: 3.1.51
+    OCR : 01.05.2010
+
+  63284509J80.jpg  [surname]
+    标签: CHIGADA
+    OCR : DAVID
+
+  63284509J80.jpg  [first_name]
+    标签: DAVID DINDINGWE
+    OCR : DINDINGWE
+
+  63284509J80.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63284824B43.jpg  [id_number]
+    标签: 63284824B43
+    OCR : 63284824B
+
+  63297120R70.jpg  [id_number]
+    标签: 63297120R70
+    OCR : 53297120R70
+
+  63297120R70.jpg  [surname]
+    标签: MUSIIWA
+    OCR : MUSIWA
+
+  63297120R70.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63312153G63.jpg  [id_number]
+    标签: 63312153G63
+    OCR : 633121536
+
+  63312153G63.jpg  [surname]
+    标签: MATENJA
+    OCR : MATENDA
+
+  63312153G63.jpg  [first_name]
+    标签: SYDNEY KENNETH
+    OCR : SYDNEY
+
+  63312153G63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63331919R32.jpg  [id_number]
+    标签: 63331919R32
+    OCR : 63331919
+
+  63331919R32.jpg  [surname]
+    标签: HAPUOANGA
+    OCR : MAPUDRANGA
+
+  63331919R32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63340933P32.jpg  [id_number]
+    标签: 63340933P32
+    OCR : 63340933P
+
+  63340933P32.jpg  [first_name]
+    标签: EDITH TENDAI
+    OCR : EDITH
+
+  63354383J12.jpg  [id_number]
+    标签: 63354383J12
+    OCR : 63354383J
+
+  63354383J12.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63356819G42.jpg  [id_number]
+    标签: 63356819G42
+    OCR : 63356819G
+
+  63356819G42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63358076Y25.jpg  [id_number]
+    标签: 63358076Y25
+    OCR : 63358076Y
+
+  63358076Y25.jpg  [surname]
+    标签: NHIRA
+    OCR : GODFREY
+
+  63358076Y25.jpg  [first_name]
+    标签: GODFREY
+    OCR : NHIRA
+
+  63358076Y25.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63363736A58.jpg  [id_number]
+    标签: 63363736A58
+    OCR : 63363736A
+
+  63363736A58.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63380468M24.jpg  [first_name]
+    标签: LAST
+    OCR : KADONA
+
+  63399065B77.jpg  [id_number]
+    标签: 63399065B77
+    OCR : 633990658
+
+  63399065B77.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63416606S34.jpg  [id_number]
+    标签: 63416606S34
+    OCR : 634166065
+
+  63416606S34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63428155W70.jpg  [surname]
+    标签: GUMBO
+    OCR : PATRICK
+
+  63428155W70.jpg  [first_name]
+    标签: PATRICK CHAMUNORNA
+    OCR : CHAMUNDRA
+
+  63428155W70.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63429367N66.jpg  [surname]
+    标签: MURASHIKI
+    OCR : MURASHIKT
+
+  63429367N66.jpg  [birth_date]
+    标签: 1.1.41
+    OCR : 41
+
+  63446414S80.jpg  [id_number]
+    标签: 63446414S80
+    OCR : 63446414S
+
+  63446414S80.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63448434N63.jpg  [id_number]
+    标签: 63448434N63
+    OCR : 63448434N
+
+  63448434N63.jpg  [surname]
+    标签: LIWONDE
+    OCR : LIVONDE
+
+  63448434N63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63459598Y25.jpg  [id_number]
+    标签: 63459598Y25
+    OCR : 63959098Y25
+
+  63459598Y25.jpg  [surname]
+    标签: KUUMBUKA
+    OCR : SUSAN MARY
+
+  63459598Y25.jpg  [first_name]
+    标签: SUSAN MARY
+    OCR : KUJUMBUKA
+
+  63470252D47.jpg  [id_number]
+    标签: 63470252D47
+    OCR : 63470252D
+
+  63470252D47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63474069C58.jpg  [id_number]
+    标签: 63474069C58
+    OCR : 63474069C
+
+  63477656B18.jpg  [id_number]
+    标签: 63477656B18
+    OCR : 634776568
+
+  63477656B18.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63486289K18.jpg  [id_number]
+    标签: 63486289K18
+    OCR : 63486289K
+
+  63486289K18.jpg  [gender]
+    标签: 
+    OCR : female
+
+  63489943G63.jpg  [id_number]
+    标签: 63489943G63
+    OCR : 6348943G
+
+  63489943G63.jpg  [surname]
+    标签: KANGOYA
+    OCR : KANGUYA
+
+  63489943G63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63498282W25.jpg  [birth_date]
+    标签: 1.1.60
+    OCR : 1.1600
+
+  63498282W25.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63498648T70.jpg  [id_number]
+    标签: 63498648T70
+    OCR : 63498648170
+
+  63498648T70.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63499094D83.jpg  [id_number]
+    标签: 63499094D83
+    OCR : 634900940
+
+  63499094D83.jpg  [surname]
+    标签: WASHAYA
+    OCR : HASHAYA
+
+  63499094D83.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63514186H00.jpg  [surname]
+    标签: SWAILE
+    OCR : SHARON
+
+  63514186H00.jpg  [first_name]
+    标签: SHARON ANN
+    OCR : SWAILE
+
+  63525227J50.jpg  [surname]
+    标签: MUTASA
+    OCR : PATRICIA
+
+  63525227J50.jpg  [first_name]
+    标签: PATRICIA
+    OCR : MUTASA
+
+  63538830V48.jpg  [id_number]
+    标签: 63538830V48
+    OCR : 53538830V48
+
+  63538830V48.jpg  [first_name]
+    标签: JULIET ELIZABETH
+    OCR : JULIET
+
+  63538830V48.jpg  [gender]
+    标签: 
+    OCR : female
+
+  63550682C07.jpg  [id_number]
+    标签: 63550682C07
+    OCR : 098941
+
+  63550682C07.jpg  [first_name]
+    标签: SHUVAI
+    OCR : MAKUNGUVA
+
+  63565641M04.jpg  [surname]
+    标签: MUTAPURE
+    OCR : PATRICIA
+
+  63565641M04.jpg  [first_name]
+    标签: PATRICIA
+    OCR : MUTAPURE
+
+  63576842M47.jpg  [id_number]
+    标签: 63576842M47
+    OCR : 53576842M47
+
+  63576842M47.jpg  [surname]
+    标签: HUNEMD
+    OCR : MUENEMO
+
+  63577309V71.jpg  [first_name]
+    标签: PAUL MABASA
+    OCR : PAUL NABASA
+
+  63577309V71.jpg  [birth_date]
+    标签: 28.08.53
+    OCR : 28.08.1958
+
+  63577309V71.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63578269N26.jpg  [id_number]
+    标签: 63578269N26
+    OCR : 63578269N
+
+  63578269N26.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63582008C42.jpg  [id_number]
+    标签: 63582008C42
+    OCR : 63552008C
+
+  63582008C42.jpg  [surname]
+    标签: GWETE
+    OCR : GNETE
+
+  63602832M47.jpg  [id_number]
+    标签: 63602832M47
+    OCR : 602832M47
+
+  63602832M47.jpg  [surname]
+    标签: NYAHASHA
+    OCR : URENA
+
+  63602832M47.jpg  [first_name]
+    标签: MOLINE
+    OCR : NYAWASHA
+
+  63602832M47.jpg  [birth_date]
+    标签: 5.1.61
+    OCR : 02-30
+
+  63605289H15.jpg  [id_number]
+    标签: 63605289H15
+    OCR : 63605289H
+
+  63605289H15.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63635503Z07.jpg  [id_number]
+    标签: 63635503Z07
+    OCR : 636355032
+
+  63635503Z07.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63638234S19.jpg  [id_number]
+    标签: 63638234S19
+    OCR : 63638234S
+
+  63645883G75.jpg  [id_number]
+    标签: 63645883G75
+    OCR : 63645883675
+
+  63646884V03.jpg  [id_number]
+    标签: 63646884V03
+    OCR : 63646884V
+
+  63646884V03.jpg  [first_name]
+    标签: BERNARD NDABANENGI
+    OCR : BERNARD
+
+  63646884V03.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63682871L77.jpg  [id_number]
+    标签: 63682871L77
+    OCR : 63682871
+
+  63682871L77.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63685947E48.jpg  [first_name]
+    标签: AGNESS
+    OCR : KANOSHUNGU
+
+  63685947E48.jpg  [birth_date]
+    标签: 10.11.62
+    OCR : None
+
+  63699390R38.jpg  [id_number]
+    标签: 63699390R38
+    OCR : 6369939
+
+  63729959T63.jpg  [id_number]
+    标签: 63729959T63
+    OCR : 62729959T
+
+  63739524Q47.jpg  [id_number]
+    标签: 63739524Q47
+    OCR : 637395240
+
+  63741014K15.jpg  [id_number]
+    标签: 63741014K15
+    OCR : 53741014K
+
+  63741014K15.jpg  [birth_date]
+    标签: 01.09.68
+    OCR : 01.03.1968
+
+  63741014K15.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63748421L04.jpg  [id_number]
+    标签: 63748421L04
+    OCR : 63748421104
+
+  63748421L04.jpg  [surname]
+    标签: CHIWARE
+    OCR : HARARE
+
+  63748421L04.jpg  [first_name]
+    标签: DAINA
+    OCR : CHIWARE
+
+  63748421L04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63759457G63.jpg  [id_number]
+    标签: 63759457G63
+    OCR : 63759457G
+
+  63763033T12.jpg  [id_number]
+    标签: 63763033T18
+    OCR : 63762033718
+
+  63763033T12.jpg  [surname]
+    标签: MANCOKA
+    OCR : MANCOVA
+
+  63766076B63.jpg  [id_number]
+    标签: 63766076B63
+    OCR : 63766075B
+
+  63766076B63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63769227B34.jpg  [id_number]
+    标签: 63769227B34
+    OCR : 63769227834
+
+  63769227B34.jpg  [surname]
+    标签: MUPANNGAPANGA
+    OCR : MAXWELL
+
+  63769227B34.jpg  [first_name]
+    标签: MAXWELL
+    OCR : MUPANGAPANGA
+
+  63769227B34.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63788997Q43.jpg  [id_number]
+    标签: 63788997Q43
+    OCR : 637889970
+
+  63788997Q43.jpg  [surname]
+    标签: MASAWI
+    OCR : DASY
+
+  63788997Q43.jpg  [first_name]
+    标签: DAISY DOROTHY
+    OCR : DAISY
+
+  63789975D38.jpg  [id_number]
+    标签: 63789975D38
+    OCR : 63739975038
+
+  63789975D38.jpg  [first_name]
+    标签: ENCT
+    OCR : ENET
+
+  63791266G32.jpg  [id_number]
+    标签: 63791266G32
+    OCR : 63791265632
+
+  63791266G32.jpg  [surname]
+    标签: IAVAZIVA
+    OCR : JEVAS
+
+  63791266G32.jpg  [first_name]
+    标签: JEVAS
+    OCR : TAVAZIVA
+
+  63791266G32.jpg  [birth_date]
+    标签: 26.04.70
+    OCR : 25.04.1970
+
+  63791266G32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63797354Z47.jpg  [id_number]
+    标签: 63797354Z47
+    OCR : 63797354
+
+  63797354Z47.jpg  [surname]
+    标签: MBANJE
+    OCR : CHIKUVANYANGA
+
+  63797354Z47.jpg  [first_name]
+    标签: CAROLINE
+    OCR : MUREWA
+
+  63806857D63.jpg  [id_number]
+    标签: 63806857D63
+    OCR : 638058570
+
+  63806857D63.jpg  [surname]
+    标签: CHIKUSE
+    OCR : SHEIL
+
+  63806857D63.jpg  [first_name]
+    标签: SHEILA
+    OCR : CHIKUSE
+
+  63811537Q63.jpg  [surname]
+    标签: MWANZA
+    OCR : M
+
+  63811537Q63.jpg  [first_name]
+    标签: DERECK
+    OCR : M
+
+  63811537Q63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63816137Q25.jpg  [id_number]
+    标签: 63816137Q25
+    OCR : 638161370
+
+  63816137Q25.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63831784Y49.jpg  [surname]
+    标签: NYAMUDZE
+    OCR : AMUDZE
+
+  63831784Y49.jpg  [first_name]
+    标签: AMCS
+    OCR : NY AMUDZE
+
+  63831784Y49.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63833209X63.jpg  [id_number]
+    标签: 63833209X63
+    OCR : 63833209X
+
+  63833209X63.jpg  [first_name]
+    标签: MAVIS TAURAI
+    OCR : MAVIS
+
+  63839790A07.jpg  [id_number]
+    标签: 63839790A07
+    OCR : 53839790A07
+
+  63840039W04.jpg  [id_number]
+    标签: 63840039W04
+    OCR : 63848003960
+
+  63840039W04.jpg  [first_name]
+    标签: EPHRAIN
+    OCR : EPHRAIM
+
+  63840039W04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63844207B15.jpg  [id_number]
+    标签: 63844207B15
+    OCR : 638442078
+
+  63844207B15.jpg  [surname]
+    标签: TARUVINGA
+    OCR : LYDIA
+
+  63844207B15.jpg  [first_name]
+    标签: LYDIA
+    OCR : TARUVINGA
+
+  63851058Y45.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63858508W13.jpg  [surname]
+    标签: HLATYWAYO
+    OCR : WILSON
+
+  63858508W13.jpg  [first_name]
+    标签: WILSON
+    OCR : HLATYWAYO
+
+  63858508W13.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63858858B63.jpg  [id_number]
+    标签: 63858858B63
+    OCR : 63853858B
+
+  63858858B63.jpg  [surname]
+    标签: CHAKONOKA
+    OCR : CHAKOVOKA
+
+  63858858B63.jpg  [first_name]
+    标签: JONAIHAN
+    OCR : JONATHAN
+
+  63858858B63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63861413D27.jpg  [id_number]
+    标签: 63861413D27
+    OCR : 63861413D
+
+  63861413D27.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63864666P83.jpg  [id_number]
+    标签: 63864666P83
+    OCR : 63864666P
+
+  63864666P83.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63866283X42.jpg  [id_number]
+    标签: 63866283X42
+    OCR : 047778
+
+  63866283X42.jpg  [surname]
+    标签: MARWIZIC
+    OCR : 
+
+  63866283X42.jpg  [first_name]
+    标签: CORDON
+    OCR : MARWIZ
+
+  63866283X42.jpg  [birth_date]
+    标签: 11.09.71
+    OCR : 09.7
+
+  63866283X42.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63868684G32.jpg  [id_number]
+    标签: 63868684G32
+    OCR : 638686946
+
+  63868684G32.jpg  [surname]
+    标签: HANDIPISI
+    OCR : HEATHER
+
+  63870778H63.jpg  [surname]
+    标签: MSUSAH
+    OCR : EMILY
+
+  63870778H63.jpg  [first_name]
+    标签: EMILY CHIEDZA
+    OCR : CHEDZA
+
+  63877404K67.jpg  [id_number]
+    标签: 63877404K67
+    OCR : 63877404K
+
+  63877404K67.jpg  [surname]
+    标签: MADUBEKO
+    OCR : MAYOU
+
+  63877404K67.jpg  [first_name]
+    标签: OMO
+    OCR : ZVI
+
+  63877404K67.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63880491Q00.jpg  [id_number]
+    标签: 63880491Q00
+    OCR : 63880491000
+
+  63880491Q00.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63906051Y63.jpg  [id_number]
+    标签: 63906051Y63
+    OCR : 63916051Y
+
+  63906051Y63.jpg  [first_name]
+    标签: AWUSIE
+    OCR : ANUSIE
+
+  63907623G47.jpg  [id_number]
+    标签: 63907623G47
+    OCR : 639076236
+
+  63907623G47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63912351W44.jpg  [first_name]
+    标签: LEAE
+    OCR : LEAH
+
+  63932157Z12.jpg  [id_number]
+    标签: 63932157Z12
+    OCR : 63932157Z
+
+  63932157Z12.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63936356N34.jpg  [first_name]
+    标签: TAMBUDZAI ENIA
+    OCR : TAMBUDZAIENIA
+
+  63937058B63.jpg  [id_number]
+    标签: 63937058B63
+    OCR : 63937058866
+
+  63937058B63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63961630K32.jpg  [surname]
+    标签: MASIIWA
+    OCR : MASIWA
+
+  63961630K32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63972028M04.jpg  [id_number]
+    标签: 63972028M04
+    OCR : 63972028M
+
+  63975026W11.jpg  [id_number]
+    标签: 63975026W11
+    OCR : 63975026
+
+  63975026W11.jpg  [surname]
+    标签: MUSHAYWARO
+    OCR : THOMAS
+
+  63975026W11.jpg  [first_name]
+    标签: THOMAAS
+    OCR : MUSHAYAWARD
+
+  63975026W11.jpg  [gender]
+    标签: male
+    OCR : female
+
+  63976281K50.jpg  [id_number]
+    标签: 63976281K50
+    OCR : 63976281K
+
+  63976281K50.jpg  [surname]
+    标签: MAKUNIKG
+    OCR : MAKUNIK
+
+  63976281K50.jpg  [first_name]
+    标签: IUTENDO ESNATH
+    OCR : TUTENDO
+
+  63976281K50.jpg  [birth_date]
+    标签: 06.02.72
+    OCR : 06.02.1977
+
+  63990176N25.jpg  [id_number]
+    标签: 63990176N25
+    OCR : A4
+
+  63990176N25.jpg  [first_name]
+    标签: 
+    OCR : C
+
+  63990176N25.jpg  [birth_date]
+    标签: 
+    OCR : None
+
+  63990176N25.jpg  [gender]
+    标签: 
+    OCR : female
+
+  63994351B12.jpg  [id_number]
+    标签: 63994351B12
+    OCR : 63994351E12
+
+  63994351B12.jpg  [first_name]
+    标签: SIKHANCGELA
+    OCR : SIKHANGELA
+
+  660014475N66.jpg  [surname]
+    标签: MUTSVANGA
+    OCR : NUTSVANGA
+
+  66026387L66.jpg  [id_number]
+    标签: 66026387L66
+    OCR : 66026387L
+
+  66026387L66.jpg  [gender]
+    标签: male
+    OCR : female
+
+  66034918J66.jpg  [id_number]
+    标签: 66034918J66
+    OCR : 66014918J66
+
+  66034918J66.jpg  [first_name]
+    标签: MURAMBIWA
+    OCR : NURAMBIWA
+
+  66034918J66.jpg  [gender]
+    标签: male
+    OCR : female
+
+  66035498P66.jpg  [first_name]
+    标签: MALIAKINI MRARAMA
+    OCR : MALJAKINI
+
+  66035498P66.jpg  [birth_date]
+    标签: 03.04.69
+    OCR : 03.09.1969
+
+  66035498P66.jpg  [gender]
+    标签: male
+    OCR : female
+
+  67018009L67.jpg  [id_number]
+    标签: 67018009L67
+    OCR : 67018009L
+
+  67018784D77.jpg  [id_number]
+    标签: 67018784D77
+    OCR : 670187840
+
+  67018784D77.jpg  [surname]
+    标签: KIZITO
+    OCR : KIZITU
+
+  67018784D77.jpg  [gender]
+    标签: male
+    OCR : female
+
+  67020900D03.jpg  [surname]
+    标签: MOYO
+    OCR : MOYD
+
+  67020900D03.jpg  [first_name]
+    标签: ZINDOGA MAJOR
+    OCR : ZINDOGA
+
+  67020900D03.jpg  [gender]
+    标签: male
+    OCR : female
+
+  67051436V03.jpg  [surname]
+    标签: MOYO
+    OCR : MOYD
+
+  67054730A83.jpg  [surname]
+    标签: CHIWARE
+    OCR : ELMON
+
+  67054730A83.jpg  [first_name]
+    标签: ELMON
+    OCR : CHIWARE
+
+  67054730A83.jpg  [gender]
+    标签: male
+    OCR : female
+
+  67077442M67.jpg  [id_number]
+    标签: 67077442M67
+    OCR : 67077442M
+
+  67077442M67.jpg  [surname]
+    标签: MUHLIWA
+    OCR : GILBERT
+
+  67077442M67.jpg  [first_name]
+    标签: GILBERT
+    OCR : MUHLEIMA
+
+  67077442M67.jpg  [gender]
+    标签: male
+    OCR : female
+
+  67082739V45.jpg  [id_number]
+    标签: 67082739V45
+    OCR : 6
+
+  67082739V45.jpg  [surname]
+    标签: ANTONIO
+    OCR : CHEGU
+
+  67082739V45.jpg  [first_name]
+    标签: LOICE
+    OCR : CHEGU
+
+  67082739V45.jpg  [birth_date]
+    标签: 25.07.76
+    OCR : 2017.06.2016
+
+  67085667C71.jpg  [birth_date]
+    标签: 12.08.75
+    OCR : 12.06.1975
+
+  67085667C71.jpg  [gender]
+    标签: male
+    OCR : female
+
+  67095256A67.jpg  [surname]
+    标签: MGWAGWA
+    OCR : TOKWIDO
+
+  67095256A67.jpg  [first_name]
+    标签: ZIVISO
+    OCR : ZVISHAVANE
+
+  67095256A67.jpg  [birth_date]
+    标签: 24.08.11978
+    OCR : 24.08.1978
+
+  67108449Q67.jpg  [id_number]
+    标签: 67108449Q67
+    OCR : 67108449687
+
+  67108449Q67.jpg  [surname]
+    标签: BUTETE
+    OCR : JOYCE
+
+  67108449Q67.jpg  [first_name]
+    标签: JOYOE
+    OCR : BUTETE
+
+  67108449Q67.jpg  [birth_date]
+    标签: 10.07.1981
+    OCR : 12.07.1981
+
+  67121394L67.jpg  [gender]
+    标签: male
+    OCR : female
+
+  680039187M68.jpg  [first_name]
+    标签: ZIMANAI
+    OCR : ZIVANAI
+
+  680039187M68.jpg  [gender]
+    标签: male
+    OCR : female
+
+  68021096Y47.jpg  [surname]
+    标签: NYAMHANZA
+    OCR : SHAMVA
+
+  68021096Y47.jpg  [first_name]
+    标签: SARUDZAYI
+    OCR : BEN
+
+  68021096Y47.jpg  [birth_date]
+    标签: 16.07.67
+    OCR : 16.07.1968
+
+  68021807W68.jpg  [id_number]
+    标签: 68021807W68
+    OCR : 00021007W00
+
+  68021807W68.jpg  [surname]
+    标签: CHINGOZA
+    OCR : ROSEMARY
+
+  68021807W68.jpg  [first_name]
+    标签: ROSEMARY
+    OCR : CHI NG OZA
+
+  68035302P45.jpg  [id_number]
+    标签: 68035302P45
+    OCR : 68035302P
+
+  68035302P45.jpg  [gender]
+    标签: 
+    OCR : female
+
+  68049056P68.jpg  [id_number]
+    标签: 68049056P68
+    OCR : 68049056P
+
+  68049056P68.jpg  [gender]
+    标签: female
+    OCR : male
+
+  68057554B68.jpg  [gender]
+    标签: 
+    OCR : female
+
+  700076677A18.jpg  [id_number]
+    标签: 70076677A18
+    OCR : 70076677A
+
+  700076677A18.jpg  [surname]
+    标签: NDUNA
+    OCR : TADIOUS
+
+  700076677A18.jpg  [first_name]
+    标签: TADIOUS
+    OCR : NOUNA
+
+  700076677A18.jpg  [gender]
+    标签: male
+    OCR : female
+
+  70023789N63.jpg  [surname]
+    标签: CHIMHERE
+    OCR : SHADRICK
+
+  70023789N63.jpg  [first_name]
+    标签: SHADRICK
+    OCR : CHIMHERE
+
+  70023789N63.jpg  [gender]
+    标签: male
+    OCR : female
+
+  70035999K70.jpg  [first_name]
+    标签: ALAIDA
+    OCR : ALIEN
+
+  70057763R71.jpg  [id_number]
+    标签: 70057763R71
+    OCR : 70057763R
+
+  70057763R71.jpg  [surname]
+    标签: MUDZINGWA
+    OCR : ALICE
+
+  70057763R71.jpg  [first_name]
+    标签: ALICE
+    OCR : MUDZINGWA
+
+  70067452Y00.jpg  [first_name]
+    标签: MADELEINE GATLE
+    OCR : MADELEINE GAYLE
+
+  70067819X70.jpg  [id_number]
+    标签: 70067819X70
+    OCR : 70067819X
+
+  70067819X70.jpg  [birth_date]
+    标签: 13.01.67
+    OCR : 13.01.1968
+
+  70067819X70.jpg  [gender]
+    标签: male
+    OCR : female
+
+  70072495E70.jpg  [id_number]
+    标签: 70072495E70
+    OCR : 70072495E
+
+  70074359F15.jpg  [id_number]
+    标签: 70074359F15
+    OCR : 70074359F
+
+  70074359F15.jpg  [gender]
+    标签: male
+    OCR : female
+
+  70086728A70.jpg  [id_number]
+    标签: 70086728A70
+    OCR : 70686728A70
+
+  70086728A70.jpg  [first_name]
+    标签: MENNETH GODKNOWS
+    OCR : KENNETH GODKNOWS
+
+  70086728A70.jpg  [gender]
+    标签: male
+    OCR : female
+
+  70086903Q70.jpg  [id_number]
+    标签: 70086903Q70
+    OCR : 700869030
+
+  70086903Q70.jpg  [gender]
+    标签: male
+    OCR : female
+
+  70114130K70.jpg  [surname]
+    标签: MUSORO
+    OCR : MUSORD
+
+  70114130K70.jpg  [first_name]
+    标签: PORTIA
+    OCR : MADHUVIKO
+
+  702000146L70.jpg  [id_number]
+    标签: 702000146L70
+    OCR : 02000146L70
+
+  702000146L70.jpg  [gender]
+    标签: male
+    OCR : female
+
+  70208195E70.jpg  [surname]
+    标签: MANYERUKE
+    OCR : FADZAI
+
+  70208195E70.jpg  [first_name]
+    标签: FADZAI
+    OCR : MANYERUKE
+
+  70352901T70.jpg  [id_number]
+    标签: 38059469M38
+    OCR : 38059469M
+
+  70352901T70.jpg  [gender]
+    标签: male
+    OCR : female
+
+  71006994P71.jpg  [id_number]
+    标签: 71006994P71
+    OCR : 71006994P
+
+  71014209G71.jpg  [id_number]
+    标签: 71014209G71
+    OCR : 710142096
+
+  71014209G71.jpg  [gender]
+    标签: male
+    OCR : female
+
+  71035048H71.jpg  [id_number]
+    标签: 71035048H71
+    OCR : 10355048H71
+
+  71035048H71.jpg  [surname]
+    标签: CHAKUVVINGA
+    OCR : CHAKUVINCA
+
+  71035048H71.jpg  [first_name]
+    标签: JANIPHER
+    OCR : CHAKUVINCA
+
+  71035048H71.jpg  [birth_date]
+    标签: 20.09.64
+    OCR : 29.6A
+
+  71040574P71.jpg  [id_number]
+    标签: 71040574P71
+    OCR : 71C40574P
+
+  71040574P71.jpg  [surname]
+    标签: NYAMADZAWO
+    OCR : ANA
+
+  71040574P71.jpg  [first_name]
+    标签: ANNA
+    OCR : NYANADZAKO
+
+  71040574P71.jpg  [birth_date]
+    标签: 10.6.48
+    OCR : 10.06.1945
+
+  71053060L71.jpg  [id_number]
+    标签: 71053060L71
+    OCR : 71053060L
+
+  71053060L71.jpg  [gender]
+    标签: male
+    OCR : female
+
+  71060470Q71.jpg  [id_number]
+    标签: 71060470Q71
+    OCR : 71060470077
+
+  73034129X73.jpg  [id_number]
+    标签: 73034129X73
+    OCR : 73034129X
+
+  73034129X73.jpg  [gender]
+    标签: male
+    OCR : female
+
+  73046401L73.jpg  [id_number]
+    标签: 73046401L73
+    OCR : 73046401173
+
+  75003849X44.jpg  [id_number]
+    标签: 75003849X44
+    OCR : 7500368X
+
+  75003849X44.jpg  [surname]
+    标签: HUNAKANDAFA
+    OCR : MINAKANJAPA
+
+  75003849X44.jpg  [first_name]
+    标签: ZONEBB TICHAENZANA
+    OCR : ZENGER
+
+  75003849X44.jpg  [birth_date]
+    标签: 8.8.58
+    OCR : 08.08.1955
+
+  75003849X44.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75034018P75.jpg  [id_number]
+    标签: 75034018P75
+    OCR : 75034018P
+
+  75034018P75.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75041710A44.jpg  [surname]
+    标签: CMIRAMGO
+    OCR : CHIRAVGO
+
+  75084531V50.jpg  [id_number]
+    标签: 75084531V50
+    OCR : 75084531V
+
+  75084531V50.jpg  [surname]
+    标签: MABVENE
+    OCR : MARVENF
+
+  75084531V50.jpg  [first_name]
+    标签: JANE
+    OCR : JANF
+
+  75084531V50.jpg  [gender]
+    标签: female
+    OCR : 
+
+  75086368R75.jpg  [id_number]
+    标签: 75086368R75
+    OCR : 75086368R
+
+  75086368R75.jpg  [first_name]
+    标签: CHIDO
+    OCR : CHIKWANHA
+
+  75095260G75.jpg  [id_number]
+    标签: 75095260G75
+    OCR : 75095260G
+
+  75095260G75.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75097720F75.jpg  [id_number]
+    标签: 75097720F75
+    OCR : 11111111111
+
+  75097720F75.jpg  [first_name]
+    标签: 
+    OCR : ZIMBAB
+
+  75097720F75.jpg  [birth_date]
+    标签: 
+    OCR : 1984.01.2001
+
+  75097720F75.jpg  [gender]
+    标签: 
+    OCR : female
+
+  75112285M04.jpg  [surname]
+    标签: MAHACHI
+    OCR : ROBERT
+
+  75112285M04.jpg  [first_name]
+    标签: ROBERT
+    OCR : MAHACHI
+
+  75112285M04.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75150046G75.jpg  [id_number]
+    标签: 75150046G75
+    OCR : 751500466
+
+  75150046G75.jpg  [surname]
+    标签: MAKAMBWA
+    OCR : MAKUMBE
+
+  75150046G75.jpg  [first_name]
+    标签: MAKUMBE
+    OCR : MAKAMBWA
+
+  75150046G75.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75165419R48.jpg  [surname]
+    标签: HOMERA
+    OCR : JOSEPH
+
+  75165419R48.jpg  [first_name]
+    标签: JOSEPH
+    OCR : HOMERA
+
+  75165419R48.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75177006L75.jpg  [id_number]
+    标签: 75177006L75
+    OCR : 4673
+
+  75190798C43.jpg  [id_number]
+    标签: 75190798C43
+    OCR : 751907980
+
+  75190798C43.jpg  [first_name]
+    标签: RUDO
+    OCR : FUDO
+
+  75265298F75.jpg  [id_number]
+    标签: 75265298F75
+    OCR : 75265298F
+
+  75275106R75.jpg  [id_number]
+    标签: 75275106R75
+    OCR : 75275106R
+
+  75275106R75.jpg  [birth_date]
+    标签: 15.05.73
+    OCR : 25.05.1973
+
+  75275106R75.jpg  [gender]
+    标签: 
+    OCR : female
+
+  75275169K50.jpg  [id_number]
+    标签: 75275169K50
+    OCR : 75275169K
+
+  75275169K50.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75278739Q75.jpg  [id_number]
+    标签: 75278739Q75
+    OCR : 75278739075
+
+  75282185L75.jpg  [id_number]
+    标签: 48067117Q48
+    OCR : 48067117094
+
+  75282185L75.jpg  [surname]
+    标签: MUKAKA
+    OCR : DOUGLAS
+
+  75282185L75.jpg  [first_name]
+    标签: DOUGLAS
+    OCR : GAMBA
+
+  75282185L75.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75297354Z75.jpg  [id_number]
+    标签: 75297354Z75
+    OCR : 752973542
+
+  75297354Z75.jpg  [first_name]
+    标签: BEAVEN
+    OCR : BEAVON
+
+  75297354Z75.jpg  [birth_date]
+    标签: 25.05.69
+    OCR : 05.05.1969
+
+  75297354Z75.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75325972F75.jpg  [gender]
+    标签: female
+    OCR : 
+
+  75327416A04.jpg  [surname]
+    标签: MHIRIBIDI
+    OCR : GHRIBIDI
+
+  75328215T50.jpg  [id_number]
+    标签: 75328215T50
+    OCR : 14019756P45
+
+  75328215T50.jpg  [surname]
+    标签: MANGODA
+    OCR : STEPHEN
+
+  75328215T50.jpg  [first_name]
+    标签: STEPHEN ITAI
+    OCR : ITAI
+
+  75328215T50.jpg  [gender]
+    标签: male
+    OCR : female
+
+  75337918Q75.jpg  [id_number]
+    标签: 75337918Q75
+    OCR : 75337918075
+
+  75337918Q75.jpg  [gender]
+    标签: 
+    OCR : female
+
+  75343443W75.jpg  [id_number]
+    标签: 75343443W75
+    OCR : 75343440W75
+
+  75343443W75.jpg  [surname]
+    标签: ZIMUNYA
+    OCR : 
+
+  75343443W75.jpg  [first_name]
+    标签: BARBRA
+    OCR : ZIMUNYA
+
+  75343443W75.jpg  [gender]
+    标签: female
+    OCR : 
+
+  77010256Z77.jpg  [id_number]
+    标签: 77010256Z77
+    OCR : 770192562
+
+  77010301Y77.jpg  [gender]
+    标签: male
+    OCR : female
+
+  77033166B77.jpg  [id_number]
+    标签: 77033166B77
+    OCR : 77033166B
+
+  77033166B77.jpg  [first_name]
+    标签: RUYI MUSIIWA HELARIO
+    OCR : RUYI
+
+  77033166B77.jpg  [gender]
+    标签: 
+    OCR : female
+
+  77044835K77.jpg  [id_number]
+    标签: 77044835K77
+    OCR : 77044835K
+
+  77044835K77.jpg  [gender]
+    标签: male
+    OCR : female
+
+  77048310M77.jpg  [id_number]
+    标签: 77048310M77
+    OCR : 77048310M
+
+  77048310M77.jpg  [surname]
+    标签: PARIDZIRA
+    OCR : LANGTON
+
+  77048310M77.jpg  [first_name]
+    标签: LANGTON
+    OCR : MABACHI
+
+  77048310M77.jpg  [gender]
+    标签: male
+    OCR : female
+
+  790062140H58.jpg  [gender]
+    标签: male
+    OCR : female
+
+  79021523J79.jpg  [first_name]
+    标签: KELIAS MAGONDO
+    OCR : KELIAS
+
+  79021523J79.jpg  [gender]
+    标签: male
+    OCR : female
+
+  79022666B79.jpg  [id_number]
+    标签: 79022666B79
+    OCR : 790226668
+
+  79022666B79.jpg  [first_name]
+    标签: ALFRED SIANGOMA
+    OCR : ALFRED
+
+  79022666B79.jpg  [gender]
+    标签: 
+    OCR : female
+
+  79056792V06.jpg  [id_number]
+    标签: 79056792V06
+    OCR : 79056792V
+
+  79056792V06.jpg  [surname]
+    标签: MIMPANDE
+    OCR : IMPANDE
+
+  79056792V06.jpg  [first_name]
+    标签: SETBUDE
+    OCR : MIRPANDE
+
+  79077878P73.jpg  [id_number]
+    标签: 79077878P73
+    OCR : 79077878P
+
+  79077878P73.jpg  [gender]
+    标签: male
+    OCR : female
+
+  79077891D06.jpg  [id_number]
+    标签: 79077891D06
+    OCR : 79077891006
+
+  79077891D06.jpg  [surname]
+    标签: MPALA
+    OCR : SAWU
+
+  79077891D06.jpg  [first_name]
+    标签: SAWU
+    OCR : CHIKOTOME
+
+  79082219H79.jpg  [id_number]
+    标签: 79082219H79
+    OCR : 79082219177
+
+  79092693S79.jpg  [id_number]
+    标签: 79092693S79
+    OCR : 79092693579
+
+  79092693S79.jpg  [surname]
+    标签: SIBANDA
+    OCR : MADATSHI
+
+  79092693S79.jpg  [first_name]
+    标签: THOKOZANI MAKOSINI
+    OCR : THOKOZANI
+
+  79092693S79.jpg  [gender]
+    标签: male
+    OCR : female
+
+  79094490W39.jpg  [id_number]
+    标签: 79094490W39
+    OCR : 79094490W
+
+  79094490W39.jpg  [first_name]
+    标签: SIDUDUZIWE
+    OCR : GIDBUDUZIWE
+
+  79095962W79.jpg  [surname]
+    标签: NCUBE
+    OCR : NENGIWA
+
+  79095962W79.jpg  [first_name]
+    标签: MENGIWA
+    OCR : NCUBE
+
+  79108278H06.jpg  [surname]
+    标签: MWEMBE
+    OCR : PILATO
+
+  79108278H06.jpg  [first_name]
+    标签: PILATO
+    OCR : MWEMBE
+
+  79108278H06.jpg  [gender]
+    标签: male
+    OCR : female
+
+  80033024R80.jpg  [id_number]
+    标签: 80033024R80
+    OCR : 80033024R
+
+  80033024R80.jpg  [first_name]
+    标签: AUTHAR
+    OCR : MANDIZIRA
+
+  80033024R80.jpg  [gender]
+    标签: male
+    OCR : female
+
+  80043505J80.jpg  [gender]
+    标签: male
+    OCR : female
+
+  83017588H83.jpg  [id_number]
+    标签: 83017588H83
+    OCR : 83017500H83
+
+  83017588H83.jpg  [surname]
+    标签: ZINYAU
+    OCR : 
+
+  83017588H83.jpg  [first_name]
+    标签: CNIA
+    OCR : ZINYAU
+
+  83017588H83.jpg  [birth_date]
+    标签: 10.10.49
+    OCR : 01.10.1949
+
+  83048989P83.jpg  [id_number]
+    标签: 83048989P83
+    OCR : 30489895P83
+
+  83048989P83.jpg  [gender]
+    标签: male
+    OCR : female
+
+  83053079K04.jpg  [surname]
+    标签: GWANGWAVA
+    OCR : GUANGHAVA
+
+  83053079K04.jpg  [first_name]
+    标签: RETINA NYENGETERAI
+    OCR : RETINA
+
+  83065172E83.jpg  [id_number]
+    标签: 83065172E83
+    OCR : 83065172E
+
+  83080292P83.jpg  [first_name]
+    标签: TASUNUNGURWA
+    OCR : TA SUNUNGURWA
+
+  83080292P83.jpg  [gender]
+    标签: male
+    OCR : female
+
+  83085812P83.jpg  [id_number]
+    标签: 83085812P83
+    OCR : 8308512393
+
+  83085812P83.jpg  [surname]
+    标签: SHOKO
+    OCR : SALLY
+
+  83085812P83.jpg  [first_name]
+    标签: SALLY
+    OCR : SHOKO
+
+  83091679R83.jpg  [id_number]
+    标签: 83091679R83
+    OCR : 83091678983
+
+  83091679R83.jpg  [first_name]
+    标签: PRISCA
+    OCR : PRIESCA
+
+  83097955N83.jpg  [gender]
+    标签: male
+    OCR : female
+
+  83103653G83.jpg  [surname]
+    标签: MHLANGA
+    OCR : MAGGIE
+
+  83103653G83.jpg  [first_name]
+    标签: MAGGIE
+    OCR : MHLANGA
+
+  83103653G83.jpg  [gender]
+    标签: 
+    OCR : female
+
+  83128138W83.jpg  [id_number]
+    标签: 83128138W83
+    OCR : 85128138W83
+
+  84001883T54.jpg  [id_number]
+    标签: 84001883T54
+    OCR : 84001883T
+
+  85019469Q85.jpg  [first_name]
+    标签: SAMSON
+    OCR : SAM
+
+  85019469Q85.jpg  [gender]
+    标签: male
+    OCR : female
+
+  852005400A85.jpg  [first_name]
+    标签: LASTON
+    OCR : CASTON
+
+  852005400A85.jpg  [gender]
+    标签: male
+    OCR : female
+
+  86006110B86.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属02045077J02.jpg  [id_number]
+    标签: 02045077J02
+    OCR : 02045077J
+
+  金属02045077J02.jpg  [surname]
+    标签: NDCU
+    OCR : SHCNISANI
+
+  金属02045077J02.jpg  [first_name]
+    标签: SHONISANI
+    OCR : NDCU
+
+  金属03117822L03.jpg  [id_number]
+    标签: 03117822L03
+    OCR : 03117222103
+
+  金属08238875Y32.jpg  [surname]
+    标签: UZANDE
+    OCR : PATRICK
+
+  金属08238875Y32.jpg  [first_name]
+    标签: PATRICK
+    OCR : UZANDE
+
+  金属08238875Y32.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属08408241R35.jpg  [gender]
+    标签: female
+    OCR : 
+
+  金属08456040X47.jpg  [id_number]
+    标签: 08456040X47
+    OCR : 08456040X
+
+  金属08456040X47.jpg  [first_name]
+    标签: BIGBOY
+    OCR : BIGBJY
+
+  金属08456040X47.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属13007937L13.jpg  [id_number]
+    标签: 13007937L13
+    OCR : 13007937L
+
+  金属13007937L13.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属14015585F26.jpg  [id_number]
+    标签: 14015585F26
+    OCR : 14015585F
+
+  金属14015585F26.jpg  [first_name]
+    标签: MOSES TIMOTHY
+    OCR : MOSES
+
+  金属14015585F26.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属27041156K27.jpg  [surname]
+    标签: MANDISHE
+    OCR : SEKAI
+
+  金属27041156K27.jpg  [first_name]
+    标签: SEKAI
+    OCR : BUHERA
+
+  金属29168464B26.jpg  [id_number]
+    标签: 29168464B26
+    OCR : 291684648
+
+  金属29168464B26.jpg  [first_name]
+    标签: KURAUVONE
+    OCR : KUR AUVONE
+
+  金属29168464B26.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属320211801B32.jpg  [id_number]
+    标签: 26105690Z26
+    OCR : 60096994900
+
+  金属39022528Q39.jpg  [id_number]
+    标签: 39022528Q39
+    OCR : 39022528039
+
+  金属39022528Q39.jpg  [surname]
+    标签: NDEBELE
+    OCR : 
+
+  金属39022528Q39.jpg  [first_name]
+    标签: MEIYEZWE
+    OCR : NDEBELE
+
+  金属39022528Q39.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属44045220N44.jpg  [id_number]
+    标签: 44045220N44
+    OCR : 44045220N
+
+  金属44045220N44.jpg  [first_name]
+    标签: REGIVA
+    OCR : REGINA
+
+  金属47073686Z47.jpg  [id_number]
+    标签: 47073686Z47
+    OCR : 470736862
+
+  金属47073686Z47.jpg  [surname]
+    标签: ZIMONOI
+    OCR : ZIMMONDI
+
+  金属59005563F59.jpg  [id_number]
+    标签: 59005563F59
+    OCR : 59005563F
+
+  金属59005563F59.jpg  [gender]
+    标签: 
+    OCR : female
+
+  金属59014413A54.jpg  [id_number]
+    标签: 59014413A54
+    OCR : 59014413A
+
+  金属59014413A54.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属631218557B38.jpg  [id_number]
+    标签: 631218557B38
+    OCR : 63121855703
+
+  金属632445405G71.jpg  [id_number]
+    标签: 18063109N18
+    OCR : 11061109N
+
+  金属632445405G71.jpg  [surname]
+    标签: MASHINGAIDZE
+    OCR : MASHINGA
+
+  金属632445405G71.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属63637699L00.jpg  [id_number]
+    标签: 63637699L00
+    OCR : 63637699L
+
+  金属63637699L00.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属63883300T25.jpg  [id_number]
+    标签: 63883300T25
+    OCR : 63883300T
+
+  金属63883300T25.jpg  [surname]
+    标签: MAPFUMO
+    OCR : MAPFUMO CUTHBERT
+
+  金属63883300T25.jpg  [first_name]
+    标签: CUTHBERT
+    OCR : CHATUKUTA
+
+  金属63883300T25.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属66062583E66.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属67006337Z67.jpg  [id_number]
+    标签: 67006337Z67
+    OCR : 67006337Z
+
+  金属67030447F12.jpg  [id_number]
+    标签: 67030447F12
+    OCR : 67030447F
+
+  金属67030447F12.jpg  [birth_date]
+    标签: 1.8.60
+    OCR : 8.60
+
+  金属67122080G67.jpg  [gender]
+    标签: male
+    OCR : female
+
+  金属68058938F68.jpg  [surname]
+    标签: CHOKORERA
+    OCR : SHAMVA
+
+  金属68058938F68.jpg  [first_name]
+    标签: SHAINAYI
+    OCR : CHOKORERA
+
+  金属75298521S75.jpg  [id_number]
+    标签: 75298521S75
+    OCR : 298521S
+
+  金属75298521S75.jpg  [surname]
+    标签: SITHDLE
+    OCR : GARISIKAYI
+
+  金属75298521S75.jpg  [first_name]
+    标签: GARISIKAYI
+    OCR : SITHOLE
+
+  金属83119140Q83.jpg  [birth_date]
+    标签: 05.05.1980
+    OCR : 03.05.1980
+
+  金属83119140Q83.jpg  [gender]
+    标签: male
+    OCR : female
+
+=================================================================
+  逐文件对比详情
+=================================================================
+  ✗ 02033711E02.jpg
+    gender: 标签=male  OCR=female
+  ✗ 02035993K02.jpg
+    id_number: 标签=08740811F53  OCR=08740811
+  ✓ 02061724D02.jpg
+  ✗ 02061902X02.jpg
+    gender: 标签=male  OCR=female
+  ✗ 03041276J03.jpg
+    gender: 标签=male  OCR=female
+  ✓ 03041586W03.jpg
+  ✗ 03041622K03.jpg
+    first_name: 标签=RUNGMIRAI  OCR=RUNGAMIRAI
+  ✗ 03043148T03.jpg
+    surname: 标签=RUVENGD  OCR=RUVENGU
+  ✗ 03052051W00.jpg
+    id_number: 标签=03052051W00  OCR=03052051W
+    first_name: 标签=RODNEY JAMES  OCR=RODNEY
+    gender: 标签=male  OCR=female
+  ✗ 03057351G03.jpg
+    id_number: 标签=03057351G03  OCR=03057351603
+  ✗ 03076159A03.jpg
+    id_number: 标签=03076159A03  OCR=030761594
+    birth_date: 标签=23.11.72  OCR=01.72
+  ✗ 03086524R03.jpg
+    id_number: 标签=03086524R03  OCR=03086524R
+    gender: 标签=male  OCR=female
+  ✗ 03105570T03.jpg
+    surname: 标签=HOVE  OCR=C
+    first_name: 标签=TARISAI  OCR=HOPE
+    birth_date: 标签=30.08.1981  OCR=08-1980
+  ✗ 03106696S03.jpg
+    id_number: 标签=03106696S03  OCR=03106686803
+    surname: 标签=PHIRI  OCR=GAMUCHIRAI
+    first_name: 标签=GAMUCHIRAI  OCR=PHIRI
+  ✓ 03117162T03.jpg
+  ✗ 032006772T03.jpg
+    first_name: 标签=MEMORY  OCR=NDUNA
+  ✗ 04006178Q04.jpg
+    gender: 标签=male  OCR=female
+  ✗ 04008660N04.jpg
+    id_number: 标签=04008660N04  OCR=04008660N
+  ✗ 04023436Z04.jpg
+    id_number: 标签=04023436Z04  OCR=04023436Z
+  ✗ 04030216T04.jpg
+    id_number: 标签=04030216T04  OCR=0403021604
+    gender: 标签=male  OCR=female
+  ✗ 04042138C04.jpg
+    id_number: 标签=04042138C04  OCR=04042133C04
+    first_name: 标签=CECILIAH  OCR=CEFTIZAH
+  ✗ 04045144V04.jpg
+    surname: 标签=MACHINGAMBI  OCR=CHAKOTERA
+    first_name: 标签=MARIET  OCR=BIKITA
+  ✗ 04054344V04.jpg
+    id_number: 标签=04054344V04  OCR=04053444104
+    surname: 标签=MATONHODZE  OCR=MATONHOODZE
+    first_name: 标签=SHARAI  OCR=SHARAJ
+  ✓ 04056682L04.jpg
+  ✗ 04057057T04.jpg
+    id_number: 标签=04057057T04  OCR=57057104C11
+    surname: 标签=MATOREVHU  OCR=MATOREVTH
+  ✗ 04057281M04.jpg
+    id_number: 标签=04057281M04  OCR=04057281M
+    first_name: 标签=MOSES FUNGIRAI  OCR=MOSES
+    gender: 标签=male  OCR=female
+  ✗ 04062050W09.jpg
+    id_number: 标签=04062050W09  OCR=04062050W04
+  ✓ 04062822K04.jpg
+  ✗ 04069040T04.jpg
+    id_number: 标签=04069040T04  OCR=04069040T
+    gender: 标签=male  OCR=female
+  ✗ 04071086S04.jpg
+    id_number: 标签=04071086S04  OCR=04071086S
+    surname: 标签=MAMBARA  OCR=MANBARA
+    first_name: 标签=MUJERE  OCR=MUJER
+    birth_date: 标签=08.06.73  OCR=05.06.1973
+  ✗ 04072245C04.jpg
+    first_name: 标签=ELIAS  OCR=EL JAS
+    gender: 标签=male  OCR=female
+  ✗ 04080654S04.jpg
+    id_number: 标签=04080654S04  OCR=04080654604
+    first_name: 标签=LEVY  OCR=CHOWE
+    gender: 标签=male  OCR=female
+  ✗ 04084886S04.jpg
+    id_number: 标签=04084886S04  OCR=04084886S
+    gender: 标签=male  OCR=female
+  ✗ 04087816C04.jpg
+    birth_date: 标签=06.02.1977  OCR=05.02.1977
+    gender: 标签=male  OCR=female
+  ✗ 04109501Y18.jpg
+    surname: 标签=MASUKA  OCR=GUTU
+    first_name: 标签=REMITIA  OCR=MASUKA
+  ✗ 050029007L05.jpg
+    id_number: 标签=05029007L05  OCR=05029007L
+  ✗ 05007554S68.jpg
+    id_number: 标签=05007554S68  OCR=05007554S
+  ✗ 05030359F05.jpg
+    birth_date: 标签=4.1.66  OCR=01.01.1965
+  ✗ 05036314D05.jpg
+    id_number: 标签=05036314D05  OCR=050363140
+    first_name: 标签=EDMORE  OCR=EDHORE
+    gender: 标签=male  OCR=female
+  ✗ 05051545J45.jpg
+    surname: 标签=CHIMUNDA  OCR=KANDEYA
+    first_name: 标签=CLEVER  OCR=BINDURA
+    gender: 标签=male  OCR=female
+  ✗ 05053916L68.jpg
+    surname: 标签=MANJEMGENJA  OCR=MANJENGENJA
+    first_name: 标签=INNDCENT  OCR=INNOCENT
+    gender: 标签=male  OCR=female
+  ✓ 05062809C05.jpg
+  ✗ 05069754B05.jpg
+    id_number: 标签=05069754B05  OCR=0508975005
+    surname: 标签=MUHUKUSA  OCR=
+    first_name: 标签=DADIRAI  OCR=
+    birth_date: 标签=20.03.1969  OCR=03.07.1997
+  ✗ 05073982X14.jpg
+    id_number: 标签=63624707P47  OCR=63624707P
+    gender: 标签=male  OCR=female
+  ✓ 06035118K06.jpg
+  ✗ 06109127E06.jpg
+    id_number: 标签=06005310K06  OCR=06005310K
+  ✗ 07004953D07.jpg
+    id_number: 标签=07004953D07  OCR=07004953007
+    surname: 标签=CHIPWANYA  OCR=CHIVHU
+    first_name: 标签=NYENGETERAYI  OCR=CHIPWANYA
+  ✗ 07041352S07.jpg
+    id_number: 标签=07041352S07  OCR=070413525
+  ✗ 07042454Q18.jpg
+    id_number: 标签=07042454Q18  OCR=070424540
+    first_name: 标签=BEAUTY  OCR=CHIGIJI
+  ✓ 07064939F07.jpg
+  ✗ 07069659L07.jpg
+    id_number: 标签=07069659L07  OCR=07069659L
+  ✗ 07071638M07.jpg
+    id_number: 标签=07071638M07  OCR=07C71E38M
+    surname: 标签=PUSHWAYA  OCR=PESFWAYS
+  ✗ 07089760K07.jpg
+    id_number: 标签=07089760K07  OCR=07089760M
+    first_name: 标签=MOMBAI  OCR=KOMSAI
+    gender: 标签=male  OCR=female
+  ✗ 07090697D07.jpg
+    id_number: 标签=07090697D07  OCR=070906970
+    gender: 标签=male  OCR=female
+  ✗ 07099966D07.jpg
+    id_number: 标签=631147649C50  OCR=31147649C50
+    surname: 标签=KAHWENA  OCR=KANWENA
+  ✗ 07105713A07.jpg
+    id_number: 标签=07105713A07  OCR=0710571307F
+    birth_date: 标签=15.06.1978  OCR=15.04.1978
+  ✗ 07107972F07.jpg
+    id_number: 标签=07107972F07  OCR=07107972107
+    first_name: 标签=LOVENESS  OCR=MAGAZINESS
+    birth_date: 标签=26.04.1977  OCR=04. 19. 97
+  ✗ 07140779Q07.jpg
+    id_number: 标签=07140779Q07  OCR=07140779007
+    surname: 标签=CHITENDERE  OCR=ZENDA
+    first_name: 标签=MUNYARADZI  OCR=EJHERA
+    gender: 标签=male  OCR=female
+  ✗ 08023500V28.jpg
+    gender: 标签=male  OCR=female
+  ✗ 08034661B04.jpg
+    id_number: 标签=08034661B04  OCR=080346618
+    surname: 标签=VENGERE  OCR=JERICHO
+    first_name: 标签=JERICHO  OCR=VENGERE
+    gender: 标签=male  OCR=female
+  ✗ 08050700K41.jpg
+    id_number: 标签=08050700K41  OCR=08050700K
+    gender: 标签=male  OCR=female
+  ✗ 08068592H08.jpg
+    id_number: 标签=08068592H08  OCR=08068592H
+    surname: 标签=MASUKU  OCR=CHARLES
+    first_name: 标签=CHARLES  OCR=MASUKU
+    gender: 标签=male  OCR=female
+  ✓ 08115598B27.jpg
+  ✗ 08118449A39.jpg
+    gender: 标签=male  OCR=female
+  ✗ 08123293Q03.jpg
+    id_number: 标签=08123293Q03  OCR=08123293003
+    gender: 标签=male  OCR=female
+  ✗ 08130021D53.jpg
+    id_number: 标签=08130021D53  OCR=081300210
+    surname: 标签=MBAMBO  OCR=FAYABO
+    first_name: 标签=SITHEMBISO  OCR=FBAMBO
+  ✗ 08156804Q28.jpg
+    id_number: 标签=08156804Q28  OCR=081568046
+    gender: 标签=male  OCR=female
+  ✗ 08165630J56.jpg
+    id_number: 标签=08165630J56  OCR=08165830J56
+  ✗ 08189145T08.jpg
+    id_number: 标签=08189145T08  OCR=08189145T
+    surname: 标签=NDIWENT  OCR=NDTWENT
+    first_name: 标签=WELLOSI  OCR=WELLOST
+    birth_date: 标签=15.7.59  OCR=08.07.1959
+    gender: 标签=male  OCR=female
+  ✓ 08196182S29.jpg
+  ✗ 08203279G44.jpg
+    id_number: 标签=08203279G44  OCR=08203279644
+    surname: 标签=CHIYIKE  OCR=MAZIKE
+    first_name: 标签=HANDSON  OCR=CHIMANIMANI
+    gender: 标签=male  OCR=female
+  ✓ 08208732J38.jpg
+  ✗ 082103921R12.jpg
+    surname: 标签=SIBANDA  OCR=LUPANE
+    first_name: 标签=ATALIA  OCR=SIBANDA
+  ✗ 08221076B47.jpg
+    id_number: 标签=08221076B47  OCR=08220768
+    gender: 标签=male  OCR=female
+  ✗ 08221309E24.jpg
+    gender: 标签=male  OCR=female
+  ✗ 08229398X05.jpg
+    first_name: 标签=LENIAS ELECK  OCR=LENIAS
+    gender: 标签=male  OCR=female
+  ✗ 08233413L08.jpg
+    id_number: 标签=08233413L08  OCR=08233413
+  ✗ 082335079A12.jpg
+    id_number: 标签=35017024G35  OCR=35017024G
+  ✗ 08248342N26.jpg
+    id_number: 标签=08248342N26  OCR=08248342
+    surname: 标签=QADZIRA  OCR=SUNGAI
+    first_name: 标签=DELIWE  OCR=MATCHO
+  ✗ 08255100J39.jpg
+    id_number: 标签=08255100J39  OCR=U8255100J39
+    surname: 标签=DUBE  OCR=JUBE
+    gender: 标签=male  OCR=female
+  ✗ 08255909N21.jpg
+    birth_date: 标签=15.12.16  OCR=15.12.1946
+  ✗ 08272230D08.jpg
+    id_number: 标签=08272230D08  OCR=0872230D08
+    birth_date: 标签=12.07.1958  OCR=12.07.1956
+    gender: 标签=male  OCR=female
+  ✗ 08316781D35.jpg
+    id_number: 标签=08316781D35  OCR=083167810
+  ✗ 08329466R50.jpg
+    id_number: 标签=08329466R50  OCR=08329466N50
+  ✗ 08345237J56.jpg
+    surname: 标签=MOYO  OCR=MOYD
+  ✗ 08351026B56.jpg
+    id_number: 标签=08351026B56  OCR=08351026B
+    surname: 标签=TABONGWANA  OCR=TABUNGWANA
+  ✗ 08365699A42.jpg
+    id_number: 标签=08365699A42  OCR=08365699A
+    surname: 标签=MUISIPA  OCR=MUTSIPA
+  ✗ 08367179J70.jpg
+    surname: 标签=CHIGUMBU  OCR=REGINA RUDORUNESU
+    first_name: 标签=RFGINA RUDORUNESU  OCR=RUDORUNESU
+  ✗ 08381444P28.jpg
+    id_number: 标签=08381444P28  OCR=083914442B
+    first_name: 标签=SIKHUPHUKJ  OCR=SIKHUPHUXT
+    birth_date: 标签=25.4.61  OCR=25.04.2010
+    gender: 标签=male  OCR=female
+  ✓ 08381534M29.jpg
+  ✗ 08394908Z83.jpg
+    surname: 标签=BETA  OCR=CHENGETO
+    first_name: 标签=CHENGETO  OCR=BETA
+  ✗ 08428423D21.jpg
+    id_number: 标签=08428423D21  OCR=084284230
+    surname: 标签=SIBANDA  OCR=FIBANDA
+  ✗ 08448976T39.jpg
+    id_number: 标签=08448976T39  OCR=48976139C11
+    surname: 标签=MOYO  OCR=MCYO
+  ✗ 08478885D56.jpg
+    id_number: 标签=08478885D56  OCR=0847400606
+    surname: 标签=KHUPE  OCR=KHOPE
+  ✗ 08489376G29.jpg
+    id_number: 标签=08489376G29  OCR=08489376G
+    first_name: 标签=CHIPO LINDA  OCR=CHIPO
+  ✗ 08499829T79.jpg
+    id_number: 标签=08499829T79  OCR=08499829T
+    surname: 标签=MTHUPHA  OCR=ALBERT
+    gender: 标签=male  OCR=female
+  ✗ 08504455X56.jpg
+    surname: 标签=NCUBE  OCR=MCUBE
+  ✗ 08532140P00.jpg
+    first_name: 标签=VANESSA DELPHINE  OCR=VANESSA
+  ✗ 08533060P18.jpg
+    id_number: 标签=08533060P18  OCR=9853366P
+    birth_date: 标签=07.11.68  OCR=17.11.1968
+    gender: 标签=male  OCR=female
+  ✓ 08556999K53.jpg
+  ✗ 08568335G41.jpg
+    id_number: 标签=08568335G41  OCR=08568335G
+    surname: 标签=DLODLO  OCR=THOMAS
+    first_name: 标签=MIQA  OCR=LUPANE
+  ✗ 08569939A38.jpg
+    id_number: 标签=08569939A38  OCR=085699394
+    gender: 标签=male  OCR=female
+  ✓ 08570361J28.jpg
+  ✗ 08581761A39.jpg
+    surname: 标签=NCUBE  OCR=KWEHLA
+    first_name: 标签=SIBONAKALISO  OCR=MATOBO
+  ✗ 08588704X28.jpg
+    first_name: 标签=SIBONILE  OCR=SIONILE
+  ✗ 08593531T03.jpg
+    gender: 标签=male  OCR=female
+  ✗ 08602815K19.jpg
+    surname: 标签=MLILD  OCR=SIMLEZI
+    first_name: 标签=SIHLEZI  OCR=MLILO
+  ✓ 08610387Q42.jpg
+  ✗ 08617120J75.jpg
+    id_number: 标签=58050634P58  OCR=58050634P
+    gender: 标签=male  OCR=female
+  ✗ 08627413X18.jpg
+    first_name: 标签=GAILY MAKANYUMWA  OCR=GAILY MARANYUMWA
+    birth_date: 标签=19.02.1983  OCR=19.02.1980
+  ✗ 08630195W19.jpg
+    id_number: 标签=08630195W19  OCR=0863019510
+    surname: 标签=MPOFU  OCR=DANIEL
+    first_name: 标签=BULISIWE  OCR=UMZINGWANE
+  ✗ 08655025K26.jpg
+    id_number: 标签=26019856B26  OCR=26019856426
+    surname: 标签=MUTENHERI  OCR=MUTENHERT
+    birth_date: 标签=25.6.43  OCR=26.04.1940
+    gender: 标签=male  OCR=female
+  ✗ 08656103G08.jpg
+    id_number: 标签=08656103G08  OCR=086561036
+    surname: 标签=SAKALK  OCR=SAKALA
+    gender: 标签=male  OCR=female
+  ✗ 08661898F07.jpg
+    id_number: 标签=08661898F07  OCR=08661898F
+    surname: 标签=CHIDHAKWA  OCR=CHIOHAKWA
+  ✓ 08668985J83.jpg
+  ✗ 08670403A32.jpg
+    id_number: 标签=08670403A32  OCR=0870403186
+    surname: 标签=PAMIRE  OCR=CHIGUTU
+    first_name: 标签=TAWANDA  OCR=CHIVERO
+    gender: 标签=male  OCR=female
+  ✗ 08676697R28.jpg
+    id_number: 标签=08676697R28  OCR=0866697820
+    surname: 标签=NCUBE  OCR=MARUPE
+    first_name: 标签=NKOSIYAZI  OCR=NKOSTYAZI
+    birth_date: 标签=08.02.1976  OCR=08.03.1976
+    gender: 标签=male  OCR=female
+  ✗ 08679077D73.jpg
+    id_number: 标签=08679077D73  OCR=0679077073
+    surname: 标签=NCUBE  OCR=MATUPULA
+    first_name: 标签=SIBOMISIWE  OCR=TSHOLOTSH
+    birth_date: 标签=06.02.1977  OCR=06.03.1977
+  ✗ 08688954P29.jpg
+    id_number: 标签=08688954P29  OCR=0868954P29
+    gender: 标签=male  OCR=female
+  ✗ 08695324N24.jpg
+    first_name: 标签=LINDIWE  OCR=LINDWE
+  ✗ 08718947Q44.jpg
+    id_number: 标签=08718947Q44  OCR=08710947
+    gender: 标签=male  OCR=female
+  ✗ 08765410T42.jpg
+    id_number: 标签=08765410T42  OCR=08785410104
+    surname: 标签=MAGAYA  OCR=MICHAEL
+    first_name: 标签=MICHAEL MUNYARADZI  OCR=MUNYARADZI
+    gender: 标签=male  OCR=female
+  ✗ 08798285C21.jpg
+    surname: 标签=SIBANDA  OCR=SIBAVDA
+  ✗ 11012696W11.jpg
+    birth_date: 标签=11.6.34  OCR=11. 6.34 H1 E1 C2
+    gender: 标签=male  OCR=female
+  ✗ 11026302K11.jpg
+    gender: 标签=  OCR=female
+  ✗ 11030028K11.jpg
+    id_number: 标签=11030028K11  OCR=11030028K
+    first_name: 标签=TEBETH PHIRI  OCR=TEBETH
+  ✗ 11040359P11.jpg
+    id_number: 标签=11040359P11  OCR=11040359
+    surname: 标签=MUGARIRI  OCR=CHIPO
+    first_name: 标签=CHIPO  OCR=MUGARIRI
+  ✗ 11043080X11.jpg
+    gender: 标签=male  OCR=female
+  ✗ 11043355W11.jpg
+    id_number: 标签=11043355W11  OCR=11043355
+    surname: 标签=ZONDEWA  OCR=ANNAH
+    first_name: 标签=ANNAH  OCR=ZONDEWA
+    birth_date: 标签=04.45.1974  OCR=04.05.1974
+  ✓ 11046240G11.jpg
+  ✗ 11055932R11.jpg
+    gender: 标签=male  OCR=female
+  ✗ 12031960R12.jpg
+    id_number: 标签=12031960R12  OCR=12031960R
+    gender: 标签=male  OCR=female
+  ✗ 12035834C22.jpg
+    id_number: 标签=12035834C22  OCR=12035834C
+  ✗ 12048657Q12.jpg
+    id_number: 标签=12048657Q12  OCR=120486570
+    surname: 标签=DUVE  OCR=EDWARD
+    first_name: 标签=ECWAPD  OCR=DUVE
+    gender: 标签=male  OCR=female
+  ✗ 12082363C12.jpg
+    birth_date: 标签=14.04.1981  OCR=14.04.1980
+  ✗ 12082865Y12.jpg
+    gender: 标签=male  OCR=female
+  ✗ 12092416E12.jpg
+    surname: 标签=GWANDIREGERA  OCR=MADZIVA
+    first_name: 标签=BENSON  OCR=CHIBI
+    gender: 标签=  OCR=female
+  ✗ 13010250A13.jpg
+    surname: 标签=BANGWAYO  OCR=BANGUAYO
+    first_name: 标签=LYTOM RINGIRAYI  OCR=LYTON RINGIRAYI
+    gender: 标签=male  OCR=female
+  ✗ 13021282R13.jpg
+    id_number: 标签=13021282R13  OCR=13021282R
+  ✗ 13024938Q44.jpg
+    id_number: 标签=13024938Q44  OCR=13024938044
+  ✗ 13084416Q44.jpg
+    id_number: 标签=13084416Q44  OCR=13084416044
+    gender: 标签=male  OCR=female
+  ✗ 13096906R13.jpg
+    id_number: 标签=13096906R13  OCR=13096906R
+    gender: 标签=male  OCR=female
+  ✗ 13111618H44.jpg
+    id_number: 标签=13111618H44  OCR=13111618H
+  ✗ 13112212D13.jpg
+    id_number: 标签=13112212D13  OCR=131122120
+    gender: 标签=male  OCR=female
+  ✗ 13138572F12.jpg
+    id_number: 标签=13138572F12  OCR=13138572F13
+  ✗ 13139699F13.jpg
+    id_number: 标签=13139699F13  OCR=13139609113
+    first_name: 标签=ZHMAH  OCR=CHIPPINGE
+    birth_date: 标签=23.10.1979  OCR=1979.03.2030
+  ✓ 13148851D13.jpg
+  ✗ 13151022N13.jpg
+    id_number: 标签=13151022N13  OCR=13151082N13
+    surname: 标签=HLATYWAYO  OCR=FAITH
+    first_name: 标签=FAITH  OCR=MARISETA
+  ✗ 13151757M13.jpg
+    surname: 标签=MHLANGA  OCR=PAMELLAH
+    first_name: 标签=PAMELLAH  OCR=MHLANGA
+  ✗ 13163659Z13.jpg
+    id_number: 标签=13163659Z13  OCR=13163659713
+  ✗ 13167807H13.jpg
+    gender: 标签=male  OCR=female
+  ✓ 13167811M13.jpg
+  ✗ 13171722N13.jpg
+    id_number: 标签=13171722N13  OCR=1311722N13M
+    gender: 标签=male  OCR=female
+  ✗ 13325474K13.jpg
+    first_name: 标签=SPIWL  OCR=SPIW
+  ✗ 14006656A83.jpg
+    id_number: 标签=14006656A83  OCR=140066564
+    surname: 标签=PASIPAMIRE  OCR=PASIPAMIR
+    birth_date: 标签=16.11.58  OCR=16.11.1956
+  ✗ 14016507H04.jpg
+    id_number: 标签=14016507H04  OCR=1401650704C
+    surname: 标签=MANYURURE  OCR=MARKO
+    first_name: 标签=MARKO  OCR=MANYURURE
+    gender: 标签=male  OCR=female
+  ✗ 14022205B14.jpg
+    id_number: 标签=14022205B14  OCR=14022205B
+    gender: 标签=male  OCR=female
+  ✗ 14036290L14.jpg
+    id_number: 标签=14100691M14  OCR=14100691M
+    surname: 标签=MADUME  OCR=MADUWE
+    first_name: 标签=DANISON  OCR=DAVISON
+    gender: 标签=male  OCR=female
+  ✗ 14061861F14.jpg
+    id_number: 标签=14061861F14  OCR=14061861F
+  ✗ 14087271A12.jpg
+    id_number: 标签=14087271A12  OCR=14087271A
+    surname: 标签=NYENGERAI  OCR=MECHIA
+    first_name: 标签=MECHIA  OCR=NYENGERAI
+  ✗ 14098941K44.jpg
+    surname: 标签=MWASHAIRENYI  OCR=M
+    first_name: 标签=TSITSI  OCR=M
+  ✗ 14104142N14.jpg
+    id_number: 标签=14104142N14  OCR=14104142N
+  ✗ 14108028M04.jpg
+    id_number: 标签=14108028M04  OCR=14108028M
+    gender: 标签=male  OCR=female
+  ✗ 14133012T14.jpg
+    id_number: 标签=14133012T14  OCR=14133072T14
+    surname: 标签=CHINONO  OCR=NEMANASHI
+    first_name: 标签=TASMELENI  OCR=CHIREDZI
+  ✗ 15006117W15.jpg
+    id_number: 标签=15006117W15  OCR=15006117W
+    surname: 标签=MUGAURI  OCR=MUGAUR
+    first_name: 标签=EFFIE  OCR=MUGAURI
+  ✓ 15009848B15.jpg
+  ✗ 15018718S15.jpg
+    id_number: 标签=15018718S15  OCR=1501871815
+  ✗ 15021732T15.jpg
+    id_number: 标签=15021732T15  OCR=15021732
+    birth_date: 标签=7.4.50  OCR=7·4·50
+    gender: 标签=male  OCR=female
+  ✗ 15041520C25.jpg
+    surname: 标签=MAKORONI  OCR=MAKURONI
+    first_name: 标签=VONGAI VICTORIA  OCR=VONCAI VICTORIA
+  ✗ 15082597B15.jpg
+    id_number: 标签=15082597B15  OCR=15082597B
+    gender: 标签=male  OCR=female
+  ✗ 15098101D15.jpg
+    id_number: 标签=15098101D15  OCR=150981010
+  ✗ 15121045S27.jpg
+    first_name: 标签=AQNES  OCR=AGNES
+    gender: 标签=  OCR=female
+  ✓ 15122372K15.jpg
+  ✗ 15123761V15.jpg
+    id_number: 标签=47029803A47  OCR=47029803A
+    surname: 标签=TAENGWA  OCR=CHENJERAYI
+    first_name: 标签=CHENJERAYI  OCR=TAENGWA
+    gender: 标签=  OCR=male
+  ✓ 15136885K15.jpg
+  ✗ 15171238A71.jpg
+    id_number: 标签=631098464Q71  OCR=63109846407
+    surname: 标签=GUYO  OCR=GUYD
+    birth_date: 标签=21.08.1981  OCR=21.08.1985
+  ✗ 152053800T15.jpg
+    id_number: 标签=21029413G21  OCR=210294136
+    surname: 标签=MOYO  OCR=VUSUMUZI
+    first_name: 标签=VUSUMUZI  OCR=MOYO
+    gender: 标签=male  OCR=female
+  ✗ 18028803Z18.jpg
+    id_number: 标签=18028803Z18  OCR=18028803218
+    first_name: 标签=NOREEN  OCR=NORFEN
+  ✗ 18046837B18.jpg
+    id_number: 标签=18046837B18  OCR=180168378
+    surname: 标签=LIZAMARWP  OCR=KUZANARWO
+    gender: 标签=male  OCR=female
+  ✗ 18052876Q18.jpg
+    id_number: 标签=18052876Q18  OCR=18052876018
+    surname: 标签=CHIUNDURA  OCR=MUDIMU
+    first_name: 标签=GRACE  OCR=CHIVHU
+  ✗ 190016452F19.jpg
+    id_number: 标签=19015452F19  OCR=19016452F
+    first_name: 标签=LANGELIHLF  OCR=LANGELIHL
+  ✗ 19002194H73.jpg
+    id_number: 标签=19002194H73  OCR=19002194H
+    surname: 标签=MOYO  OCR=PESININA
+    first_name: 标签=PESININA  OCR=MOYD
+  ✓ 21024554A21.jpg
+  ✗ 21030147E21.jpg
+    id_number: 标签=21030147E21  OCR=21030147E
+    surname: 标签=NYONI  OCR=THULANI
+    first_name: 标签=THULANI  OCR=NYONI
+    gender: 标签=male  OCR=female
+  ✗ 21032184T21.jpg
+    id_number: 标签=21032184T21  OCR=210321841
+    first_name: 标签=SETHULO  OCR=SETHULD
+  ✓ 21045408S21.jpg
+  ✗ 22003549A22.jpg
+    id_number: 标签=22003549A22  OCR=04004326C
+    surname: 标签=GWCNHA  OCR=Gwenha
+    first_name: 标签=MOSES  OCR=Moses
+    gender: 标签=male  OCR=female
+  ✗ 220211565E13.jpg
+    birth_date: 标签=12.03.1981  OCR=12.03.1984
+    gender: 标签=male  OCR=female
+  ✗ 22025140T83.jpg
+    surname: 标签=CHIKUTU  OCR=LAWRENCE
+    first_name: 标签=LAWRENCE  OCR=CHIKUTU
+    gender: 标签=male  OCR=female
+  ✗ 22029749D21.jpg
+    id_number: 标签=22029749D21  OCR=220297490
+    gender: 标签=male  OCR=female
+  ✗ 22032016S03.jpg
+    id_number: 标签=22032016S03  OCR=32132016393
+    surname: 标签=MAKOTOSE  OCR=
+    birth_date: 标签=2.1.59  OCR=None
+    gender: 标签=  OCR=female
+  ✗ 22036752Q27.jpg
+    id_number: 标签=22036752Q27  OCR=220367520
+  ✗ 22048285B22.jpg
+    id_number: 标签=22048285B22  OCR=22045285B22
+    surname: 标签=BUNGU  OCR=TAVUYA
+    first_name: 标签=TAVUYA  OCR=MASVINGO
+    birth_date: 标签=6.4.46  OCR=06.01.1946
+    gender: 标签=male  OCR=female
+  ✗ 22060833Q22.jpg
+    id_number: 标签=22060833Q22  OCR=220608330
+    first_name: 标签=MARIA  OCR=MARTA
+    birth_date: 标签=1.10.51  OCR=11.10.1951
+  ✗ 22107793J77.jpg
+    gender: 标签=male  OCR=female
+  ✗ 22117550P22.jpg
+    id_number: 标签=22117550P22  OCR=22117550
+  ✗ 22130614P22.jpg
+    id_number: 标签=22130614P22  OCR=58198602Z58
+    gender: 标签=male  OCR=female
+  ✗ 22139257J22.jpg
+    gender: 标签=male  OCR=
+  ✓ 22148673T22.jpg
+  ✗ 22151566N27.jpg
+    id_number: 标签=22151566N27  OCR=22151566N
+    first_name: 标签=KRIEAY  OCR=FRITAY
+    birth_date: 标签=15.06.73  OCR=06.73
+    gender: 标签=male  OCR=female
+  ✗ 22152478E27.jpg
+    gender: 标签=male  OCR=female
+  ✗ 22167463S22.jpg
+    id_number: 标签=22167463S22  OCR=22167463822
+    gender: 标签=male  OCR=female
+  ✗ 22195518M22.jpg
+    id_number: 标签=22195518M22  OCR=22195918M22
+    first_name: 标签=LILIOSA  OCR=LILIDSA
+  ✗ 22197831B22.jpg
+    gender: 标签=male  OCR=female
+  ✗ 22207344R83.jpg
+    gender: 标签=male  OCR=female
+  ✗ 23010630D23.jpg
+    id_number: 标签=23010630D23  OCR=23010630023
+  ✗ 23015116E23.jpg
+    surname: 标签=MGWIRA  OCR=MOWIRA
+  ✗ 23015574C23.jpg
+    gender: 标签=male  OCR=female
+  ✗ 23181579S23.jpg
+    id_number: 标签=58081126H58  OCR=58061126H
+    birth_date: 标签=5.7.51  OCR=05.07.1954
+  ✓ 24036743T32.jpg
+  ✗ 24064212B26.jpg
+    id_number: 标签=24064212B26  OCR=24064212826
+  ✗ 25023961G45.jpg
+    id_number: 标签=25023961G45  OCR=250239616
+    surname: 标签=MARASA  OCR=NORMAN
+    first_name: 标签=NORMAN  OCR=MARASA
+    birth_date: 标签=15.01.68  OCR=05.01.1968
+    gender: 标签=male  OCR=female
+  ✗ 25028431Q25.jpg
+    id_number: 标签=25028431Q25  OCR=250284310
+    surname: 标签=MUZAWAZI  OCR=MUZAMAZI
+    gender: 标签=male  OCR=female
+  ✗ 25034099B25.jpg
+    id_number: 标签=25034099B25  OCR=25034099B
+  ✗ 25040562B50.jpg
+    id_number: 标签=25040562B50  OCR=250405628
+    first_name: 标签=MARIA LITTW RUTENDO  OCR=MARIA LITT
+  ✗ 25060474V32.jpg
+    first_name: 标签=LLOYD  OCR=LEODYD
+    gender: 标签=male  OCR=female
+  ✓ 25065354Z25.jpg
+  ✓ 26008282W26.jpg
+  ✗ 26025435Q26.jpg
+    id_number: 标签=26025435Q26  OCR=260016700
+    surname: 标签=MAMINGIER  OCR=MAVINGIRE
+    first_name: 标签=KENANIT  OCR=KENANI
+    gender: 标签=male  OCR=female
+  ✗ 26049886S26.jpg
+    id_number: 标签=26049886S26  OCR=26049886S
+    gender: 标签=male  OCR=female
+  ✗ 26083950T26.jpg
+    id_number: 标签=26083950T26  OCR=26083950T
+    first_name: 标签=TAMCNGWA  OCR=TAYENGWA
+    gender: 标签=male  OCR=female
+  ✗ 26089758G26.jpg
+    id_number: 标签=26089758G26  OCR=26089758626
+  ✗ 26098831T26.jpg
+    gender: 标签=male  OCR=female
+  ✓ 26125240Z26.jpg
+  ✓ 26130041S26.jpg
+  ✗ 27004813G27.jpg
+    id_number: 标签=27004813G27  OCR=27004813G
+    gender: 标签=male  OCR=female
+  ✗ 27025410V27.jpg
+    id_number: 标签=27025410V27  OCR=27025410V
+  ✗ 27054586H27.jpg
+    surname: 标签=MANDEBVU  OCR=CHENJERAI
+    first_name: 标签=CHENJERAI  OCR=MANDEBVU
+    gender: 标签=male  OCR=female
+  ✗ 27055548D27.jpg
+    gender: 标签=male  OCR=female
+  ✗ 27058735S27.jpg
+    id_number: 标签=27058735S27  OCR=270587355
+    gender: 标签=male  OCR=female
+  ✗ 27060028Y27.jpg
+    first_name: 标签=MUEARG  OCR=MUEARC
+  ✗ 27075149J27.jpg
+    id_number: 标签=63885843H25  OCR=63885843H
+    gender: 标签=male  OCR=female
+  ✗ 27082519V27.jpg
+    id_number: 标签=27082519V27  OCR=27082519V
+  ✗ 27096262H27.jpg
+    id_number: 标签=27096262H27  OCR=27096262H
+    surname: 标签=BANDE  OCR=AUXILIA
+    first_name: 标签=AUXIUIA  OCR=07.03.71
+  ✗ 27121106M27.jpg
+    gender: 标签=male  OCR=female
+  ✗ 27121728N27.jpg
+    id_number: 标签=27121728N27  OCR=27121720802
+    first_name: 标签=EMERITA  OCR=ETERITA
+  ✗ 27135364K27.jpg
+    birth_date: 标签=27.08.1976  OCR=27.03.1976
+  ✗ 27144023X27.jpg
+    gender: 标签=male  OCR=female
+  ✗ 27149333T86.jpg
+    id_number: 标签=27149333T86  OCR=27148333186
+    gender: 标签=male  OCR=female
+  ✗ 27154659H27.jpg
+    gender: 标签=male  OCR=female
+  ✗ 27161408T27.jpg
+    surname: 标签=SANANGU  OCR=SANANGU ANTHONY
+    first_name: 标签=ANTHONY  OCR=CHIDONGI MASVINGO
+    gender: 标签=male  OCR=female
+  ✗ 27166708E27.jpg
+    gender: 标签=male  OCR=female
+  ✗ 28003957H28.jpg
+    id_number: 标签=28003957H28  OCR=28003957H
+    surname: 标签=NCUBE  OCR=BETHUEL
+    gender: 标签=male  OCR=female
+  ✗ 28047393W28.jpg
+    id_number: 标签=28047393W28  OCR=28047393W
+    first_name: 标签=SIBONSILE  OCR=SIEONGILE
+  ✗ 28060189E28.jpg
+    id_number: 标签=28060189E28  OCR=28060189E
+    gender: 标签=male  OCR=female
+  ✗ 28082039E28.jpg
+    surname: 标签=DUBE  OCR=DUBE MARGERT
+    first_name: 标签=MAROERT  OCR=PASWANA GWANDA
+  ✓ 28088444R28.jpg
+  ✗ 28091132N28.jpg
+    gender: 标签=male  OCR=female
+  ✗ 29056827G66.jpg
+    id_number: 标签=29056827G66  OCR=29056827666
+    surname: 标签=MABEZ  OCR=MABEZA
+  ✗ 29058607R42.jpg
+    id_number: 标签=29058607R42  OCR=29058607842
+    gender: 标签=male  OCR=female
+  ✗ 29097419D07.jpg
+    id_number: 标签=29097419D07  OCR=290974190
+    surname: 标签=VIRIRI  OCR=BUHERA
+    first_name: 标签=NYASHA  OCR=VITOIRI
+    gender: 标签=male  OCR=female
+  ✗ 29109841F32.jpg
+    surname: 标签=NGWARIRAYI  OCR=NOWARIRAY BRIGHTON
+    first_name: 标签=BRIGHTON  OCR=C
+    birth_date: 标签=18.04.1979  OCR=18.01.1979
+    gender: 标签=male  OCR=female
+  ✗ 29110278F29.jpg
+    id_number: 标签=29110278F29  OCR=29110278F
+    surname: 标签=MPOFU  OCR=EMMA
+    first_name: 标签=EMMAH  OCR=EMMA
+    birth_date: 标签=9.10.64  OCR=01.04
+  ✗ 29111514Z12.jpg
+    id_number: 标签=29111514Z12  OCR=29111514Z
+  ✗ 29112734A66.jpg
+    id_number: 标签=29112734A66  OCR=29112734A
+  ✗ 29125287V44.jpg
+    id_number: 标签=29125287V44  OCR=2912028744
+    surname: 标签=MARINGEHOSI  OCR=MARINGEHOGI
+    first_name: 标签=ALTCE  OCR=ALICE
+    birth_date: 标签=08.05.1966  OCR=05.05.1962
+  ✗ 29129629P45.jpg
+    id_number: 标签=29129629P45  OCR=29125629P45
+  ✗ 29137076J58.jpg
+    surname: 标签=NCUBE  OCR=DINGILWAZI
+    first_name: 标签=DINGILWAZI  OCR=NCUBE
+    gender: 标签=male  OCR=female
+  ✗ 29153938M26.jpg
+    first_name: 标签=EUSTINA  OCR=EUSIINA
+  ✗ 29154487J25.jpg
+    id_number: 标签=29154487J25  OCR=29154487J
+    first_name: 标签=KUZVINETSA VIOLET  OCR=KUZVINETSA
+  ✗ 29155329Z29.jpg
+    id_number: 标签=29155329Z29  OCR=29155329229
+    first_name: 标签=NODETTER  OCR=NOBETTER
+  ✗ 29176169B22.jpg
+    id_number: 标签=12014977G12  OCR=12014977G
+  ✗ 29176181P29.jpg
+    gender: 标签=male  OCR=female
+  ✗ 29185949G29.jpg
+    surname: 标签=MUHLAKAIA  OCR=MUHLAKAZA
+    gender: 标签=male  OCR=female
+  ✗ 29193242J29.jpg
+    surname: 标签=NCUBE  OCR=SITSHENGISO
+    first_name: 标签=SITSHENGISO  OCR=TSHEKELA
+  ✗ 29209985H18.jpg
+    id_number: 标签=29209985H18  OCR=29209985
+    first_name: 标签=NDAKAITEI TABETH  OCR=NDAKAITEI
+  ✗ 29323501V26.jpg
+    surname: 标签=MUSOROWEMBUDZI  OCR=MUREWA
+    first_name: 标签=PRECIUS  OCR=MUSOROWEMBUDZI
+  ✗ 32000820Z32.jpg
+    id_number: 标签=32000820Z32  OCR=320008202
+    surname: 标签=KANAMANDARI  OCR=RODRECK
+    first_name: 标签=RODRECK  OCR=CHEGUTU
+    gender: 标签=male  OCR=female
+  ✗ 32002137F32.jpg
+    birth_date: 标签=23.11.49  OCR=23.11.1944
+  ✗ 320063301N26.jpg
+    id_number: 标签=32063301N26  OCR=32063301N
+    surname: 标签=NAVIVI  OCR=MAVIVI
+  ✗ 320104785E32.jpg
+    id_number: 标签=32104785E32  OCR=32104785E
+    surname: 标签=ARABI  OCR=IRENE
+    first_name: 标签=IRENE  OCR=CHEGUTU
+  ✗ 32016290P32.jpg
+    id_number: 标签=32016290P32  OCR=32018200803
+    gender: 标签=male  OCR=female
+  ✗ 32027741L18.jpg
+    surname: 标签=GCNYORA  OCR=CONYORA
+    birth_date: 标签=29.04.49  OCR=29.04.1998
+  ✗ 32066601A15.jpg
+    id_number: 标签=32066601A15  OCR=320566016
+  ✗ 32082630Y32.jpg
+    gender: 标签=male  OCR=female
+  ✗ 32083416C14.jpg
+    id_number: 标签=32083416C14  OCR=326834160
+    surname: 标签=ZVIREWO  OCR=ZVIRELO
+    gender: 标签=male  OCR=female
+  ✗ 32085665X32.jpg
+    gender: 标签=male  OCR=female
+  ✗ 32085948E27.jpg
+    id_number: 标签=32085948E27  OCR=32085948E
+    surname: 标签=NANO  OCR=CHEGUTU
+    first_name: 标签=ROSE  OCR=NANO
+    gender: 标签=male  OCR=female
+  ✗ 32101996Y27.jpg
+    id_number: 标签=32101996Y27  OCR=32101996Y
+    gender: 标签=male  OCR=female
+  ✗ 32102900F03.jpg
+    surname: 标签=NHETE  OCR=CHIVASA KILCHEGUTU
+    first_name: 标签=GIFT  OCR=HO EO CO
+    gender: 标签=male  OCR=female
+  ✓ 32120778N32.jpg
+  ✓ 32126958F29.jpg
+  ✗ 32209352P27.jpg
+    gender: 标签=male  OCR=female
+  ✗ 34005759F34.jpg
+    id_number: 标签=34005759F34  OCR=34005759F
+    first_name: 标签=EVANGELICTA  OCR=EVANGELITA
+  ✗ 34010154H34.jpg
+    id_number: 标签=34010154H34  OCR=34010154M
+  ✗ 34012510T34.jpg
+    id_number: 标签=34012510T34  OCR=340125101
+    gender: 标签=male  OCR=female
+  ✗ 34013425N34.jpg
+    id_number: 标签=34013425N34  OCR=34013425N
+    surname: 标签=GOTOGODO  OCR=GOROGODO
+    first_name: 标签=PAIRICK  OCR=PATRICK
+    gender: 标签=male  OCR=female
+  ✓ 34015216K34.jpg
+  ✗ 34029124C34.jpg
+    id_number: 标签=34029124C34  OCR=340291240
+    birth_date: 标签=6.11.65  OCR=06.11.2005
+  ✗ 34032434A34.jpg
+    id_number: 标签=34032434A34  OCR=34032408403
+    surname: 标签=NDARANGWA  OCR=SOLOMON
+    first_name: 标签=SOLOMON  OCR=BONDE
+    gender: 标签=male  OCR=female
+  ✗ 34039597L34.jpg
+    surname: 标签=MANDIWANZIRA  OCR=Mandiwangira
+    first_name: 标签=RUCHIWA  OCR=Mandiwangira
+  ✗ 34049983A34.jpg
+    id_number: 标签=34049983A34  OCR=34049983A
+  ✗ 34055253D34.jpg
+    id_number: 标签=34055253D34  OCR=340552530
+    surname: 标签=CHIMUNDA  OCR=PATRICK
+    first_name: 标签=PATRICK  OCR=CHIMUND
+    gender: 标签=male  OCR=female
+  ✗ 34058214X34.jpg
+    id_number: 标签=34058214X34  OCR=34058214X
+  ✗ 34061184A34.jpg
+    surname: 标签=NYABUNZE  OCR=INYANGA
+    gender: 标签=male  OCR=female
+  ✗ 34078503A34.jpg
+    gender: 标签=male  OCR=female
+  ✗ 34078757B34.jpg
+    gender: 标签=male  OCR=female
+  ✗ 35002890T35.jpg
+    surname: 标签=MOYO  OCR=MOYD
+  ✗ 37006835V38.jpg
+    surname: 标签=MUPUKUTA  OCR=MUPUKJTA
+    birth_date: 标签=02.23.71  OCR=02.03.1971
+    gender: 标签=male  OCR=female
+  ✗ 37026250Y37.jpg
+    id_number: 标签=37026250Y37  OCR=37026250137
+    first_name: 标签=REOERAI  OCR=REGERAI
+  ✗ 37077178E06.jpg
+    id_number: 标签=37077178E37  OCR=37077178E87
+    surname: 标签=SIAMBALI  OCR=JOHN
+    first_name: 标签=JOHN  OCR=SIAMBALI
+    gender: 标签=male  OCR=female
+  ✓ 37077874L37.jpg
+  ✗ 38009695K38.jpg
+    id_number: 标签=38009695K38  OCR=38009695K
+    first_name: 标签=FRYDAY  OCR=FRIDAY
+    gender: 标签=  OCR=female
+  ✗ 38015119F38.jpg
+    id_number: 标签=38015119F38  OCR=38015119F
+    surname: 标签=MACHAU  OCR=SAMSON
+    first_name: 标签=SAMSON  OCR=MACHAU
+    gender: 标签=male  OCR=female
+  ✗ 38019800T58.jpg
+    id_number: 标签=38019800T58  OCR=3801950158
+    gender: 标签=male  OCR=female
+  ✗ 38031905B38.jpg
+    id_number: 标签=38031905B38  OCR=38031905B
+  ✗ 38054258Y38.jpg
+    id_number: 标签=38054258Y38  OCR=38054258Y
+    gender: 标签=male  OCR=female
+  ✗ 38089490T38.jpg
+    surname: 标签=CHITSUNGO  OCR=ROBERT
+    first_name: 标签=ROBERT  OCR=CHITSUNGO
+    gender: 标签=male  OCR=female
+  ✗ 38096750K38.jpg
+    id_number: 标签=38096750K38  OCR=38096750
+    surname: 标签=NYAMAKAWO  OCR=NYAMHONDURD
+    first_name: 标签=MARGARETH  OCR=HURUNWE
+  ✗ 38096752M38.jpg
+    surname: 标签=BILLIAT  OCR=DHAMIANO
+    first_name: 标签=DHAMIAND  OCR=BILLIAT
+    gender: 标签=male  OCR=female
+  ✗ 38097361Z38.jpg
+    id_number: 标签=38071216F38  OCR=38071216F
+    surname: 标签=MUPFURUTSA  OCR=MUPFURUTSAJAMES
+    gender: 标签=male  OCR=female
+  ✗ 38107898C38.jpg
+    id_number: 标签=38107898C38  OCR=38107898638
+    gender: 标签=male  OCR=female
+  ✗ 410055366X41.jpg
+    surname: 标签=NDLOVU  OCR=NORUTHULA BARBARA
+    first_name: 标签=NOKUTHULA BARBARA  OCR=MUSES LUPANE
+  ✗ 41033639F41.jpg
+    id_number: 标签=41033639F41  OCR=41033639F
+    first_name: 标签=SIKHUMBUZD  OCR=SIKHUMBUZO
+    gender: 标签=male  OCR=female
+  ✗ 42005794W42.jpg
+    gender: 标签=male  OCR=female
+  ✗ 42019111W42.jpg
+    gender: 标签=male  OCR=female
+  ✗ 42026692L75.jpg
+    id_number: 标签=42026692L75  OCR=42026692L
+    surname: 标签=KAISA  OCR=ROSEMARY
+    first_name: 标签=ROSEMARY  OCR=KAISA
+  ✗ 42084950K80.jpg
+    id_number: 标签=42084950K80  OCR=42084950K
+  ✓ 42087857V07.jpg
+  ✗ 42089920M42.jpg
+    surname: 标签=MUDGNHODZO  OCR=STELLA
+    first_name: 标签=STELLA  OCR=MUTOKO
+  ✗ 42101942E42.jpg
+    gender: 标签=male  OCR=female
+  ✗ 42108394S42.jpg
+    id_number: 标签=42108394S42  OCR=421083945
+  ✗ 42117597W42.jpg
+    id_number: 标签=42117597W42  OCR=42117507W42
+    gender: 标签=male  OCR=female
+  ✗ 42119131N42.jpg
+    gender: 标签=male  OCR=female
+  ✗ 42120281N43.jpg
+    id_number: 标签=42120281N43  OCR=42120281N
+    surname: 标签=CHIZIWANO  OCR=VICTORIA
+    first_name: 标签=VICIORIA ELIZABETH  OCR=ELIZABETH
+  ✗ 42121923Y42.jpg
+    surname: 标签=NYABADZA  OCR=MAHACHI
+    first_name: 标签=MELCHIO  OCR=MAKONI
+    gender: 标签=male  OCR=female
+  ✗ 42136152P42.jpg
+    id_number: 标签=42136152P42  OCR=42136152P
+    gender: 标签=male  OCR=female
+  ✓ 42151374K07.jpg
+  ✗ 42153820T42.jpg
+    id_number: 标签=42153820T42  OCR=42153820742
+  ✗ 42166441M42.jpg
+    surname: 标签=TANDI  OCR=ELLAH
+    first_name: 标签=ELLAH TAMBUDZAI  OCR=TANDI
+  ✗ 42171703G42.jpg
+    surname: 标签=KUSVOTWA  OCR=TIMOTHY
+    first_name: 标签=TIMOTHY  OCR=KUSVOTWA
+    gender: 标签=male  OCR=female
+  ✗ 42186524R42.jpg
+    id_number: 标签=42186524R42  OCR=42188524842
+    first_name: 标签=DONIFACE  OCR=BONIFACE
+    gender: 标签=male  OCR=female
+  ✗ 42191305N07.jpg
+    gender: 标签=male  OCR=female
+  ✗ 43013799D43.jpg
+    id_number: 标签=43013799D43  OCR=43013799043
+    surname: 标签=COMIWA  OCR=NHAMARROE
+    first_name: 标签=VIOLA  OCR=COMIWA
+  ✗ 43020649Z43.jpg
+    id_number: 标签=43020649Z43  OCR=43020649Z
+  ✗ 43032804L43.jpg
+    gender: 标签=male  OCR=female
+  ✗ 43061524D42.jpg
+    gender: 标签=male  OCR=female
+  ✗ 43062039N43.jpg
+    gender: 标签=male  OCR=female
+  ✗ 43063626N43.jpg
+    surname: 标签=KUGARA  OCR=FUNGAI
+    first_name: 标签=FUNGAI TARWIREYI  OCR=TARWIREYI
+    gender: 标签=male  OCR=female
+  ✗ 43068276S43.jpg
+    id_number: 标签=43068276S43  OCR=43068276
+    gender: 标签=male  OCR=female
+  ✗ 432069736R42.jpg
+    id_number: 标签=12051592F12  OCR=12051592F
+  ✗ 44012021C44.jpg
+    surname: 标签=RUCHIYO  OCR=RUCHIYD
+    gender: 标签=male  OCR=female
+  ✗ 44028142A44.jpg
+    id_number: 标签=44028142A44  OCR=440281424
+    surname: 标签=MATIMAIRE  OCR=MATIMARE
+    gender: 标签=male  OCR=female
+  ✗ 44033299F44.jpg
+    id_number: 标签=44033299F44  OCR=44033299F
+    gender: 标签=male  OCR=female
+  ✗ 44043820R44.jpg
+    id_number: 标签=44043820R44  OCR=44043820R
+    gender: 标签=male  OCR=female
+  ✗ 44061563C44.jpg
+    id_number: 标签=44061563C44  OCR=44061563C
+    surname: 标签=MASIYA  OCR=CHIMANIMANI
+    first_name: 标签=COLLEN  OCR=MASIYA
+    gender: 标签=male  OCR=female
+  ✗ 44062533G44.jpg
+    id_number: 标签=44062533G44  OCR=44062533G
+  ✓ 44068075F44.jpg
+  ✗ 44106186F44.jpg
+    id_number: 标签=75272517C75  OCR=752725170
+    birth_date: 标签=12.11.73  OCR=12.11.1975
+  ✗ 45023384K07.jpg
+    gender: 标签=male  OCR=female
+  ✓ 45025790A45.jpg
+  ✗ 45032643Z45.jpg
+    surname: 标签=MPHEPO  OCR=IREEN
+    first_name: 标签=IREEN  OCR=CHIKWAZHA
+  ✗ 45034125K45.jpg
+    gender: 标签=male  OCR=female
+  ✗ 45048904Z45.jpg
+    id_number: 标签=45048904Z45  OCR=450499042
+    surname: 标签=KAMLSASA  OCR=KAMESASA
+    first_name: 标签=KARVER  OCR=MARVE
+    birth_date: 标签=16.04.69  OCR=16.04.1965
+    gender: 标签=male  OCR=female
+  ✗ 45051741H68.jpg
+    id_number: 标签=45051741H68  OCR=51051741H68
+    gender: 标签=male  OCR=female
+  ✓ 45058613C45.jpg
+  ✗ 45063132P45.jpg
+    id_number: 标签=45063132P45  OCR=45063132P
+    gender: 标签=male  OCR=female
+  ✗ 45076838M45.jpg
+    surname: 标签=ZHUWAWO  OCR=MAJICHI
+    first_name: 标签=RUZIA  OCR=MT DARWIN
+  ✗ 45141210G45.jpg
+    surname: 标签=CHIFODYA  OCR=SILVIA
+    first_name: 标签=SILVIA  OCR=CHIFODYA
+  ✗ 45148027R45.jpg
+    gender: 标签=  OCR=female
+  ✗ 45160388C45.jpg
+    id_number: 标签=42166716L72  OCR=42166716L42
+    surname: 标签=CHI MANIUNDU  OCR=MUCUTA
+    first_name: 标签=ISHMAIL  OCR=MAKONI
+    birth_date: 标签=06.04.1976  OCR=06.04.1978
+    gender: 标签=male  OCR=female
+  ✗ 47002869Z47.jpg
+    id_number: 标签=47002869Z47  OCR=47002869Z
+    birth_date: 标签=10.10.59  OCR=10.10.1955
+  ✗ 47015144R47.jpg
+    id_number: 标签=47015144R47  OCR=47015144R
+    surname: 标签=CHABI  OCR=MICHAEL
+    first_name: 标签=MICHAEL  OCR=MATZUW
+    gender: 标签=male  OCR=female
+  ✗ 47034615F34.jpg
+    surname: 标签=MADZIVANZIRA  OCR=MAOZIVANZIRA
+    first_name: 标签=MASIWA EDIMODAR  OCR=MASIWA
+  ✗ 47037156S47.jpg
+    id_number: 标签=47037156S47  OCR=47037156S
+  ✗ 47043535B47.jpg
+    id_number: 标签=47043535B47  OCR=470435358
+    first_name: 标签=BENHILDA MAKAONESO  OCR=BENFILDA
+  ✗ 47065543Y47.jpg
+    first_name: 标签=HAZVINEYI JEAN  OCR=HAZVINEYI
+  ✗ 47070567J47.jpg
+    id_number: 标签=47070567J47  OCR=47070567J
+    first_name: 标签=PATLENCE  OCR=PETIENCE
+    birth_date: 标签=17.05.73  OCR=17.03.1973
+  ✗ 47076011B47.jpg
+    id_number: 标签=47076011B47  OCR=47076011847
+    surname: 标签=DENDA  OCR=MOSES
+    first_name: 标签=MOSES  OCR=DENDA
+    gender: 标签=male  OCR=female
+  ✗ 47077628J47.jpg
+    surname: 标签=NHDKWARA  OCR=ALBERT
+    first_name: 标签=ALBERT  OCR=NHOKWARA
+    gender: 标签=male  OCR=female
+  ✗ 47077953M47.jpg
+    id_number: 标签=47077953M47  OCR=47077953M
+    surname: 标签=MAPFUMO  OCR=PHILIP
+    first_name: 标签=PHILLIP  OCR=MHEMBERE
+    gender: 标签=male  OCR=female
+  ✗ 47089878Z47.jpg
+    id_number: 标签=47089878Z47  OCR=470898782
+    surname: 标签=NYAMUNDA  OCR=MATONGO
+    first_name: 标签=MATONGO  OCR=CHITIYO
+    gender: 标签=male  OCR=female
+  ✗ 47089880B47.jpg
+    id_number: 标签=47089880B47  OCR=470890800
+    surname: 标签=TARUVINGA  OCR=TARUVINCA
+    first_name: 标签=BENHILDA  OCR=BENHILOA
+  ✗ 47093298R47.jpg
+    id_number: 标签=47093298R47  OCR=47093298R
+    gender: 标签=male  OCR=female
+  ✗ 47099176F47.jpg
+    id_number: 标签=47099176F47  OCR=47099176F
+    first_name: 标签=KUDAKWASHE EARINORA  OCR=KUDAKWASHE
+  ✗ 47099649V47.jpg
+    id_number: 标签=47089878Z47  OCR=470898782
+    surname: 标签=NYAMUNDA  OCR=MATONGO
+    first_name: 标签=MATONGO  OCR=CHITIYO
+    gender: 标签=male  OCR=female
+  ✗ 47105017E47.jpg
+    gender: 标签=male  OCR=female
+  ✗ 47116089P47.jpg
+    gender: 标签=male  OCR=female
+  ✗ 47122214X47.jpg
+    surname: 标签=MOFFAT  OCR=LUCIA
+    first_name: 标签=LUCIAS  OCR=MOYFAT
+    birth_date: 标签=04.09.1977  OCR=04.06.1977
+    gender: 标签=male  OCR=female
+  ✓ 47144434Z47.jpg
+  ✗ 48000352V48.jpg
+    id_number: 标签=48000352V48  OCR=48000352V
+    gender: 标签=male  OCR=female
+  ✗ 48021225H49.jpg
+    id_number: 标签=48021225H49  OCR=48021225H
+    surname: 标签=MUKANDE  OCR=MIKANDE
+  ✗ 48029698S49.jpg
+    surname: 标签=HOSHIKI  OCR=HOSHIKI MUSAFARE
+    first_name: 标签=MUSAFARE  OCR=KATIVHU MUDZI
+    gender: 标签=male  OCR=female
+  ✓ 48045071C48.jpg
+  ✗ 48050829L48.jpg
+    id_number: 标签=48050829L48  OCR=48050829L
+    first_name: 标签=GUMISAI  OCR=SUMISAI
+    gender: 标签=male  OCR=female
+  ✗ 48065768Z48.jpg
+    first_name: 标签=SARUDZAI  OCR=SAPUDZAI
+  ✗ 48069292E48.jpg
+    first_name: 标签=NYARADZAI RUJEKO  OCR=NYARADZAI
+  ✗ 48081476Y48.jpg
+    id_number: 标签=48081476Y48  OCR=48081476748
+    gender: 标签=male  OCR=female
+  ✓ 48088991R48.jpg
+  ✗ 48102577J48.jpg
+    surname: 标签=NYERENYERE  OCR=WISEMAN
+    first_name: 标签=WISEMAN  OCR=NYERENYERE
+    gender: 标签=male  OCR=female
+  ✓ 48105927A48.jpg
+  ✗ 490006612F49.jpg
+    id_number: 标签=49006612F49  OCR=49006612F
+    surname: 标签=KANYONGATISE  OCR=KARYONGATISE
+  ✗ 49013122G49.jpg
+    id_number: 标签=49013122G49  OCR=49013122G
+    surname: 标签=NYAMHERE  OCR=WATSON
+    first_name: 标签=WATSON WELLINGTON  OCR=WELLINGTON
+    gender: 标签=male  OCR=female
+  ✗ 49018454C49.jpg
+    id_number: 标签=49018454C49  OCR=49018454C
+    surname: 标签=NYAKABAU  OCR=HANDI
+    first_name: 标签=MANDI  OCR=NYAKABAUL
+    gender: 标签=male  OCR=female
+  ✗ 49022340B49.jpg
+    id_number: 标签=49022340B49  OCR=490223408
+    surname: 标签=NYARGNI  OCR=NYARONI
+    gender: 标签=male  OCR=female
+  ✗ 49037039D49.jpg
+    id_number: 标签=49037039D49  OCR=4903703948
+    surname: 标签=KAMBAMBAIR  OCR=KAMURERE
+    first_name: 标签=SHUPIKAI  OCR=MUOZI
+  ✗ 49037306T49.jpg
+    id_number: 标签=49037306T49  OCR=49037306T
+  ✗ 49050292J49.jpg
+    first_name: 标签=CHAMUNORWA  OCR=CHAMKINORWA
+    gender: 标签=male  OCR=female
+  ✗ 49068287T49.jpg
+    id_number: 标签=49068287T49  OCR=49068287149
+    birth_date: 标签=23.11.1973  OCR=23.01.1975
+    gender: 标签=male  OCR=female
+  ✗ 49071694X49.jpg
+    gender: 标签=male  OCR=female
+  ✗ 49085216V49.jpg
+    id_number: 标签=49085216V49  OCR=49085218040
+    surname: 标签=CHIMVKWAIRA  OCR=MUDZI
+    first_name: 标签=SHGOTER  OCR=TUJORA
+    birth_date: 标签=11.10.1983  OCR=01.09.1997
+  ✗ 492001345V49.jpg
+    id_number: 标签=68004158M61  OCR=68004158M
+    surname: 标签=CHITSUN  OCR=CHITSUNGO
+    gender: 标签=male  OCR=female
+  ✗ 50022137M50.jpg
+    id_number: 标签=50022137M50  OCR=50022137M
+  ✗ 50032976T50.jpg
+    id_number: 标签=50032976T50  OCR=50032976T
+  ✗ 50041889G50.jpg
+    id_number: 标签=50041889G50  OCR=50041889G
+  ✗ 50048494L50.jpg
+    surname: 标签=URERE  OCR=C
+    first_name: 标签=AUXILIA  OCR=URERE
+  ✗ 50054555Z13.jpg
+    id_number: 标签=50054555Z13  OCR=500545552
+    surname: 标签=HLATYWAYO  OCR=CLERA
+    first_name: 标签=CLERA  OCR=HLATYWAYO
+    birth_date: 标签=14.05.63  OCR=14.05.1968
+  ✗ 50065957S50.jpg
+    id_number: 标签=50065957S50  OCR=50065957S
+    first_name: 标签=CHRISPEN CARLYON  OCR=CHRISPEN
+    gender: 标签=male  OCR=female
+  ✗ 50086288R50.jpg
+    first_name: 标签=GIFT  OCR=MANYUMWA
+    gender: 标签=male  OCR=female
+  ✗ 50096078H50.jpg
+    first_name: 标签=TOFESU EDSON  OCR=TOFFSU EDSON
+    gender: 标签=male  OCR=female
+  ✗ 53024677S53.jpg
+    id_number: 标签=53024677S53  OCR=53024677S
+    surname: 标签=DUBE  OCR=FANIAS
+    first_name: 标签=FANIAS  OCR=DUBE
+    gender: 标签=male  OCR=female
+  ✗ 53027648X53.jpg
+    id_number: 标签=53027648X53  OCR=53027648X
+    gender: 标签=male  OCR=female
+  ✗ 53028205C53.jpg
+    id_number: 标签=53028205C53  OCR=53028205C
+  ✗ 53039055W58.jpg
+    surname: 标签=NOUBE  OCR=C
+    birth_date: 标签=28.08.73  OCR=26.08.1973
+    gender: 标签=male  OCR=female
+  ✗ 53040720F53.jpg
+    first_name: 标签=KHUMBULANI  OCR=KHUMBULANT
+  ✗ 53054170A53.jpg
+    gender: 标签=male  OCR=female
+  ✗ 53069906E53.jpg
+    surname: 标签=NCUBE  OCR=MONICA
+    first_name: 标签=MONICA  OCR=NCUBE
+  ✗ 54002997J54.jpg
+    surname: 标签=DHAMBARARA  OCR=DHAMBARARA ENNIE
+    first_name: 标签=ENNIE  OCR=CHIEF KRAAL
+  ✗ 54038048H54.jpg
+    id_number: 标签=29176169B22  OCR=29176169822
+  ✗ 54061706Y12.jpg
+    id_number: 标签=54061706Y12  OCR=2043101
+  ✗ 54070574M54.jpg
+    id_number: 标签=54070574M54  OCR=54070574
+    surname: 标签=TSAMWISI  OCR=CHIGARA
+    first_name: 标签=MIRRIAM  OCR=MWENEZI
+  ✗ 56003994F56.jpg
+    id_number: 标签=56003994F56  OCR=55003994F56
+  ✗ 56032365T56.jpg
+    id_number: 标签=56032365T56  OCR=560323657
+    first_name: 标签=TSHANDAPIWA  OCR=TSHANDAPIVA
+  ✗ 56036483V56.jpg
+    gender: 标签=male  OCR=female
+  ✗ 56037833M56.jpg
+    id_number: 标签=56037833M56  OCR=56037833M
+    gender: 标签=male  OCR=female
+  ✗ 56039063Z56.jpg
+    id_number: 标签=56039063Z56  OCR=56039063256
+    surname: 标签=NCUBE  OCR=SILINDENI
+    first_name: 标签=SILINDENI  OCR=NCUBE
+  ✗ 56043737E56.jpg
+    id_number: 标签=56043737E56  OCR=56043737165
+    surname: 标签=MPOFU  OCR=DAFANA
+    first_name: 标签=BAFANA  OCR=BUILIMAMANWE
+    birth_date: 标签=06.06.1976  OCR=06.06.1974
+    gender: 标签=male  OCR=female
+  ✗ 56055450L56.jpg
+    birth_date: 标签=08.02.1972  OCR=06.02.1972
+  ✓ 56059588J56.jpg
+  ✗ 580149328Q26.jpg
+    id_number: 标签=58149328Q26  OCR=58149328026
+    gender: 标签=  OCR=female
+  ✗ 58028677Y58.jpg
+    gender: 标签=male  OCR=female
+  ✗ 58050634P58.jpg
+    id_number: 标签=58050634P58  OCR=58050634P
+    gender: 标签=male  OCR=female
+  ✓ 58091140S21.jpg
+  ✗ 58091406G58.jpg
+    id_number: 标签=58091406G58  OCR=580914066
+    surname: 标签=MUGORE  OCR=WILSON
+    first_name: 标签=WILSON  OCR=MUGORE
+    birth_date: 标签=04.04.64  OCR=04.09.1964
+    gender: 标签=male  OCR=female
+  ✓ 58104176M58.jpg
+  ✗ 58153130Y07.jpg
+    gender: 标签=male  OCR=female
+  ✗ 58179963P67.jpg
+    id_number: 标签=58179963P67  OCR=55179963P67
+    surname: 标签=NOAH  OCR=DADIRAYI
+    first_name: 标签=DADTRAYI  OCR=NOAH
+  ✓ 58193941H23.jpg
+  ✗ 58198602Z58.jpg
+    gender: 标签=male  OCR=female
+  ✗ 58201278H43.jpg
+    gender: 标签=male  OCR=female
+  ✗ 58267519J77.jpg
+    id_number: 标签=58267519J77  OCR=08459767Y29
+    surname: 标签=DUBE  OCR=SILINDILE
+    first_name: 标签=SILINDILE  OCR=DUBE
+  ✗ 59007797J18.jpg
+    gender: 标签=male  OCR=female
+  ✗ 59010384W86.jpg
+    id_number: 标签=59010384W86  OCR=59010384W
+    gender: 标签=male  OCR=female
+  ✓ 59011456L43.jpg
+  ✗ 59019163N11.jpg
+    id_number: 标签=59019163N11  OCR=11111111111
+    surname: 标签=WNBASHA  OCR=
+    first_name: 标签=BERYA  OCR=
+    birth_date: 标签=07.02.1979  OCR=1970.01.2001
+  ✗ 59020562J47.jpg
+    surname: 标签=MANGODA  OCR=STEPHEN
+    first_name: 标签=STEPHEN ITAI  OCR=ITAI
+    gender: 标签=male  OCR=female
+  ✗ 59029486J59.jpg
+    id_number: 标签=59029486J59  OCR=5929486J59C
+    gender: 标签=male  OCR=female
+  ✗ 59047828W49.jpg
+    surname: 标签=MATARE  OCR=OWEN
+    first_name: 标签=OWEN  OCR=MATARE
+    gender: 标签=male  OCR=female
+  ✗ 59051493E11.jpg
+    gender: 标签=male  OCR=female
+  ✗ 59053441X42.jpg
+    birth_date: 标签=3.01.1966  OCR=13.01.1966
+  ✗ 59146447Q42.jpg
+    gender: 标签=male  OCR=female
+  ✓ 61018660E68.jpg
+  ✗ 61029337K61.jpg
+    id_number: 标签=61029337K61  OCR=61029337K
+    surname: 标签=MARUKE  OCR=MARUNE
+    first_name: 标签=TAKADA  OCR=Tikada
+    birth_date: 标签=22.11.75  OCR=21.11.1975
+    gender: 标签=male  OCR=female
+  ✗ 63008277G00.jpg
+    id_number: 标签=63008277G00  OCR=63008277G
+    gender: 标签=male  OCR=female
+  ✗ 63008664C00.jpg
+    id_number: 标签=63008664C00  OCR=630086640
+    surname: 标签=PATEL  OCR=MOHAMED
+    first_name: 标签=MOHAMED IOBAL  OCR=PATEL
+    gender: 标签=male  OCR=female
+  ✗ 63017399X48.jpg
+    gender: 标签=male  OCR=female
+  ✗ 63027165M63.jpg
+    id_number: 标签=63027165M63  OCR=
+  ✗ 63051958L00.jpg
+    id_number: 标签=63051958L00  OCR=63051958L
+    gender: 标签=  OCR=female
+  ✗ 63052400R00.jpg
+    id_number: 标签=63052400R00  OCR=63052400R
+    first_name: 标签=JENNIFER JOANNA  OCR=JENNIFER
+  ✗ 63059032A03.jpg
+    id_number: 标签=63059032A03  OCR=63059032A
+    gender: 标签=male  OCR=female
+  ✗ 63067910A34.jpg
+    id_number: 标签=63067910A34  OCR=63067910A
+    surname: 标签=MAYIPE  OCR=PETER
+    first_name: 标签=PETER CLEVER  OCR=CLEVER
+    gender: 标签=male  OCR=female
+  ✗ 63069795Z47.jpg
+    id_number: 标签=63069795Z47  OCR=63069795Z
+    surname: 标签=KWENDAMBAYIRI  OCR=EMMILY
+    first_name: 标签=EMMILY  OCR=KWENDAMBAYIRI
+  ✗ 631000861A47.jpg
+    id_number: 标签=631000861A47  OCR=31000861A47
+    gender: 标签=male  OCR=female
+  ✗ 631004850L63.jpg
+    id_number: 标签=631004850L63  OCR=631004850L
+    gender: 标签=male  OCR=female
+  ✗ 631007705P85.jpg
+    id_number: 标签=631007705P85  OCR=89263041958
+    surname: 标签=GAWAZA  OCR=NYAJINA
+    first_name: 标签=ROBERT  OCR=HARARE
+    gender: 标签=  OCR=female
+  ✗ 631021390P32.jpg
+    id_number: 标签=631021390P32  OCR=631021390
+    birth_date: 标签=29.06.73  OCR=29.06.1975
+    gender: 标签=male  OCR=female
+  ✗ 631040372X25.jpg
+    id_number: 标签=631040372X25  OCR=31040372X25
+  ✗ 631044736Q63.jpg
+    id_number: 标签=631044736Q63  OCR=7590601
+    surname: 标签=SEMO  OCR=CROMONZI
+    first_name: 标签=TAURAI  OCR=LAURAI
+    birth_date: 标签=12.12.1973  OCR=12.12.1979
+    gender: 标签=male  OCR=female
+  ✗ 631062140H71.jpg
+    id_number: 标签=631062140H71  OCR=31062140H71
+    first_name: 标签=RFGINA  OCR=REGINA
+  ✗ 631065183Q25.jpg
+    id_number: 标签=631065183Q25  OCR=1065183Q
+  ✗ 631068214K63.jpg
+    id_number: 标签=631068214K63  OCR=1068214K
+    surname: 标签=MWENDOFAMBA  OCR=RUDO
+    first_name: 标签=RUDO  OCR=MENDOF AMBA
+  ✗ 631069112L63.jpg
+    id_number: 标签=631069112L63  OCR=631069112L
+  ✗ 631077681A13.jpg
+    id_number: 标签=631077681A13  OCR=5107268
+    surname: 标签=SITHOLE  OCR=STHOL
+    first_name: 标签=LOVEMOR RA  OCR=VIMOR
+    birth_date: 标签=19.06.78  OCR=None
+    gender: 标签=male  OCR=female
+  ✗ 631082476M45.jpg
+    id_number: 标签=631082476M45  OCR=31082476M45
+  ✗ 631093375J22.jpg
+    id_number: 标签=631093375J22  OCR=31093375J22
+  ✗ 631095625E42.jpg
+    id_number: 标签=631095625E42  OCR=31095625E42
+    surname: 标签=NEMAWUNGWE  OCR=DAVID
+    first_name: 标签=DAVID  OCR=NEMAWUNGWE
+    gender: 标签=male  OCR=female
+  ✗ 631101989X66.jpg
+    id_number: 标签=631101989X66  OCR=31101989X66
+    gender: 标签=male  OCR=female
+  ✗ 631104065D42.jpg
+    id_number: 标签=631104065D42  OCR=04065042C11
+    surname: 标签=MACHIPISA  OCR=MACAIPISA
+  ✗ 631115062G63.jpg
+    id_number: 标签=631115062G63  OCR=31115062G09
+    surname: 标签=GWANZURA  OCR=G
+    first_name: 标签=GIDEON TINASHE MALCOLM  OCR=GWAZURA
+    gender: 标签=male  OCR=female
+  ✗ 631146626Q63.jpg
+    id_number: 标签=631146626Q63  OCR=63114662606
+  ✗ 631153548P50.jpg
+    id_number: 标签=631153548P50  OCR=31153548P50
+    gender: 标签=male  OCR=female
+  ✗ 631161105D63.jpg
+    id_number: 标签=631161105D63  OCR=31161105D63
+  ✗ 631168749M27.jpg
+    id_number: 标签=631168749M27  OCR=31168749M27
+  ✗ 631169648P80.jpg
+    id_number: 标签=631169648P80  OCR=31169648P80
+    surname: 标签=CHOTO  OCR=EDWARD
+    first_name: 标签=EDWARD  OCR=CHOTO
+    gender: 标签=male  OCR=female
+  ✗ 631174403H32.jpg
+    surname: 标签=PAZUWA  OCR=DOUGLAS PANGANAI
+    first_name: 标签=DOUGLAS PANGANAI  OCR=PAZUWA
+    gender: 标签=male  OCR=female
+  ✗ 631178894P25.jpg
+    id_number: 标签=631178894P25  OCR=31178894P25
+    surname: 标签=MUSANANGURWA  OCR=LEONARD
+    first_name: 标签=LEONARD  OCR=MUSANANGURWA
+    gender: 标签=male  OCR=female
+  ✗ 631185139C18.jpg
+    id_number: 标签=631185139C18  OCR=31185139C18
+    first_name: 标签=MUNYARDZI BRIAN  OCR=MUNYARADZI
+    birth_date: 标签=01.16.1983  OCR=01.06.1983
+    gender: 标签=male  OCR=female
+  ✗ 631188884Y44.jpg
+    id_number: 标签=631188884Y44  OCR=31188884Y44
+  ✗ 63120602Z63.jpg
+    id_number: 标签=63120602Z63  OCR=63120602Z
+    surname: 标签=CHINGORE  OCR=FANUEL
+    first_name: 标签=FANUEL  OCR=CHLOCO
+    gender: 标签=male  OCR=female
+  ✗ 631215710G04.jpg
+    id_number: 标签=631215710G04  OCR=31215710G04
+    surname: 标签=KWAYE  OCR=THOMAS
+    first_name: 标签=THOMAS  OCR=KWAYE
+    gender: 标签=male  OCR=female
+  ✗ 631219391H67.jpg
+    id_number: 标签=631219391H67  OCR=31219391H66
+    surname: 标签=DENDERE  OCR=DENDERE CHARLES
+    first_name: 标签=CHARLES  OCR=CHISADZA SHURUGWI
+    gender: 标签=male  OCR=female
+  ✗ 631222735S22.jpg
+    id_number: 标签=631222735S22  OCR=63122273582
+    first_name: 标签=CALVIN KUDZANAYI  OCR=CALVIN
+    gender: 标签=male  OCR=female
+  ✗ 631228229P42.jpg
+    id_number: 标签=631228229P42  OCR=31228229P42
+  ✗ 631232349S42.jpg
+    id_number: 标签=631232349S32  OCR=63123234953
+    gender: 标签=male  OCR=female
+  ✗ 631237037N18.jpg
+    id_number: 标签=631237037N18  OCR=63123703718
+    first_name: 标签=TAPIWA COMFORTER  OCR=TAPIWA
+    gender: 标签=male  OCR=female
+  ✗ 631245441Y32.jpg
+    id_number: 标签=631245441Y32  OCR=63124544LY
+    surname: 标签=MUZONDO  OCR=MARTHA
+    first_name: 标签=MARTHA TENDAI  OCR=TENDAI
+  ✗ 631252274A71.jpg
+    id_number: 标签=631252274A71  OCR=31252274A71
+    gender: 标签=male  OCR=female
+  ✗ 631252684W42.jpg
+    id_number: 标签=631252684W42  OCR=31252684W42
+    surname: 标签=NYATSOMA  OCR=MAKONI
+    first_name: 标签=EVANGELISTA  OCR=NYAKATSAR
+    birth_date: 标签=08.09.1984  OCR=08. 01. 1984
+  ✗ 63126632D42.jpg
+    id_number: 标签=63126632D42  OCR=631266320
+    gender: 标签=male  OCR=female
+  ✗ 631272787X13.jpg
+    id_number: 标签=631272787X13  OCR=31272787X13
+    surname: 标签=MATUTE  OCR=CHICICHI
+    first_name: 标签=BRENDA TENDAI  OCR=CHI
+  ✗ 63129113A45.jpg
+    first_name: 标签=NICHAOS RROSPER  OCR=NICHALOS
+    gender: 标签=male  OCR=female
+  ✗ 63131332M61.jpg
+    id_number: 标签=63131332M61  OCR=63131332
+    gender: 标签=male  OCR=female
+  ✗ 63139803V66.jpg
+    gender: 标签=male  OCR=female
+  ✗ 63152700N18.jpg
+    id_number: 标签=63152700N18  OCR=63152700N
+    gender: 标签=male  OCR=female
+  ✗ 63157175C00.jpg
+    id_number: 标签=63157175C00  OCR=63157175C
+    first_name: 标签=NEIL CAMPBELL  OCR=NEIL
+    birth_date: 标签=11.9.48  OCR=11. 9.48C
+    gender: 标签=male  OCR=female
+  ✗ 63157229L48.jpg
+    id_number: 标签=63157229L48  OCR=63157229L
+    birth_date: 标签=1.6.53  OCR=01.06.1963
+    gender: 标签=male  OCR=female
+  ✗ 631594913J27.jpg
+    gender: 标签=male  OCR=female
+  ✗ 63163512Q00.jpg
+    id_number: 标签=63163512Q00  OCR=63163512000
+    birth_date: 标签=12.05.1959  OCR=12.05.1958
+  ✗ 63166016M71.jpg
+    id_number: 标签=63166016M71  OCR=63166016M
+    surname: 标签=KAMTONDO  OCR=CHRISTOPHER
+    first_name: 标签=CHRISTOPHER ISAAC  OCR=ISAAC
+    gender: 标签=male  OCR=female
+  ✗ 63189427J50.jpg
+    surname: 标签=MANJORO  OCR=MANJORD
+    first_name: 标签=JOSEPH MAGARIKA  OCR=JOSEPH
+    gender: 标签=male  OCR=female
+  ✗ 63203917J75.jpg
+    surname: 标签=ZINYAWO  OCR=AMUDIAMWE
+    first_name: 标签=AMUDIAMWE DENFORD  OCR=DENFORD
+    gender: 标签=male  OCR=female
+  ✗ 63222876R42.jpg
+    id_number: 标签=63222876R42  OCR=63222576R
+    gender: 标签=male  OCR=female
+  ✗ 63227119D18.jpg
+    id_number: 标签=63227119D18  OCR=63227119018
+    gender: 标签=male  OCR=female
+  ✗ 63243176G25.jpg
+    gender: 标签=male  OCR=female
+  ✗ 632523955M22.jpg
+    surname: 标签=DUBE  OCR=DUBE JANE
+    first_name: 标签=JANET  OCR=MUADZIKWAO
+    birth_date: 标签=25.11.1975  OCR=25 11. 1975
+  ✗ 63268892J49.jpg
+    surname: 标签=JAKARASI  OCR=RAPHAEL
+    first_name: 标签=RAPHAEL  OCR=JAKARASI
+    gender: 标签=male  OCR=female
+  ✗ 63273303D25.jpg
+    id_number: 标签=63273303D25  OCR=63273303
+    birth_date: 标签=3.1.51  OCR=01.05.2010
+  ✗ 63284509J80.jpg
+    surname: 标签=CHIGADA  OCR=DAVID
+    first_name: 标签=DAVID DINDINGWE  OCR=DINDINGWE
+    gender: 标签=male  OCR=female
+  ✗ 63284824B43.jpg
+    id_number: 标签=63284824B43  OCR=63284824B
+  ✗ 63297120R70.jpg
+    id_number: 标签=63297120R70  OCR=53297120R70
+    surname: 标签=MUSIIWA  OCR=MUSIWA
+    gender: 标签=male  OCR=female
+  ✗ 63312153G63.jpg
+    id_number: 标签=63312153G63  OCR=633121536
+    surname: 标签=MATENJA  OCR=MATENDA
+    first_name: 标签=SYDNEY KENNETH  OCR=SYDNEY
+    gender: 标签=male  OCR=female
+  ✗ 63331919R32.jpg
+    id_number: 标签=63331919R32  OCR=63331919
+    surname: 标签=HAPUOANGA  OCR=MAPUDRANGA
+    gender: 标签=male  OCR=female
+  ✗ 63340933P32.jpg
+    id_number: 标签=63340933P32  OCR=63340933P
+    first_name: 标签=EDITH TENDAI  OCR=EDITH
+  ✓ 63346843N70.jpg
+  ✗ 63354383J12.jpg
+    id_number: 标签=63354383J12  OCR=63354383J
+    gender: 标签=male  OCR=female
+  ✗ 63356819G42.jpg
+    id_number: 标签=63356819G42  OCR=63356819G
+    gender: 标签=male  OCR=female
+  ✗ 63358076Y25.jpg
+    id_number: 标签=63358076Y25  OCR=63358076Y
+    surname: 标签=NHIRA  OCR=GODFREY
+    first_name: 标签=GODFREY  OCR=NHIRA
+    gender: 标签=male  OCR=female
+  ✗ 63363736A58.jpg
+    id_number: 标签=63363736A58  OCR=63363736A
+    gender: 标签=male  OCR=female
+  ✓ 63372250E47.jpg
+  ✗ 63380468M24.jpg
+    first_name: 标签=LAST  OCR=KADONA
+  ✗ 63399065B77.jpg
+    id_number: 标签=63399065B77  OCR=633990658
+    gender: 标签=male  OCR=female
+  ✗ 63416606S34.jpg
+    id_number: 标签=63416606S34  OCR=634166065
+    gender: 标签=male  OCR=female
+  ✗ 63428155W70.jpg
+    surname: 标签=GUMBO  OCR=PATRICK
+    first_name: 标签=PATRICK CHAMUNORNA  OCR=CHAMUNDRA
+    gender: 标签=male  OCR=female
+  ✗ 63429367N66.jpg
+    surname: 标签=MURASHIKI  OCR=MURASHIKT
+    birth_date: 标签=1.1.41  OCR=41
+  ✗ 63446414S80.jpg
+    id_number: 标签=63446414S80  OCR=63446414S
+    gender: 标签=male  OCR=female
+  ✗ 63448434N63.jpg
+    id_number: 标签=63448434N63  OCR=63448434N
+    surname: 标签=LIWONDE  OCR=LIVONDE
+    gender: 标签=male  OCR=female
+  ✗ 63459598Y25.jpg
+    id_number: 标签=63459598Y25  OCR=63959098Y25
+    surname: 标签=KUUMBUKA  OCR=SUSAN MARY
+    first_name: 标签=SUSAN MARY  OCR=KUJUMBUKA
+  ✗ 63470252D47.jpg
+    id_number: 标签=63470252D47  OCR=63470252D
+    gender: 标签=male  OCR=female
+  ✗ 63474069C58.jpg
+    id_number: 标签=63474069C58  OCR=63474069C
+  ✗ 63477656B18.jpg
+    id_number: 标签=63477656B18  OCR=634776568
+    gender: 标签=male  OCR=female
+  ✗ 63486289K18.jpg
+    id_number: 标签=63486289K18  OCR=63486289K
+    gender: 标签=  OCR=female
+  ✗ 63489943G63.jpg
+    id_number: 标签=63489943G63  OCR=6348943G
+    surname: 标签=KANGOYA  OCR=KANGUYA
+    gender: 标签=male  OCR=female
+  ✗ 63498282W25.jpg
+    birth_date: 标签=1.1.60  OCR=1.1600
+    gender: 标签=male  OCR=female
+  ✗ 63498648T70.jpg
+    id_number: 标签=63498648T70  OCR=63498648170
+    gender: 标签=male  OCR=female
+  ✗ 63499094D83.jpg
+    id_number: 标签=63499094D83  OCR=634900940
+    surname: 标签=WASHAYA  OCR=HASHAYA
+    gender: 标签=male  OCR=female
+  ✗ 63514186H00.jpg
+    surname: 标签=SWAILE  OCR=SHARON
+    first_name: 标签=SHARON ANN  OCR=SWAILE
+  ✗ 63525227J50.jpg
+    surname: 标签=MUTASA  OCR=PATRICIA
+    first_name: 标签=PATRICIA  OCR=MUTASA
+  ✗ 63538830V48.jpg
+    id_number: 标签=63538830V48  OCR=53538830V48
+    first_name: 标签=JULIET ELIZABETH  OCR=JULIET
+    gender: 标签=  OCR=female
+  ✗ 63550682C07.jpg
+    id_number: 标签=63550682C07  OCR=098941
+    first_name: 标签=SHUVAI  OCR=MAKUNGUVA
+  ✗ 63565641M04.jpg
+    surname: 标签=MUTAPURE  OCR=PATRICIA
+    first_name: 标签=PATRICIA  OCR=MUTAPURE
+  ✗ 63576842M47.jpg
+    id_number: 标签=63576842M47  OCR=53576842M47
+    surname: 标签=HUNEMD  OCR=MUENEMO
+  ✗ 63577309V71.jpg
+    first_name: 标签=PAUL MABASA  OCR=PAUL NABASA
+    birth_date: 标签=28.08.53  OCR=28.08.1958
+    gender: 标签=male  OCR=female
+  ✗ 63578269N26.jpg
+    id_number: 标签=63578269N26  OCR=63578269N
+    gender: 标签=male  OCR=female
+  ✗ 63582008C42.jpg
+    id_number: 标签=63582008C42  OCR=63552008C
+    surname: 标签=GWETE  OCR=GNETE
+  ✗ 63602832M47.jpg
+    id_number: 标签=63602832M47  OCR=602832M47
+    surname: 标签=NYAHASHA  OCR=URENA
+    first_name: 标签=MOLINE  OCR=NYAWASHA
+    birth_date: 标签=5.1.61  OCR=02-30
+  ✗ 63605289H15.jpg
+    id_number: 标签=63605289H15  OCR=63605289H
+    gender: 标签=male  OCR=female
+  ✗ 63635503Z07.jpg
+    id_number: 标签=63635503Z07  OCR=636355032
+    gender: 标签=male  OCR=female
+  ✗ 63638234S19.jpg
+    id_number: 标签=63638234S19  OCR=63638234S
+  ✗ 63645883G75.jpg
+    id_number: 标签=63645883G75  OCR=63645883675
+  ✗ 63646884V03.jpg
+    id_number: 标签=63646884V03  OCR=63646884V
+    first_name: 标签=BERNARD NDABANENGI  OCR=BERNARD
+    gender: 标签=male  OCR=female
+  ✓ 63656141G32.jpg
+  ✓ 63671468R25.jpg
+  ✗ 63682871L77.jpg
+    id_number: 标签=63682871L77  OCR=63682871
+    gender: 标签=male  OCR=female
+  ✗ 63685947E48.jpg
+    first_name: 标签=AGNESS  OCR=KANOSHUNGU
+    birth_date: 标签=10.11.62  OCR=None
+  ✗ 63699390R38.jpg
+    id_number: 标签=63699390R38  OCR=6369939
+  ✗ 63729959T63.jpg
+    id_number: 标签=63729959T63  OCR=62729959T
+  ✗ 63739524Q47.jpg
+    id_number: 标签=63739524Q47  OCR=637395240
+  ✗ 63741014K15.jpg
+    id_number: 标签=63741014K15  OCR=53741014K
+    birth_date: 标签=01.09.68  OCR=01.03.1968
+    gender: 标签=male  OCR=female
+  ✗ 63748421L04.jpg
+    id_number: 标签=63748421L04  OCR=63748421104
+    surname: 标签=CHIWARE  OCR=HARARE
+    first_name: 标签=DAINA  OCR=CHIWARE
+    gender: 标签=male  OCR=female
+  ✗ 63759457G63.jpg
+    id_number: 标签=63759457G63  OCR=63759457G
+  ✗ 63763033T12.jpg
+    id_number: 标签=63763033T18  OCR=63762033718
+    surname: 标签=MANCOKA  OCR=MANCOVA
+  ✗ 63766076B63.jpg
+    id_number: 标签=63766076B63  OCR=63766075B
+    gender: 标签=male  OCR=female
+  ✗ 63769227B34.jpg
+    id_number: 标签=63769227B34  OCR=63769227834
+    surname: 标签=MUPANNGAPANGA  OCR=MAXWELL
+    first_name: 标签=MAXWELL  OCR=MUPANGAPANGA
+    gender: 标签=male  OCR=female
+  ✓ 63774529P63.jpg
+  ✗ 63788997Q43.jpg
+    id_number: 标签=63788997Q43  OCR=637889970
+    surname: 标签=MASAWI  OCR=DASY
+    first_name: 标签=DAISY DOROTHY  OCR=DAISY
+  ✗ 63789975D38.jpg
+    id_number: 标签=63789975D38  OCR=63739975038
+    first_name: 标签=ENCT  OCR=ENET
+  ✗ 63791266G32.jpg
+    id_number: 标签=63791266G32  OCR=63791265632
+    surname: 标签=IAVAZIVA  OCR=JEVAS
+    first_name: 标签=JEVAS  OCR=TAVAZIVA
+    birth_date: 标签=26.04.70  OCR=25.04.1970
+    gender: 标签=male  OCR=female
+  ✗ 63797354Z47.jpg
+    id_number: 标签=63797354Z47  OCR=63797354
+    surname: 标签=MBANJE  OCR=CHIKUVANYANGA
+    first_name: 标签=CAROLINE  OCR=MUREWA
+  ✗ 63806857D63.jpg
+    id_number: 标签=63806857D63  OCR=638058570
+    surname: 标签=CHIKUSE  OCR=SHEIL
+    first_name: 标签=SHEILA  OCR=CHIKUSE
+  ✗ 63811537Q63.jpg
+    surname: 标签=MWANZA  OCR=M
+    first_name: 标签=DERECK  OCR=M
+    gender: 标签=male  OCR=female
+  ✗ 63816137Q25.jpg
+    id_number: 标签=63816137Q25  OCR=638161370
+    gender: 标签=male  OCR=female
+  ✗ 63831784Y49.jpg
+    surname: 标签=NYAMUDZE  OCR=AMUDZE
+    first_name: 标签=AMCS  OCR=NY AMUDZE
+    gender: 标签=male  OCR=female
+  ✗ 63833209X63.jpg
+    id_number: 标签=63833209X63  OCR=63833209X
+    first_name: 标签=MAVIS TAURAI  OCR=MAVIS
+  ✗ 63839790A07.jpg
+    id_number: 标签=63839790A07  OCR=53839790A07
+  ✗ 63840039W04.jpg
+    id_number: 标签=63840039W04  OCR=63848003960
+    first_name: 标签=EPHRAIN  OCR=EPHRAIM
+    gender: 标签=male  OCR=female
+  ✗ 63844207B15.jpg
+    id_number: 标签=63844207B15  OCR=638442078
+    surname: 标签=TARUVINGA  OCR=LYDIA
+    first_name: 标签=LYDIA  OCR=TARUVINGA
+  ✗ 63851058Y45.jpg
+    gender: 标签=male  OCR=female
+  ✗ 63858508W13.jpg
+    surname: 标签=HLATYWAYO  OCR=WILSON
+    first_name: 标签=WILSON  OCR=HLATYWAYO
+    gender: 标签=male  OCR=female
+  ✗ 63858858B63.jpg
+    id_number: 标签=63858858B63  OCR=63853858B
+    surname: 标签=CHAKONOKA  OCR=CHAKOVOKA
+    first_name: 标签=JONAIHAN  OCR=JONATHAN
+    gender: 标签=male  OCR=female
+  ✗ 63861413D27.jpg
+    id_number: 标签=63861413D27  OCR=63861413D
+    gender: 标签=male  OCR=female
+  ✗ 63864666P83.jpg
+    id_number: 标签=63864666P83  OCR=63864666P
+    gender: 标签=male  OCR=female
+  ✗ 63866283X42.jpg
+    id_number: 标签=63866283X42  OCR=047778
+    surname: 标签=MARWIZIC  OCR=
+    first_name: 标签=CORDON  OCR=MARWIZ
+    birth_date: 标签=11.09.71  OCR=09.7
+    gender: 标签=male  OCR=female
+  ✗ 63868684G32.jpg
+    id_number: 标签=63868684G32  OCR=638686946
+    surname: 标签=HANDIPISI  OCR=HEATHER
+  ✗ 63870778H63.jpg
+    surname: 标签=MSUSAH  OCR=EMILY
+    first_name: 标签=EMILY CHIEDZA  OCR=CHEDZA
+  ✓ 63873941W00.jpg
+  ✗ 63877404K67.jpg
+    id_number: 标签=63877404K67  OCR=63877404K
+    surname: 标签=MADUBEKO  OCR=MAYOU
+    first_name: 标签=OMO  OCR=ZVI
+    gender: 标签=male  OCR=female
+  ✗ 63880491Q00.jpg
+    id_number: 标签=63880491Q00  OCR=63880491000
+    gender: 标签=male  OCR=female
+  ✓ 63889648T25.jpg
+  ✗ 63906051Y63.jpg
+    id_number: 标签=63906051Y63  OCR=63916051Y
+    first_name: 标签=AWUSIE  OCR=ANUSIE
+  ✗ 63907623G47.jpg
+    id_number: 标签=63907623G47  OCR=639076236
+    gender: 标签=male  OCR=female
+  ✓ 63911980S18.jpg
+  ✗ 63912351W44.jpg
+    first_name: 标签=LEAE  OCR=LEAH
+  ✓ 63914882X34.jpg
+  ✗ 63932157Z12.jpg
+    id_number: 标签=63932157Z12  OCR=63932157Z
+    gender: 标签=male  OCR=female
+  ✗ 63936356N34.jpg
+    first_name: 标签=TAMBUDZAI ENIA  OCR=TAMBUDZAIENIA
+  ✗ 63937058B63.jpg
+    id_number: 标签=63937058B63  OCR=63937058866
+    gender: 标签=male  OCR=female
+  ✓ 63944081K75.jpg
+  ✗ 63961630K32.jpg
+    surname: 标签=MASIIWA  OCR=MASIWA
+    gender: 标签=male  OCR=female
+  ✓ 63965983R63.jpg
+  ✗ 63972028M04.jpg
+    id_number: 标签=63972028M04  OCR=63972028M
+  ✗ 63975026W11.jpg
+    id_number: 标签=63975026W11  OCR=63975026
+    surname: 标签=MUSHAYWARO  OCR=THOMAS
+    first_name: 标签=THOMAAS  OCR=MUSHAYAWARD
+    gender: 标签=male  OCR=female
+  ✗ 63976281K50.jpg
+    id_number: 标签=63976281K50  OCR=63976281K
+    surname: 标签=MAKUNIKG  OCR=MAKUNIK
+    first_name: 标签=IUTENDO ESNATH  OCR=TUTENDO
+    birth_date: 标签=06.02.72  OCR=06.02.1977
+  ✗ 63990176N25.jpg
+    id_number: 标签=63990176N25  OCR=A4
+    first_name: 标签=  OCR=C
+    birth_date: 标签=  OCR=None
+    gender: 标签=  OCR=female
+  ✓ 63991903Q63.jpg
+  ✗ 63994351B12.jpg
+    id_number: 标签=63994351B12  OCR=63994351E12
+    first_name: 标签=SIKHANCGELA  OCR=SIKHANGELA
+  ✗ 660014475N66.jpg
+    surname: 标签=MUTSVANGA  OCR=NUTSVANGA
+  ✗ 66026387L66.jpg
+    id_number: 标签=66026387L66  OCR=66026387L
+    gender: 标签=male  OCR=female
+  ✗ 66034918J66.jpg
+    id_number: 标签=66034918J66  OCR=66014918J66
+    first_name: 标签=MURAMBIWA  OCR=NURAMBIWA
+    gender: 标签=male  OCR=female
+  ✗ 66035498P66.jpg
+    first_name: 标签=MALIAKINI MRARAMA  OCR=MALJAKINI
+    birth_date: 标签=03.04.69  OCR=03.09.1969
+    gender: 标签=male  OCR=female
+  ✓ 66048978R26.jpg
+  ✗ 67018009L67.jpg
+    id_number: 标签=67018009L67  OCR=67018009L
+  ✗ 67018784D77.jpg
+    id_number: 标签=67018784D77  OCR=670187840
+    surname: 标签=KIZITO  OCR=KIZITU
+    gender: 标签=male  OCR=female
+  ✗ 67020900D03.jpg
+    surname: 标签=MOYO  OCR=MOYD
+    first_name: 标签=ZINDOGA MAJOR  OCR=ZINDOGA
+    gender: 标签=male  OCR=female
+  ✗ 67051436V03.jpg
+    surname: 标签=MOYO  OCR=MOYD
+  ✗ 67054730A83.jpg
+    surname: 标签=CHIWARE  OCR=ELMON
+    first_name: 标签=ELMON  OCR=CHIWARE
+    gender: 标签=male  OCR=female
+  ✓ 67068971E03.jpg
+  ✗ 67077442M67.jpg
+    id_number: 标签=67077442M67  OCR=67077442M
+    surname: 标签=MUHLIWA  OCR=GILBERT
+    first_name: 标签=GILBERT  OCR=MUHLEIMA
+    gender: 标签=male  OCR=female
+  ✓ 67079877J67.jpg
+  ✗ 67082739V45.jpg
+    id_number: 标签=67082739V45  OCR=6
+    surname: 标签=ANTONIO  OCR=CHEGU
+    first_name: 标签=LOICE  OCR=CHEGU
+    birth_date: 标签=25.07.76  OCR=2017.06.2016
+  ✗ 67085667C71.jpg
+    birth_date: 标签=12.08.75  OCR=12.06.1975
+    gender: 标签=male  OCR=female
+  ✗ 67095256A67.jpg
+    surname: 标签=MGWAGWA  OCR=TOKWIDO
+    first_name: 标签=ZIVISO  OCR=ZVISHAVANE
+    birth_date: 标签=24.08.11978  OCR=24.08.1978
+  ✓ 67101719A67.jpg
+  ✗ 67108449Q67.jpg
+    id_number: 标签=67108449Q67  OCR=67108449687
+    surname: 标签=BUTETE  OCR=JOYCE
+    first_name: 标签=JOYOE  OCR=BUTETE
+    birth_date: 标签=10.07.1981  OCR=12.07.1981
+  ✗ 67121394L67.jpg
+    gender: 标签=male  OCR=female
+  ✗ 680039187M68.jpg
+    first_name: 标签=ZIMANAI  OCR=ZIVANAI
+    gender: 标签=male  OCR=female
+  ✓ 68005792N68.jpg
+  ✗ 68021096Y47.jpg
+    surname: 标签=NYAMHANZA  OCR=SHAMVA
+    first_name: 标签=SARUDZAYI  OCR=BEN
+    birth_date: 标签=16.07.67  OCR=16.07.1968
+  ✗ 68021807W68.jpg
+    id_number: 标签=68021807W68  OCR=00021007W00
+    surname: 标签=CHINGOZA  OCR=ROSEMARY
+    first_name: 标签=ROSEMARY  OCR=CHI NG OZA
+  ✓ 68034748M45.jpg
+  ✗ 68035302P45.jpg
+    id_number: 标签=68035302P45  OCR=68035302P
+    gender: 标签=  OCR=female
+  ✗ 68049056P68.jpg
+    id_number: 标签=68049056P68  OCR=68049056P
+    gender: 标签=female  OCR=male
+  ✗ 68057554B68.jpg
+    gender: 标签=  OCR=female
+  ✗ 700076677A18.jpg
+    id_number: 标签=70076677A18  OCR=70076677A
+    surname: 标签=NDUNA  OCR=TADIOUS
+    first_name: 标签=TADIOUS  OCR=NOUNA
+    gender: 标签=male  OCR=female
+  ✗ 70023789N63.jpg
+    surname: 标签=CHIMHERE  OCR=SHADRICK
+    first_name: 标签=SHADRICK  OCR=CHIMHERE
+    gender: 标签=male  OCR=female
+  ✓ 70028373W26.jpg
+  ✗ 70035999K70.jpg
+    first_name: 标签=ALAIDA  OCR=ALIEN
+  ✗ 70057763R71.jpg
+    id_number: 标签=70057763R71  OCR=70057763R
+    surname: 标签=MUDZINGWA  OCR=ALICE
+    first_name: 标签=ALICE  OCR=MUDZINGWA
+  ✗ 70067452Y00.jpg
+    first_name: 标签=MADELEINE GATLE  OCR=MADELEINE GAYLE
+  ✗ 70067819X70.jpg
+    id_number: 标签=70067819X70  OCR=70067819X
+    birth_date: 标签=13.01.67  OCR=13.01.1968
+    gender: 标签=male  OCR=female
+  ✗ 70072495E70.jpg
+    id_number: 标签=70072495E70  OCR=70072495E
+  ✗ 70074359F15.jpg
+    id_number: 标签=70074359F15  OCR=70074359F
+    gender: 标签=male  OCR=female
+  ✗ 70086728A70.jpg
+    id_number: 标签=70086728A70  OCR=70686728A70
+    first_name: 标签=MENNETH GODKNOWS  OCR=KENNETH GODKNOWS
+    gender: 标签=male  OCR=female
+  ✗ 70086903Q70.jpg
+    id_number: 标签=70086903Q70  OCR=700869030
+    gender: 标签=male  OCR=female
+  ✓ 70091685N70.jpg
+  ✗ 70114130K70.jpg
+    surname: 标签=MUSORO  OCR=MUSORD
+    first_name: 标签=PORTIA  OCR=MADHUVIKO
+  ✗ 702000146L70.jpg
+    id_number: 标签=702000146L70  OCR=02000146L70
+    gender: 标签=male  OCR=female
+  ✗ 70208195E70.jpg
+    surname: 标签=MANYERUKE  OCR=FADZAI
+    first_name: 标签=FADZAI  OCR=MANYERUKE
+  ✓ 70210476J70.jpg
+  ✗ 70352901T70.jpg
+    id_number: 标签=38059469M38  OCR=38059469M
+    gender: 标签=male  OCR=female
+  ✗ 71006994P71.jpg
+    id_number: 标签=71006994P71  OCR=71006994P
+  ✗ 71014209G71.jpg
+    id_number: 标签=71014209G71  OCR=710142096
+    gender: 标签=male  OCR=female
+  ✗ 71035048H71.jpg
+    id_number: 标签=71035048H71  OCR=10355048H71
+    surname: 标签=CHAKUVVINGA  OCR=CHAKUVINCA
+    first_name: 标签=JANIPHER  OCR=CHAKUVINCA
+    birth_date: 标签=20.09.64  OCR=29.6A
+  ✗ 71040574P71.jpg
+    id_number: 标签=71040574P71  OCR=71C40574P
+    surname: 标签=NYAMADZAWO  OCR=ANA
+    first_name: 标签=ANNA  OCR=NYANADZAKO
+    birth_date: 标签=10.6.48  OCR=10.06.1945
+  ✗ 71053060L71.jpg
+    id_number: 标签=71053060L71  OCR=71053060L
+    gender: 标签=male  OCR=female
+  ✓ 71055996C71.jpg
+  ✗ 71060470Q71.jpg
+    id_number: 标签=71060470Q71  OCR=71060470077
+  ✓ 73031897W75.jpg
+  ✗ 73034129X73.jpg
+    id_number: 标签=73034129X73  OCR=73034129X
+    gender: 标签=male  OCR=female
+  ✓ 73046267Q73.jpg
+  ✗ 73046401L73.jpg
+    id_number: 标签=73046401L73  OCR=73046401173
+  ✗ 75003849X44.jpg
+    id_number: 标签=75003849X44  OCR=7500368X
+    surname: 标签=HUNAKANDAFA  OCR=MINAKANJAPA
+    first_name: 标签=ZONEBB TICHAENZANA  OCR=ZENGER
+    birth_date: 标签=8.8.58  OCR=08.08.1955
+    gender: 标签=male  OCR=female
+  ✓ 75015693W34.jpg
+  ✗ 75034018P75.jpg
+    id_number: 标签=75034018P75  OCR=75034018P
+    gender: 标签=male  OCR=female
+  ✗ 75041710A44.jpg
+    surname: 标签=CMIRAMGO  OCR=CHIRAVGO
+  ✓ 75055271Q50.jpg
+  ✗ 75084531V50.jpg
+    id_number: 标签=75084531V50  OCR=75084531V
+    surname: 标签=MABVENE  OCR=MARVENF
+    first_name: 标签=JANE  OCR=JANF
+    gender: 标签=female  OCR=
+  ✗ 75086368R75.jpg
+    id_number: 标签=75086368R75  OCR=75086368R
+    first_name: 标签=CHIDO  OCR=CHIKWANHA
+  ✗ 75095260G75.jpg
+    id_number: 标签=75095260G75  OCR=75095260G
+    gender: 标签=male  OCR=female
+  ✗ 75097720F75.jpg
+    id_number: 标签=75097720F75  OCR=11111111111
+    first_name: 标签=  OCR=ZIMBAB
+    birth_date: 标签=  OCR=1984.01.2001
+    gender: 标签=  OCR=female
+  ✗ 75112285M04.jpg
+    surname: 标签=MAHACHI  OCR=ROBERT
+    first_name: 标签=ROBERT  OCR=MAHACHI
+    gender: 标签=male  OCR=female
+  ✗ 75150046G75.jpg
+    id_number: 标签=75150046G75  OCR=751500466
+    surname: 标签=MAKAMBWA  OCR=MAKUMBE
+    first_name: 标签=MAKUMBE  OCR=MAKAMBWA
+    gender: 标签=male  OCR=female
+  ✗ 75165419R48.jpg
+    surname: 标签=HOMERA  OCR=JOSEPH
+    first_name: 标签=JOSEPH  OCR=HOMERA
+    gender: 标签=male  OCR=female
+  ✗ 75177006L75.jpg
+    id_number: 标签=75177006L75  OCR=4673
+  ✓ 75180547K44.jpg
+  ✗ 75190798C43.jpg
+    id_number: 标签=75190798C43  OCR=751907980
+    first_name: 标签=RUDO  OCR=FUDO
+  ✗ 75265298F75.jpg
+    id_number: 标签=75265298F75  OCR=75265298F
+  ✗ 75275106R75.jpg
+    id_number: 标签=75275106R75  OCR=75275106R
+    birth_date: 标签=15.05.73  OCR=25.05.1973
+    gender: 标签=  OCR=female
+  ✗ 75275169K50.jpg
+    id_number: 标签=75275169K50  OCR=75275169K
+    gender: 标签=male  OCR=female
+  ✗ 75278739Q75.jpg
+    id_number: 标签=75278739Q75  OCR=75278739075
+  ✗ 75282185L75.jpg
+    id_number: 标签=48067117Q48  OCR=48067117094
+    surname: 标签=MUKAKA  OCR=DOUGLAS
+    first_name: 标签=DOUGLAS  OCR=GAMBA
+    gender: 标签=male  OCR=female
+  ✗ 75297354Z75.jpg
+    id_number: 标签=75297354Z75  OCR=752973542
+    first_name: 标签=BEAVEN  OCR=BEAVON
+    birth_date: 标签=25.05.69  OCR=05.05.1969
+    gender: 标签=male  OCR=female
+  ✓ 75310431N75.jpg
+  ✗ 75325972F75.jpg
+    gender: 标签=female  OCR=
+  ✗ 75327416A04.jpg
+    surname: 标签=MHIRIBIDI  OCR=GHRIBIDI
+  ✗ 75328215T50.jpg
+    id_number: 标签=75328215T50  OCR=14019756P45
+    surname: 标签=MANGODA  OCR=STEPHEN
+    first_name: 标签=STEPHEN ITAI  OCR=ITAI
+    gender: 标签=male  OCR=female
+  ✓ 75335800N50.jpg
+  ✗ 75337918Q75.jpg
+    id_number: 标签=75337918Q75  OCR=75337918075
+    gender: 标签=  OCR=female
+  ✗ 75343443W75.jpg
+    id_number: 标签=75343443W75  OCR=75343440W75
+    surname: 标签=ZIMUNYA  OCR=
+    first_name: 标签=BARBRA  OCR=ZIMUNYA
+    gender: 标签=female  OCR=
+  ✗ 77010256Z77.jpg
+    id_number: 标签=77010256Z77  OCR=770192562
+  ✗ 77010301Y77.jpg
+    gender: 标签=male  OCR=female
+  ✗ 77033166B77.jpg
+    id_number: 标签=77033166B77  OCR=77033166B
+    first_name: 标签=RUYI MUSIIWA HELARIO  OCR=RUYI
+    gender: 标签=  OCR=female
+  ✗ 77044835K77.jpg
+    id_number: 标签=77044835K77  OCR=77044835K
+    gender: 标签=male  OCR=female
+  ✗ 77048310M77.jpg
+    id_number: 标签=77048310M77  OCR=77048310M
+    surname: 标签=PARIDZIRA  OCR=LANGTON
+    first_name: 标签=LANGTON  OCR=MABACHI
+    gender: 标签=male  OCR=female
+  ✗ 790062140H58.jpg
+    gender: 标签=male  OCR=female
+  ✗ 79021523J79.jpg
+    first_name: 标签=KELIAS MAGONDO  OCR=KELIAS
+    gender: 标签=male  OCR=female
+  ✗ 79022666B79.jpg
+    id_number: 标签=79022666B79  OCR=790226668
+    first_name: 标签=ALFRED SIANGOMA  OCR=ALFRED
+    gender: 标签=  OCR=female
+  ✗ 79056792V06.jpg
+    id_number: 标签=79056792V06  OCR=79056792V
+    surname: 标签=MIMPANDE  OCR=IMPANDE
+    first_name: 标签=SETBUDE  OCR=MIRPANDE
+  ✗ 79077878P73.jpg
+    id_number: 标签=79077878P73  OCR=79077878P
+    gender: 标签=male  OCR=female
+  ✗ 79077891D06.jpg
+    id_number: 标签=79077891D06  OCR=79077891006
+    surname: 标签=MPALA  OCR=SAWU
+    first_name: 标签=SAWU  OCR=CHIKOTOME
+  ✗ 79082219H79.jpg
+    id_number: 标签=79082219H79  OCR=79082219177
+  ✗ 79092693S79.jpg
+    id_number: 标签=79092693S79  OCR=79092693579
+    surname: 标签=SIBANDA  OCR=MADATSHI
+    first_name: 标签=THOKOZANI MAKOSINI  OCR=THOKOZANI
+    gender: 标签=male  OCR=female
+  ✗ 79094490W39.jpg
+    id_number: 标签=79094490W39  OCR=79094490W
+    first_name: 标签=SIDUDUZIWE  OCR=GIDBUDUZIWE
+  ✗ 79095962W79.jpg
+    surname: 标签=NCUBE  OCR=NENGIWA
+    first_name: 标签=MENGIWA  OCR=NCUBE
+  ✗ 79108278H06.jpg
+    surname: 标签=MWEMBE  OCR=PILATO
+    first_name: 标签=PILATO  OCR=MWEMBE
+    gender: 标签=male  OCR=female
+  ✓ 80006083H80.jpg
+  ✗ 80033024R80.jpg
+    id_number: 标签=80033024R80  OCR=80033024R
+    first_name: 标签=AUTHAR  OCR=MANDIZIRA
+    gender: 标签=male  OCR=female
+  ✗ 80043505J80.jpg
+    gender: 标签=male  OCR=female
+  ✓ 83002281V83.jpg
+  ✗ 83017588H83.jpg
+    id_number: 标签=83017588H83  OCR=83017500H83
+    surname: 标签=ZINYAU  OCR=
+    first_name: 标签=CNIA  OCR=ZINYAU
+    birth_date: 标签=10.10.49  OCR=01.10.1949
+  ✗ 83048989P83.jpg
+    id_number: 标签=83048989P83  OCR=30489895P83
+    gender: 标签=male  OCR=female
+  ✗ 83053079K04.jpg
+    surname: 标签=GWANGWAVA  OCR=GUANGHAVA
+    first_name: 标签=RETINA NYENGETERAI  OCR=RETINA
+  ✗ 83065172E83.jpg
+    id_number: 标签=83065172E83  OCR=83065172E
+  ✗ 83080292P83.jpg
+    first_name: 标签=TASUNUNGURWA  OCR=TA SUNUNGURWA
+    gender: 标签=male  OCR=female
+  ✗ 83085812P83.jpg
+    id_number: 标签=83085812P83  OCR=8308512393
+    surname: 标签=SHOKO  OCR=SALLY
+    first_name: 标签=SALLY  OCR=SHOKO
+  ✗ 83091679R83.jpg
+    id_number: 标签=83091679R83  OCR=83091678983
+    first_name: 标签=PRISCA  OCR=PRIESCA
+  ✓ 83096636E83.jpg
+  ✗ 83097955N83.jpg
+    gender: 标签=male  OCR=female
+  ✗ 83103653G83.jpg
+    surname: 标签=MHLANGA  OCR=MAGGIE
+    first_name: 标签=MAGGIE  OCR=MHLANGA
+    gender: 标签=  OCR=female
+  ✓ 83111758R83.jpg
+  ✓ 83121567D83.jpg
+  ✗ 83128138W83.jpg
+    id_number: 标签=83128138W83  OCR=85128138W83
+  ✗ 84001883T54.jpg
+    id_number: 标签=84001883T54  OCR=84001883T
+  ✓ 85015774Z85.jpg
+  ✗ 85019469Q85.jpg
+    first_name: 标签=SAMSON  OCR=SAM
+    gender: 标签=male  OCR=female
+  ✗ 852005400A85.jpg
+    first_name: 标签=LASTON  OCR=CASTON
+    gender: 标签=male  OCR=female
+  ✗ 86006110B86.jpg
+    gender: 标签=male  OCR=female
+  ✗ 金属02045077J02.jpg
+    id_number: 标签=02045077J02  OCR=02045077J
+    surname: 标签=NDCU  OCR=SHCNISANI
+    first_name: 标签=SHONISANI  OCR=NDCU
+  ✗ 金属03117822L03.jpg
+    id_number: 标签=03117822L03  OCR=03117222103
+  ✗ 金属08238875Y32.jpg
+    surname: 标签=UZANDE  OCR=PATRICK
+    first_name: 标签=PATRICK  OCR=UZANDE
+    gender: 标签=male  OCR=female
+  ✗ 金属08408241R35.jpg
+    gender: 标签=female  OCR=
+  ✗ 金属08456040X47.jpg
+    id_number: 标签=08456040X47  OCR=08456040X
+    first_name: 标签=BIGBOY  OCR=BIGBJY
+    gender: 标签=male  OCR=female
+  ✗ 金属13007937L13.jpg
+    id_number: 标签=13007937L13  OCR=13007937L
+    gender: 标签=male  OCR=female
+  ✗ 金属14015585F26.jpg
+    id_number: 标签=14015585F26  OCR=14015585F
+    first_name: 标签=MOSES TIMOTHY  OCR=MOSES
+    gender: 标签=male  OCR=female
+  ✗ 金属27041156K27.jpg
+    surname: 标签=MANDISHE  OCR=SEKAI
+    first_name: 标签=SEKAI  OCR=BUHERA
+  ✗ 金属29168464B26.jpg
+    id_number: 标签=29168464B26  OCR=291684648
+    first_name: 标签=KURAUVONE  OCR=KUR AUVONE
+    gender: 标签=male  OCR=female
+  ✗ 金属320211801B32.jpg
+    id_number: 标签=26105690Z26  OCR=60096994900
+  ✓ 金属38096083K38.jpg
+  ✗ 金属39022528Q39.jpg
+    id_number: 标签=39022528Q39  OCR=39022528039
+    surname: 标签=NDEBELE  OCR=
+    first_name: 标签=MEIYEZWE  OCR=NDEBELE
+    gender: 标签=male  OCR=female
+  ✗ 金属44045220N44.jpg
+    id_number: 标签=44045220N44  OCR=44045220N
+    first_name: 标签=REGIVA  OCR=REGINA
+  ✗ 金属47073686Z47.jpg
+    id_number: 标签=47073686Z47  OCR=470736862
+    surname: 标签=ZIMONOI  OCR=ZIMMONDI
+  ✗ 金属59005563F59.jpg
+    id_number: 标签=59005563F59  OCR=59005563F
+    gender: 标签=  OCR=female
+  ✗ 金属59014413A54.jpg
+    id_number: 标签=59014413A54  OCR=59014413A
+    gender: 标签=male  OCR=female
+  ✗ 金属631218557B38.jpg
+    id_number: 标签=631218557B38  OCR=63121855703
+  ✗ 金属632445405G71.jpg
+    id_number: 标签=18063109N18  OCR=11061109N
+    surname: 标签=MASHINGAIDZE  OCR=MASHINGA
+    gender: 标签=male  OCR=female
+  ✗ 金属63637699L00.jpg
+    id_number: 标签=63637699L00  OCR=63637699L
+    gender: 标签=male  OCR=female
+  ✗ 金属63883300T25.jpg
+    id_number: 标签=63883300T25  OCR=63883300T
+    surname: 标签=MAPFUMO  OCR=MAPFUMO CUTHBERT
+    first_name: 标签=CUTHBERT  OCR=CHATUKUTA
+    gender: 标签=male  OCR=female
+  ✗ 金属66062583E66.jpg
+    gender: 标签=male  OCR=female
+  ✗ 金属67006337Z67.jpg
+    id_number: 标签=67006337Z67  OCR=67006337Z
+  ✗ 金属67030447F12.jpg
+    id_number: 标签=67030447F12  OCR=67030447F
+    birth_date: 标签=1.8.60  OCR=8.60
+  ✗ 金属67122080G67.jpg
+    gender: 标签=male  OCR=female
+  ✗ 金属68058938F68.jpg
+    surname: 标签=CHOKORERA  OCR=SHAMVA
+    first_name: 标签=SHAINAYI  OCR=CHOKORERA
+  ✓ 金属71117679Z71.jpg
+  ✓ 金属73018896P73.jpg
+  ✗ 金属75298521S75.jpg
+    id_number: 标签=75298521S75  OCR=298521S
+    surname: 标签=SITHDLE  OCR=GARISIKAYI
+    first_name: 标签=GARISIKAYI  OCR=SITHOLE
+  ✗ 金属83119140Q83.jpg
+    birth_date: 标签=05.05.1980  OCR=03.05.1980
+    gender: 标签=male  OCR=female

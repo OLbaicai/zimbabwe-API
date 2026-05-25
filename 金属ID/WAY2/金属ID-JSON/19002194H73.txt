@@ -1,0 +1,7 @@
+{
+  "id_number": "19002194H73",
+  "surname": "MOYO",
+  "first_name": "PESININA",
+  "birth_date": "24.5.62",
+  "gender": "female"
+}

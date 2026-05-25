@@ -1,0 +1,7 @@
+{
+  "id_number": "49018454C49",
+  "surname": "NYAKABAU",
+  "first_name": "MANDI",
+  "birth_date": "12.06.66",
+  "gender": "male"
+}

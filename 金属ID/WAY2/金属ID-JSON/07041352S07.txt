@@ -1,0 +1,7 @@
+{
+  "id_number": "07041352S07",
+  "surname": "HARUNAVAMWE",
+  "first_name": "SERINA",
+  "birth_date": "08.02.68",
+  "gender": "female"
+}

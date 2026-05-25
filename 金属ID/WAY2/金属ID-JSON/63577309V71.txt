@@ -1,0 +1,7 @@
+{
+  "id_number": "63577309V71",
+  "surname": "MUKUYA",
+  "first_name": "PAUL MABASA",
+  "birth_date": "28.08.53",
+  "gender": "male"
+}

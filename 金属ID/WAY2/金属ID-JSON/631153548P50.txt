@@ -1,0 +1,7 @@
+{
+  "id_number": "631153548P50",
+  "surname": "RONDOZAI",
+  "first_name": "RAYNE",
+  "birth_date": "17.05.1982",
+  "gender": "male"
+}

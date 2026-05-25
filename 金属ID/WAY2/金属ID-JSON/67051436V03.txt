@@ -1,0 +1,7 @@
+{
+  "id_number": "67051436V03",
+  "surname": "MOYO",
+  "first_name": "TSHIIWE",
+  "birth_date": "16.10.47",
+  "gender": "female"
+}

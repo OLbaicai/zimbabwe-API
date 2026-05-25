@@ -1,0 +1,7 @@
+{
+  "id_number": "13167811M13",
+  "surname": "JOSIAH",
+  "first_name": "NAMATAI",
+  "birth_date": "04.06.1982",
+  "gender": "female"
+}

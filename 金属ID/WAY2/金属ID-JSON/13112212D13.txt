@@ -1,0 +1,7 @@
+{
+  "id_number": "13112212D13",
+  "surname": "SITHOLE",
+  "first_name": "MUZI",
+  "birth_date": "03.06.74",
+  "gender": "male"
+}

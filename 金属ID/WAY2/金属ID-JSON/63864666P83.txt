@@ -1,0 +1,7 @@
+{
+  "id_number": "63864666P83",
+  "surname": "MUKWATI",
+  "first_name": "TAPIWA",
+  "birth_date": "27.04.72",
+  "gender": "male"
+}

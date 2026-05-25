@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631412800K04",
+  "surname": "MUCHWINYI",
+  "first_name": "NYENGETERAI",
+  "birth_date": "12/01/1989"
+}

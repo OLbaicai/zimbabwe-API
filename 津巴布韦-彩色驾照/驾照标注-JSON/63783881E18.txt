@@ -1,0 +1,6 @@
+{
+  "id_number": "01/63783881E18",
+  "surname": "MUGORONJI",
+  "first_name": "TAPIWA",
+  "birth_date": "07/04/1970"
+}

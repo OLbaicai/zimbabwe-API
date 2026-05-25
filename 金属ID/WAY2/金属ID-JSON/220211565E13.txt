@@ -1,0 +1,7 @@
+{
+  "id_number": "22211565E13",
+  "surname": "MAZVIDZU",
+  "first_name": "KUDAKWASHE",
+  "birth_date": "12.03.1981",
+  "gender": "male"
+}

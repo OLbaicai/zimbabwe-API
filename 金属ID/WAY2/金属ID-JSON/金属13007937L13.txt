@@ -1,0 +1,7 @@
+{
+  "id_number": "13007937L13",
+  "surname": "MUOKOTO",
+  "first_name": "GODFREY",
+  "birth_date": "7.2.64",
+  "gender": "male"
+}

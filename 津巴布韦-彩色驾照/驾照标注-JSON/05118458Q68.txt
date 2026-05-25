@@ -1,0 +1,6 @@
+{
+  "id_number": "01/05118458Q68",
+  "surname": "CHITABURA",
+  "first_name": "BATSIRAI",
+  "birth_date": "21/06/1988"
+}

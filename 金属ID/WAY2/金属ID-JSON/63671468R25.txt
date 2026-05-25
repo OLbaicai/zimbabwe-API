@@ -1,0 +1,7 @@
+{
+  "id_number": "63671468R25",
+  "surname": "KANGOYA",
+  "first_name": "ROSEMARY",
+  "birth_date": "31.08.1957",
+  "gender": "female"
+}

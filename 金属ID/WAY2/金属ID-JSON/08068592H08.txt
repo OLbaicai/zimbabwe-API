@@ -1,0 +1,7 @@
+{
+  "id_number": "08068592H08",
+  "surname": "MASUKU",
+  "first_name": "CHARLES",
+  "birth_date": "16.08.54",
+  "gender": "male"
+}

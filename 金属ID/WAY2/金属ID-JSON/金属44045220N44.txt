@@ -1,0 +1,7 @@
+{
+  "id_number": "44045220N44",
+  "surname": "JAPURENI",
+  "first_name": "REGIVA",
+  "birth_date": "27.08.72",
+  "gender": "female"
+}

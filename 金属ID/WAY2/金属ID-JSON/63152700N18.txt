@@ -1,0 +1,7 @@
+{
+  "id_number": "63152700N18",
+  "surname": "TSOTO",
+  "first_name": "NOAH",
+  "birth_date": "4.11.59",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "25060474V32",
+  "surname": "CHABATA",
+  "first_name": "LLOYD",
+  "birth_date": "10.11.1981",
+  "gender": "male"
+}

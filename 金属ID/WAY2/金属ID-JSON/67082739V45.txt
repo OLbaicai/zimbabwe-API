@@ -1,0 +1,7 @@
+{
+  "id_number": "67082739V45",
+  "surname": "ANTONIO",
+  "first_name": "LOICE",
+  "birth_date": "25.07.76",
+  "gender": "female"
+}

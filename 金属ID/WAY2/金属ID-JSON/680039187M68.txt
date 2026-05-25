@@ -1,0 +1,7 @@
+{
+  "id_number": "68039187M68",
+  "surname": "ZHAKATA",
+  "first_name": "ZIMANAI",
+  "birth_date": "02.11.73",
+  "gender": "male"
+}

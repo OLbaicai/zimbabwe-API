@@ -1,0 +1,7 @@
+{
+  "id_number": "63576842M47",
+  "surname": "HUNEMD",
+  "first_name": "FAITH KUDA",
+  "birth_date": "14.03.61",
+  "gender": "female"
+}

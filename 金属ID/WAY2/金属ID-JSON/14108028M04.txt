@@ -1,0 +1,7 @@
+{
+  "id_number": "14108028M04",
+  "surname": "CHIMOTA",
+  "first_name": "TRUST",
+  "birth_date": "05.10.75",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "63656141G32",
+  "surname": "DZUMBUNU",
+  "first_name": "BLANDINAH",
+  "birth_date": "29.11.60",
+  "gender": "female"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "75327416A04",
+  "surname": "MHIRIBIDI",
+  "first_name": "GRACE",
+  "birth_date": "05.09.1980",
+  "gender": "female"
+}

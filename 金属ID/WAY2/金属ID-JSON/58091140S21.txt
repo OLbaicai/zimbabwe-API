@@ -1,0 +1,7 @@
+{
+  "id_number": "58091140S21",
+  "surname": "MABHENA",
+  "first_name": "JELLIA",
+  "birth_date": "12.01.1957",
+  "gender": "female"
+}

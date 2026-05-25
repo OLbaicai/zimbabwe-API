@@ -1,0 +1,7 @@
+{
+  "id_number": "63868684G32",
+  "surname": "HANDIPISI",
+  "first_name": "HEATHER",
+  "birth_date": "23.03.70",
+  "gender": "female"
+}

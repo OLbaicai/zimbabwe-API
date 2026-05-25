@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631134165W15",
+  "surname": "MUNJERI",
+  "first_name": "PETRON",
+  "birth_date": "30/11/1981"
+}

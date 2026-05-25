@@ -1,0 +1,7 @@
+{
+  "id_number": "631101989X66",
+  "surname": "MUPANDUKI",
+  "first_name": "TICHAONA",
+  "birth_date": "04.07.1981",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "32016290P32",
+  "surname": "MUPANDA",
+  "first_name": "LLOYD",
+  "birth_date": "3.2.64",
+  "gender": "male"
+}

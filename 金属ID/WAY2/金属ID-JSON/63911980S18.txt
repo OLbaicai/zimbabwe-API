@@ -1,0 +1,7 @@
+{
+  "id_number": "63911980S18",
+  "surname": "MUTSINZE",
+  "first_name": "DAINAH",
+  "birth_date": "26.03.73",
+  "gender": "female"
+}

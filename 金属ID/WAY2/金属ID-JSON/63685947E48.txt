@@ -1,0 +1,7 @@
+{
+  "id_number": "63685947E48",
+  "surname": "KANOSHUNGU",
+  "first_name": "AGNESS",
+  "birth_date": "10.11.62",
+  "gender": "female"
+}

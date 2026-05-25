@@ -1,0 +1,7 @@
+{
+  "id_number": "58198602Z58",
+  "surname": "LUWUNDU",
+  "first_name": "EDWARD",
+  "birth_date": "16.09.1980",
+  "gender": "male"
+}

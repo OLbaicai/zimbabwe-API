@@ -1,0 +1,7 @@
+{
+  "id_number": "75335800N50",
+  "surname": "MUTASA",
+  "first_name": "GRACE",
+  "birth_date": "16.09.1980",
+  "gender": "female"
+}

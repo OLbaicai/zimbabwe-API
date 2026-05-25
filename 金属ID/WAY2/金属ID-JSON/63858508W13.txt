@@ -1,0 +1,7 @@
+{
+  "id_number": "63858508W13",
+  "surname": "HLATYWAYO",
+  "first_name": "WILSON",
+  "birth_date": "17.04.73",
+  "gender": "male"
+}

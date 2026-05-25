@@ -1,0 +1,7 @@
+{
+  "id_number": "77010301Y77",
+  "surname": "MATYENYIKA",
+  "first_name": "COSMAS MASONGA",
+  "birth_date": "05.03.65",
+  "gender": "male"
+}

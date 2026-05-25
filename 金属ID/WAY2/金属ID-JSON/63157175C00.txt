@@ -1,0 +1,7 @@
+{
+  "id_number": "63157175C00",
+  "surname": "SCOTT",
+  "first_name": "NEIL CAMPBELL",
+  "birth_date": "11.9.48",
+  "gender": "male"
+}

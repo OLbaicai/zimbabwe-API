@@ -1,0 +1,7 @@
+{
+  "id_number": "68034748M45",
+  "surname": "KARORO",
+  "first_name": "TOMBANA",
+  "birth_date": "07.07.66",
+  "gender": "female"
+}

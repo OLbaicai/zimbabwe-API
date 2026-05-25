@@ -1,0 +1,7 @@
+{
+  "id_number": "59029486J59",
+  "surname": "ZINATSA",
+  "first_name": "CHAKANYUKA",
+  "birth_date": "06.05.1978",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "08221309E24",
+  "surname": "SHAWANO",
+  "first_name": "PATSON",
+  "birth_date": "12.04.58",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "67077442M67",
+  "surname": "MUHLIWA",
+  "first_name": "GILBERT",
+  "birth_date": "22.07.74",
+  "gender": "male"
+}

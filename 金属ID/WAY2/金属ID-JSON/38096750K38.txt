@@ -1,0 +1,7 @@
+{
+  "id_number": "38096750K38",
+  "surname": "NYAMAKAWO",
+  "first_name": "MARGARETH",
+  "birth_date": "07.05.1977",
+  "gender": "female"
+}

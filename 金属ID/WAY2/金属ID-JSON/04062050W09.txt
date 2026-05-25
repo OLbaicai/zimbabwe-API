@@ -1,0 +1,7 @@
+{
+  "id_number": "04062050W09",
+  "surname": "MURIDZO",
+  "first_name": "SCOLARSTIC",
+  "birth_date": "02.09.68",
+  "gender": "female"
+}

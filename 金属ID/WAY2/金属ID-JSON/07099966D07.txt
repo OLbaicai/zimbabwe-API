@@ -1,0 +1,7 @@
+{
+  "id_number": "631147649C50",
+  "surname": "KAHWENA",
+  "first_name": "LUISA",
+  "birth_date": "01.04.1975",
+  "gender": "female"
+}

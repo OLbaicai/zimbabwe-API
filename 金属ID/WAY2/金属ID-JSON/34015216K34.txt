@@ -1,0 +1,7 @@
+{
+  "id_number": "34015216K34",
+  "surname": "CHEKWA",
+  "first_name": "ANNATORIA",
+  "birth_date": "19.11.48",
+  "gender": "female"
+}

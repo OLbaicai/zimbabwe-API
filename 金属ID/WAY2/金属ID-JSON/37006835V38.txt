@@ -1,0 +1,7 @@
+{
+  "id_number": "37006835V38",
+  "surname": "MUPUKUTA",
+  "first_name": "PRINCE",
+  "birth_date": "02.23.71",
+  "gender": "male"
+}

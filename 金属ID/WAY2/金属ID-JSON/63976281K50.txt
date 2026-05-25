@@ -1,0 +1,7 @@
+{
+  "id_number": "63976281K50",
+  "surname": "MAKUNIKG",
+  "first_name": "IUTENDO ESNATH",
+  "birth_date": "06.02.72",
+  "gender": "female"
+}

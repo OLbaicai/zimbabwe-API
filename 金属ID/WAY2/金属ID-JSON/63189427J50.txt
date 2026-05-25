@@ -1,0 +1,7 @@
+{
+  "id_number": "63189427J50",
+  "surname": "MANJORO",
+  "first_name": "JOSEPH MAGARIKA",
+  "birth_date": "18.4.56",
+  "gender": "male"
+}

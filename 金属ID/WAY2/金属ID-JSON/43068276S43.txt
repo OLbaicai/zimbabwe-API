@@ -1,0 +1,7 @@
+{
+  "id_number": "43068276S43",
+  "surname": "CHAGARESANGO",
+  "first_name": "VITALIS",
+  "birth_date": "01.11.1978",
+  "gender": "male"
+}

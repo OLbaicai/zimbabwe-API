@@ -1,0 +1,7 @@
+{
+  "id_number": "47070567J47",
+  "surname": "GURENDE",
+  "first_name": "PATLENCE",
+  "birth_date": "17.05.73",
+  "gender": "female"
+}

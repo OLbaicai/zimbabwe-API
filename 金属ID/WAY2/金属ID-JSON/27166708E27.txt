@@ -1,0 +1,7 @@
+{
+  "id_number": "27166708E27",
+  "surname": "MANIKA",
+  "first_name": "ELLINGTON",
+  "birth_date": "09.11.1983",
+  "gender": "male"
+}

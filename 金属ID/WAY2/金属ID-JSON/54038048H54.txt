@@ -1,0 +1,7 @@
+{
+  "id_number": "29176169B22",
+  "surname": "CHIRAMBAI",
+  "first_name": "VIMBAI",
+  "birth_date": "11.05.76",
+  "gender": "female"
+}

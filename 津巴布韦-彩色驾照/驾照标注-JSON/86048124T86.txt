@@ -1,0 +1,6 @@
+{
+  "id_number": "01/86048124T86",
+  "surname": "NYAKURIDYISA",
+  "first_name": "MARVELLOUS",
+  "birth_date": "08/01/1989"
+}

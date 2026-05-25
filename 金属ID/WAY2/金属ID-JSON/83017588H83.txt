@@ -1,0 +1,7 @@
+{
+  "id_number": "83017588H83",
+  "surname": "ZINYAU",
+  "first_name": "CNIA",
+  "birth_date": "10.10.49",
+  "gender": "female"
+}

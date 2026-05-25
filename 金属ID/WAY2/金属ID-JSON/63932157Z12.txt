@@ -1,0 +1,7 @@
+{
+  "id_number": "63932157Z12",
+  "surname": "VERENGERA",
+  "first_name": "PARADZAI",
+  "birth_date": "01.04.78",
+  "gender": "male"
+}

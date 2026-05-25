@@ -1,0 +1,7 @@
+{
+  "id_number": "27149333T86",
+  "surname": "CHAWATAMA",
+  "first_name": "REWARD",
+  "birth_date": "21.10.1981",
+  "gender": "male"
+}

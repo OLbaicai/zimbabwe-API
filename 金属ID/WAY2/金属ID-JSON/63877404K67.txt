@@ -1,0 +1,7 @@
+{
+  "id_number": "63877404K67",
+  "surname": "MADUBEKO",
+  "first_name": "OMO",
+  "birth_date": "16.07.69",
+  "gender": "male"
+}

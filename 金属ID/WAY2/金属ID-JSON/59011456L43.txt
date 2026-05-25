@@ -1,0 +1,7 @@
+{
+  "id_number": "59011456L43",
+  "surname": "CHINAMHORA",
+  "first_name": "QUEEN",
+  "birth_date": "25.12.76",
+  "gender": "female"
+}

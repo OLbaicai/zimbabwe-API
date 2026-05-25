@@ -1,0 +1,7 @@
+{
+  "id_number": "56003994F56",
+  "surname": "TSHUMA",
+  "first_name": "PATHIWE",
+  "birth_date": "04.11.59",
+  "gender": "female"
+}

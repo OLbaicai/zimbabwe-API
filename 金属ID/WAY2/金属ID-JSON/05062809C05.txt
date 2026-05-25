@@ -1,0 +1,7 @@
+{
+  "id_number": "05062809C05",
+  "surname": "MANUWERE",
+  "first_name": "SENZENI",
+  "birth_date": "01.09.76",
+  "gender": "female"
+}

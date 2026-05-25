@@ -1,0 +1,7 @@
+{
+  "id_number": "63297120R70",
+  "surname": "MUSIIWA",
+  "first_name": "HARRY",
+  "birth_date": "21.01.1963",
+  "gender": "male"
+}

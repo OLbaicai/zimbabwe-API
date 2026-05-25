@@ -1,0 +1,7 @@
+{
+  "id_number": "32126958F29",
+  "surname": "NSINGO",
+  "first_name": "MATRON NOKUTHULA",
+  "birth_date": "24.11.1979",
+  "gender": "female"
+}

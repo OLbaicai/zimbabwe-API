@@ -1,0 +1,7 @@
+{
+  "id_number": "80043505J80",
+  "surname": "ZENDA",
+  "first_name": "URAYAYI",
+  "birth_date": "04.06.1978",
+  "gender": "male"
+}

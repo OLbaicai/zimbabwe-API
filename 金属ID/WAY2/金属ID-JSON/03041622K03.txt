@@ -1,0 +1,7 @@
+{
+  "id_number": "03041622K03",
+  "surname": "MALUNGA",
+  "first_name": "RUNGMIRAI",
+  "birth_date": "02.01.68",
+  "gender": "female"
+}

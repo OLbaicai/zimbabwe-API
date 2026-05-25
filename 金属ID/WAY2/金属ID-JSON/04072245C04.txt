@@ -1,0 +1,7 @@
+{
+  "id_number": "04072245C04",
+  "surname": "DEKESA",
+  "first_name": "ELIAS",
+  "birth_date": "14.09.69",
+  "gender": "male"
+}

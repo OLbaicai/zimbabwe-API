@@ -1,0 +1,7 @@
+{
+  "id_number": "68021096Y47",
+  "surname": "NYAMHANZA",
+  "first_name": "SARUDZAYI",
+  "birth_date": "16.07.67",
+  "gender": "female"
+}

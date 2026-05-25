@@ -1,0 +1,7 @@
+{
+  "id_number": "63635503Z07",
+  "surname": "MUSEKIWA",
+  "first_name": "BIGGIE",
+  "birth_date": "04.11.65",
+  "gender": "male"
+}

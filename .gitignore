@@ -1,0 +1,47 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Local assistant/tool state
+.claude/
+
+# Raw and generated images/media
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.gif
+
+# Archives and temporary packages
+*.zip
+*.rar
+*.7z
+
+# Generated spreadsheet outputs
+*.xls
+*.xlsx
+*.xlsm
+**/xlsx/
+
+# Generated OCR/output folders
+**/txt/
+**/*-OUT/
+**/*_OUT/
+**/*OUT/
+**/*输出*/
+**/*处理后图像*/
+**/*检测框*/
+**/*错例*/
+**/*右侧标注*/
+**/*MAIN-OUT*/
+**/*DEAL-OUT*/
+
+# Office lock files
+~$*
+
+# Keep reports, scripts, JSON labels/configs, and docs trackable.

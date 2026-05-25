@@ -1,0 +1,7 @@
+{
+  "id_number": "18046837B18",
+  "surname": "LIZAMARWP",
+  "first_name": "PRINCE",
+  "birth_date": "05.05.70",
+  "gender": "male"
+}

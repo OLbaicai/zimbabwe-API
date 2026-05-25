@@ -1,0 +1,7 @@
+{
+  "id_number": "49068287T49",
+  "surname": "CHAWENI",
+  "first_name": "TAONA",
+  "birth_date": "23.11.1973",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "79095962W79",
+  "surname": "NCUBE",
+  "first_name": "MENGIWA",
+  "birth_date": "18.04.77",
+  "gender": "female"
+}

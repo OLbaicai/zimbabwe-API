@@ -1,0 +1,7 @@
+{
+  "id_number": "67068971E03",
+  "surname": "MASEKO",
+  "first_name": "BEAUTY",
+  "birth_date": "12.02.1968",
+  "gender": "female"
+}

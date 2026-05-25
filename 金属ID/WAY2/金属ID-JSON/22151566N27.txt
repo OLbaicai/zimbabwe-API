@@ -1,0 +1,7 @@
+{
+  "id_number": "22151566N27",
+  "surname": "MANZANGA",
+  "first_name": "KRIEAY",
+  "birth_date": "15.06.73",
+  "gender": "male"
+}

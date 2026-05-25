@@ -1,0 +1,7 @@
+{
+  "id_number": "27004813G27",
+  "surname": "MUDHEFI",
+  "first_name": "RUNGAMAYI",
+  "birth_date": "12.5.35",
+  "gender": "male"
+}

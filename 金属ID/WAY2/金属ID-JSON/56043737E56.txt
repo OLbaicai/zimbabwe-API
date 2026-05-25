@@ -1,0 +1,7 @@
+{
+  "id_number": "56043737E56",
+  "surname": "MPOFU",
+  "first_name": "BAFANA",
+  "birth_date": "06.06.1976",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "41033639F41",
+  "surname": "TSHUMA",
+  "first_name": "SIKHUMBUZD",
+  "birth_date": "19.01.71",
+  "gender": "male"
+}

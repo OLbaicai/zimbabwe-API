@@ -1,0 +1,7 @@
+{
+  "id_number": "63602832M47",
+  "surname": "NYAHASHA",
+  "first_name": "MOLINE",
+  "birth_date": "5.1.61",
+  "gender": "female"
+}

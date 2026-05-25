@@ -1,0 +1,7 @@
+{
+  "id_number": "67054730A83",
+  "surname": "CHIWARE",
+  "first_name": "ELMON",
+  "birth_date": "10.12.62",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "47105017E47",
+  "surname": "KATSANDE",
+  "first_name": "TONDERAI",
+  "birth_date": "02.01.61",
+  "gender": "male"
+}

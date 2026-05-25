@@ -1,0 +1,6 @@
+{
+  "id_number": "01/631613103F63",
+  "surname": "KACHINGWE",
+  "first_name": "TINOTENDA",
+  "birth_date": "22/02/1998"
+}

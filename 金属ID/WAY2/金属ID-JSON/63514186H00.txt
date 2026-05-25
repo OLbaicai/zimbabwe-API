@@ -1,0 +1,7 @@
+{
+  "id_number": "63514186H00",
+  "surname": "SWAILE",
+  "first_name": "SHARON ANN",
+  "birth_date": "8.9.63",
+  "gender": "female"
+}

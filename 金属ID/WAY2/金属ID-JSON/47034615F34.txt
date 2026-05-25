@@ -1,0 +1,7 @@
+{
+  "id_number": "47034615F34",
+  "surname": "MADZIVANZIRA",
+  "first_name": "MASIWA EDIMODAR",
+  "birth_date": "02.05.63",
+  "gender": "female"
+}

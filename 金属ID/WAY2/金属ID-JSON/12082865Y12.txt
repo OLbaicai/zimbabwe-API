@@ -1,0 +1,7 @@
+{
+  "id_number": "12082865Y12",
+  "surname": "MANDISHONHA",
+  "first_name": "LOVEMORE",
+  "birth_date": "11.04.1978",
+  "gender": "male"
+}

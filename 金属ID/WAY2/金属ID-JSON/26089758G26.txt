@@ -1,0 +1,7 @@
+{
+  "id_number": "26089758G26",
+  "surname": "MAPFUNDE",
+  "first_name": "MARY",
+  "birth_date": "25.12.64",
+  "gender": "female"
+}

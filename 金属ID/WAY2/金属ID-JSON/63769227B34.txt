@@ -1,0 +1,7 @@
+{
+  "id_number": "63769227B34",
+  "surname": "MUPANNGAPANGA",
+  "first_name": "MAXWELL",
+  "birth_date": "28.02.69",
+  "gender": "male"
+}

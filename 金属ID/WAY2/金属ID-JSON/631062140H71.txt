@@ -1,0 +1,7 @@
+{
+  "id_number": "631062140H71",
+  "surname": "ZENGEYA",
+  "first_name": "RFGINA",
+  "birth_date": "28.04.1979",
+  "gender": "female"
+}

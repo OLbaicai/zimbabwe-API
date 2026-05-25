@@ -1,0 +1,7 @@
+{
+  "id_number": "05036314D05",
+  "surname": "MANDIZHA",
+  "first_name": "EDMORE",
+  "birth_date": "12.08.66",
+  "gender": "male"
+}

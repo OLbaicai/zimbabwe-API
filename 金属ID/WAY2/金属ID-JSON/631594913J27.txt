@@ -1,0 +1,7 @@
+{
+  "id_number": "83109343R83",
+  "surname": "MATUKA",
+  "first_name": "JOHN",
+  "birth_date": "10.09.1952",
+  "gender": "male"
+}

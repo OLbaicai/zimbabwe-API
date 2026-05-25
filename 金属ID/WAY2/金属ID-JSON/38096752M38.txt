@@ -1,0 +1,7 @@
+{
+  "id_number": "38096752M38",
+  "surname": "BILLIAT",
+  "first_name": "DHAMIAND",
+  "birth_date": "06.08.1979",
+  "gender": "male"
+}

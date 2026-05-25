@@ -1,0 +1,7 @@
+{
+  "id_number": "08367179J70",
+  "surname": "CHIGUMBU",
+  "first_name": "RFGINA RUDORUNESU",
+  "birth_date": "4.5.63",
+  "gender": "female"
+}

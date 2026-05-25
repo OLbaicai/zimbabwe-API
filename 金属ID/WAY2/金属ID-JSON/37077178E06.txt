@@ -1,0 +1,7 @@
+{
+  "id_number": "37077178E37",
+  "surname": "SIAMBALI",
+  "first_name": "JOHN",
+  "birth_date": "01.02.1980",
+  "gender": "male"
+}

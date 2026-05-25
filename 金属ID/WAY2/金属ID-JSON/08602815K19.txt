@@ -1,0 +1,7 @@
+{
+  "id_number": "08602815K19",
+  "surname": "MLILD",
+  "first_name": "SIHLEZI",
+  "birth_date": "15.03.73",
+  "gender": "female"
+}

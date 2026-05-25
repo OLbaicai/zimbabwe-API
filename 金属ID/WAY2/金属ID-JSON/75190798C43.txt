@@ -1,0 +1,7 @@
+{
+  "id_number": "75190798C43",
+  "surname": "MUCHEMENYI",
+  "first_name": "RUDO",
+  "birth_date": "14.10.55",
+  "gender": "female"
+}

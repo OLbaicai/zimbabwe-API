@@ -1,0 +1,7 @@
+{
+  "id_number": "08670403A32",
+  "surname": "PAMIRE",
+  "first_name": "TAWANDA",
+  "birth_date": "15.06.76",
+  "gender": "male"
+}

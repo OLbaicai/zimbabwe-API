@@ -1,0 +1,7 @@
+{
+  "id_number": "08668985J83",
+  "surname": "MAHOYA",
+  "first_name": "ESTHER",
+  "birth_date": "06.10.73",
+  "gender": "female"
+}

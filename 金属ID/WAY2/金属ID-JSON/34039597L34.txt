@@ -1,0 +1,7 @@
+{
+  "id_number": "34039597L34",
+  "surname": "MANDIWANZIRA",
+  "first_name": "RUCHIWA",
+  "birth_date": "05.01.68",
+  "gender": "female"
+}

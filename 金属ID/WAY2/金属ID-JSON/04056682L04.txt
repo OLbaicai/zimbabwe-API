@@ -1,0 +1,7 @@
+{
+  "id_number": "04056682L04",
+  "surname": "CHIROMO",
+  "first_name": "EDITH",
+  "birth_date": "08.10.69",
+  "gender": "female"
+}

@@ -1,0 +1,6 @@
+{
+  "id_number": "01/26249870R18",
+  "surname": "MASUKA",
+  "first_name": "SIMON",
+  "birth_date": "01/01/2003"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "63699390R38",
+  "surname": "GASHU",
+  "first_name": "ALICE",
+  "birth_date": "18.08.57",
+  "gender": "female"
+}

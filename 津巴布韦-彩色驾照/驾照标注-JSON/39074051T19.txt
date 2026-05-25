@@ -1,0 +1,6 @@
+{
+  "id_number": "01/39074051T19",
+  "surname": "DUBE",
+  "first_name": "ZWELITHINI",
+  "birth_date": "25/03/1996"
+}

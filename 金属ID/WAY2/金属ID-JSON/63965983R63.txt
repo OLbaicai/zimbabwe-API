@@ -1,0 +1,7 @@
+{
+  "id_number": "63965983R63",
+  "surname": "TARUWONA",
+  "first_name": "ANDRINA",
+  "birth_date": "12.12.75",
+  "gender": "female"
+}

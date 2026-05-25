@@ -1,0 +1,7 @@
+{
+  "id_number": "58050634P58",
+  "surname": "NDEBELE",
+  "first_name": "EPHRAIM",
+  "birth_date": "08.01.63",
+  "gender": "male"
+}

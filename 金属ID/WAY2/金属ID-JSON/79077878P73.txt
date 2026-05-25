@@ -1,0 +1,7 @@
+{
+  "id_number": "79077878P73",
+  "surname": "TSHUMA",
+  "first_name": "NDABA",
+  "birth_date": "02.10.68",
+  "gender": "male"
+}

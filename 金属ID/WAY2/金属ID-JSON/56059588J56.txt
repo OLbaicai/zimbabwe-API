@@ -1,0 +1,7 @@
+{
+  "id_number": "56059588J56",
+  "surname": "TSHUMA",
+  "first_name": "SIZWILE",
+  "birth_date": "20.10.1978",
+  "gender": "female"
+}

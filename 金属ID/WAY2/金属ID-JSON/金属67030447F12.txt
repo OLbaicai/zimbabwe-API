@@ -1,0 +1,7 @@
+{
+  "id_number": "67030447F12",
+  "surname": "CHIPARE",
+  "first_name": "MAKAFUNGA",
+  "birth_date": "1.8.60",
+  "gender": "female"
+}

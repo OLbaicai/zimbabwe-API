@@ -1,0 +1,7 @@
+{
+  "id_number": "47077953M47",
+  "surname": "MAPFUMO",
+  "first_name": "PHILLIP",
+  "birth_date": "02.12.69",
+  "gender": "male"
+}

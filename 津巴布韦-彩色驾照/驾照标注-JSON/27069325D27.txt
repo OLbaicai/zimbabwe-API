@@ -1,0 +1,6 @@
+{
+  "id_number": "01/27069325D27",
+  "surname": "MBAYO",
+  "first_name": "KAINOS",
+  "birth_date": "16/05/1969"
+}

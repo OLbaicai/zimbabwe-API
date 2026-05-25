@@ -1,0 +1,6 @@
+{
+  "id_number": "01/632193756A83",
+  "surname": "MUJAKACHI",
+  "first_name": "TAKURA",
+  "birth_date": "03/03/1993"
+}

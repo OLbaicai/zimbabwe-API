@@ -1,0 +1,7 @@
+{
+  "id_number": "27154659H27",
+  "surname": "MASHONGANYIKA",
+  "first_name": "SAMSON",
+  "birth_date": "01.11.1978",
+  "gender": "male"
+}

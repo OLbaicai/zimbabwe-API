@@ -1,0 +1,7 @@
+{
+  "id_number": "44033299F44",
+  "surname": "MUNORWEI",
+  "first_name": "GIDEON",
+  "birth_date": "3.10.63",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "42136152P42",
+  "surname": "MAGOTO",
+  "first_name": "RARIOS",
+  "birth_date": "30.05.73",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "08208732J38",
+  "surname": "MOYO",
+  "first_name": "SEKAYI",
+  "birth_date": "21.10.64",
+  "gender": "female"
+}

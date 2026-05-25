@@ -1,0 +1,7 @@
+{
+  "id_number": "49050292J49",
+  "surname": "MAKAZA",
+  "first_name": "CHAMUNORWA",
+  "birth_date": "05.10.1983",
+  "gender": "male"
+}

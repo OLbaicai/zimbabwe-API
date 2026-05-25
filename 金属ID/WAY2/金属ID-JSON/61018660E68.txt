@@ -1,0 +1,7 @@
+{
+  "id_number": "61018660E68",
+  "surname": "KWAINONA",
+  "first_name": "MARGINAH",
+  "birth_date": "06.06.62",
+  "gender": "female"
+}

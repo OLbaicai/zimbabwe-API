@@ -1,0 +1,7 @@
+{
+  "id_number": "63446414S80",
+  "surname": "GARAIDENGA",
+  "first_name": "GORDON",
+  "birth_date": "15.9.51",
+  "gender": "male"
+}

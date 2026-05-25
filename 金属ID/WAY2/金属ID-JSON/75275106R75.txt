@@ -1,0 +1,7 @@
+{
+  "id_number": "75275106R75",
+  "surname": "CHITSIKU",
+  "first_name": "MAXWELL",
+  "birth_date": "15.05.73",
+  "gender": ""
+}

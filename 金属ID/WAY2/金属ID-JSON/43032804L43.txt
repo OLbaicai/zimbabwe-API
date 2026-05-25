@@ -1,0 +1,7 @@
+{
+  "id_number": "43032804L43",
+  "surname": "MAVHUNGA",
+  "first_name": "RECINALD",
+  "birth_date": "26.04.68",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "04054344V04",
+  "surname": "MATONHODZE",
+  "first_name": "SHARAI",
+  "birth_date": "23.12.71",
+  "gender": "female"
+}

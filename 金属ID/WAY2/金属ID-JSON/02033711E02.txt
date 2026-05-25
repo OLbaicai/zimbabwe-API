@@ -1,0 +1,7 @@
+{
+  "id_number": "02033711E02",
+  "surname": "NGULUBE",
+  "first_name": "ORIEL",
+  "birth_date": "12.01.1961",
+  "gender": "male"
+}

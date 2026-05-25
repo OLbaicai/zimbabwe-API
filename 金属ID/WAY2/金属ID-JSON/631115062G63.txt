@@ -1,0 +1,7 @@
+{
+  "id_number": "631115062G63",
+  "surname": "GWANZURA",
+  "first_name": "GIDEON TINASHE MALCOLM",
+  "birth_date": "13.04.1981",
+  "gender": "male"
+}

@@ -1,0 +1,7 @@
+{
+  "id_number": "08688954P29",
+  "surname": "NKOMO",
+  "first_name": "THABANI",
+  "birth_date": "07.02.1978",
+  "gender": "male"
+}
