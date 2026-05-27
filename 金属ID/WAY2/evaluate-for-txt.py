@@ -18,13 +18,13 @@ from typing import Any
 # ══════════════════════════════════════════════════════════════
 # 配置（修改这里即可）
 # ══════════════════════════════════════════════════════════════
-PRED_DIR   = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\WAY2\金属ID-MAIN-1-1-DEAL-OUT")
-LABEL_DIR  = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\WAY2\金属ID-JSON")
-REPORT_DIR = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\WAY2\report")
+PRED_DIR   = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\金属ID\WAY2\金属ID-MAIN-1-2-DEAL-OUT")
+LABEL_DIR  = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\金属ID\WAY2\金属ID-JSON")
+REPORT_DIR = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\金属ID\WAY2\report")
 
 # 输出文件名
-REPORT_TXT = "main-1-1-eval_pred_vs_label_json.txt"
-ERROR_CSV  = "main-1-1-errors.csv"
+REPORT_TXT = "main-1-2-eval_pred_vs_label_json.txt"
+ERROR_CSV  = "main-1-2-errors.csv"
 # ══════════════════════════════════════════════════════════════
 
 FIELDS = ("id_number", "surname", "first_name", "birth_date", "gender")

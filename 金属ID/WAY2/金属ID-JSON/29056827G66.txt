@@ -1,6 +1,6 @@
 {
   "id_number": "29056827G66",
-  "surname": "MABEZ",
+  "surname": "MABEZA",
   "first_name": "BABRA",
   "birth_date": "26.03.61",
   "gender": "female"

@@ -1,7 +1,7 @@
 {
   "id_number": "38009695K38",
   "surname": "FRORINDO",
-  "first_name": "FRYDAY",
+  "first_name": "FRIDAY",
   "birth_date": "19.03.45",
   "gender": ""
 }

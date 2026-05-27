@@ -1,7 +1,7 @@
 {
   "id_number": "70086728A70",
   "surname": "MUYANGA",
-  "first_name": "MENNETH GODKNOWS",
+  "first_name": "KENNETH GODKNOWS",
   "birth_date": "02.01.73",
   "gender": "male"
 }

@@ -1,7 +1,7 @@
 {
   "id_number": "63428155W70",
   "surname": "GUMBO",
-  "first_name": "PATRICK CHAMUNORNA",
+  "first_name": "PATRICK CHAMUNORWA",
   "birth_date": "12.6.60",
   "gender": "male"
 }

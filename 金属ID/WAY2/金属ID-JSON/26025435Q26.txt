@@ -1,7 +1,7 @@
 {
   "id_number": "26025435Q26",
   "surname": "MAMINGIER",
-  "first_name": "KENANIT",
+  "first_name": "KENANI",
   "birth_date": "09.08.73",
   "gender": "male"
 }

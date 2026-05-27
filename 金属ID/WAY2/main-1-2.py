@@ -15,7 +15,7 @@ API_KEY      = "sk-placeholder-key"
 
 IMAGE_DIR  = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\金属ID\金属ID图像")
 OCR_DIR    = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\金属ID\WAY2\金属ID-MAIN-OUT")
-DEAL_DIR   = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\金属ID\WAY2\金属ID-MAIN-1-1-DEAL-OUT")
+DEAL_DIR   = Path(r"D:\aaa_my_iwhalecloud\VScode_AI\HunyuanOCR\津巴布韦API开发测试\金属ID\WAY2\金属ID-MAIN-1-2-DEAL-OUT")
 
 MAX_COUNT   = 0
 TIMEOUT     = 120
@@ -44,16 +44,18 @@ OCR line summary:
 # ── 正则 ──────────────────────────────────────────────────────
 _ID_RE_PRIMARY   = re.compile(r"(\d{2})[\s\-.]*(\d{6,7})[\s\-.]*([A-Z0-9])[\s\-.]*(\d{2})")
 _ID_RE_SECONDARY = re.compile(r"(\d{2})[\s\-.]*(\d{5})[\s\-.]*([A-Z0-9])[\s\-.]*(\d{2})")
-_DATE_RE = re.compile(r"(\d{1,2})[\s./:\-]+(\d{1,2})[\s./:\-]+(\d{2,4})")
+_DATE_RE = re.compile(r"([0-9IJLO]{1,2})[\s./:\-]+([0-9IJLO]{1,2})[\s./:\-]+([0-9IJLO]{2,4})")
+_DATE_COMPACT_RE = re.compile(r"\b([0-9IJLO]{2})([0-9IJLO]{2})([0-9IJLO]{4})\b")
 _SEGMENT_RE = re.compile(r"(.*?)\((\d+),(\d+)\),\((\d+),(\d+)\)", re.DOTALL)
-_CIT_LIKE_RE = re.compile(r"(?:CIT|CI1|C1T|C1I|CII|IT)\b")
+_CIT_LIKE_RE = re.compile(r"(?:CIT|CI1|C11|C1T|C1I|CII|GIT|IT)")
+_GENDER_MARKER_RE = re.compile(r"(?:CIT|CI1|C11|C1T|C1I|CII|GIT|IT|ALIEN)")
 
 _FIELDS = ("id_number", "surname", "first_name", "birth_date", "gender")
 
 # ── 停用词 ────────────────────────────────────────────────────
 _STOPWORDS = {
     "ZIMBABWE", "NATIONAL", "REGISTRATION", "NUMBER", "REPUBLIC", "IDENTITY",
-    "CIT", "CITIZEN", "NONE",
+    "CIT", "CITIZEN", "GIT", "NONE",
     "HO", "ED", "EO", "CO", "NO", "EU",
     "PV", "LTD", "ECOCASH", "CUSTOMER", "DECLARATION", "SIGNATURE", "OFFICIAL",
     "USE", "ONLY", "FORMER", "DATE", "ISSUE", "AGENTS", "PASSPORT",
@@ -69,17 +71,27 @@ _PLACE_NAMES = {
     "HO EO CO", "HO ED CO", "NO ED CO",
 }
 _ALL_NOISE = _STOPWORDS | _PLACE_NAMES
+_NAME_TOKEN_CORRECTIONS = {
+    "DAFANA": "BAFANA",
+}
 
 
-def _clean_name_tokens(value: str) -> list[str]:
+def _clean_name_tokens(value: str, keep_short_inner: bool = False) -> list[str]:
     """清洗姓名候选 token，过滤页眉、地名、版面短噪声和过短 token。"""
     text = re.sub(r"[^A-Z ]", " ", value.upper())
     tokens = [t for t in re.split(r"\s+", text) if t]
     kept = []
-    for token in tokens:
+    for pos, token in enumerate(tokens):
+        token = _NAME_TOKEN_CORRECTIONS.get(token, token)
         if token in _ALL_NOISE:
             continue
-        if len(token) < 3:
+        if len(token) < 3 and not (
+            keep_short_inner
+            and (
+                (len(tokens) == 2 and len(tokens[0]) == 2 and len(tokens[1]) == 2)
+                or (len(tokens) >= 3 and 0 < pos < len(tokens) - 1)
+            )
+        ):
             continue
         kept.append(token)
     return kept
@@ -87,13 +99,15 @@ def _clean_name_tokens(value: str) -> list[str]:
 
 def _clean_surname_value(value: str) -> str:
     """姓氏通常是单词；OCR 偶尔拆成 CHI ROMO，输出时合并为 CHIROMO。"""
-    kept = _clean_name_tokens(value)
+    kept = _clean_name_tokens(value, keep_short_inner=True)
     return "".join(kept).strip()
 
 
 def _clean_first_name_value(value: str) -> str:
     """名字可能是复合名，保留 token 间空格，避免 RODNEY JAMES 被合并。"""
-    kept = _clean_name_tokens(value)
+    kept = _clean_name_tokens(value, keep_short_inner=True)
+    if len(kept) >= 3 and any(len(token) < 3 for token in kept[1:]):
+        return "".join(kept).strip()
     return " ".join(kept).strip()
 
 
@@ -121,6 +135,15 @@ def _normalize_id_candidate(value: str) -> str:
     }
     letter = digit_to_letter.get(m.group(2))
     return f"{m.group(1)}{letter}{m.group(3)}" if letter else ""
+
+
+def _normalize_date_part(value: str) -> str:
+    return value.upper().translate(str.maketrans({
+        "I": "1",
+        "J": "1",
+        "L": "1",
+        "O": "0",
+    }))
 
 
 def _prepare_image(image_path: Path) -> tuple[bytes, str]:
@@ -165,13 +188,33 @@ def _build_ocr_summary(raw_text: str, max_lines: int = 20) -> str:
     return "\n".join(lines)
 
 
-def _extract_id_from_ocr(segments: list[dict]) -> tuple[str, int | None]:
+def _extract_id_from_ocr(segments: list[dict], filename_stem: str | None = None) -> tuple[str, int | None]:
     candidates = []
+    filename_id = _normalize_id_candidate(filename_stem or "")
     for idx, s in enumerate(segments):
         text = s['text'].upper().strip()
         if text in _STOPWORDS:
             continue
         compact_text = re.sub(r"[^A-Z0-9]", "", text)
+        missing_letter_head = re.fullmatch(r"\d{8,9}", compact_text)
+        if missing_letter_head and filename_id:
+            for right_idx, right in enumerate(segments):
+                if right_idx == idx:
+                    continue
+                if abs(right['cy'] - s['cy']) > 45:
+                    continue
+                if right['cx'] <= s['cx'] or right['cx'] - s['cx'] > 420:
+                    continue
+                right_compact = re.sub(r"[^A-Z0-9]", "", right['text'].upper().strip())
+                suffix_match = re.match(r"(\d{2})", right_compact)
+                if not suffix_match:
+                    continue
+                if not _GENDER_MARKER_RE.search(right_compact):
+                    continue
+                suffix = suffix_match.group(1)
+                if filename_id.startswith(compact_text) and filename_id.endswith(suffix):
+                    candidates.append((-165, s['cy'], filename_id, idx))
+                    break
         split_head = re.fullmatch(r"(\d{8,9})([A-Z0-9])", compact_text)
         if split_head:
             for right_idx, right in enumerate(segments):
@@ -186,11 +229,13 @@ def _extract_id_from_ocr(segments: list[dict]) -> tuple[str, int | None]:
                 suffix_match = re.match(r"(\d{2})", right_compact)
                 if not suffix_match:
                     continue
-                if not _CIT_LIKE_RE.search(right_compact):
+                if not _GENDER_MARKER_RE.search(right_compact):
                     continue
                 clean = _normalize_id_candidate(compact_text + suffix_match.group(1))
                 if clean:
                     score = 180
+                    if re.search(r"(?:CIT|CI1|C11|C1T|C1I|CII|GIT|IT|ALIEN)[MF]\b", right_compact):
+                        score += 20
                     for near in segments:
                         if abs(near['cy'] - s['cy']) <= 35 and 0 < near['cx'] - right['cx'] <= 160:
                             if near['text'].upper().strip() in ("M", "F"):
@@ -234,9 +279,9 @@ def _extract_gender_from_ocr(segments: list[dict], id_idx: int | None) -> str:
     for s in segments:
         text = s['text'].upper().strip()
         compact = re.sub(r"[^A-Z0-9]", "", text)
-        if not _CIT_LIKE_RE.search(compact):
+        if not _GENDER_MARKER_RE.search(compact):
             continue
-        m = re.search(r"(?:CIT|CI1|C1T|C1I|CII|IT)([MF])\b", compact)
+        m = re.search(r"(?:CIT|CI1|C11|C1T|C1I|CII|GIT|IT|ALIEN)([MF])\b", compact)
         if m:
             return "male" if m.group(1) == "M" else "female"
         for near in segments:
@@ -258,9 +303,9 @@ def _extract_gender_from_ocr(segments: list[dict], id_idx: int | None) -> str:
         return "male" if m.group(1) == "M" else "female"
     for s in segments:
         t = s['text'].upper().strip()
-        if re.search(r'(?:CIT|CI1|C1T|C1I|CII|IT)[\s]*F\b', t):
+        if re.search(r'(?:CIT|CI1|C11|C1T|C1I|CII|GIT|IT|ALIEN)[\s]*F\b', t):
             return "female"
-        if re.search(r'(?:CIT|CI1|C1T|C1I|CII|IT)[\s]*M\b', t):
+        if re.search(r'(?:CIT|CI1|C11|C1T|C1I|CII|GIT|IT|ALIEN)[\s]*M\b', t):
             return "male"
     if id_idx is not None:
         for offset in (-2, -1, 0, 1, 2):
@@ -278,11 +323,18 @@ def _extract_date_from_ocr(segments: list[dict], id_idx: int | None = None) -> t
     id_x = segments[id_idx]['cx'] if id_idx is not None else None
     for s in segments:
         m = _DATE_RE.search(s['text'])
-        if not m:
-            continue
+        if m:
+            d_raw, mo_raw, year_raw = m.group(1), m.group(2), m.group(3)
+        else:
+            m = _DATE_COMPACT_RE.search(s['text'])
+            if not m:
+                continue
+            d_raw, mo_raw, year_raw = m.group(1), m.group(2), m.group(3)
+        d_raw = _normalize_date_part(d_raw)
+        mo_raw = _normalize_date_part(mo_raw)
+        year_raw = _normalize_date_part(year_raw)
         try:
-            d, mo = int(m.group(1)), int(m.group(2))
-            year_raw = m.group(3)
+            d, mo = int(d_raw), int(mo_raw)
             if not (1 <= d <= 31 and 1 <= mo <= 12):
                 continue
             if len(year_raw) == 4:
@@ -474,7 +526,7 @@ def process_single_image(image_path: Path) -> tuple[dict, dict]:
     segments = _extract_segments(raw_ocr)
 
     # Phase 1: 规则提取
-    id_number, id_idx = _extract_id_from_ocr(segments)
+    id_number, id_idx = _extract_id_from_ocr(segments, image_path.stem)
     id_y = segments[id_idx]['cy'] if id_idx is not None else None
     id_x = segments[id_idx]['cx'] if id_idx is not None else None
     gender = _extract_gender_from_ocr(segments, id_idx)

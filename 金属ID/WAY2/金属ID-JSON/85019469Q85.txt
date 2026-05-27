@@ -1,7 +1,7 @@
 {
   "id_number": "85019469Q85",
   "surname": "MBOFANI",
-  "first_name": "SAMSON",
+  "first_name": "SAM",
   "birth_date": "10.01.1979",
   "gender": "male"
 }

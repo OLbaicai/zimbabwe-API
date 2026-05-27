@@ -1,7 +1,7 @@
 {
   "id_number": "34013425N34",
-  "surname": "GOTOGODO",
-  "first_name": "PAIRICK",
+  "surname": "GOROGODO",
+  "first_name": "PATRICK",
   "birth_date": "15.08.48",
   "gender": "male"
 }
